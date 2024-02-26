@@ -1,0 +1,15 @@
+program_id,submitter_donor_id,submitter_treatment_id,drug_name,drug_reference_identifier,hormone_drug_dose_units,prescribed_cumulative_drug_dose,actual_cumulative_drug_dose,drug_reference_database
+SYNTHETIC-1,DONOR_1,TREATMENT_8,Cabergoline,,g/m2,142,81,
+SYNTHETIC-1,DONOR_1,TREATMENT_8,Estradiol,29875,mg/kg,89,104,
+SYNTHETIC-1,DONOR_1,TREATMENT_8,Mifepristone,46475,g/m2,80,110,PubChem
+SYNTHETIC-1,DONOR_1,TREATMENT_9,Lutetium Lu 177 Dotatate,557845,IU/kg,86,,PubChem
+SYNTHETIC-1,DONOR_1,TREATMENT_9,Desmopressin,,mg/kg,106,85,PubChem
+SYNTHETIC-1,DONOR_1,TREATMENT_9,Pasireotide,223986,ug/m2,154,103,NCI Thesaurus
+SYNTHETIC-1,DONOR_2,TREATMENT_10,Etonogestrel,,,186,,PubChem
+SYNTHETIC-1,DONOR_2,TREATMENT_10,Tamoxifen,46475,IU/m2,73,127,NCI Thesaurus
+SYNTHETIC-1,DONOR_2,TREATMENT_10,,84857,ug/m2,125,178,NCI Thesaurus
+SYNTHETIC-1,DONOR_2,TREATMENT_11,Bromocriptine,223986,mg/kg,,,
+SYNTHETIC-1,DONOR_2,TREATMENT_11,Dienogest,84857,,,150,
+SYNTHETIC-1,DONOR_2,TREATMENT_12,Aminoglutethimide,84857,mg/kg,175,,RxNorm
+SYNTHETIC-1,DONOR_2,TREATMENT_12,,,ug/m2,88,79,PubChem
+SYNTHETIC-1,DONOR_2,TREATMENT_13,Octreotide,345678,mg/kg,53,156,RxNorm
