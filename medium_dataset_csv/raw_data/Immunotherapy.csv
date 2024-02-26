@@ -1,0 +1,1001 @@
+program_id,submitter_donor_id,submitter_treatment_id,immunotherapy_type,drug_name,drug_reference_identifier,drug_reference_database,immunotherapy_drug_dose_units,prescribed_cumulative_drug_dose,actual_cumulative_drug_dose
+SYNTHETIC-1,DONOR_1,TREATMENT_321,Cell-based,Ipilimumab,,RxNorm,cells/kg,146,111
+SYNTHETIC-1,DONOR_2,TREATMENT_322,Other immunomodulatory substances,Alunbrig,239766,NCI Thesaurus,IU/kg,192,99
+SYNTHETIC-1,DONOR_3,TREATMENT_323,Cell-based,Inotuzumab ozogamicin,278936,RxNorm,,93,
+SYNTHETIC-1,DONOR_4,TREATMENT_324,Monoclonal antibodies other than immune checkpoint inhibitors,Nivolumab,239766,,,54,73
+SYNTHETIC-1,DONOR_5,TREATMENT_325,,Ipilimumab,239766,NCI Thesaurus,cells/kg,134,128
+SYNTHETIC-1,DONOR_6,TREATMENT_326,Immune checkpoint inhibitors,Keytruda,987654,RxNorm,g/m2,128,167
+SYNTHETIC-1,DONOR_7,TREATMENT_327,Other immunomodulatory substances,Durvalumab,8836851,,IU/kg,172,57
+SYNTHETIC-1,DONOR_8,TREATMENT_328,,Pexidartinib,278936,PubChem,mg/m2,180,143
+SYNTHETIC-1,DONOR_9,TREATMENT_329,Cell-based,Tisagenlecleucel,278936,RxNorm,,78,167
+SYNTHETIC-1,DONOR_10,TREATMENT_330,Monoclonal antibodies other than immune checkpoint inhibitors,Ceritinib,,NCI Thesaurus,mg/m2,93,184
+SYNTHETIC-1,DONOR_11,TREATMENT_331,Immune checkpoint inhibitors,Kadcyla,278936,NCI Thesaurus,ug/m2,,
+SYNTHETIC-1,DONOR_12,TREATMENT_332,Immune checkpoint inhibitors,Ipilimumab,278936,RxNorm,mg/kg,102,60
+SYNTHETIC-1,DONOR_13,TREATMENT_333,Immune checkpoint inhibitors,Alectinib,,PubChem,mg/m2,181,71
+SYNTHETIC-1,DONOR_14,TREATMENT_334,,Yervoy,,PubChem,mg/kg,107,126
+SYNTHETIC-1,DONOR_15,TREATMENT_335,,,8836851,NCI Thesaurus,,111,62
+SYNTHETIC-1,DONOR_16,TREATMENT_336,,Cobimetinib,4459876,PubChem,IU/m2,153,104
+SYNTHETIC-1,DONOR_17,TREATMENT_337,Other immunomodulatory substances,Pembrolizumab,,NCI Thesaurus,,92,100
+SYNTHETIC-1,DONOR_18,TREATMENT_338,,Venetoclax,239766,NCI Thesaurus,mg/m2,,179
+SYNTHETIC-1,DONOR_19,TREATMENT_339,Other immunomodulatory substances,Nivolumab,8836851,NCI Thesaurus,IU/m2,78,188
+SYNTHETIC-1,DONOR_20,TREATMENT_340,Monoclonal antibodies other than immune checkpoint inhibitors,Tecentriq,239766,PubChem,mg/m2,55,
+SYNTHETIC-1,DONOR_21,TREATMENT_341,Immune checkpoint inhibitors,Imfinzi,987654,RxNorm,IU/m2,134,137
+SYNTHETIC-1,DONOR_22,TREATMENT_342,Other immunomodulatory substances,Mekinist,,NCI Thesaurus,IU/kg,122,130
+SYNTHETIC-1,DONOR_23,TREATMENT_343,Monoclonal antibodies other than immune checkpoint inhibitors,Herceptin,8756456,NCI Thesaurus,cells/kg,,
+SYNTHETIC-1,DONOR_24,TREATMENT_344,,Osimertinib,278936,RxNorm,ug/m2,108,111
+SYNTHETIC-1,DONOR_25,TREATMENT_345,,Yervoy,239766,,g/m2,142,57
+SYNTHETIC-1,DONOR_26,TREATMENT_346,Cell-based,Afatinib,,,g/m2,144,162
+SYNTHETIC-1,DONOR_27,TREATMENT_347,Monoclonal antibodies other than immune checkpoint inhibitors,Erlotinib,239766,NCI Thesaurus,IU/m2,104,
+SYNTHETIC-1,DONOR_28,TREATMENT_348,,Dabrafenib,8836851,RxNorm,IU/m2,124,149
+SYNTHETIC-1,DONOR_29,TREATMENT_349,Other immunomodulatory substances,Necitumumab,8756456,NCI Thesaurus,g/m2,73,126
+SYNTHETIC-1,DONOR_30,TREATMENT_350,Cell-based,Iressa,987654,PubChem,,171,63
+SYNTHETIC-1,DONOR_31,TREATMENT_351,Immune checkpoint inhibitors,Yervoy,239766,PubChem,g/m2,126,128
+SYNTHETIC-1,DONOR_32,TREATMENT_352,Immune checkpoint inhibitors,Enhertu,987654,PubChem,IU/kg,76,84
+SYNTHETIC-1,DONOR_33,TREATMENT_353,Immune checkpoint inhibitors,Lynparza,278936,PubChem,mg/m2,115,176
+SYNTHETIC-1,DONOR_34,TREATMENT_354,Cell-based,Belantamab,,,mg/kg,189,200
+SYNTHETIC-1,DONOR_35,TREATMENT_355,Immune checkpoint inhibitors,Axicabtagene ciloleucel,8756456,PubChem,ug/m2,168,94
+SYNTHETIC-1,DONOR_36,TREATMENT_356,,Atezolizumab,,RxNorm,cells/kg,196,80
+SYNTHETIC-1,DONOR_37,TREATMENT_357,Monoclonal antibodies other than immune checkpoint inhibitors,Atezolizumab,,,IU/m2,155,
+SYNTHETIC-1,DONOR_38,TREATMENT_358,,Blincyto,4459876,PubChem,mg/kg,142,117
+SYNTHETIC-1,DONOR_39,TREATMENT_359,Cell-based,,4459876,,IU/kg,111,162
+SYNTHETIC-1,DONOR_40,TREATMENT_360,Monoclonal antibodies other than immune checkpoint inhibitors,Lynparza,239766,RxNorm,mg/m2,,
+SYNTHETIC-1,DONOR_1,TREATMENT_361,Immune checkpoint inhibitors,,8836851,RxNorm,,102,161
+SYNTHETIC-1,DONOR_2,TREATMENT_362,Immune checkpoint inhibitors,Brentuximab vedotin,8836851,PubChem,ug/m2,142,60
+SYNTHETIC-1,DONOR_3,TREATMENT_363,,Palbociclib,,PubChem,g/m2,69,148
+SYNTHETIC-1,DONOR_4,TREATMENT_364,Other immunomodulatory substances,Palbociclib,239766,,ug/m2,139,64
+SYNTHETIC-1,DONOR_5,TREATMENT_365,Immune checkpoint inhibitors,Crizotinib,8836851,NCI Thesaurus,mg/m2,191,56
+SYNTHETIC-1,DONOR_6,TREATMENT_366,Immune checkpoint inhibitors,Inotuzumab ozogamicin,987654,PubChem,,,118
+SYNTHETIC-1,DONOR_7,TREATMENT_367,Cell-based,Pertuzumab,239766,NCI Thesaurus,,53,59
+SYNTHETIC-1,DONOR_8,TREATMENT_368,Monoclonal antibodies other than immune checkpoint inhibitors,Perjeta,239766,RxNorm,IU/kg,149,96
+SYNTHETIC-1,DONOR_9,TREATMENT_369,,Trastuzumab,8836851,RxNorm,mg/m2,175,
+SYNTHETIC-1,DONOR_10,TREATMENT_370,,Tecentriq,,RxNorm,IU/m2,57,167
+SYNTHETIC-1,DONOR_11,TREATMENT_371,Other immunomodulatory substances,Keytruda,8836851,RxNorm,cells/kg,,136
+SYNTHETIC-1,DONOR_12,TREATMENT_372,Immune checkpoint inhibitors,Yervoy,987654,PubChem,IU/m2,126,163
+SYNTHETIC-1,DONOR_13,TREATMENT_373,Immune checkpoint inhibitors,Rituximab,4459876,NCI Thesaurus,g/m2,191,
+SYNTHETIC-1,DONOR_14,TREATMENT_374,Other immunomodulatory substances,Cotellic,8756456,,,124,97
+SYNTHETIC-1,DONOR_15,TREATMENT_375,Monoclonal antibodies other than immune checkpoint inhibitors,Tafinlar,8756456,RxNorm,ug/m2,73,88
+SYNTHETIC-1,DONOR_16,TREATMENT_376,Monoclonal antibodies other than immune checkpoint inhibitors,Venclexta,987654,RxNorm,IU/kg,137,88
+SYNTHETIC-1,DONOR_17,TREATMENT_377,Monoclonal antibodies other than immune checkpoint inhibitors,Tarceva,4459876,PubChem,,52,181
+SYNTHETIC-1,DONOR_18,TREATMENT_378,Other immunomodulatory substances,Necitumumab,239766,PubChem,ug/m2,200,139
+SYNTHETIC-1,DONOR_19,TREATMENT_379,Monoclonal antibodies other than immune checkpoint inhibitors,Lenvatinib,,RxNorm,,177,55
+SYNTHETIC-1,DONOR_20,TREATMENT_380,Monoclonal antibodies other than immune checkpoint inhibitors,Adcetris,278936,NCI Thesaurus,,159,99
+SYNTHETIC-1,DONOR_21,TREATMENT_381,Monoclonal antibodies other than immune checkpoint inhibitors,Kadcyla,278936,NCI Thesaurus,cells/kg,,98
+SYNTHETIC-1,DONOR_22,TREATMENT_382,Other immunomodulatory substances,Yervoy,8756456,NCI Thesaurus,IU/m2,166,195
+SYNTHETIC-1,DONOR_23,TREATMENT_383,Other immunomodulatory substances,Tecentriq,239766,PubChem,IU/m2,146,
+SYNTHETIC-1,DONOR_24,TREATMENT_384,Monoclonal antibodies other than immune checkpoint inhibitors,Durvalumab,,,g/m2,108,87
+SYNTHETIC-1,DONOR_25,TREATMENT_385,Cell-based,Xalkori,8836851,NCI Thesaurus,,90,50
+SYNTHETIC-1,DONOR_26,TREATMENT_386,Monoclonal antibodies other than immune checkpoint inhibitors,,,NCI Thesaurus,mg/m2,131,
+SYNTHETIC-1,DONOR_27,TREATMENT_387,Other immunomodulatory substances,Trastuzumab,8836851,PubChem,cells/kg,132,103
+SYNTHETIC-1,DONOR_28,TREATMENT_388,,Tisagenlecleucel,4459876,NCI Thesaurus,,51,131
+SYNTHETIC-1,DONOR_29,TREATMENT_389,Monoclonal antibodies other than immune checkpoint inhibitors,Gazyva,987654,RxNorm,,,
+SYNTHETIC-1,DONOR_30,TREATMENT_390,Cell-based,Lenvatinib,278936,RxNorm,IU/m2,128,84
+SYNTHETIC-1,DONOR_31,TREATMENT_391,Monoclonal antibodies other than immune checkpoint inhibitors,,8756456,RxNorm,IU/m2,66,71
+SYNTHETIC-1,DONOR_32,TREATMENT_392,Monoclonal antibodies other than immune checkpoint inhibitors,Ibrance,,NCI Thesaurus,cells/kg,152,188
+SYNTHETIC-1,DONOR_33,TREATMENT_393,Monoclonal antibodies other than immune checkpoint inhibitors,Durvalumab,239766,PubChem,mg/m2,200,115
+SYNTHETIC-1,DONOR_34,TREATMENT_394,Cell-based,Lenvatinib,239766,RxNorm,IU/m2,118,125
+SYNTHETIC-1,DONOR_35,TREATMENT_395,Cell-based,Durvalumab,8756456,NCI Thesaurus,g/m2,,175
+SYNTHETIC-1,DONOR_36,TREATMENT_396,Immune checkpoint inhibitors,Mekinist,987654,NCI Thesaurus,IU/kg,84,
+SYNTHETIC-1,DONOR_37,TREATMENT_397,Immune checkpoint inhibitors,Gilteritinib,278936,PubChem,mg/kg,192,134
+SYNTHETIC-1,DONOR_38,TREATMENT_398,Other immunomodulatory substances,Tecentriq,239766,NCI Thesaurus,mg/kg,138,115
+SYNTHETIC-1,DONOR_39,TREATMENT_399,Immune checkpoint inhibitors,Vandetanib,8756456,,g/m2,189,117
+SYNTHETIC-1,DONOR_40,TREATMENT_400,Immune checkpoint inhibitors,Braftovi,987654,RxNorm,g/m2,185,190
+SYNTHETIC-1,DONOR_1,TREATMENT_321,Immune checkpoint inhibitors,Pembrolizumab,4459876,RxNorm,cells/kg,176,72
+SYNTHETIC-1,DONOR_2,TREATMENT_322,Immune checkpoint inhibitors,Yervoy,987654,NCI Thesaurus,IU/kg,99,
+SYNTHETIC-1,DONOR_3,TREATMENT_323,Monoclonal antibodies other than immune checkpoint inhibitors,Fam-trastuzumab deruxtecan-nxki,278936,,cells/kg,51,93
+SYNTHETIC-1,DONOR_4,TREATMENT_324,Cell-based,Pembrolizumab,8756456,PubChem,g/m2,101,96
+SYNTHETIC-1,DONOR_5,TREATMENT_325,Monoclonal antibodies other than immune checkpoint inhibitors,Ipilimumab,8756456,,mg/m2,62,184
+SYNTHETIC-1,DONOR_6,TREATMENT_326,Cell-based,Rucaparib,,PubChem,ug/m2,148,142
+SYNTHETIC-1,DONOR_7,TREATMENT_327,Cell-based,Pertuzumab,,NCI Thesaurus,IU/m2,92,128
+SYNTHETIC-1,DONOR_8,TREATMENT_328,Other immunomodulatory substances,Cometriq,4459876,PubChem,,,61
+SYNTHETIC-1,DONOR_9,TREATMENT_329,Other immunomodulatory substances,Afatinib,8836851,PubChem,,,171
+SYNTHETIC-1,DONOR_10,TREATMENT_330,Monoclonal antibodies other than immune checkpoint inhibitors,Nivolumab,8836851,RxNorm,g/m2,,173
+SYNTHETIC-1,DONOR_11,TREATMENT_331,Monoclonal antibodies other than immune checkpoint inhibitors,Binimetinib,,NCI Thesaurus,IU/kg,,102
+SYNTHETIC-1,DONOR_12,TREATMENT_332,Cell-based,,8836851,PubChem,IU/m2,,79
+SYNTHETIC-1,DONOR_13,TREATMENT_333,Other immunomodulatory substances,Inotuzumab ozogamicin,8836851,NCI Thesaurus,g/m2,195,
+SYNTHETIC-1,DONOR_14,TREATMENT_334,Other immunomodulatory substances,Yervoy,278936,RxNorm,g/m2,53,109
+SYNTHETIC-1,DONOR_15,TREATMENT_335,Immune checkpoint inhibitors,Tisagenlecleucel,8756456,NCI Thesaurus,,182,194
+SYNTHETIC-1,DONOR_16,TREATMENT_336,Other immunomodulatory substances,Necitumumab,4459876,PubChem,cells/kg,164,138
+SYNTHETIC-1,DONOR_17,TREATMENT_337,Monoclonal antibodies other than immune checkpoint inhibitors,Yescarta,987654,NCI Thesaurus,IU/m2,116,53
+SYNTHETIC-1,DONOR_18,TREATMENT_338,Cell-based,Abemaciclib,987654,NCI Thesaurus,,120,125
+SYNTHETIC-1,DONOR_19,TREATMENT_339,Other immunomodulatory substances,,8756456,,cells/kg,130,
+SYNTHETIC-1,DONOR_20,TREATMENT_340,Immune checkpoint inhibitors,Cotellic,8756456,PubChem,cells/kg,186,143
+SYNTHETIC-1,DONOR_21,TREATMENT_341,Monoclonal antibodies other than immune checkpoint inhibitors,,278936,,,153,92
+SYNTHETIC-1,DONOR_22,TREATMENT_342,Other immunomodulatory substances,Yervoy,,RxNorm,g/m2,64,142
+SYNTHETIC-1,DONOR_23,TREATMENT_343,Immune checkpoint inhibitors,Nivolumab,,NCI Thesaurus,cells/kg,114,165
+SYNTHETIC-1,DONOR_24,TREATMENT_344,Cell-based,,8756456,NCI Thesaurus,ug/m2,85,187
+SYNTHETIC-1,DONOR_25,TREATMENT_345,Immune checkpoint inhibitors,Atezolizumab,278936,NCI Thesaurus,IU/kg,118,93
+SYNTHETIC-1,DONOR_26,TREATMENT_346,Immune checkpoint inhibitors,Rituxan,,NCI Thesaurus,ug/m2,185,
+SYNTHETIC-1,DONOR_27,TREATMENT_347,Immune checkpoint inhibitors,Durvalumab,987654,,mg/kg,57,104
+SYNTHETIC-1,DONOR_28,TREATMENT_348,Other immunomodulatory substances,Niraparib,,PubChem,IU/m2,,
+SYNTHETIC-1,DONOR_29,TREATMENT_349,Cell-based,,,NCI Thesaurus,ug/m2,56,103
+SYNTHETIC-1,DONOR_30,TREATMENT_350,Immune checkpoint inhibitors,Cometriq,987654,NCI Thesaurus,ug/m2,136,109
+SYNTHETIC-1,DONOR_31,TREATMENT_351,Immune checkpoint inhibitors,Opdivo,,RxNorm,IU/m2,129,116
+SYNTHETIC-1,DONOR_32,TREATMENT_352,Immune checkpoint inhibitors,Durvalumab,278936,RxNorm,IU/kg,165,182
+SYNTHETIC-1,DONOR_33,TREATMENT_353,Immune checkpoint inhibitors,Alectinib,278936,NCI Thesaurus,g/m2,156,101
+SYNTHETIC-1,DONOR_34,TREATMENT_354,Immune checkpoint inhibitors,Ado-trastuzumab emtansine,8756456,PubChem,IU/kg,170,
+SYNTHETIC-1,DONOR_35,TREATMENT_355,Immune checkpoint inhibitors,Lenvima,8756456,RxNorm,IU/m2,118,
+SYNTHETIC-1,DONOR_36,TREATMENT_356,Other immunomodulatory substances,Opdivo,239766,RxNorm,IU/m2,85,62
+SYNTHETIC-1,DONOR_37,TREATMENT_357,Cell-based,Braftovi,987654,NCI Thesaurus,IU/kg,66,99
+SYNTHETIC-1,DONOR_38,TREATMENT_358,Other immunomodulatory substances,Xalkori,987654,NCI Thesaurus,g/m2,,155
+SYNTHETIC-1,DONOR_39,TREATMENT_359,Monoclonal antibodies other than immune checkpoint inhibitors,Rubraca,239766,PubChem,,107,69
+SYNTHETIC-1,DONOR_40,TREATMENT_360,Other immunomodulatory substances,Enhertu,4459876,RxNorm,,134,156
+SYNTHETIC-1,DONOR_1,TREATMENT_361,Cell-based,Tafinlar,,PubChem,mg/kg,170,120
+SYNTHETIC-1,DONOR_2,TREATMENT_362,,Selumitinib,,RxNorm,cells/kg,179,
+SYNTHETIC-1,DONOR_3,TREATMENT_363,Monoclonal antibodies other than immune checkpoint inhibitors,Ribociclib,8836851,PubChem,g/m2,120,150
+SYNTHETIC-1,DONOR_4,TREATMENT_364,Other immunomodulatory substances,Sorafenib,987654,PubChem,,163,
+SYNTHETIC-1,DONOR_5,TREATMENT_365,Monoclonal antibodies other than immune checkpoint inhibitors,,8836851,PubChem,IU/m2,88,114
+SYNTHETIC-1,DONOR_6,TREATMENT_366,Immune checkpoint inhibitors,Atezolizumab,,,g/m2,67,55
+SYNTHETIC-1,DONOR_7,TREATMENT_367,Other immunomodulatory substances,Ibrance,987654,NCI Thesaurus,g/m2,150,136
+SYNTHETIC-1,DONOR_8,TREATMENT_368,Immune checkpoint inhibitors,Venetoclax,987654,RxNorm,cells/kg,66,178
+SYNTHETIC-1,DONOR_9,TREATMENT_369,Immune checkpoint inhibitors,Pembrolizumab,4459876,,mg/m2,,117
+SYNTHETIC-1,DONOR_10,TREATMENT_370,Cell-based,Ipilimumab,,NCI Thesaurus,ug/m2,67,143
+SYNTHETIC-1,DONOR_11,TREATMENT_371,Other immunomodulatory substances,,4459876,NCI Thesaurus,mg/m2,,
+SYNTHETIC-1,DONOR_12,TREATMENT_372,Cell-based,Atezolizumab,4459876,PubChem,IU/kg,199,105
+SYNTHETIC-1,DONOR_13,TREATMENT_373,Other immunomodulatory substances,Blinatumomab,278936,PubChem,,103,191
+SYNTHETIC-1,DONOR_14,TREATMENT_374,Monoclonal antibodies other than immune checkpoint inhibitors,Abemaciclib,239766,NCI Thesaurus,mg/kg,72,
+SYNTHETIC-1,DONOR_15,TREATMENT_375,,Osimertinib,8836851,NCI Thesaurus,,,106
+SYNTHETIC-1,DONOR_16,TREATMENT_376,,,239766,RxNorm,mg/kg,92,187
+SYNTHETIC-1,DONOR_17,TREATMENT_377,Monoclonal antibodies other than immune checkpoint inhibitors,Durvalumab,987654,NCI Thesaurus,IU/kg,84,128
+SYNTHETIC-1,DONOR_18,TREATMENT_378,Monoclonal antibodies other than immune checkpoint inhibitors,Atezolizumab,8756456,,IU/kg,199,
+SYNTHETIC-1,DONOR_19,TREATMENT_379,Monoclonal antibodies other than immune checkpoint inhibitors,Pembrolizumab,278936,PubChem,,181,67
+SYNTHETIC-1,DONOR_20,TREATMENT_380,Cell-based,,,RxNorm,cells/kg,127,72
+SYNTHETIC-1,DONOR_21,TREATMENT_381,Immune checkpoint inhibitors,Gefitinib,4459876,PubChem,IU/kg,,156
+SYNTHETIC-1,DONOR_22,TREATMENT_382,Monoclonal antibodies other than immune checkpoint inhibitors,Belantamab,8836851,RxNorm,ug/m2,58,120
+SYNTHETIC-1,DONOR_23,TREATMENT_383,,Atezolizumab,239766,PubChem,g/m2,172,106
+SYNTHETIC-1,DONOR_24,TREATMENT_384,Cell-based,Ado-trastuzumab emtansine,239766,PubChem,IU/kg,131,99
+SYNTHETIC-1,DONOR_25,TREATMENT_385,Other immunomodulatory substances,Rituxan,278936,,,,141
+SYNTHETIC-1,DONOR_26,TREATMENT_386,Other immunomodulatory substances,Rituxan,239766,PubChem,mg/kg,167,189
+SYNTHETIC-1,DONOR_27,TREATMENT_387,Immune checkpoint inhibitors,Yescarta,8836851,RxNorm,mg/kg,96,
+SYNTHETIC-1,DONOR_28,TREATMENT_388,,Cometriq,987654,NCI Thesaurus,mg/m2,173,168
+SYNTHETIC-1,DONOR_29,TREATMENT_389,Other immunomodulatory substances,Imfinzi,8756456,PubChem,mg/kg,192,147
+SYNTHETIC-1,DONOR_30,TREATMENT_390,Monoclonal antibodies other than immune checkpoint inhibitors,,,,g/m2,191,83
+SYNTHETIC-1,DONOR_31,TREATMENT_391,Other immunomodulatory substances,Afatinib,278936,,mg/m2,69,
+SYNTHETIC-1,DONOR_32,TREATMENT_392,Monoclonal antibodies other than immune checkpoint inhibitors,Afatinib,8836851,RxNorm,IU/kg,156,
+SYNTHETIC-1,DONOR_33,TREATMENT_393,Immune checkpoint inhibitors,Tecentriq,,RxNorm,mg/kg,101,193
+SYNTHETIC-1,DONOR_34,TREATMENT_394,Immune checkpoint inhibitors,Atezolizumab,278936,PubChem,mg/m2,113,87
+SYNTHETIC-1,DONOR_35,TREATMENT_395,Cell-based,Blincyto,4459876,RxNorm,cells/kg,160,97
+SYNTHETIC-1,DONOR_36,TREATMENT_396,Cell-based,Nivolumab,8836851,RxNorm,ug/m2,62,183
+SYNTHETIC-1,DONOR_37,TREATMENT_397,Cell-based,Kadcyla,987654,PubChem,mg/m2,,178
+SYNTHETIC-1,DONOR_38,TREATMENT_398,Immune checkpoint inhibitors,Belantamab,239766,,IU/m2,75,
+SYNTHETIC-1,DONOR_39,TREATMENT_399,Cell-based,Cotellic,8756456,PubChem,mg/kg,,141
+SYNTHETIC-1,DONOR_40,TREATMENT_400,Immune checkpoint inhibitors,Ipilimumab,278936,RxNorm,ug/m2,158,146
+SYNTHETIC-1,DONOR_1,TREATMENT_321,Monoclonal antibodies other than immune checkpoint inhibitors,Obinutuzumab,4459876,,mg/kg,166,174
+SYNTHETIC-1,DONOR_2,TREATMENT_322,Other immunomodulatory substances,Zelboraf,8836851,NCI Thesaurus,ug/m2,154,157
+SYNTHETIC-1,DONOR_3,TREATMENT_323,Other immunomodulatory substances,Nivolumab,4459876,,mg/kg,128,178
+SYNTHETIC-1,DONOR_4,TREATMENT_324,Monoclonal antibodies other than immune checkpoint inhibitors,Blincyto,987654,RxNorm,mg/kg,97,157
+SYNTHETIC-1,DONOR_5,TREATMENT_325,Monoclonal antibodies other than immune checkpoint inhibitors,Rituximab,239766,,cells/kg,156,
+SYNTHETIC-1,DONOR_6,TREATMENT_326,Monoclonal antibodies other than immune checkpoint inhibitors,Cobimetinib,8756456,NCI Thesaurus,mg/kg,181,
+SYNTHETIC-1,DONOR_7,TREATMENT_327,Monoclonal antibodies other than immune checkpoint inhibitors,Zelboraf,8756456,,,61,87
+SYNTHETIC-1,DONOR_8,TREATMENT_328,Other immunomodulatory substances,Durvalumab,8756456,RxNorm,g/m2,105,157
+SYNTHETIC-1,DONOR_9,TREATMENT_329,Monoclonal antibodies other than immune checkpoint inhibitors,Cometriq,8756456,NCI Thesaurus,cells/kg,186,135
+SYNTHETIC-1,DONOR_10,TREATMENT_330,Monoclonal antibodies other than immune checkpoint inhibitors,Sorafenib,8756456,NCI Thesaurus,mg/kg,,93
+SYNTHETIC-1,DONOR_11,TREATMENT_331,Monoclonal antibodies other than immune checkpoint inhibitors,Kisqali,,PubChem,g/m2,164,
+SYNTHETIC-1,DONOR_12,TREATMENT_332,Immune checkpoint inhibitors,,987654,RxNorm,mg/kg,97,
+SYNTHETIC-1,DONOR_13,TREATMENT_333,Cell-based,Lenvatinib,8756456,RxNorm,,172,67
+SYNTHETIC-1,DONOR_14,TREATMENT_334,Immune checkpoint inhibitors,Durvalumab,4459876,PubChem,g/m2,105,151
+SYNTHETIC-1,DONOR_15,TREATMENT_335,Immune checkpoint inhibitors,Tecentriq,8756456,NCI Thesaurus,IU/kg,157,173
+SYNTHETIC-1,DONOR_16,TREATMENT_336,,Kymriah,239766,NCI Thesaurus,g/m2,75,165
+SYNTHETIC-1,DONOR_17,TREATMENT_337,,Pembrolizumab,8756456,PubChem,,82,
+SYNTHETIC-1,DONOR_18,TREATMENT_338,Other immunomodulatory substances,Lenvatinib,4459876,NCI Thesaurus,cells/kg,,172
+SYNTHETIC-1,DONOR_19,TREATMENT_339,Cell-based,Palbociclib,4459876,RxNorm,cells/kg,70,56
+SYNTHETIC-1,DONOR_20,TREATMENT_340,Monoclonal antibodies other than immune checkpoint inhibitors,Atezolizumab,239766,RxNorm,mg/m2,190,108
+SYNTHETIC-1,DONOR_21,TREATMENT_341,Monoclonal antibodies other than immune checkpoint inhibitors,Caprelsa,987654,PubChem,IU/m2,,
+SYNTHETIC-1,DONOR_22,TREATMENT_342,Monoclonal antibodies other than immune checkpoint inhibitors,Tarceva,239766,NCI Thesaurus,IU/kg,129,191
+SYNTHETIC-1,DONOR_23,TREATMENT_343,Cell-based,,987654,RxNorm,IU/kg,171,174
+SYNTHETIC-1,DONOR_24,TREATMENT_344,,Venetoclax,8756456,NCI Thesaurus,IU/m2,133,173
+SYNTHETIC-1,DONOR_25,TREATMENT_345,Cell-based,Opdivo,,NCI Thesaurus,IU/m2,74,175
+SYNTHETIC-1,DONOR_26,TREATMENT_346,Monoclonal antibodies other than immune checkpoint inhibitors,Tecentriq,239766,PubChem,mg/m2,135,50
+SYNTHETIC-1,DONOR_27,TREATMENT_347,Other immunomodulatory substances,Zykadia,8756456,RxNorm,mg/kg,,177
+SYNTHETIC-1,DONOR_28,TREATMENT_348,Cell-based,Keytruda,987654,PubChem,cells/kg,,187
+SYNTHETIC-1,DONOR_29,TREATMENT_349,,Sorafenib,239766,NCI Thesaurus,cells/kg,190,66
+SYNTHETIC-1,DONOR_30,TREATMENT_350,Monoclonal antibodies other than immune checkpoint inhibitors,Ipilimumab,4459876,RxNorm,cells/kg,167,185
+SYNTHETIC-1,DONOR_31,TREATMENT_351,Cell-based,Mektovi,987654,NCI Thesaurus,IU/kg,,
+SYNTHETIC-1,DONOR_32,TREATMENT_352,Other immunomodulatory substances,,278936,PubChem,,96,135
+SYNTHETIC-1,DONOR_33,TREATMENT_353,,Cometriq,987654,RxNorm,cells/kg,64,57
+SYNTHETIC-1,DONOR_34,TREATMENT_354,Monoclonal antibodies other than immune checkpoint inhibitors,Braftovi,239766,NCI Thesaurus,ug/m2,195,153
+SYNTHETIC-1,DONOR_35,TREATMENT_355,Cell-based,Vemurafenib,,NCI Thesaurus,ug/m2,62,107
+SYNTHETIC-1,DONOR_36,TREATMENT_356,Cell-based,Keytruda,239766,RxNorm,ug/m2,124,192
+SYNTHETIC-1,DONOR_37,TREATMENT_357,Other immunomodulatory substances,Gefitinib,239766,NCI Thesaurus,IU/kg,75,74
+SYNTHETIC-1,DONOR_38,TREATMENT_358,Immune checkpoint inhibitors,Zejula,4459876,RxNorm,cells/kg,155,197
+SYNTHETIC-1,DONOR_39,TREATMENT_359,Cell-based,Alectinib,,NCI Thesaurus,IU/kg,,104
+SYNTHETIC-1,DONOR_40,TREATMENT_360,Immune checkpoint inhibitors,Brentuximab vedotin,,NCI Thesaurus,g/m2,132,
+SYNTHETIC-1,DONOR_1,TREATMENT_361,Cell-based,Brigatinib,278936,PubChem,mg/kg,66,137
+SYNTHETIC-1,DONOR_2,TREATMENT_362,Immune checkpoint inhibitors,Abemaciclib,987654,NCI Thesaurus,,88,76
+SYNTHETIC-1,DONOR_3,TREATMENT_363,Immune checkpoint inhibitors,Copanlisib,239766,RxNorm,cells/kg,115,148
+SYNTHETIC-1,DONOR_4,TREATMENT_364,Immune checkpoint inhibitors,,8756456,PubChem,ug/m2,141,101
+SYNTHETIC-1,DONOR_5,TREATMENT_365,Cell-based,Rubraca,8836851,PubChem,,,
+SYNTHETIC-1,DONOR_6,TREATMENT_366,,Rituxan,,RxNorm,IU/m2,123,66
+SYNTHETIC-1,DONOR_7,TREATMENT_367,Immune checkpoint inhibitors,,987654,RxNorm,,143,
+SYNTHETIC-1,DONOR_8,TREATMENT_368,Cell-based,Venetoclax,4459876,,mg/kg,176,73
+SYNTHETIC-1,DONOR_9,TREATMENT_369,Other immunomodulatory substances,Opdivo,987654,,IU/kg,75,
+SYNTHETIC-1,DONOR_10,TREATMENT_370,Monoclonal antibodies other than immune checkpoint inhibitors,Trastuzumab,4459876,NCI Thesaurus,mg/m2,,147
+SYNTHETIC-1,DONOR_11,TREATMENT_371,Immune checkpoint inhibitors,,239766,PubChem,g/m2,74,137
+SYNTHETIC-1,DONOR_12,TREATMENT_372,Monoclonal antibodies other than immune checkpoint inhibitors,Durvalumab,278936,,cells/kg,,100
+SYNTHETIC-1,DONOR_13,TREATMENT_373,Cell-based,Palbociclib,8756456,PubChem,cells/kg,168,81
+SYNTHETIC-1,DONOR_14,TREATMENT_374,Other immunomodulatory substances,Pembrolizumab,4459876,RxNorm,mg/m2,117,
+SYNTHETIC-1,DONOR_15,TREATMENT_375,Monoclonal antibodies other than immune checkpoint inhibitors,Enhertu,239766,PubChem,g/m2,126,151
+SYNTHETIC-1,DONOR_16,TREATMENT_376,Other immunomodulatory substances,Perjeta,8836851,RxNorm,,110,166
+SYNTHETIC-1,DONOR_17,TREATMENT_377,Other immunomodulatory substances,Gefitinib,,NCI Thesaurus,IU/m2,100,83
+SYNTHETIC-1,DONOR_18,TREATMENT_378,Immune checkpoint inhibitors,Tecentriq,239766,PubChem,ug/m2,138,85
+SYNTHETIC-1,DONOR_19,TREATMENT_379,Other immunomodulatory substances,Yervoy,239766,PubChem,mg/m2,189,
+SYNTHETIC-1,DONOR_20,TREATMENT_380,Other immunomodulatory substances,Vandetanib,278936,RxNorm,IU/kg,125,97
+SYNTHETIC-1,DONOR_21,TREATMENT_381,Cell-based,Durvalumab,8756456,NCI Thesaurus,ug/m2,121,189
+SYNTHETIC-1,DONOR_22,TREATMENT_382,Cell-based,Opdivo,278936,PubChem,ug/m2,147,156
+SYNTHETIC-1,DONOR_23,TREATMENT_383,Immune checkpoint inhibitors,Besponsa,278936,RxNorm,IU/m2,106,
+SYNTHETIC-1,DONOR_24,TREATMENT_384,Cell-based,Herceptin,4459876,PubChem,cells/kg,,
+SYNTHETIC-1,DONOR_25,TREATMENT_385,Other immunomodulatory substances,,,PubChem,mg/m2,63,158
+SYNTHETIC-1,DONOR_26,TREATMENT_386,Cell-based,Caprelsa,4459876,RxNorm,IU/kg,,181
+SYNTHETIC-1,DONOR_27,TREATMENT_387,Immune checkpoint inhibitors,Vandetanib,8836851,PubChem,g/m2,,67
+SYNTHETIC-1,DONOR_28,TREATMENT_388,Monoclonal antibodies other than immune checkpoint inhibitors,Opdivo,8756456,NCI Thesaurus,mg/m2,90,
+SYNTHETIC-1,DONOR_29,TREATMENT_389,Other immunomodulatory substances,,8836851,RxNorm,mg/m2,162,133
+SYNTHETIC-1,DONOR_30,TREATMENT_390,Cell-based,Atezolizumab,239766,,mg/kg,138,
+SYNTHETIC-1,DONOR_31,TREATMENT_391,Immune checkpoint inhibitors,Venclexta,,RxNorm,mg/kg,185,181
+SYNTHETIC-1,DONOR_32,TREATMENT_392,Immune checkpoint inhibitors,Ipilimumab,987654,PubChem,,,
+SYNTHETIC-1,DONOR_33,TREATMENT_393,Monoclonal antibodies other than immune checkpoint inhibitors,Osimertinib,8756456,RxNorm,IU/m2,,68
+SYNTHETIC-1,DONOR_34,TREATMENT_394,Cell-based,,987654,,IU/kg,114,
+SYNTHETIC-1,DONOR_35,TREATMENT_395,Monoclonal antibodies other than immune checkpoint inhibitors,Vemurafenib,8836851,PubChem,ug/m2,180,61
+SYNTHETIC-1,DONOR_36,TREATMENT_396,Cell-based,Adcetris,4459876,NCI Thesaurus,cells/kg,154,107
+SYNTHETIC-1,DONOR_37,TREATMENT_397,,Cometriq,8836851,NCI Thesaurus,IU/m2,158,162
+SYNTHETIC-1,DONOR_38,TREATMENT_398,Monoclonal antibodies other than immune checkpoint inhibitors,Tagrisso,239766,RxNorm,mg/kg,150,188
+SYNTHETIC-1,DONOR_39,TREATMENT_399,Cell-based,Brentuximab vedotin,987654,NCI Thesaurus,IU/m2,156,119
+SYNTHETIC-1,DONOR_40,TREATMENT_400,Immune checkpoint inhibitors,,987654,RxNorm,IU/kg,178,84
+SYNTHETIC-1,DONOR_1,TREATMENT_321,Monoclonal antibodies other than immune checkpoint inhibitors,Yescarta,239766,,mg/m2,197,119
+SYNTHETIC-1,DONOR_2,TREATMENT_322,Cell-based,Zelboraf,987654,NCI Thesaurus,ug/m2,131,
+SYNTHETIC-1,DONOR_3,TREATMENT_323,Immune checkpoint inhibitors,Gefitinib,8756456,,IU/m2,,134
+SYNTHETIC-1,DONOR_4,TREATMENT_324,Monoclonal antibodies other than immune checkpoint inhibitors,Vemurafenib,4459876,PubChem,IU/kg,,96
+SYNTHETIC-1,DONOR_5,TREATMENT_325,,Enhertu,987654,PubChem,cells/kg,167,91
+SYNTHETIC-1,DONOR_6,TREATMENT_326,Cell-based,,8756456,PubChem,mg/kg,93,105
+SYNTHETIC-1,DONOR_7,TREATMENT_327,Other immunomodulatory substances,Belantamab,8756456,NCI Thesaurus,IU/m2,56,186
+SYNTHETIC-1,DONOR_8,TREATMENT_328,Other immunomodulatory substances,Ipilimumab,239766,RxNorm,,145,146
+SYNTHETIC-1,DONOR_9,TREATMENT_329,Cell-based,Caprelsa,278936,,IU/m2,94,173
+SYNTHETIC-1,DONOR_10,TREATMENT_330,Monoclonal antibodies other than immune checkpoint inhibitors,Perjeta,278936,PubChem,mg/m2,79,107
+SYNTHETIC-1,DONOR_11,TREATMENT_331,Cell-based,Darzalex,987654,RxNorm,cells/kg,,
+SYNTHETIC-1,DONOR_12,TREATMENT_332,Other immunomodulatory substances,Imfinzi,8756456,PubChem,IU/m2,183,80
+SYNTHETIC-1,DONOR_13,TREATMENT_333,Other immunomodulatory substances,Caprelsa,4459876,NCI Thesaurus,mg/kg,72,196
+SYNTHETIC-1,DONOR_14,TREATMENT_334,Monoclonal antibodies other than immune checkpoint inhibitors,Keytruda,8836851,RxNorm,ug/m2,98,135
+SYNTHETIC-1,DONOR_15,TREATMENT_335,Other immunomodulatory substances,Durvalumab,278936,NCI Thesaurus,,,89
+SYNTHETIC-1,DONOR_16,TREATMENT_336,,Binimetinib,278936,NCI Thesaurus,IU/kg,110,138
+SYNTHETIC-1,DONOR_17,TREATMENT_337,Cell-based,Pembrolizumab,,PubChem,,192,104
+SYNTHETIC-1,DONOR_18,TREATMENT_338,Cell-based,Pembrolizumab,987654,,g/m2,169,199
+SYNTHETIC-1,DONOR_19,TREATMENT_339,,Ibrance,4459876,,g/m2,194,124
+SYNTHETIC-1,DONOR_20,TREATMENT_340,Monoclonal antibodies other than immune checkpoint inhibitors,Braftovi,8836851,RxNorm,,,185
+SYNTHETIC-1,DONOR_21,TREATMENT_341,Other immunomodulatory substances,Atezolizumab,,NCI Thesaurus,mg/m2,83,57
+SYNTHETIC-1,DONOR_22,TREATMENT_342,Cell-based,Zejula,278936,PubChem,,139,123
+SYNTHETIC-1,DONOR_23,TREATMENT_343,Other immunomodulatory substances,Cabozantinib,,NCI Thesaurus,ug/m2,55,60
+SYNTHETIC-1,DONOR_24,TREATMENT_344,Immune checkpoint inhibitors,Zykadia,987654,PubChem,IU/m2,,131
+SYNTHETIC-1,DONOR_25,TREATMENT_345,Cell-based,Durvalumab,987654,NCI Thesaurus,mg/kg,143,
+SYNTHETIC-1,DONOR_26,TREATMENT_346,Cell-based,,239766,RxNorm,,54,
+SYNTHETIC-1,DONOR_27,TREATMENT_347,Cell-based,Nexavar,,RxNorm,IU/m2,,197
+SYNTHETIC-1,DONOR_28,TREATMENT_348,Cell-based,Nivolumab,8756456,NCI Thesaurus,mg/kg,166,142
+SYNTHETIC-1,DONOR_29,TREATMENT_349,Other immunomodulatory substances,,,,cells/kg,67,160
+SYNTHETIC-1,DONOR_30,TREATMENT_350,Monoclonal antibodies other than immune checkpoint inhibitors,Yervoy,,PubChem,mg/kg,166,162
+SYNTHETIC-1,DONOR_31,TREATMENT_351,Monoclonal antibodies other than immune checkpoint inhibitors,,987654,,,69,144
+SYNTHETIC-1,DONOR_32,TREATMENT_352,Immune checkpoint inhibitors,,239766,RxNorm,g/m2,,134
+SYNTHETIC-1,DONOR_33,TREATMENT_353,Monoclonal antibodies other than immune checkpoint inhibitors,Enhertu,8836851,,IU/m2,72,74
+SYNTHETIC-1,DONOR_34,TREATMENT_354,Cell-based,Atezolizumab,239766,NCI Thesaurus,IU/kg,193,91
+SYNTHETIC-1,DONOR_35,TREATMENT_355,Other immunomodulatory substances,Pexidartinib,4459876,NCI Thesaurus,cells/kg,143,56
+SYNTHETIC-1,DONOR_36,TREATMENT_356,Immune checkpoint inhibitors,,278936,PubChem,,148,192
+SYNTHETIC-1,DONOR_37,TREATMENT_357,Other immunomodulatory substances,Afatinib,4459876,PubChem,,106,
+SYNTHETIC-1,DONOR_38,TREATMENT_358,Other immunomodulatory substances,Copanlisib,8836851,RxNorm,mg/kg,146,150
+SYNTHETIC-1,DONOR_39,TREATMENT_359,Cell-based,,8756456,NCI Thesaurus,g/m2,89,104
+SYNTHETIC-1,DONOR_40,TREATMENT_360,Immune checkpoint inhibitors,Pembrolizumab,,PubChem,,56,190
+SYNTHETIC-1,DONOR_1,TREATMENT_361,Other immunomodulatory substances,Darzalex,8836851,RxNorm,,,152
+SYNTHETIC-1,DONOR_2,TREATMENT_362,Immune checkpoint inhibitors,Yervoy,,NCI Thesaurus,g/m2,150,124
+SYNTHETIC-1,DONOR_3,TREATMENT_363,Monoclonal antibodies other than immune checkpoint inhibitors,Imfinzi,987654,RxNorm,mg/kg,138,81
+SYNTHETIC-1,DONOR_4,TREATMENT_364,Immune checkpoint inhibitors,Pembrolizumab,278936,NCI Thesaurus,mg/kg,192,137
+SYNTHETIC-1,DONOR_5,TREATMENT_365,Cell-based,,8756456,PubChem,IU/kg,66,161
+SYNTHETIC-1,DONOR_6,TREATMENT_366,Cell-based,Rucaparib,239766,PubChem,IU/m2,93,193
+SYNTHETIC-1,DONOR_7,TREATMENT_367,Immune checkpoint inhibitors,Venetoclax,,PubChem,mg/kg,191,165
+SYNTHETIC-1,DONOR_8,TREATMENT_368,Monoclonal antibodies other than immune checkpoint inhibitors,Cotellic,4459876,NCI Thesaurus,,,
+SYNTHETIC-1,DONOR_9,TREATMENT_369,Other immunomodulatory substances,Caprelsa,8756456,NCI Thesaurus,ug/m2,188,
+SYNTHETIC-1,DONOR_10,TREATMENT_370,Immune checkpoint inhibitors,Gazyva,8756456,NCI Thesaurus,ug/m2,78,142
+SYNTHETIC-1,DONOR_11,TREATMENT_371,Cell-based,,4459876,NCI Thesaurus,mg/kg,,70
+SYNTHETIC-1,DONOR_12,TREATMENT_372,Other immunomodulatory substances,Nexavar,278936,NCI Thesaurus,mg/m2,93,170
+SYNTHETIC-1,DONOR_13,TREATMENT_373,Immune checkpoint inhibitors,Durvalumab,,NCI Thesaurus,mg/kg,115,
+SYNTHETIC-1,DONOR_14,TREATMENT_374,Cell-based,Besponsa,239766,,IU/kg,161,174
+SYNTHETIC-1,DONOR_15,TREATMENT_375,Other immunomodulatory substances,Venclexta,8836851,NCI Thesaurus,ug/m2,139,
+SYNTHETIC-1,DONOR_16,TREATMENT_376,Immune checkpoint inhibitors,Cotellic,,NCI Thesaurus,g/m2,143,170
+SYNTHETIC-1,DONOR_17,TREATMENT_377,Monoclonal antibodies other than immune checkpoint inhibitors,,,RxNorm,,126,176
+SYNTHETIC-1,DONOR_18,TREATMENT_378,,Keytruda,8756456,PubChem,g/m2,,101
+SYNTHETIC-1,DONOR_19,TREATMENT_379,Other immunomodulatory substances,Nexavar,,PubChem,cells/kg,129,80
+SYNTHETIC-1,DONOR_20,TREATMENT_380,Other immunomodulatory substances,Mektovi,278936,NCI Thesaurus,IU/kg,98,140
+SYNTHETIC-1,DONOR_21,TREATMENT_381,Other immunomodulatory substances,Abemaciclib,987654,PubChem,g/m2,,154
+SYNTHETIC-1,DONOR_22,TREATMENT_382,Cell-based,Selumitinib,239766,PubChem,cells/kg,156,
+SYNTHETIC-1,DONOR_23,TREATMENT_383,Cell-based,Brentuximab vedotin,987654,RxNorm,IU/m2,63,192
+SYNTHETIC-1,DONOR_24,TREATMENT_384,Immune checkpoint inhibitors,Daratumumab,239766,PubChem,cells/kg,161,
+SYNTHETIC-1,DONOR_25,TREATMENT_385,Cell-based,Nivolumab,239766,RxNorm,mg/kg,185,108
+SYNTHETIC-1,DONOR_26,TREATMENT_386,Immune checkpoint inhibitors,Keytruda,,PubChem,IU/m2,162,145
+SYNTHETIC-1,DONOR_27,TREATMENT_387,Cell-based,Yervoy,4459876,PubChem,IU/m2,106,121
+SYNTHETIC-1,DONOR_28,TREATMENT_388,Immune checkpoint inhibitors,Nivolumab,4459876,PubChem,ug/m2,59,163
+SYNTHETIC-1,DONOR_29,TREATMENT_389,Other immunomodulatory substances,Imfinzi,8836851,PubChem,,146,124
+SYNTHETIC-1,DONOR_30,TREATMENT_390,,Gilteritinib,987654,NCI Thesaurus,mg/kg,,
+SYNTHETIC-1,DONOR_31,TREATMENT_391,Other immunomodulatory substances,Tecentriq,278936,RxNorm,mg/kg,82,116
+SYNTHETIC-1,DONOR_32,TREATMENT_392,Cell-based,,,NCI Thesaurus,IU/kg,142,126
+SYNTHETIC-1,DONOR_33,TREATMENT_393,Other immunomodulatory substances,Zejula,8836851,RxNorm,ug/m2,,193
+SYNTHETIC-1,DONOR_34,TREATMENT_394,Monoclonal antibodies other than immune checkpoint inhibitors,Atezolizumab,239766,NCI Thesaurus,ug/m2,132,102
+SYNTHETIC-1,DONOR_35,TREATMENT_395,Monoclonal antibodies other than immune checkpoint inhibitors,Cotellic,239766,RxNorm,IU/m2,180,
+SYNTHETIC-1,DONOR_36,TREATMENT_396,Immune checkpoint inhibitors,Tarceva,8836851,PubChem,IU/kg,167,158
+SYNTHETIC-1,DONOR_37,TREATMENT_397,Immune checkpoint inhibitors,Pembrolizumab,8756456,,ug/m2,,114
+SYNTHETIC-1,DONOR_38,TREATMENT_398,Monoclonal antibodies other than immune checkpoint inhibitors,Tafinlar,239766,PubChem,IU/kg,,52
+SYNTHETIC-1,DONOR_39,TREATMENT_399,Other immunomodulatory substances,Selumitinib,987654,PubChem,mg/m2,109,141
+SYNTHETIC-1,DONOR_40,TREATMENT_400,Immune checkpoint inhibitors,Yervoy,4459876,,IU/m2,185,200
+SYNTHETIC-1,DONOR_1,TREATMENT_321,Cell-based,Gilotrif,8836851,RxNorm,IU/m2,91,193
+SYNTHETIC-1,DONOR_2,TREATMENT_322,Other immunomodulatory substances,Niraparib,4459876,RxNorm,,134,
+SYNTHETIC-1,DONOR_3,TREATMENT_323,Monoclonal antibodies other than immune checkpoint inhibitors,,8836851,PubChem,ug/m2,178,136
+SYNTHETIC-1,DONOR_4,TREATMENT_324,Other immunomodulatory substances,Encorafenib,,RxNorm,ug/m2,,118
+SYNTHETIC-1,DONOR_5,TREATMENT_325,Other immunomodulatory substances,,278936,RxNorm,mg/kg,117,52
+SYNTHETIC-1,DONOR_6,TREATMENT_326,,Afatinib,987654,RxNorm,IU/m2,,197
+SYNTHETIC-1,DONOR_7,TREATMENT_327,Other immunomodulatory substances,Gilteritinib,8836851,PubChem,,92,96
+SYNTHETIC-1,DONOR_8,TREATMENT_328,Monoclonal antibodies other than immune checkpoint inhibitors,Ipilimumab,4459876,,IU/m2,,51
+SYNTHETIC-1,DONOR_9,TREATMENT_329,Other immunomodulatory substances,,8756456,NCI Thesaurus,g/m2,113,51
+SYNTHETIC-1,DONOR_10,TREATMENT_330,Cell-based,Tecentriq,8836851,NCI Thesaurus,g/m2,,101
+SYNTHETIC-1,DONOR_11,TREATMENT_331,Cell-based,Imfinzi,8756456,,IU/kg,174,62
+SYNTHETIC-1,DONOR_12,TREATMENT_332,Immune checkpoint inhibitors,Gefitinib,278936,PubChem,,172,127
+SYNTHETIC-1,DONOR_13,TREATMENT_333,Immune checkpoint inhibitors,,8836851,PubChem,g/m2,185,162
+SYNTHETIC-1,DONOR_14,TREATMENT_334,Cell-based,Ipilimumab,8756456,RxNorm,g/m2,169,117
+SYNTHETIC-1,DONOR_15,TREATMENT_335,Immune checkpoint inhibitors,,,RxNorm,,112,
+SYNTHETIC-1,DONOR_16,TREATMENT_336,,Tecentriq,239766,PubChem,,150,59
+SYNTHETIC-1,DONOR_17,TREATMENT_337,Immune checkpoint inhibitors,Tagrisso,4459876,PubChem,IU/m2,198,115
+SYNTHETIC-1,DONOR_18,TREATMENT_338,Monoclonal antibodies other than immune checkpoint inhibitors,,239766,RxNorm,IU/m2,105,107
+SYNTHETIC-1,DONOR_19,TREATMENT_339,Immune checkpoint inhibitors,Osimertinib,8756456,RxNorm,mg/kg,149,196
+SYNTHETIC-1,DONOR_20,TREATMENT_340,,Ipilimumab,278936,NCI Thesaurus,IU/kg,125,147
+SYNTHETIC-1,DONOR_21,TREATMENT_341,Monoclonal antibodies other than immune checkpoint inhibitors,Ribociclib,987654,NCI Thesaurus,,87,192
+SYNTHETIC-1,DONOR_22,TREATMENT_342,Cell-based,Atezolizumab,4459876,PubChem,IU/kg,79,
+SYNTHETIC-1,DONOR_23,TREATMENT_343,Monoclonal antibodies other than immune checkpoint inhibitors,Gefitinib,239766,PubChem,mg/kg,183,95
+SYNTHETIC-1,DONOR_24,TREATMENT_344,Cell-based,Xalkori,,NCI Thesaurus,IU/kg,59,150
+SYNTHETIC-1,DONOR_25,TREATMENT_345,Monoclonal antibodies other than immune checkpoint inhibitors,Palbociclib,8756456,PubChem,IU/kg,61,200
+SYNTHETIC-1,DONOR_26,TREATMENT_346,Immune checkpoint inhibitors,Nivolumab,,RxNorm,cells/kg,,114
+SYNTHETIC-1,DONOR_27,TREATMENT_347,,Gilotrif,987654,,g/m2,56,118
+SYNTHETIC-1,DONOR_28,TREATMENT_348,Monoclonal antibodies other than immune checkpoint inhibitors,Brentuximab vedotin,239766,NCI Thesaurus,g/m2,133,96
+SYNTHETIC-1,DONOR_29,TREATMENT_349,Other immunomodulatory substances,Caprelsa,8756456,RxNorm,,63,71
+SYNTHETIC-1,DONOR_30,TREATMENT_350,,Tecentriq,239766,PubChem,g/m2,97,86
+SYNTHETIC-1,DONOR_31,TREATMENT_351,Cell-based,Ibrance,4459876,PubChem,IU/m2,127,153
+SYNTHETIC-1,DONOR_32,TREATMENT_352,Monoclonal antibodies other than immune checkpoint inhibitors,Zejula,8836851,RxNorm,IU/kg,110,183
+SYNTHETIC-1,DONOR_33,TREATMENT_353,Immune checkpoint inhibitors,Keytruda,,PubChem,IU/kg,174,57
+SYNTHETIC-1,DONOR_34,TREATMENT_354,Cell-based,,987654,PubChem,IU/m2,146,101
+SYNTHETIC-1,DONOR_35,TREATMENT_355,Immune checkpoint inhibitors,Binimetinib,987654,RxNorm,,99,
+SYNTHETIC-1,DONOR_36,TREATMENT_356,Immune checkpoint inhibitors,Yervoy,,,IU/m2,127,180
+SYNTHETIC-1,DONOR_37,TREATMENT_357,Immune checkpoint inhibitors,Kymriah,4459876,NCI Thesaurus,ug/m2,166,70
+SYNTHETIC-1,DONOR_38,TREATMENT_358,Monoclonal antibodies other than immune checkpoint inhibitors,Gazyva,8756456,RxNorm,cells/kg,199,116
+SYNTHETIC-1,DONOR_39,TREATMENT_359,Other immunomodulatory substances,Besponsa,4459876,PubChem,ug/m2,158,89
+SYNTHETIC-1,DONOR_40,TREATMENT_360,Cell-based,Ribociclib,987654,NCI Thesaurus,ug/m2,,62
+SYNTHETIC-1,DONOR_1,TREATMENT_361,Monoclonal antibodies other than immune checkpoint inhibitors,Daratumumab,4459876,RxNorm,,149,59
+SYNTHETIC-1,DONOR_2,TREATMENT_362,Immune checkpoint inhibitors,Darzalex,987654,PubChem,cells/kg,189,197
+SYNTHETIC-1,DONOR_3,TREATMENT_363,Other immunomodulatory substances,,8756456,NCI Thesaurus,mg/m2,187,77
+SYNTHETIC-1,DONOR_4,TREATMENT_364,Immune checkpoint inhibitors,Lenvatinib,278936,,cells/kg,182,
+SYNTHETIC-1,DONOR_5,TREATMENT_365,Immune checkpoint inhibitors,Keytruda,278936,NCI Thesaurus,cells/kg,169,196
+SYNTHETIC-1,DONOR_6,TREATMENT_366,Cell-based,Gilteritinib,8836851,NCI Thesaurus,mg/m2,145,60
+SYNTHETIC-1,DONOR_7,TREATMENT_367,Other immunomodulatory substances,Venclexta,239766,,ug/m2,,145
+SYNTHETIC-1,DONOR_8,TREATMENT_368,Immune checkpoint inhibitors,Durvalumab,,NCI Thesaurus,mg/kg,97,81
+SYNTHETIC-1,DONOR_9,TREATMENT_369,Cell-based,Tecentriq,8836851,PubChem,IU/m2,100,
+SYNTHETIC-1,DONOR_10,TREATMENT_370,Cell-based,Nivolumab,8836851,PubChem,,69,88
+SYNTHETIC-1,DONOR_11,TREATMENT_371,Immune checkpoint inhibitors,Binimetinib,4459876,,cells/kg,,191
+SYNTHETIC-1,DONOR_12,TREATMENT_372,Other immunomodulatory substances,Pertuzumab,987654,RxNorm,mg/kg,107,176
+SYNTHETIC-1,DONOR_13,TREATMENT_373,Other immunomodulatory substances,,,RxNorm,cells/kg,75,
+SYNTHETIC-1,DONOR_14,TREATMENT_374,Other immunomodulatory substances,Alectinib,8836851,NCI Thesaurus,IU/m2,,74
+SYNTHETIC-1,DONOR_15,TREATMENT_375,Monoclonal antibodies other than immune checkpoint inhibitors,Rucaparib,987654,NCI Thesaurus,IU/m2,178,149
+SYNTHETIC-1,DONOR_16,TREATMENT_376,Immune checkpoint inhibitors,Tecentriq,987654,NCI Thesaurus,g/m2,157,161
+SYNTHETIC-1,DONOR_17,TREATMENT_377,Cell-based,Venetoclax,278936,NCI Thesaurus,g/m2,133,
+SYNTHETIC-1,DONOR_18,TREATMENT_378,Immune checkpoint inhibitors,Opdivo,8756456,PubChem,cells/kg,120,
+SYNTHETIC-1,DONOR_19,TREATMENT_379,,Yervoy,278936,NCI Thesaurus,IU/m2,167,196
+SYNTHETIC-1,DONOR_20,TREATMENT_380,Cell-based,,987654,PubChem,,191,
+SYNTHETIC-1,DONOR_21,TREATMENT_381,,Braftovi,8836851,PubChem,IU/kg,88,191
+SYNTHETIC-1,DONOR_22,TREATMENT_382,Monoclonal antibodies other than immune checkpoint inhibitors,,239766,PubChem,mg/m2,172,173
+SYNTHETIC-1,DONOR_23,TREATMENT_383,Monoclonal antibodies other than immune checkpoint inhibitors,Tecentriq,4459876,PubChem,IU/m2,,53
+SYNTHETIC-1,DONOR_24,TREATMENT_384,Monoclonal antibodies other than immune checkpoint inhibitors,,8756456,RxNorm,,56,176
+SYNTHETIC-1,DONOR_25,TREATMENT_385,Cell-based,Besponsa,239766,PubChem,cells/kg,105,153
+SYNTHETIC-1,DONOR_26,TREATMENT_386,Immune checkpoint inhibitors,,987654,RxNorm,cells/kg,161,190
+SYNTHETIC-1,DONOR_27,TREATMENT_387,Monoclonal antibodies other than immune checkpoint inhibitors,Palbociclib,,NCI Thesaurus,g/m2,109,102
+SYNTHETIC-1,DONOR_28,TREATMENT_388,Immune checkpoint inhibitors,Nexavar,239766,,g/m2,107,140
+SYNTHETIC-1,DONOR_29,TREATMENT_389,Other immunomodulatory substances,Necitumumab,4459876,RxNorm,ug/m2,147,198
+SYNTHETIC-1,DONOR_30,TREATMENT_390,Immune checkpoint inhibitors,Perjeta,8836851,,cells/kg,192,
+SYNTHETIC-1,DONOR_31,TREATMENT_391,Immune checkpoint inhibitors,Vemurafenib,8756456,NCI Thesaurus,IU/m2,115,110
+SYNTHETIC-1,DONOR_32,TREATMENT_392,Immune checkpoint inhibitors,Iressa,4459876,,ug/m2,127,62
+SYNTHETIC-1,DONOR_33,TREATMENT_393,Monoclonal antibodies other than immune checkpoint inhibitors,Enhertu,239766,RxNorm,IU/kg,113,90
+SYNTHETIC-1,DONOR_34,TREATMENT_394,Monoclonal antibodies other than immune checkpoint inhibitors,Mekinist,987654,RxNorm,IU/m2,162,
+SYNTHETIC-1,DONOR_35,TREATMENT_395,Cell-based,,8756456,NCI Thesaurus,g/m2,66,91
+SYNTHETIC-1,DONOR_36,TREATMENT_396,Immune checkpoint inhibitors,,278936,PubChem,mg/m2,179,175
+SYNTHETIC-1,DONOR_37,TREATMENT_397,Monoclonal antibodies other than immune checkpoint inhibitors,Alectinib,239766,RxNorm,g/m2,101,117
+SYNTHETIC-1,DONOR_38,TREATMENT_398,Cell-based,Xalkori,4459876,NCI Thesaurus,,122,189
+SYNTHETIC-1,DONOR_39,TREATMENT_399,Other immunomodulatory substances,Gilotrif,4459876,RxNorm,IU/kg,186,108
+SYNTHETIC-1,DONOR_40,TREATMENT_400,,Atezolizumab,4459876,RxNorm,mg/m2,111,98
+SYNTHETIC-1,DONOR_1,TREATMENT_321,Cell-based,Vandetanib,4459876,PubChem,IU/m2,66,148
+SYNTHETIC-1,DONOR_2,TREATMENT_322,Immune checkpoint inhibitors,Enhertu,8836851,NCI Thesaurus,mg/m2,,159
+SYNTHETIC-1,DONOR_3,TREATMENT_323,Other immunomodulatory substances,Venclexta,239766,RxNorm,mg/kg,166,157
+SYNTHETIC-1,DONOR_4,TREATMENT_324,Immune checkpoint inhibitors,Nivolumab,8756456,PubChem,mg/kg,,184
+SYNTHETIC-1,DONOR_5,TREATMENT_325,Cell-based,,278936,PubChem,IU/m2,101,180
+SYNTHETIC-1,DONOR_6,TREATMENT_326,Cell-based,Atezolizumab,8836851,,mg/m2,84,118
+SYNTHETIC-1,DONOR_7,TREATMENT_327,Other immunomodulatory substances,Dabrafenib,987654,NCI Thesaurus,cells/kg,170,147
+SYNTHETIC-1,DONOR_8,TREATMENT_328,Cell-based,Mekinist,8836851,PubChem,IU/m2,,62
+SYNTHETIC-1,DONOR_9,TREATMENT_329,Other immunomodulatory substances,Mekinist,8836851,,cells/kg,72,
+SYNTHETIC-1,DONOR_10,TREATMENT_330,Cell-based,Imfinzi,8756456,RxNorm,ug/m2,186,50
+SYNTHETIC-1,DONOR_11,TREATMENT_331,,Pembrolizumab,987654,NCI Thesaurus,ug/m2,62,69
+SYNTHETIC-1,DONOR_12,TREATMENT_332,Immune checkpoint inhibitors,Enhertu,239766,PubChem,mg/kg,64,169
+SYNTHETIC-1,DONOR_13,TREATMENT_333,Monoclonal antibodies other than immune checkpoint inhibitors,Ipilimumab,987654,PubChem,cells/kg,85,
+SYNTHETIC-1,DONOR_14,TREATMENT_334,,Pexidartinib,,,cells/kg,106,173
+SYNTHETIC-1,DONOR_15,TREATMENT_335,,Ibrance,8756456,NCI Thesaurus,ug/m2,143,145
+SYNTHETIC-1,DONOR_16,TREATMENT_336,Monoclonal antibodies other than immune checkpoint inhibitors,Opdivo,,NCI Thesaurus,mg/kg,186,130
+SYNTHETIC-1,DONOR_17,TREATMENT_337,Other immunomodulatory substances,,239766,PubChem,IU/m2,72,165
+SYNTHETIC-1,DONOR_18,TREATMENT_338,Cell-based,Ribociclib,,NCI Thesaurus,ug/m2,96,166
+SYNTHETIC-1,DONOR_19,TREATMENT_339,Monoclonal antibodies other than immune checkpoint inhibitors,Opdivo,8756456,RxNorm,mg/m2,84,158
+SYNTHETIC-1,DONOR_20,TREATMENT_340,Cell-based,Pembrolizumab,8836851,NCI Thesaurus,IU/m2,98,157
+SYNTHETIC-1,DONOR_21,TREATMENT_341,,,239766,RxNorm,IU/m2,92,
+SYNTHETIC-1,DONOR_22,TREATMENT_342,Monoclonal antibodies other than immune checkpoint inhibitors,Atezolizumab,8836851,,g/m2,162,92
+SYNTHETIC-1,DONOR_23,TREATMENT_343,Monoclonal antibodies other than immune checkpoint inhibitors,Ceritinib,278936,NCI Thesaurus,IU/m2,186,162
+SYNTHETIC-1,DONOR_24,TREATMENT_344,,Nivolumab,8756456,RxNorm,IU/kg,190,
+SYNTHETIC-1,DONOR_25,TREATMENT_345,Monoclonal antibodies other than immune checkpoint inhibitors,Tarceva,8836851,PubChem,IU/kg,127,161
+SYNTHETIC-1,DONOR_26,TREATMENT_346,Monoclonal antibodies other than immune checkpoint inhibitors,Ipilimumab,4459876,RxNorm,IU/kg,125,128
+SYNTHETIC-1,DONOR_27,TREATMENT_347,Cell-based,Yescarta,4459876,PubChem,IU/kg,,50
+SYNTHETIC-1,DONOR_28,TREATMENT_348,Cell-based,Copanlisib,8836851,PubChem,,,160
+SYNTHETIC-1,DONOR_29,TREATMENT_349,Monoclonal antibodies other than immune checkpoint inhibitors,Tecentriq,987654,PubChem,mg/kg,184,89
+SYNTHETIC-1,DONOR_30,TREATMENT_350,Monoclonal antibodies other than immune checkpoint inhibitors,Durvalumab,8836851,,IU/kg,,101
+SYNTHETIC-1,DONOR_31,TREATMENT_351,Immune checkpoint inhibitors,Xalkori,987654,RxNorm,ug/m2,,178
+SYNTHETIC-1,DONOR_32,TREATMENT_352,Cell-based,Yescarta,8836851,RxNorm,IU/m2,138,150
+SYNTHETIC-1,DONOR_33,TREATMENT_353,Immune checkpoint inhibitors,Tarceva,8836851,RxNorm,ug/m2,,
+SYNTHETIC-1,DONOR_34,TREATMENT_354,Immune checkpoint inhibitors,Nivolumab,8756456,NCI Thesaurus,cells/kg,,96
+SYNTHETIC-1,DONOR_35,TREATMENT_355,,Erlotinib,4459876,PubChem,mg/kg,93,
+SYNTHETIC-1,DONOR_36,TREATMENT_356,Other immunomodulatory substances,Pembrolizumab,4459876,PubChem,IU/kg,69,72
+SYNTHETIC-1,DONOR_37,TREATMENT_357,Immune checkpoint inhibitors,Selumitinib,,PubChem,ug/m2,,
+SYNTHETIC-1,DONOR_38,TREATMENT_358,Immune checkpoint inhibitors,Trastuzumab,8836851,PubChem,mg/kg,,51
+SYNTHETIC-1,DONOR_39,TREATMENT_359,Immune checkpoint inhibitors,Osimertinib,,NCI Thesaurus,mg/kg,148,79
+SYNTHETIC-1,DONOR_40,TREATMENT_360,Cell-based,Durvalumab,8756456,RxNorm,ug/m2,96,184
+SYNTHETIC-1,DONOR_1,TREATMENT_361,,Sorafenib,4459876,RxNorm,IU/kg,96,173
+SYNTHETIC-1,DONOR_2,TREATMENT_362,Monoclonal antibodies other than immune checkpoint inhibitors,Ribociclib,8756456,PubChem,g/m2,138,107
+SYNTHETIC-1,DONOR_3,TREATMENT_363,Cell-based,,4459876,,cells/kg,,77
+SYNTHETIC-1,DONOR_4,TREATMENT_364,Other immunomodulatory substances,Ipilimumab,278936,NCI Thesaurus,IU/m2,155,134
+SYNTHETIC-1,DONOR_5,TREATMENT_365,Cell-based,,8836851,RxNorm,mg/kg,129,189
+SYNTHETIC-1,DONOR_6,TREATMENT_366,Monoclonal antibodies other than immune checkpoint inhibitors,Trastuzumab,8756456,RxNorm,mg/kg,139,143
+SYNTHETIC-1,DONOR_7,TREATMENT_367,Cell-based,Encorafenib,8756456,,mg/kg,123,113
+SYNTHETIC-1,DONOR_8,TREATMENT_368,Monoclonal antibodies other than immune checkpoint inhibitors,Mektovi,278936,RxNorm,,158,83
+SYNTHETIC-1,DONOR_9,TREATMENT_369,Cell-based,Brigatinib,8756456,NCI Thesaurus,cells/kg,101,111
+SYNTHETIC-1,DONOR_10,TREATMENT_370,,Braftovi,4459876,NCI Thesaurus,cells/kg,90,56
+SYNTHETIC-1,DONOR_11,TREATMENT_371,Other immunomodulatory substances,Verzenio,4459876,NCI Thesaurus,cells/kg,109,87
+SYNTHETIC-1,DONOR_12,TREATMENT_372,Monoclonal antibodies other than immune checkpoint inhibitors,Venclexta,8836851,RxNorm,IU/m2,108,52
+SYNTHETIC-1,DONOR_13,TREATMENT_373,Immune checkpoint inhibitors,Obinutuzumab,987654,NCI Thesaurus,IU/kg,,161
+SYNTHETIC-1,DONOR_14,TREATMENT_374,Immune checkpoint inhibitors,Keytruda,239766,,,50,
+SYNTHETIC-1,DONOR_15,TREATMENT_375,Cell-based,Atezolizumab,278936,RxNorm,cells/kg,,
+SYNTHETIC-1,DONOR_16,TREATMENT_376,Immune checkpoint inhibitors,Blincyto,987654,RxNorm,,86,85
+SYNTHETIC-1,DONOR_17,TREATMENT_377,Immune checkpoint inhibitors,Nivolumab,4459876,PubChem,,181,87
+SYNTHETIC-1,DONOR_18,TREATMENT_378,Monoclonal antibodies other than immune checkpoint inhibitors,Axicabtagene ciloleucel,987654,PubChem,ug/m2,176,176
+SYNTHETIC-1,DONOR_19,TREATMENT_379,,Verzenio,8836851,RxNorm,IU/kg,109,134
+SYNTHETIC-1,DONOR_20,TREATMENT_380,Immune checkpoint inhibitors,Sorafenib,,,cells/kg,68,
+SYNTHETIC-1,DONOR_21,TREATMENT_381,Immune checkpoint inhibitors,Sorafenib,4459876,RxNorm,,185,140
+SYNTHETIC-1,DONOR_22,TREATMENT_382,Monoclonal antibodies other than immune checkpoint inhibitors,Cotellic,4459876,RxNorm,g/m2,79,116
+SYNTHETIC-1,DONOR_23,TREATMENT_383,Monoclonal antibodies other than immune checkpoint inhibitors,Tecentriq,4459876,PubChem,cells/kg,76,95
+SYNTHETIC-1,DONOR_24,TREATMENT_384,Cell-based,Gilotrif,8836851,RxNorm,IU/kg,153,160
+SYNTHETIC-1,DONOR_25,TREATMENT_385,Other immunomodulatory substances,Ceritinib,278936,PubChem,ug/m2,67,94
+SYNTHETIC-1,DONOR_26,TREATMENT_386,Other immunomodulatory substances,Encorafenib,278936,,mg/m2,104,
+SYNTHETIC-1,DONOR_27,TREATMENT_387,Cell-based,Tecentriq,239766,RxNorm,mg/m2,149,177
+SYNTHETIC-1,DONOR_28,TREATMENT_388,Monoclonal antibodies other than immune checkpoint inhibitors,Cobimetinib,987654,RxNorm,ug/m2,,107
+SYNTHETIC-1,DONOR_29,TREATMENT_389,Monoclonal antibodies other than immune checkpoint inhibitors,,8836851,NCI Thesaurus,mg/kg,,66
+SYNTHETIC-1,DONOR_30,TREATMENT_390,Other immunomodulatory substances,Olaparib,4459876,NCI Thesaurus,mg/kg,89,98
+SYNTHETIC-1,DONOR_31,TREATMENT_391,Immune checkpoint inhibitors,,,NCI Thesaurus,IU/m2,,129
+SYNTHETIC-1,DONOR_32,TREATMENT_392,Immune checkpoint inhibitors,,239766,RxNorm,mg/m2,,
+SYNTHETIC-1,DONOR_33,TREATMENT_393,Monoclonal antibodies other than immune checkpoint inhibitors,,,NCI Thesaurus,,115,200
+SYNTHETIC-1,DONOR_34,TREATMENT_394,Monoclonal antibodies other than immune checkpoint inhibitors,Fam-trastuzumab deruxtecan-nxki,239766,RxNorm,g/m2,193,
+SYNTHETIC-1,DONOR_35,TREATMENT_395,Cell-based,Afatinib,4459876,,cells/kg,132,127
+SYNTHETIC-1,DONOR_36,TREATMENT_396,Other immunomodulatory substances,Xalkori,,,ug/m2,,194
+SYNTHETIC-1,DONOR_37,TREATMENT_397,Monoclonal antibodies other than immune checkpoint inhibitors,,8836851,RxNorm,IU/kg,174,186
+SYNTHETIC-1,DONOR_38,TREATMENT_398,Monoclonal antibodies other than immune checkpoint inhibitors,Rucaparib,4459876,,,95,159
+SYNTHETIC-1,DONOR_39,TREATMENT_399,,Dabrafenib,4459876,PubChem,IU/kg,50,
+SYNTHETIC-1,DONOR_40,TREATMENT_400,Monoclonal antibodies other than immune checkpoint inhibitors,,987654,,g/m2,180,93
+SYNTHETIC-1,DONOR_1,TREATMENT_321,Other immunomodulatory substances,Lenvima,278936,,IU/m2,,
+SYNTHETIC-1,DONOR_2,TREATMENT_322,Monoclonal antibodies other than immune checkpoint inhibitors,Selumitinib,4459876,NCI Thesaurus,g/m2,90,50
+SYNTHETIC-1,DONOR_3,TREATMENT_323,Monoclonal antibodies other than immune checkpoint inhibitors,Pembrolizumab,8756456,PubChem,g/m2,64,100
+SYNTHETIC-1,DONOR_4,TREATMENT_324,Cell-based,Fam-trastuzumab deruxtecan-nxki,8836851,NCI Thesaurus,mg/m2,180,
+SYNTHETIC-1,DONOR_5,TREATMENT_325,Cell-based,Ceritinib,8836851,PubChem,cells/kg,148,97
+SYNTHETIC-1,DONOR_6,TREATMENT_326,Monoclonal antibodies other than immune checkpoint inhibitors,Tafinlar,8756456,NCI Thesaurus,,140,162
+SYNTHETIC-1,DONOR_7,TREATMENT_327,Monoclonal antibodies other than immune checkpoint inhibitors,Niraparib,,PubChem,,57,178
+SYNTHETIC-1,DONOR_8,TREATMENT_328,Other immunomodulatory substances,Ipilimumab,8756456,NCI Thesaurus,ug/m2,137,131
+SYNTHETIC-1,DONOR_9,TREATMENT_329,Immune checkpoint inhibitors,Imfinzi,,RxNorm,mg/m2,75,86
+SYNTHETIC-1,DONOR_10,TREATMENT_330,Cell-based,Tafinlar,8756456,NCI Thesaurus,IU/kg,73,185
+SYNTHETIC-1,DONOR_11,TREATMENT_331,Immune checkpoint inhibitors,Yervoy,239766,PubChem,mg/kg,,112
+SYNTHETIC-1,DONOR_12,TREATMENT_332,Cell-based,,8836851,RxNorm,mg/kg,,59
+SYNTHETIC-1,DONOR_13,TREATMENT_333,Cell-based,Encorafenib,278936,RxNorm,mg/kg,131,66
+SYNTHETIC-1,DONOR_14,TREATMENT_334,,Enhertu,4459876,RxNorm,,119,67
+SYNTHETIC-1,DONOR_15,TREATMENT_335,Cell-based,Tecentriq,4459876,PubChem,ug/m2,137,147
+SYNTHETIC-1,DONOR_16,TREATMENT_336,Other immunomodulatory substances,Durvalumab,4459876,,ug/m2,118,89
+SYNTHETIC-1,DONOR_17,TREATMENT_337,,Vemurafenib,8756456,PubChem,mg/m2,161,64
+SYNTHETIC-1,DONOR_18,TREATMENT_338,Other immunomodulatory substances,Opdivo,,PubChem,mg/kg,169,59
+SYNTHETIC-1,DONOR_19,TREATMENT_339,Immune checkpoint inhibitors,Rubraca,278936,,g/m2,177,173
+SYNTHETIC-1,DONOR_20,TREATMENT_340,Other immunomodulatory substances,,,PubChem,IU/m2,122,76
+SYNTHETIC-1,DONOR_21,TREATMENT_341,,Crizotinib,,PubChem,IU/m2,74,84
+SYNTHETIC-1,DONOR_22,TREATMENT_342,Other immunomodulatory substances,Trastuzumab,8756456,NCI Thesaurus,mg/kg,112,103
+SYNTHETIC-1,DONOR_23,TREATMENT_343,Cell-based,Ipilimumab,239766,PubChem,mg/m2,193,153
+SYNTHETIC-1,DONOR_24,TREATMENT_344,Immune checkpoint inhibitors,Trastuzumab,278936,PubChem,mg/kg,,121
+SYNTHETIC-1,DONOR_25,TREATMENT_345,Immune checkpoint inhibitors,Xalkori,987654,PubChem,ug/m2,166,164
+SYNTHETIC-1,DONOR_26,TREATMENT_346,Immune checkpoint inhibitors,Nivolumab,8836851,NCI Thesaurus,IU/kg,,94
+SYNTHETIC-1,DONOR_27,TREATMENT_347,Cell-based,Zykadia,278936,RxNorm,mg/kg,115,74
+SYNTHETIC-1,DONOR_28,TREATMENT_348,Cell-based,Nivolumab,239766,NCI Thesaurus,IU/kg,173,171
+SYNTHETIC-1,DONOR_29,TREATMENT_349,Cell-based,Fam-trastuzumab deruxtecan-nxki,239766,RxNorm,g/m2,129,99
+SYNTHETIC-1,DONOR_30,TREATMENT_350,Other immunomodulatory substances,Durvalumab,8836851,NCI Thesaurus,g/m2,,176
+SYNTHETIC-1,DONOR_31,TREATMENT_351,Cell-based,Ibrance,4459876,,cells/kg,195,118
+SYNTHETIC-1,DONOR_32,TREATMENT_352,Immune checkpoint inhibitors,Pembrolizumab,239766,RxNorm,IU/kg,123,105
+SYNTHETIC-1,DONOR_33,TREATMENT_353,Immune checkpoint inhibitors,Necitumumab,278936,,mg/m2,,85
+SYNTHETIC-1,DONOR_34,TREATMENT_354,Cell-based,Fam-trastuzumab deruxtecan-nxki,,NCI Thesaurus,cells/kg,199,
+SYNTHETIC-1,DONOR_35,TREATMENT_355,Other immunomodulatory substances,,239766,,ug/m2,151,196
+SYNTHETIC-1,DONOR_36,TREATMENT_356,Other immunomodulatory substances,Adcetris,,NCI Thesaurus,,,
+SYNTHETIC-1,DONOR_37,TREATMENT_357,Cell-based,Afatinib,8756456,NCI Thesaurus,cells/kg,171,
+SYNTHETIC-1,DONOR_38,TREATMENT_358,,Yervoy,987654,NCI Thesaurus,cells/kg,160,198
+SYNTHETIC-1,DONOR_39,TREATMENT_359,Other immunomodulatory substances,Pembrolizumab,8836851,NCI Thesaurus,IU/kg,159,
+SYNTHETIC-1,DONOR_40,TREATMENT_360,Monoclonal antibodies other than immune checkpoint inhibitors,Necitumumab,239766,RxNorm,g/m2,132,138
+SYNTHETIC-1,DONOR_1,TREATMENT_361,Cell-based,Atezolizumab,,RxNorm,mg/kg,170,
+SYNTHETIC-1,DONOR_2,TREATMENT_362,,Tecentriq,239766,NCI Thesaurus,IU/kg,92,177
+SYNTHETIC-1,DONOR_3,TREATMENT_363,Other immunomodulatory substances,Braftovi,8756456,RxNorm,cells/kg,72,151
+SYNTHETIC-1,DONOR_4,TREATMENT_364,Other immunomodulatory substances,Braftovi,239766,NCI Thesaurus,IU/m2,60,149
+SYNTHETIC-1,DONOR_5,TREATMENT_365,Cell-based,Axicabtagene ciloleucel,278936,NCI Thesaurus,IU/m2,154,64
+SYNTHETIC-1,DONOR_6,TREATMENT_366,,Atezolizumab,278936,PubChem,IU/kg,176,95
+SYNTHETIC-1,DONOR_7,TREATMENT_367,Other immunomodulatory substances,Blincyto,,PubChem,IU/kg,111,59
+SYNTHETIC-1,DONOR_8,TREATMENT_368,Cell-based,Nivolumab,8836851,NCI Thesaurus,,194,70
+SYNTHETIC-1,DONOR_9,TREATMENT_369,Immune checkpoint inhibitors,,8836851,,g/m2,76,187
+SYNTHETIC-1,DONOR_10,TREATMENT_370,,Blinatumomab,4459876,NCI Thesaurus,g/m2,52,116
+SYNTHETIC-1,DONOR_11,TREATMENT_371,Immune checkpoint inhibitors,Ipilimumab,4459876,PubChem,IU/kg,,56
+SYNTHETIC-1,DONOR_12,TREATMENT_372,Monoclonal antibodies other than immune checkpoint inhibitors,Besponsa,8836851,RxNorm,IU/m2,130,192
+SYNTHETIC-1,DONOR_13,TREATMENT_373,,Mekinist,278936,,IU/kg,183,89
+SYNTHETIC-1,DONOR_14,TREATMENT_374,Immune checkpoint inhibitors,,278936,,cells/kg,191,99
+SYNTHETIC-1,DONOR_15,TREATMENT_375,Cell-based,Opdivo,4459876,RxNorm,,91,
+SYNTHETIC-1,DONOR_16,TREATMENT_376,Cell-based,Nivolumab,,NCI Thesaurus,mg/kg,59,55
+SYNTHETIC-1,DONOR_17,TREATMENT_377,Cell-based,Alunbrig,8756456,,cells/kg,,141
+SYNTHETIC-1,DONOR_18,TREATMENT_378,,Yervoy,987654,RxNorm,IU/m2,100,70
+SYNTHETIC-1,DONOR_19,TREATMENT_379,Other immunomodulatory substances,,4459876,NCI Thesaurus,g/m2,124,
+SYNTHETIC-1,DONOR_20,TREATMENT_380,Monoclonal antibodies other than immune checkpoint inhibitors,Keytruda,278936,PubChem,,,181
+SYNTHETIC-1,DONOR_21,TREATMENT_381,Other immunomodulatory substances,Tecentriq,,RxNorm,ug/m2,81,145
+SYNTHETIC-1,DONOR_22,TREATMENT_382,Immune checkpoint inhibitors,Tecentriq,,,,157,52
+SYNTHETIC-1,DONOR_23,TREATMENT_383,Other immunomodulatory substances,Besponsa,278936,PubChem,g/m2,141,
+SYNTHETIC-1,DONOR_24,TREATMENT_384,Cell-based,Venetoclax,8756456,RxNorm,g/m2,,80
+SYNTHETIC-1,DONOR_25,TREATMENT_385,Cell-based,Tecentriq,4459876,RxNorm,mg/kg,160,182
+SYNTHETIC-1,DONOR_26,TREATMENT_386,Monoclonal antibodies other than immune checkpoint inhibitors,Ado-trastuzumab emtansine,4459876,NCI Thesaurus,mg/kg,76,
+SYNTHETIC-1,DONOR_27,TREATMENT_387,Monoclonal antibodies other than immune checkpoint inhibitors,Daratumumab,278936,PubChem,mg/m2,75,85
+SYNTHETIC-1,DONOR_28,TREATMENT_388,Immune checkpoint inhibitors,Yervoy,,RxNorm,IU/kg,,200
+SYNTHETIC-1,DONOR_29,TREATMENT_389,,Durvalumab,239766,,ug/m2,,120
+SYNTHETIC-1,DONOR_30,TREATMENT_390,Monoclonal antibodies other than immune checkpoint inhibitors,,4459876,RxNorm,cells/kg,155,197
+SYNTHETIC-1,DONOR_31,TREATMENT_391,Immune checkpoint inhibitors,Lenvima,8756456,RxNorm,mg/kg,103,132
+SYNTHETIC-1,DONOR_32,TREATMENT_392,,Tagrisso,278936,PubChem,mg/m2,108,121
+SYNTHETIC-1,DONOR_33,TREATMENT_393,Monoclonal antibodies other than immune checkpoint inhibitors,Afatinib,8836851,NCI Thesaurus,cells/kg,117,62
+SYNTHETIC-1,DONOR_34,TREATMENT_394,Immune checkpoint inhibitors,Opdivo,278936,PubChem,mg/kg,,169
+SYNTHETIC-1,DONOR_35,TREATMENT_395,Immune checkpoint inhibitors,,239766,,mg/kg,66,
+SYNTHETIC-1,DONOR_36,TREATMENT_396,Monoclonal antibodies other than immune checkpoint inhibitors,,239766,RxNorm,ug/m2,60,176
+SYNTHETIC-1,DONOR_37,TREATMENT_397,Immune checkpoint inhibitors,Fam-trastuzumab deruxtecan-nxki,278936,NCI Thesaurus,IU/m2,,137
+SYNTHETIC-1,DONOR_38,TREATMENT_398,Immune checkpoint inhibitors,Adcetris,4459876,PubChem,cells/kg,62,114
+SYNTHETIC-1,DONOR_39,TREATMENT_399,Cell-based,Cometriq,8836851,,IU/kg,118,161
+SYNTHETIC-1,DONOR_40,TREATMENT_400,,,278936,PubChem,ug/m2,75,56
+SYNTHETIC-1,DONOR_1,TREATMENT_321,,Yescarta,,PubChem,mg/m2,69,131
+SYNTHETIC-1,DONOR_2,TREATMENT_322,Cell-based,Sorafenib,,,,67,99
+SYNTHETIC-1,DONOR_3,TREATMENT_323,Other immunomodulatory substances,Nivolumab,8836851,NCI Thesaurus,mg/kg,140,73
+SYNTHETIC-1,DONOR_4,TREATMENT_324,Immune checkpoint inhibitors,Afatinib,8836851,RxNorm,IU/kg,,194
+SYNTHETIC-1,DONOR_5,TREATMENT_325,,Sorafenib,239766,NCI Thesaurus,,138,113
+SYNTHETIC-1,DONOR_6,TREATMENT_326,Other immunomodulatory substances,Trastuzumab,8836851,,,193,158
+SYNTHETIC-1,DONOR_7,TREATMENT_327,Monoclonal antibodies other than immune checkpoint inhibitors,,4459876,RxNorm,mg/kg,183,123
+SYNTHETIC-1,DONOR_8,TREATMENT_328,Cell-based,,4459876,PubChem,cells/kg,188,121
+SYNTHETIC-1,DONOR_9,TREATMENT_329,Immune checkpoint inhibitors,Xalkori,987654,PubChem,IU/kg,,129
+SYNTHETIC-1,DONOR_10,TREATMENT_330,,Gilteritinib,987654,PubChem,cells/kg,132,90
+SYNTHETIC-1,DONOR_11,TREATMENT_331,Other immunomodulatory substances,Imfinzi,8836851,,mg/kg,157,92
+SYNTHETIC-1,DONOR_12,TREATMENT_332,Cell-based,Zelboraf,8756456,PubChem,IU/m2,105,141
+SYNTHETIC-1,DONOR_13,TREATMENT_333,Monoclonal antibodies other than immune checkpoint inhibitors,Pexidartinib,8836851,PubChem,IU/kg,181,179
+SYNTHETIC-1,DONOR_14,TREATMENT_334,Other immunomodulatory substances,Trastuzumab,8836851,PubChem,IU/m2,,69
+SYNTHETIC-1,DONOR_15,TREATMENT_335,Immune checkpoint inhibitors,Blinatumomab,8836851,NCI Thesaurus,mg/m2,152,
+SYNTHETIC-1,DONOR_16,TREATMENT_336,Immune checkpoint inhibitors,Alecensa,239766,,mg/kg,148,89
+SYNTHETIC-1,DONOR_17,TREATMENT_337,Other immunomodulatory substances,Gefitinib,987654,PubChem,,179,80
+SYNTHETIC-1,DONOR_18,TREATMENT_338,,Niraparib,987654,PubChem,g/m2,150,
+SYNTHETIC-1,DONOR_19,TREATMENT_339,Other immunomodulatory substances,Brigatinib,8756456,NCI Thesaurus,,164,
+SYNTHETIC-1,DONOR_20,TREATMENT_340,Monoclonal antibodies other than immune checkpoint inhibitors,Venclexta,987654,NCI Thesaurus,mg/m2,,194
+SYNTHETIC-1,DONOR_21,TREATMENT_341,Other immunomodulatory substances,Niraparib,239766,NCI Thesaurus,g/m2,91,190
+SYNTHETIC-1,DONOR_22,TREATMENT_342,Other immunomodulatory substances,Tecentriq,8836851,PubChem,,107,135
+SYNTHETIC-1,DONOR_23,TREATMENT_343,Other immunomodulatory substances,Rucaparib,8836851,RxNorm,ug/m2,52,196
+SYNTHETIC-1,DONOR_24,TREATMENT_344,Other immunomodulatory substances,Copanlisib,8756456,PubChem,mg/m2,147,
+SYNTHETIC-1,DONOR_25,TREATMENT_345,,Tafinlar,,NCI Thesaurus,IU/m2,112,150
+SYNTHETIC-1,DONOR_26,TREATMENT_346,Cell-based,,987654,RxNorm,IU/kg,76,135
+SYNTHETIC-1,DONOR_27,TREATMENT_347,Other immunomodulatory substances,Adcetris,987654,RxNorm,mg/kg,95,72
+SYNTHETIC-1,DONOR_28,TREATMENT_348,Monoclonal antibodies other than immune checkpoint inhibitors,Brigatinib,987654,,g/m2,182,
+SYNTHETIC-1,DONOR_29,TREATMENT_349,Immune checkpoint inhibitors,Zykadia,,RxNorm,ug/m2,,175
+SYNTHETIC-1,DONOR_30,TREATMENT_350,Cell-based,Perjeta,987654,RxNorm,mg/m2,75,140
+SYNTHETIC-1,DONOR_31,TREATMENT_351,Immune checkpoint inhibitors,Pexidartinib,239766,NCI Thesaurus,IU/m2,54,121
+SYNTHETIC-1,DONOR_32,TREATMENT_352,Immune checkpoint inhibitors,,239766,RxNorm,ug/m2,62,198
+SYNTHETIC-1,DONOR_33,TREATMENT_353,Monoclonal antibodies other than immune checkpoint inhibitors,Dabrafenib,4459876,PubChem,mg/m2,63,189
+SYNTHETIC-1,DONOR_34,TREATMENT_354,Immune checkpoint inhibitors,Durvalumab,,NCI Thesaurus,cells/kg,54,93
+SYNTHETIC-1,DONOR_35,TREATMENT_355,Other immunomodulatory substances,Rituximab,987654,RxNorm,,152,
+SYNTHETIC-1,DONOR_36,TREATMENT_356,Cell-based,Durvalumab,278936,NCI Thesaurus,mg/kg,107,181
+SYNTHETIC-1,DONOR_37,TREATMENT_357,,Binimetinib,4459876,NCI Thesaurus,mg/kg,143,185
+SYNTHETIC-1,DONOR_38,TREATMENT_358,Monoclonal antibodies other than immune checkpoint inhibitors,,4459876,,IU/m2,97,191
+SYNTHETIC-1,DONOR_39,TREATMENT_359,Other immunomodulatory substances,Iressa,4459876,RxNorm,cells/kg,76,180
+SYNTHETIC-1,DONOR_40,TREATMENT_360,Cell-based,Besponsa,278936,,cells/kg,196,
+SYNTHETIC-1,DONOR_1,TREATMENT_361,Monoclonal antibodies other than immune checkpoint inhibitors,Nivolumab,239766,RxNorm,cells/kg,57,192
+SYNTHETIC-1,DONOR_2,TREATMENT_362,Monoclonal antibodies other than immune checkpoint inhibitors,Yervoy,239766,PubChem,ug/m2,186,114
+SYNTHETIC-1,DONOR_3,TREATMENT_363,Cell-based,Kymriah,4459876,NCI Thesaurus,cells/kg,,174
+SYNTHETIC-1,DONOR_4,TREATMENT_364,,Kymriah,278936,PubChem,mg/kg,129,183
+SYNTHETIC-1,DONOR_5,TREATMENT_365,Cell-based,Kymriah,4459876,PubChem,g/m2,51,
+SYNTHETIC-1,DONOR_6,TREATMENT_366,Immune checkpoint inhibitors,Gilteritinib,278936,PubChem,cells/kg,83,113
+SYNTHETIC-1,DONOR_7,TREATMENT_367,Immune checkpoint inhibitors,Kisqali,,NCI Thesaurus,ug/m2,124,70
+SYNTHETIC-1,DONOR_8,TREATMENT_368,Other immunomodulatory substances,,239766,NCI Thesaurus,IU/m2,140,167
+SYNTHETIC-1,DONOR_9,TREATMENT_369,Immune checkpoint inhibitors,Vemurafenib,239766,NCI Thesaurus,mg/m2,,95
+SYNTHETIC-1,DONOR_10,TREATMENT_370,Monoclonal antibodies other than immune checkpoint inhibitors,Gilotrif,8836851,NCI Thesaurus,mg/m2,,74
+SYNTHETIC-1,DONOR_11,TREATMENT_371,Immune checkpoint inhibitors,Copanlisib,8836851,,ug/m2,200,80
+SYNTHETIC-1,DONOR_12,TREATMENT_372,Immune checkpoint inhibitors,Iressa,,RxNorm,,56,191
+SYNTHETIC-1,DONOR_13,TREATMENT_373,Other immunomodulatory substances,Gefitinib,,PubChem,cells/kg,57,
+SYNTHETIC-1,DONOR_14,TREATMENT_374,Monoclonal antibodies other than immune checkpoint inhibitors,Imfinzi,8836851,,cells/kg,51,101
+SYNTHETIC-1,DONOR_15,TREATMENT_375,Monoclonal antibodies other than immune checkpoint inhibitors,Trastuzumab,278936,RxNorm,mg/m2,73,117
+SYNTHETIC-1,DONOR_16,TREATMENT_376,Cell-based,Imfinzi,,NCI Thesaurus,ug/m2,79,164
+SYNTHETIC-1,DONOR_17,TREATMENT_377,Immune checkpoint inhibitors,Yervoy,,PubChem,ug/m2,145,167
+SYNTHETIC-1,DONOR_18,TREATMENT_378,Cell-based,Keytruda,239766,PubChem,g/m2,107,
+SYNTHETIC-1,DONOR_19,TREATMENT_379,Monoclonal antibodies other than immune checkpoint inhibitors,Palbociclib,278936,NCI Thesaurus,mg/kg,70,107
+SYNTHETIC-1,DONOR_20,TREATMENT_380,,Alectinib,987654,NCI Thesaurus,cells/kg,51,
+SYNTHETIC-1,DONOR_21,TREATMENT_381,,Tafinlar,8836851,NCI Thesaurus,IU/kg,100,
+SYNTHETIC-1,DONOR_22,TREATMENT_382,Monoclonal antibodies other than immune checkpoint inhibitors,Tecentriq,8756456,RxNorm,ug/m2,178,80
+SYNTHETIC-1,DONOR_23,TREATMENT_383,Other immunomodulatory substances,Alunbrig,278936,PubChem,,87,136
+SYNTHETIC-1,DONOR_24,TREATMENT_384,Immune checkpoint inhibitors,Nivolumab,8756456,,,55,170
+SYNTHETIC-1,DONOR_25,TREATMENT_385,Monoclonal antibodies other than immune checkpoint inhibitors,Cotellic,,,mg/m2,121,159
+SYNTHETIC-1,DONOR_26,TREATMENT_386,Other immunomodulatory substances,Durvalumab,,NCI Thesaurus,IU/kg,132,175
+SYNTHETIC-1,DONOR_27,TREATMENT_387,Cell-based,Nivolumab,4459876,PubChem,mg/kg,89,
+SYNTHETIC-1,DONOR_28,TREATMENT_388,Immune checkpoint inhibitors,Yescarta,4459876,PubChem,IU/kg,87,187
+SYNTHETIC-1,DONOR_29,TREATMENT_389,Cell-based,,278936,PubChem,IU/kg,78,121
+SYNTHETIC-1,DONOR_30,TREATMENT_390,Monoclonal antibodies other than immune checkpoint inhibitors,Binimetinib,8836851,,,65,101
+SYNTHETIC-1,DONOR_31,TREATMENT_391,Monoclonal antibodies other than immune checkpoint inhibitors,Opdivo,239766,PubChem,mg/m2,78,84
+SYNTHETIC-1,DONOR_32,TREATMENT_392,Monoclonal antibodies other than immune checkpoint inhibitors,Cobimetinib,8756456,NCI Thesaurus,IU/kg,110,
+SYNTHETIC-1,DONOR_33,TREATMENT_393,Immune checkpoint inhibitors,Binimetinib,239766,RxNorm,IU/m2,188,190
+SYNTHETIC-1,DONOR_34,TREATMENT_394,Cell-based,Rituxan,987654,NCI Thesaurus,ug/m2,146,172
+SYNTHETIC-1,DONOR_35,TREATMENT_395,Cell-based,,987654,PubChem,,,197
+SYNTHETIC-1,DONOR_36,TREATMENT_396,Monoclonal antibodies other than immune checkpoint inhibitors,Venetoclax,987654,NCI Thesaurus,mg/kg,74,104
+SYNTHETIC-1,DONOR_37,TREATMENT_397,Cell-based,Blincyto,,NCI Thesaurus,IU/kg,123,73
+SYNTHETIC-1,DONOR_38,TREATMENT_398,Immune checkpoint inhibitors,Herceptin,8756456,,ug/m2,,
+SYNTHETIC-1,DONOR_39,TREATMENT_399,Other immunomodulatory substances,Nivolumab,987654,NCI Thesaurus,,,50
+SYNTHETIC-1,DONOR_40,TREATMENT_400,Cell-based,Cobimetinib,278936,RxNorm,IU/m2,177,183
+SYNTHETIC-1,DONOR_1,TREATMENT_321,Other immunomodulatory substances,Blincyto,239766,,ug/m2,82,183
+SYNTHETIC-1,DONOR_2,TREATMENT_322,Other immunomodulatory substances,Lynparza,239766,NCI Thesaurus,IU/m2,134,194
+SYNTHETIC-1,DONOR_3,TREATMENT_323,Cell-based,Cometriq,8756456,PubChem,cells/kg,175,
+SYNTHETIC-1,DONOR_4,TREATMENT_324,Other immunomodulatory substances,Ceritinib,8836851,PubChem,cells/kg,84,185
+SYNTHETIC-1,DONOR_5,TREATMENT_325,Other immunomodulatory substances,Nivolumab,278936,NCI Thesaurus,mg/kg,155,65
+SYNTHETIC-1,DONOR_6,TREATMENT_326,Cell-based,Adcetris,,,IU/kg,60,76
+SYNTHETIC-1,DONOR_7,TREATMENT_327,Cell-based,Dabrafenib,,PubChem,ug/m2,,78
+SYNTHETIC-1,DONOR_8,TREATMENT_328,Immune checkpoint inhibitors,Ipilimumab,8756456,NCI Thesaurus,ug/m2,117,62
+SYNTHETIC-1,DONOR_9,TREATMENT_329,Cell-based,Sorafenib,8836851,RxNorm,,104,
+SYNTHETIC-1,DONOR_10,TREATMENT_330,Monoclonal antibodies other than immune checkpoint inhibitors,Rituximab,8836851,RxNorm,mg/m2,185,151
+SYNTHETIC-1,DONOR_11,TREATMENT_331,Other immunomodulatory substances,Axicabtagene ciloleucel,8756456,RxNorm,IU/kg,139,91
+SYNTHETIC-1,DONOR_12,TREATMENT_332,Cell-based,Perjeta,8756456,RxNorm,mg/kg,122,133
+SYNTHETIC-1,DONOR_13,TREATMENT_333,Immune checkpoint inhibitors,Ipilimumab,987654,PubChem,mg/kg,,109
+SYNTHETIC-1,DONOR_14,TREATMENT_334,Immune checkpoint inhibitors,Palbociclib,278936,PubChem,mg/kg,130,
+SYNTHETIC-1,DONOR_15,TREATMENT_335,Monoclonal antibodies other than immune checkpoint inhibitors,Necitumumab,4459876,NCI Thesaurus,mg/kg,149,
+SYNTHETIC-1,DONOR_16,TREATMENT_336,Immune checkpoint inhibitors,Dabrafenib,8756456,RxNorm,g/m2,127,168
+SYNTHETIC-1,DONOR_17,TREATMENT_337,Cell-based,,278936,NCI Thesaurus,mg/kg,,183
+SYNTHETIC-1,DONOR_18,TREATMENT_338,Immune checkpoint inhibitors,Ibrance,8756456,,mg/kg,151,113
+SYNTHETIC-1,DONOR_19,TREATMENT_339,Other immunomodulatory substances,Selumitinib,987654,NCI Thesaurus,cells/kg,85,126
+SYNTHETIC-1,DONOR_20,TREATMENT_340,Cell-based,,4459876,NCI Thesaurus,mg/m2,120,
+SYNTHETIC-1,DONOR_21,TREATMENT_341,Other immunomodulatory substances,Niraparib,239766,RxNorm,cells/kg,200,127
+SYNTHETIC-1,DONOR_22,TREATMENT_342,Cell-based,Pexidartinib,239766,NCI Thesaurus,g/m2,,
+SYNTHETIC-1,DONOR_23,TREATMENT_343,Monoclonal antibodies other than immune checkpoint inhibitors,,239766,RxNorm,g/m2,125,198
+SYNTHETIC-1,DONOR_24,TREATMENT_344,Immune checkpoint inhibitors,Pembrolizumab,278936,RxNorm,mg/kg,175,152
+SYNTHETIC-1,DONOR_25,TREATMENT_345,Monoclonal antibodies other than immune checkpoint inhibitors,Crizotinib,278936,PubChem,ug/m2,181,
+SYNTHETIC-1,DONOR_26,TREATMENT_346,Monoclonal antibodies other than immune checkpoint inhibitors,Xalkori,239766,PubChem,mg/m2,,120
+SYNTHETIC-1,DONOR_27,TREATMENT_347,Immune checkpoint inhibitors,Rituximab,,PubChem,,,146
+SYNTHETIC-1,DONOR_28,TREATMENT_348,Immune checkpoint inhibitors,,8836851,NCI Thesaurus,ug/m2,115,103
+SYNTHETIC-1,DONOR_29,TREATMENT_349,Cell-based,Ipilimumab,4459876,RxNorm,mg/m2,78,168
+SYNTHETIC-1,DONOR_30,TREATMENT_350,Monoclonal antibodies other than immune checkpoint inhibitors,Trametinib,239766,NCI Thesaurus,IU/m2,64,74
+SYNTHETIC-1,DONOR_31,TREATMENT_351,Cell-based,Durvalumab,239766,RxNorm,,63,102
+SYNTHETIC-1,DONOR_32,TREATMENT_352,Immune checkpoint inhibitors,Gilotrif,987654,RxNorm,cells/kg,192,103
+SYNTHETIC-1,DONOR_33,TREATMENT_353,,Yervoy,8756456,RxNorm,mg/kg,148,
+SYNTHETIC-1,DONOR_34,TREATMENT_354,Other immunomodulatory substances,Tagrisso,8836851,RxNorm,mg/kg,,151
+SYNTHETIC-1,DONOR_35,TREATMENT_355,Monoclonal antibodies other than immune checkpoint inhibitors,Pembrolizumab,4459876,RxNorm,mg/m2,113,82
+SYNTHETIC-1,DONOR_36,TREATMENT_356,Monoclonal antibodies other than immune checkpoint inhibitors,Atezolizumab,,PubChem,IU/m2,,196
+SYNTHETIC-1,DONOR_37,TREATMENT_357,Cell-based,Nivolumab,278936,NCI Thesaurus,ug/m2,159,173
+SYNTHETIC-1,DONOR_38,TREATMENT_358,Cell-based,Enhertu,8836851,PubChem,mg/kg,75,106
+SYNTHETIC-1,DONOR_39,TREATMENT_359,Cell-based,Blinatumomab,4459876,RxNorm,IU/m2,80,81
+SYNTHETIC-1,DONOR_40,TREATMENT_360,Monoclonal antibodies other than immune checkpoint inhibitors,Verzenio,8756456,NCI Thesaurus,IU/m2,,135
+SYNTHETIC-1,DONOR_1,TREATMENT_361,Immune checkpoint inhibitors,Imfinzi,239766,PubChem,ug/m2,,108
+SYNTHETIC-1,DONOR_2,TREATMENT_362,Monoclonal antibodies other than immune checkpoint inhibitors,Durvalumab,8836851,NCI Thesaurus,g/m2,107,115
+SYNTHETIC-1,DONOR_3,TREATMENT_363,Monoclonal antibodies other than immune checkpoint inhibitors,Cobimetinib,8836851,PubChem,mg/m2,146,190
+SYNTHETIC-1,DONOR_4,TREATMENT_364,,Durvalumab,,NCI Thesaurus,,118,104
+SYNTHETIC-1,DONOR_5,TREATMENT_365,Other immunomodulatory substances,Xalkori,4459876,NCI Thesaurus,g/m2,97,
+SYNTHETIC-1,DONOR_6,TREATMENT_366,Monoclonal antibodies other than immune checkpoint inhibitors,Opdivo,4459876,NCI Thesaurus,g/m2,114,61
+SYNTHETIC-1,DONOR_7,TREATMENT_367,Immune checkpoint inhibitors,,239766,PubChem,cells/kg,,51
+SYNTHETIC-1,DONOR_8,TREATMENT_368,Other immunomodulatory substances,Tisagenlecleucel,4459876,,IU/m2,145,
+SYNTHETIC-1,DONOR_9,TREATMENT_369,Cell-based,Brentuximab vedotin,4459876,PubChem,cells/kg,100,83
+SYNTHETIC-1,DONOR_10,TREATMENT_370,Other immunomodulatory substances,Pembrolizumab,278936,NCI Thesaurus,mg/kg,,85
+SYNTHETIC-1,DONOR_11,TREATMENT_371,Cell-based,Atezolizumab,987654,NCI Thesaurus,IU/kg,81,182
+SYNTHETIC-1,DONOR_12,TREATMENT_372,Other immunomodulatory substances,Ibrance,8756456,RxNorm,mg/kg,86,181
+SYNTHETIC-1,DONOR_13,TREATMENT_373,Cell-based,,987654,RxNorm,,83,169
+SYNTHETIC-1,DONOR_14,TREATMENT_374,Other immunomodulatory substances,Rubraca,8836851,,g/m2,66,
+SYNTHETIC-1,DONOR_15,TREATMENT_375,Cell-based,Keytruda,239766,PubChem,IU/kg,192,117
+SYNTHETIC-1,DONOR_16,TREATMENT_376,Monoclonal antibodies other than immune checkpoint inhibitors,Keytruda,4459876,RxNorm,mg/kg,56,110
+SYNTHETIC-1,DONOR_17,TREATMENT_377,Other immunomodulatory substances,Tecentriq,,PubChem,g/m2,,121
+SYNTHETIC-1,DONOR_18,TREATMENT_378,Immune checkpoint inhibitors,Fam-trastuzumab deruxtecan-nxki,8836851,PubChem,,65,
+SYNTHETIC-1,DONOR_19,TREATMENT_379,Other immunomodulatory substances,Perjeta,8836851,,,107,125
+SYNTHETIC-1,DONOR_20,TREATMENT_380,Monoclonal antibodies other than immune checkpoint inhibitors,Kymriah,4459876,NCI Thesaurus,mg/m2,93,188
+SYNTHETIC-1,DONOR_21,TREATMENT_381,Monoclonal antibodies other than immune checkpoint inhibitors,Pembrolizumab,239766,,,,
+SYNTHETIC-1,DONOR_22,TREATMENT_382,Immune checkpoint inhibitors,Keytruda,8756456,NCI Thesaurus,IU/m2,136,162
+SYNTHETIC-1,DONOR_23,TREATMENT_383,Immune checkpoint inhibitors,Venetoclax,,RxNorm,cells/kg,134,178
+SYNTHETIC-1,DONOR_24,TREATMENT_384,Monoclonal antibodies other than immune checkpoint inhibitors,Tafinlar,239766,NCI Thesaurus,IU/kg,82,179
+SYNTHETIC-1,DONOR_25,TREATMENT_385,Immune checkpoint inhibitors,Obinutuzumab,,NCI Thesaurus,,149,67
+SYNTHETIC-1,DONOR_26,TREATMENT_386,Immune checkpoint inhibitors,Necitumumab,8836851,NCI Thesaurus,IU/m2,154,
+SYNTHETIC-1,DONOR_27,TREATMENT_387,Immune checkpoint inhibitors,Binimetinib,,RxNorm,,95,132
+SYNTHETIC-1,DONOR_28,TREATMENT_388,Monoclonal antibodies other than immune checkpoint inhibitors,Lynparza,4459876,PubChem,cells/kg,93,153
+SYNTHETIC-1,DONOR_29,TREATMENT_389,Other immunomodulatory substances,Zejula,8756456,RxNorm,ug/m2,62,113
+SYNTHETIC-1,DONOR_30,TREATMENT_390,Other immunomodulatory substances,Pexidartinib,278936,RxNorm,mg/m2,146,110
+SYNTHETIC-1,DONOR_31,TREATMENT_391,Cell-based,,239766,PubChem,IU/m2,144,191
+SYNTHETIC-1,DONOR_32,TREATMENT_392,Monoclonal antibodies other than immune checkpoint inhibitors,Alunbrig,4459876,,,195,85
+SYNTHETIC-1,DONOR_33,TREATMENT_393,Immune checkpoint inhibitors,Xalkori,4459876,,g/m2,129,167
+SYNTHETIC-1,DONOR_34,TREATMENT_394,Monoclonal antibodies other than immune checkpoint inhibitors,Cabozantinib,4459876,RxNorm,,96,130
+SYNTHETIC-1,DONOR_35,TREATMENT_395,Cell-based,Gilteritinib,8836851,NCI Thesaurus,mg/m2,125,170
+SYNTHETIC-1,DONOR_36,TREATMENT_396,Cell-based,,987654,NCI Thesaurus,mg/m2,188,107
+SYNTHETIC-1,DONOR_37,TREATMENT_397,Monoclonal antibodies other than immune checkpoint inhibitors,Braftovi,8836851,RxNorm,mg/m2,130,191
+SYNTHETIC-1,DONOR_38,TREATMENT_398,Other immunomodulatory substances,Trastuzumab,278936,NCI Thesaurus,IU/kg,69,115
+SYNTHETIC-1,DONOR_39,TREATMENT_399,Cell-based,Brentuximab vedotin,8756456,,IU/m2,177,
+SYNTHETIC-1,DONOR_40,TREATMENT_400,Monoclonal antibodies other than immune checkpoint inhibitors,Atezolizumab,987654,RxNorm,mg/m2,121,77
+SYNTHETIC-1,DONOR_1,TREATMENT_321,Monoclonal antibodies other than immune checkpoint inhibitors,Durvalumab,4459876,,cells/kg,,93
+SYNTHETIC-1,DONOR_2,TREATMENT_322,,Abemaciclib,4459876,PubChem,g/m2,111,187
+SYNTHETIC-1,DONOR_3,TREATMENT_323,Monoclonal antibodies other than immune checkpoint inhibitors,Durvalumab,987654,PubChem,,162,137
+SYNTHETIC-1,DONOR_4,TREATMENT_324,Other immunomodulatory substances,,,,g/m2,75,154
+SYNTHETIC-1,DONOR_5,TREATMENT_325,,Crizotinib,278936,RxNorm,IU/m2,104,175
+SYNTHETIC-1,DONOR_6,TREATMENT_326,Immune checkpoint inhibitors,Palbociclib,8836851,PubChem,mg/m2,183,104
+SYNTHETIC-1,DONOR_7,TREATMENT_327,Cell-based,Tecentriq,278936,PubChem,mg/kg,150,102
+SYNTHETIC-1,DONOR_8,TREATMENT_328,Other immunomodulatory substances,Daratumumab,987654,PubChem,mg/m2,,89
+SYNTHETIC-1,DONOR_9,TREATMENT_329,Cell-based,Ipilimumab,8836851,RxNorm,,62,104
+SYNTHETIC-1,DONOR_10,TREATMENT_330,Other immunomodulatory substances,Durvalumab,4459876,RxNorm,cells/kg,159,194
+SYNTHETIC-1,DONOR_11,TREATMENT_331,Cell-based,Besponsa,278936,PubChem,mg/kg,,133
+SYNTHETIC-1,DONOR_12,TREATMENT_332,Monoclonal antibodies other than immune checkpoint inhibitors,Nivolumab,4459876,PubChem,mg/m2,193,95
+SYNTHETIC-1,DONOR_13,TREATMENT_333,Monoclonal antibodies other than immune checkpoint inhibitors,Brentuximab vedotin,987654,NCI Thesaurus,ug/m2,145,146
+SYNTHETIC-1,DONOR_14,TREATMENT_334,Monoclonal antibodies other than immune checkpoint inhibitors,Tafinlar,4459876,PubChem,,198,61
+SYNTHETIC-1,DONOR_15,TREATMENT_335,Cell-based,Abemaciclib,278936,PubChem,ug/m2,57,88
+SYNTHETIC-1,DONOR_16,TREATMENT_336,Monoclonal antibodies other than immune checkpoint inhibitors,Rubraca,4459876,RxNorm,IU/kg,,98
+SYNTHETIC-1,DONOR_17,TREATMENT_337,Immune checkpoint inhibitors,Caprelsa,239766,NCI Thesaurus,,107,106
+SYNTHETIC-1,DONOR_18,TREATMENT_338,Immune checkpoint inhibitors,Lynparza,4459876,,g/m2,153,145
+SYNTHETIC-1,DONOR_19,TREATMENT_339,,Ceritinib,987654,RxNorm,IU/m2,187,107
+SYNTHETIC-1,DONOR_20,TREATMENT_340,Immune checkpoint inhibitors,Dabrafenib,278936,PubChem,,185,137
+SYNTHETIC-1,DONOR_21,TREATMENT_341,Cell-based,,987654,,,103,
+SYNTHETIC-1,DONOR_22,TREATMENT_342,,Selumitinib,987654,NCI Thesaurus,g/m2,75,108
+SYNTHETIC-1,DONOR_23,TREATMENT_343,Monoclonal antibodies other than immune checkpoint inhibitors,,4459876,PubChem,,,
+SYNTHETIC-1,DONOR_24,TREATMENT_344,,,8836851,RxNorm,mg/m2,,66
+SYNTHETIC-1,DONOR_25,TREATMENT_345,Cell-based,Tecentriq,,PubChem,IU/kg,138,
+SYNTHETIC-1,DONOR_26,TREATMENT_346,,Axicabtagene ciloleucel,239766,PubChem,ug/m2,,74
+SYNTHETIC-1,DONOR_27,TREATMENT_347,Cell-based,Durvalumab,8756456,PubChem,g/m2,,171
+SYNTHETIC-1,DONOR_28,TREATMENT_348,Immune checkpoint inhibitors,Cobimetinib,8756456,PubChem,ug/m2,66,61
+SYNTHETIC-1,DONOR_29,TREATMENT_349,Other immunomodulatory substances,Opdivo,987654,PubChem,cells/kg,128,
+SYNTHETIC-1,DONOR_30,TREATMENT_350,Immune checkpoint inhibitors,,8836851,RxNorm,mg/kg,191,166
+SYNTHETIC-1,DONOR_31,TREATMENT_351,Cell-based,,239766,NCI Thesaurus,mg/kg,142,174
+SYNTHETIC-1,DONOR_32,TREATMENT_352,Immune checkpoint inhibitors,Gilotrif,987654,NCI Thesaurus,mg/m2,85,
+SYNTHETIC-1,DONOR_33,TREATMENT_353,Immune checkpoint inhibitors,Blincyto,987654,NCI Thesaurus,ug/m2,,150
+SYNTHETIC-1,DONOR_34,TREATMENT_354,Cell-based,Tecentriq,8836851,,IU/m2,175,73
+SYNTHETIC-1,DONOR_35,TREATMENT_355,Other immunomodulatory substances,Vemurafenib,4459876,NCI Thesaurus,ug/m2,,
+SYNTHETIC-1,DONOR_36,TREATMENT_356,Other immunomodulatory substances,Ribociclib,987654,,g/m2,179,184
+SYNTHETIC-1,DONOR_37,TREATMENT_357,Monoclonal antibodies other than immune checkpoint inhibitors,Venetoclax,987654,RxNorm,g/m2,87,181
+SYNTHETIC-1,DONOR_38,TREATMENT_358,Immune checkpoint inhibitors,Afatinib,8756456,PubChem,,136,67
+SYNTHETIC-1,DONOR_39,TREATMENT_359,,Yervoy,278936,RxNorm,g/m2,57,94
+SYNTHETIC-1,DONOR_40,TREATMENT_360,Cell-based,Tecentriq,987654,RxNorm,,51,
+SYNTHETIC-1,DONOR_1,TREATMENT_361,Immune checkpoint inhibitors,Encorafenib,239766,PubChem,IU/m2,193,195
+SYNTHETIC-1,DONOR_2,TREATMENT_362,Other immunomodulatory substances,Atezolizumab,8756456,PubChem,IU/m2,192,72
+SYNTHETIC-1,DONOR_3,TREATMENT_363,,Inotuzumab ozogamicin,,NCI Thesaurus,cells/kg,161,
+SYNTHETIC-1,DONOR_4,TREATMENT_364,,Tisagenlecleucel,278936,,mg/kg,192,101
+SYNTHETIC-1,DONOR_5,TREATMENT_365,Monoclonal antibodies other than immune checkpoint inhibitors,Pembrolizumab,8836851,PubChem,cells/kg,,138
+SYNTHETIC-1,DONOR_6,TREATMENT_366,,Trametinib,8756456,NCI Thesaurus,,124,84
+SYNTHETIC-1,DONOR_7,TREATMENT_367,Immune checkpoint inhibitors,Iressa,987654,PubChem,cells/kg,140,117
+SYNTHETIC-1,DONOR_8,TREATMENT_368,Immune checkpoint inhibitors,Alectinib,,RxNorm,cells/kg,,194
+SYNTHETIC-1,DONOR_9,TREATMENT_369,Immune checkpoint inhibitors,Atezolizumab,4459876,RxNorm,IU/kg,96,67
+SYNTHETIC-1,DONOR_10,TREATMENT_370,Immune checkpoint inhibitors,Mekinist,987654,NCI Thesaurus,g/m2,64,144
+SYNTHETIC-1,DONOR_11,TREATMENT_371,Monoclonal antibodies other than immune checkpoint inhibitors,Lenvatinib,239766,NCI Thesaurus,cells/kg,,
+SYNTHETIC-1,DONOR_12,TREATMENT_372,Immune checkpoint inhibitors,Atezolizumab,278936,NCI Thesaurus,,,54
+SYNTHETIC-1,DONOR_13,TREATMENT_373,Monoclonal antibodies other than immune checkpoint inhibitors,Keytruda,239766,RxNorm,g/m2,162,50
+SYNTHETIC-1,DONOR_14,TREATMENT_374,Other immunomodulatory substances,Trastuzumab,8756456,,IU/m2,197,115
+SYNTHETIC-1,DONOR_15,TREATMENT_375,Cell-based,Tarceva,8836851,NCI Thesaurus,mg/m2,144,164
+SYNTHETIC-1,DONOR_16,TREATMENT_376,Monoclonal antibodies other than immune checkpoint inhibitors,Venclexta,8756456,NCI Thesaurus,mg/m2,,59
+SYNTHETIC-1,DONOR_17,TREATMENT_377,Monoclonal antibodies other than immune checkpoint inhibitors,Verzenio,4459876,RxNorm,IU/m2,160,166
+SYNTHETIC-1,DONOR_18,TREATMENT_378,Monoclonal antibodies other than immune checkpoint inhibitors,Keytruda,8836851,RxNorm,cells/kg,140,161
+SYNTHETIC-1,DONOR_19,TREATMENT_379,Cell-based,Encorafenib,,NCI Thesaurus,ug/m2,61,200
+SYNTHETIC-1,DONOR_20,TREATMENT_380,Other immunomodulatory substances,Gefitinib,278936,RxNorm,mg/kg,188,57
+SYNTHETIC-1,DONOR_21,TREATMENT_381,Other immunomodulatory substances,Nivolumab,239766,NCI Thesaurus,,99,
+SYNTHETIC-1,DONOR_22,TREATMENT_382,Monoclonal antibodies other than immune checkpoint inhibitors,Tecentriq,,PubChem,g/m2,61,141
+SYNTHETIC-1,DONOR_23,TREATMENT_383,Cell-based,Mektovi,239766,,g/m2,93,187
+SYNTHETIC-1,DONOR_24,TREATMENT_384,Monoclonal antibodies other than immune checkpoint inhibitors,Nivolumab,987654,RxNorm,mg/m2,125,160
+SYNTHETIC-1,DONOR_25,TREATMENT_385,Other immunomodulatory substances,Cobimetinib,987654,RxNorm,IU/m2,149,120
+SYNTHETIC-1,DONOR_26,TREATMENT_386,Other immunomodulatory substances,Enhertu,4459876,PubChem,mg/kg,82,181
+SYNTHETIC-1,DONOR_27,TREATMENT_387,,Caprelsa,239766,,mg/kg,125,153
+SYNTHETIC-1,DONOR_28,TREATMENT_388,Cell-based,Ipilimumab,239766,NCI Thesaurus,IU/m2,112,154
+SYNTHETIC-1,DONOR_29,TREATMENT_389,Immune checkpoint inhibitors,Ipilimumab,,PubChem,cells/kg,196,140
+SYNTHETIC-1,DONOR_30,TREATMENT_390,Cell-based,Perjeta,4459876,,mg/kg,86,
+SYNTHETIC-1,DONOR_31,TREATMENT_391,Other immunomodulatory substances,Imfinzi,239766,,ug/m2,100,
+SYNTHETIC-1,DONOR_32,TREATMENT_392,Monoclonal antibodies other than immune checkpoint inhibitors,Yervoy,8756456,NCI Thesaurus,mg/kg,70,196
+SYNTHETIC-1,DONOR_33,TREATMENT_393,Other immunomodulatory substances,Keytruda,239766,NCI Thesaurus,mg/m2,97,190
+SYNTHETIC-1,DONOR_34,TREATMENT_394,Immune checkpoint inhibitors,Vandetanib,239766,NCI Thesaurus,cells/kg,144,178
+SYNTHETIC-1,DONOR_35,TREATMENT_395,Other immunomodulatory substances,Alecensa,8756456,PubChem,IU/m2,75,
+SYNTHETIC-1,DONOR_36,TREATMENT_396,Immune checkpoint inhibitors,,,RxNorm,mg/kg,,79
+SYNTHETIC-1,DONOR_37,TREATMENT_397,Immune checkpoint inhibitors,Xalkori,8836851,,mg/kg,,88
+SYNTHETIC-1,DONOR_38,TREATMENT_398,Cell-based,Yervoy,8756456,,ug/m2,,61
+SYNTHETIC-1,DONOR_39,TREATMENT_399,Other immunomodulatory substances,Ado-trastuzumab emtansine,8836851,RxNorm,g/m2,189,92
+SYNTHETIC-1,DONOR_40,TREATMENT_400,Immune checkpoint inhibitors,Xalkori,,RxNorm,IU/m2,,120
+SYNTHETIC-1,DONOR_1,TREATMENT_401,Immune checkpoint inhibitors,Imfinzi,239766,PubChem,IU/kg,,122
+SYNTHETIC-1,DONOR_2,TREATMENT_402,Monoclonal antibodies other than immune checkpoint inhibitors,Iressa,,RxNorm,mg/m2,88,143
+SYNTHETIC-1,DONOR_3,TREATMENT_403,Cell-based,Osimertinib,8756456,NCI Thesaurus,mg/m2,147,
+SYNTHETIC-1,DONOR_4,TREATMENT_404,Monoclonal antibodies other than immune checkpoint inhibitors,Mektovi,4459876,NCI Thesaurus,IU/m2,122,50
+SYNTHETIC-1,DONOR_5,TREATMENT_405,Immune checkpoint inhibitors,Zelboraf,8836851,NCI Thesaurus,mg/m2,181,70
+SYNTHETIC-1,DONOR_6,TREATMENT_406,Other immunomodulatory substances,Trametinib,4459876,RxNorm,mg/kg,155,52
+SYNTHETIC-1,DONOR_7,TREATMENT_407,Other immunomodulatory substances,Cabozantinib,8836851,PubChem,,74,106
+SYNTHETIC-1,DONOR_8,TREATMENT_408,Cell-based,Caprelsa,,RxNorm,mg/m2,89,123
+SYNTHETIC-1,DONOR_9,TREATMENT_409,,Opdivo,8756456,RxNorm,g/m2,180,118
+SYNTHETIC-1,DONOR_10,TREATMENT_410,Monoclonal antibodies other than immune checkpoint inhibitors,Abemaciclib,987654,,ug/m2,178,141
+SYNTHETIC-1,DONOR_11,TREATMENT_411,Immune checkpoint inhibitors,Nivolumab,239766,NCI Thesaurus,,121,158
+SYNTHETIC-1,DONOR_12,TREATMENT_412,Monoclonal antibodies other than immune checkpoint inhibitors,Daratumumab,239766,RxNorm,ug/m2,52,
+SYNTHETIC-1,DONOR_13,TREATMENT_413,Monoclonal antibodies other than immune checkpoint inhibitors,Mektovi,239766,RxNorm,cells/kg,80,
+SYNTHETIC-1,DONOR_14,TREATMENT_414,Other immunomodulatory substances,Erlotinib,,PubChem,,163,117
+SYNTHETIC-1,DONOR_15,TREATMENT_415,,Mektovi,278936,PubChem,cells/kg,,158
+SYNTHETIC-1,DONOR_16,TREATMENT_416,Other immunomodulatory substances,,239766,RxNorm,,,65
+SYNTHETIC-1,DONOR_17,TREATMENT_417,,Gazyva,8756456,NCI Thesaurus,cells/kg,53,172
+SYNTHETIC-1,DONOR_18,TREATMENT_418,Immune checkpoint inhibitors,Tecentriq,8756456,PubChem,ug/m2,125,57
+SYNTHETIC-1,DONOR_19,TREATMENT_419,Immune checkpoint inhibitors,Necitumumab,278936,RxNorm,ug/m2,,129
+SYNTHETIC-1,DONOR_20,TREATMENT_420,Other immunomodulatory substances,Zejula,987654,RxNorm,ug/m2,104,114
+SYNTHETIC-1,DONOR_21,TREATMENT_421,Monoclonal antibodies other than immune checkpoint inhibitors,Venclexta,278936,NCI Thesaurus,g/m2,178,92
+SYNTHETIC-1,DONOR_22,TREATMENT_422,Cell-based,Tisagenlecleucel,4459876,RxNorm,cells/kg,165,
+SYNTHETIC-1,DONOR_23,TREATMENT_423,Monoclonal antibodies other than immune checkpoint inhibitors,Kymriah,278936,NCI Thesaurus,,74,70
+SYNTHETIC-1,DONOR_24,TREATMENT_424,Other immunomodulatory substances,Gilotrif,4459876,PubChem,g/m2,,75
+SYNTHETIC-1,DONOR_25,TREATMENT_425,Immune checkpoint inhibitors,Axicabtagene ciloleucel,8836851,RxNorm,IU/m2,109,113
+SYNTHETIC-1,DONOR_26,TREATMENT_426,Immune checkpoint inhibitors,Rituxan,239766,,cells/kg,120,127
+SYNTHETIC-1,DONOR_27,TREATMENT_427,Monoclonal antibodies other than immune checkpoint inhibitors,Olaparib,4459876,RxNorm,cells/kg,50,89
+SYNTHETIC-1,DONOR_28,TREATMENT_428,Cell-based,,4459876,RxNorm,mg/m2,183,163
+SYNTHETIC-1,DONOR_29,TREATMENT_429,Immune checkpoint inhibitors,,8756456,PubChem,cells/kg,66,138
+SYNTHETIC-1,DONOR_30,TREATMENT_430,,Tecentriq,8756456,NCI Thesaurus,IU/kg,107,119
+SYNTHETIC-1,DONOR_31,TREATMENT_431,,Binimetinib,8836851,NCI Thesaurus,IU/kg,114,88
+SYNTHETIC-1,DONOR_32,TREATMENT_432,Monoclonal antibodies other than immune checkpoint inhibitors,,8756456,NCI Thesaurus,mg/kg,84,53
+SYNTHETIC-1,DONOR_33,TREATMENT_433,Other immunomodulatory substances,Alectinib,8836851,NCI Thesaurus,IU/m2,73,162
+SYNTHETIC-1,DONOR_34,TREATMENT_434,Other immunomodulatory substances,Ribociclib,8836851,,ug/m2,196,72
+SYNTHETIC-1,DONOR_35,TREATMENT_435,Monoclonal antibodies other than immune checkpoint inhibitors,,4459876,NCI Thesaurus,mg/kg,112,
+SYNTHETIC-1,DONOR_36,TREATMENT_436,Immune checkpoint inhibitors,,,PubChem,mg/m2,118,132
+SYNTHETIC-1,DONOR_37,TREATMENT_437,Immune checkpoint inhibitors,,4459876,PubChem,g/m2,109,75
+SYNTHETIC-1,DONOR_38,TREATMENT_438,Immune checkpoint inhibitors,Yescarta,,NCI Thesaurus,,59,103
+SYNTHETIC-1,DONOR_39,TREATMENT_439,Other immunomodulatory substances,Ceritinib,8756456,PubChem,cells/kg,182,177
+SYNTHETIC-1,DONOR_40,TREATMENT_440,Immune checkpoint inhibitors,,987654,PubChem,cells/kg,173,108
+SYNTHETIC-1,DONOR_1,TREATMENT_401,Immune checkpoint inhibitors,,4459876,PubChem,IU/kg,196,52
+SYNTHETIC-1,DONOR_2,TREATMENT_402,Immune checkpoint inhibitors,,278936,NCI Thesaurus,mg/kg,,80
+SYNTHETIC-1,DONOR_3,TREATMENT_403,Monoclonal antibodies other than immune checkpoint inhibitors,Ipilimumab,4459876,RxNorm,IU/m2,81,131
+SYNTHETIC-1,DONOR_4,TREATMENT_404,Immune checkpoint inhibitors,Kisqali,239766,NCI Thesaurus,g/m2,151,187
+SYNTHETIC-1,DONOR_5,TREATMENT_405,Immune checkpoint inhibitors,Ceritinib,239766,,IU/kg,,124
+SYNTHETIC-1,DONOR_6,TREATMENT_406,Other immunomodulatory substances,,278936,RxNorm,g/m2,174,119
+SYNTHETIC-1,DONOR_7,TREATMENT_407,Other immunomodulatory substances,Venetoclax,4459876,NCI Thesaurus,g/m2,170,
+SYNTHETIC-1,DONOR_8,TREATMENT_408,Immune checkpoint inhibitors,Keytruda,8756456,NCI Thesaurus,,77,143
+SYNTHETIC-1,DONOR_9,TREATMENT_409,Cell-based,,,NCI Thesaurus,ug/m2,185,136
+SYNTHETIC-1,DONOR_10,TREATMENT_410,Cell-based,Tisagenlecleucel,4459876,RxNorm,IU/kg,112,158
+SYNTHETIC-1,DONOR_11,TREATMENT_411,Monoclonal antibodies other than immune checkpoint inhibitors,Pembrolizumab,4459876,RxNorm,mg/m2,183,89
+SYNTHETIC-1,DONOR_12,TREATMENT_412,Cell-based,Caprelsa,278936,RxNorm,ug/m2,175,155
+SYNTHETIC-1,DONOR_13,TREATMENT_413,,Cobimetinib,987654,RxNorm,g/m2,71,162
+SYNTHETIC-1,DONOR_14,TREATMENT_414,Immune checkpoint inhibitors,Vemurafenib,278936,NCI Thesaurus,g/m2,97,124
+SYNTHETIC-1,DONOR_15,TREATMENT_415,Other immunomodulatory substances,Nivolumab,4459876,NCI Thesaurus,cells/kg,164,153
+SYNTHETIC-1,DONOR_16,TREATMENT_416,Cell-based,Kisqali,239766,NCI Thesaurus,IU/m2,153,139
+SYNTHETIC-1,DONOR_17,TREATMENT_417,Cell-based,Nivolumab,239766,,,76,
+SYNTHETIC-1,DONOR_18,TREATMENT_418,Other immunomodulatory substances,Pembrolizumab,4459876,,,,82
+SYNTHETIC-1,DONOR_19,TREATMENT_419,Cell-based,Gilteritinib,987654,RxNorm,IU/m2,127,148
+SYNTHETIC-1,DONOR_20,TREATMENT_420,Monoclonal antibodies other than immune checkpoint inhibitors,Opdivo,4459876,,,57,138
+SYNTHETIC-1,DONOR_21,TREATMENT_421,Immune checkpoint inhibitors,Inotuzumab ozogamicin,8836851,RxNorm,IU/kg,66,163
+SYNTHETIC-1,DONOR_22,TREATMENT_422,Immune checkpoint inhibitors,Alectinib,4459876,,IU/kg,71,189
+SYNTHETIC-1,DONOR_23,TREATMENT_423,Monoclonal antibodies other than immune checkpoint inhibitors,Olaparib,239766,,g/m2,75,63
+SYNTHETIC-1,DONOR_24,TREATMENT_424,Other immunomodulatory substances,Mekinist,,NCI Thesaurus,IU/m2,84,50
+SYNTHETIC-1,DONOR_25,TREATMENT_425,Other immunomodulatory substances,Kymriah,4459876,NCI Thesaurus,mg/kg,191,
+SYNTHETIC-1,DONOR_26,TREATMENT_426,Immune checkpoint inhibitors,Tafinlar,4459876,NCI Thesaurus,IU/m2,99,153
+SYNTHETIC-1,DONOR_27,TREATMENT_427,Immune checkpoint inhibitors,Trastuzumab,8836851,RxNorm,mg/kg,136,
+SYNTHETIC-1,DONOR_28,TREATMENT_428,Cell-based,,,,g/m2,69,196
+SYNTHETIC-1,DONOR_29,TREATMENT_429,Monoclonal antibodies other than immune checkpoint inhibitors,Encorafenib,987654,NCI Thesaurus,mg/kg,196,158
+SYNTHETIC-1,DONOR_30,TREATMENT_430,Other immunomodulatory substances,,278936,PubChem,mg/m2,96,199
+SYNTHETIC-1,DONOR_31,TREATMENT_431,Other immunomodulatory substances,Ipilimumab,987654,PubChem,cells/kg,147,96
+SYNTHETIC-1,DONOR_32,TREATMENT_432,Monoclonal antibodies other than immune checkpoint inhibitors,,4459876,PubChem,IU/kg,190,66
+SYNTHETIC-1,DONOR_33,TREATMENT_433,Other immunomodulatory substances,,8756456,NCI Thesaurus,IU/kg,93,155
+SYNTHETIC-1,DONOR_34,TREATMENT_434,Immune checkpoint inhibitors,Zelboraf,8836851,NCI Thesaurus,,,198
+SYNTHETIC-1,DONOR_35,TREATMENT_435,Cell-based,Cotellic,8756456,PubChem,mg/kg,,155
+SYNTHETIC-1,DONOR_36,TREATMENT_436,Cell-based,Atezolizumab,8756456,PubChem,,98,106
+SYNTHETIC-1,DONOR_37,TREATMENT_437,Monoclonal antibodies other than immune checkpoint inhibitors,Pembrolizumab,239766,PubChem,,123,94
+SYNTHETIC-1,DONOR_38,TREATMENT_438,Monoclonal antibodies other than immune checkpoint inhibitors,Tisagenlecleucel,4459876,NCI Thesaurus,,87,114
+SYNTHETIC-1,DONOR_39,TREATMENT_439,Other immunomodulatory substances,Ceritinib,8836851,RxNorm,ug/m2,62,169
+SYNTHETIC-1,DONOR_40,TREATMENT_440,Cell-based,Palbociclib,4459876,PubChem,,,192
+SYNTHETIC-1,DONOR_1,TREATMENT_401,Cell-based,Pembrolizumab,239766,RxNorm,ug/m2,82,84
+SYNTHETIC-1,DONOR_2,TREATMENT_402,Other immunomodulatory substances,,8756456,NCI Thesaurus,mg/m2,144,163
+SYNTHETIC-1,DONOR_3,TREATMENT_403,Cell-based,Brigatinib,278936,NCI Thesaurus,mg/kg,115,
+SYNTHETIC-1,DONOR_4,TREATMENT_404,Monoclonal antibodies other than immune checkpoint inhibitors,Pertuzumab,4459876,RxNorm,mg/m2,75,163
+SYNTHETIC-1,DONOR_5,TREATMENT_405,,Belantamab,8756456,NCI Thesaurus,cells/kg,107,78
+SYNTHETIC-1,DONOR_6,TREATMENT_406,Immune checkpoint inhibitors,Trastuzumab,,PubChem,mg/m2,141,84
+SYNTHETIC-1,DONOR_7,TREATMENT_407,Monoclonal antibodies other than immune checkpoint inhibitors,Keytruda,278936,NCI Thesaurus,g/m2,,147
+SYNTHETIC-1,DONOR_8,TREATMENT_408,Immune checkpoint inhibitors,Inotuzumab ozogamicin,8836851,NCI Thesaurus,mg/m2,111,64
+SYNTHETIC-1,DONOR_9,TREATMENT_409,Immune checkpoint inhibitors,Nivolumab,987654,RxNorm,IU/m2,68,154
+SYNTHETIC-1,DONOR_10,TREATMENT_410,Monoclonal antibodies other than immune checkpoint inhibitors,Alecensa,4459876,PubChem,IU/m2,60,56
+SYNTHETIC-1,DONOR_11,TREATMENT_411,Other immunomodulatory substances,Ipilimumab,987654,RxNorm,mg/m2,85,102
+SYNTHETIC-1,DONOR_12,TREATMENT_412,Other immunomodulatory substances,Lenvima,278936,RxNorm,ug/m2,166,150
+SYNTHETIC-1,DONOR_13,TREATMENT_413,Cell-based,Tisagenlecleucel,,PubChem,cells/kg,63,72
+SYNTHETIC-1,DONOR_14,TREATMENT_414,,,8756456,PubChem,IU/kg,64,102
+SYNTHETIC-1,DONOR_15,TREATMENT_415,Cell-based,Gefitinib,987654,PubChem,g/m2,109,173
+SYNTHETIC-1,DONOR_16,TREATMENT_416,Monoclonal antibodies other than immune checkpoint inhibitors,,8836851,NCI Thesaurus,IU/kg,119,179
+SYNTHETIC-1,DONOR_17,TREATMENT_417,Other immunomodulatory substances,Ceritinib,,RxNorm,g/m2,172,65
+SYNTHETIC-1,DONOR_18,TREATMENT_418,Monoclonal antibodies other than immune checkpoint inhibitors,Keytruda,239766,NCI Thesaurus,IU/kg,109,69
+SYNTHETIC-1,DONOR_19,TREATMENT_419,Other immunomodulatory substances,Nivolumab,4459876,PubChem,mg/m2,52,
+SYNTHETIC-1,DONOR_20,TREATMENT_420,Immune checkpoint inhibitors,Nivolumab,,RxNorm,,139,100
+SYNTHETIC-1,DONOR_21,TREATMENT_421,Immune checkpoint inhibitors,,4459876,PubChem,ug/m2,,67
+SYNTHETIC-1,DONOR_22,TREATMENT_422,Monoclonal antibodies other than immune checkpoint inhibitors,Mektovi,8756456,NCI Thesaurus,mg/kg,125,164
+SYNTHETIC-1,DONOR_23,TREATMENT_423,Other immunomodulatory substances,Mektovi,987654,RxNorm,ug/m2,148,96
+SYNTHETIC-1,DONOR_24,TREATMENT_424,Immune checkpoint inhibitors,,8836851,NCI Thesaurus,ug/m2,162,95
+SYNTHETIC-1,DONOR_25,TREATMENT_425,Other immunomodulatory substances,Brigatinib,4459876,PubChem,mg/kg,,60
+SYNTHETIC-1,DONOR_26,TREATMENT_426,Other immunomodulatory substances,Kadcyla,,NCI Thesaurus,IU/kg,,
+SYNTHETIC-1,DONOR_27,TREATMENT_427,Monoclonal antibodies other than immune checkpoint inhibitors,Sorafenib,278936,,g/m2,179,169
+SYNTHETIC-1,DONOR_28,TREATMENT_428,Monoclonal antibodies other than immune checkpoint inhibitors,Brentuximab vedotin,987654,RxNorm,,,61
+SYNTHETIC-1,DONOR_29,TREATMENT_429,Monoclonal antibodies other than immune checkpoint inhibitors,Zelboraf,8756456,NCI Thesaurus,IU/kg,,125
+SYNTHETIC-1,DONOR_30,TREATMENT_430,Immune checkpoint inhibitors,Imfinzi,,PubChem,IU/kg,57,183
+SYNTHETIC-1,DONOR_31,TREATMENT_431,Immune checkpoint inhibitors,Venclexta,4459876,PubChem,IU/m2,169,154
+SYNTHETIC-1,DONOR_32,TREATMENT_432,,,4459876,NCI Thesaurus,IU/m2,182,143
+SYNTHETIC-1,DONOR_33,TREATMENT_433,Other immunomodulatory substances,Obinutuzumab,,PubChem,cells/kg,66,191
+SYNTHETIC-1,DONOR_34,TREATMENT_434,Monoclonal antibodies other than immune checkpoint inhibitors,Tarceva,4459876,PubChem,g/m2,,
+SYNTHETIC-1,DONOR_35,TREATMENT_435,,Lenvatinib,8836851,NCI Thesaurus,,105,
+SYNTHETIC-1,DONOR_36,TREATMENT_436,Monoclonal antibodies other than immune checkpoint inhibitors,Enhertu,,RxNorm,IU/kg,83,190
+SYNTHETIC-1,DONOR_37,TREATMENT_437,Other immunomodulatory substances,Kisqali,987654,PubChem,cells/kg,,124
+SYNTHETIC-1,DONOR_38,TREATMENT_438,Immune checkpoint inhibitors,Cometriq,4459876,PubChem,ug/m2,69,169
+SYNTHETIC-1,DONOR_39,TREATMENT_439,Other immunomodulatory substances,Herceptin,8836851,NCI Thesaurus,ug/m2,181,145
+SYNTHETIC-1,DONOR_40,TREATMENT_440,,Gilotrif,987654,RxNorm,cells/kg,83,90
+SYNTHETIC-1,DONOR_1,TREATMENT_401,Monoclonal antibodies other than immune checkpoint inhibitors,Gazyva,278936,PubChem,g/m2,153,
+SYNTHETIC-1,DONOR_2,TREATMENT_402,Immune checkpoint inhibitors,Ibrance,,PubChem,cells/kg,,
+SYNTHETIC-1,DONOR_3,TREATMENT_403,Monoclonal antibodies other than immune checkpoint inhibitors,Cobimetinib,987654,RxNorm,IU/m2,147,
+SYNTHETIC-1,DONOR_4,TREATMENT_404,Immune checkpoint inhibitors,,239766,RxNorm,IU/m2,113,54
+SYNTHETIC-1,DONOR_5,TREATMENT_405,Other immunomodulatory substances,Cabozantinib,987654,,g/m2,54,
+SYNTHETIC-1,DONOR_6,TREATMENT_406,Monoclonal antibodies other than immune checkpoint inhibitors,Ipilimumab,278936,PubChem,g/m2,83,
+SYNTHETIC-1,DONOR_7,TREATMENT_407,Immune checkpoint inhibitors,Nivolumab,8836851,PubChem,IU/kg,75,82
+SYNTHETIC-1,DONOR_8,TREATMENT_408,Monoclonal antibodies other than immune checkpoint inhibitors,Alecensa,,PubChem,cells/kg,,65
+SYNTHETIC-1,DONOR_9,TREATMENT_409,Other immunomodulatory substances,Venetoclax,987654,RxNorm,ug/m2,193,73
+SYNTHETIC-1,DONOR_10,TREATMENT_410,Other immunomodulatory substances,Gazyva,239766,RxNorm,g/m2,98,167
+SYNTHETIC-1,DONOR_11,TREATMENT_411,Cell-based,Tecentriq,239766,RxNorm,mg/m2,54,196
+SYNTHETIC-1,DONOR_12,TREATMENT_412,Cell-based,Kymriah,,,mg/kg,175,64
+SYNTHETIC-1,DONOR_13,TREATMENT_413,Immune checkpoint inhibitors,,,PubChem,mg/kg,71,118
+SYNTHETIC-1,DONOR_14,TREATMENT_414,Cell-based,Tarceva,239766,PubChem,g/m2,117,97
+SYNTHETIC-1,DONOR_15,TREATMENT_415,Other immunomodulatory substances,Yervoy,8836851,,ug/m2,118,118
+SYNTHETIC-1,DONOR_16,TREATMENT_416,,Ceritinib,239766,RxNorm,IU/kg,145,165
+SYNTHETIC-1,DONOR_17,TREATMENT_417,Cell-based,Opdivo,4459876,,mg/m2,102,105
+SYNTHETIC-1,DONOR_18,TREATMENT_418,Monoclonal antibodies other than immune checkpoint inhibitors,Trametinib,239766,NCI Thesaurus,mg/kg,199,126
+SYNTHETIC-1,DONOR_19,TREATMENT_419,,Sorafenib,4459876,NCI Thesaurus,mg/kg,154,147
+SYNTHETIC-1,DONOR_20,TREATMENT_420,Monoclonal antibodies other than immune checkpoint inhibitors,Afatinib,8756456,RxNorm,IU/m2,,73
+SYNTHETIC-1,DONOR_21,TREATMENT_421,Monoclonal antibodies other than immune checkpoint inhibitors,Vandetanib,987654,PubChem,cells/kg,135,85
+SYNTHETIC-1,DONOR_22,TREATMENT_422,,Gazyva,4459876,PubChem,cells/kg,180,164
+SYNTHETIC-1,DONOR_23,TREATMENT_423,Cell-based,,8836851,RxNorm,,112,132
+SYNTHETIC-1,DONOR_24,TREATMENT_424,Other immunomodulatory substances,,278936,,mg/m2,150,166
+SYNTHETIC-1,DONOR_25,TREATMENT_425,Cell-based,Erlotinib,8756456,NCI Thesaurus,cells/kg,52,60
+SYNTHETIC-1,DONOR_26,TREATMENT_426,Cell-based,Gefitinib,8836851,RxNorm,mg/kg,130,174
+SYNTHETIC-1,DONOR_27,TREATMENT_427,Cell-based,Binimetinib,239766,RxNorm,IU/kg,162,108
+SYNTHETIC-1,DONOR_28,TREATMENT_428,Monoclonal antibodies other than immune checkpoint inhibitors,Venclexta,987654,NCI Thesaurus,mg/m2,67,92
+SYNTHETIC-1,DONOR_29,TREATMENT_429,Immune checkpoint inhibitors,Braftovi,4459876,NCI Thesaurus,ug/m2,186,95
+SYNTHETIC-1,DONOR_30,TREATMENT_430,Immune checkpoint inhibitors,Trametinib,8756456,PubChem,,141,96
+SYNTHETIC-1,DONOR_31,TREATMENT_431,Other immunomodulatory substances,Olaparib,8756456,RxNorm,,85,128
+SYNTHETIC-1,DONOR_32,TREATMENT_432,Cell-based,Ipilimumab,987654,RxNorm,g/m2,81,
+SYNTHETIC-1,DONOR_33,TREATMENT_433,Other immunomodulatory substances,Keytruda,278936,PubChem,,137,136
+SYNTHETIC-1,DONOR_34,TREATMENT_434,Immune checkpoint inhibitors,Tarceva,4459876,NCI Thesaurus,g/m2,80,76
+SYNTHETIC-1,DONOR_35,TREATMENT_435,Other immunomodulatory substances,Yervoy,278936,RxNorm,ug/m2,197,
+SYNTHETIC-1,DONOR_36,TREATMENT_436,Other immunomodulatory substances,,8756456,NCI Thesaurus,mg/m2,75,138
+SYNTHETIC-1,DONOR_37,TREATMENT_437,Cell-based,Selumitinib,278936,RxNorm,g/m2,107,199
+SYNTHETIC-1,DONOR_38,TREATMENT_438,Monoclonal antibodies other than immune checkpoint inhibitors,Brentuximab vedotin,8756456,RxNorm,,,55
+SYNTHETIC-1,DONOR_39,TREATMENT_439,Immune checkpoint inhibitors,Gilteritinib,4459876,PubChem,cells/kg,156,160
+SYNTHETIC-1,DONOR_40,TREATMENT_440,Other immunomodulatory substances,Kisqali,8836851,RxNorm,,122,159
+SYNTHETIC-1,DONOR_1,TREATMENT_441,Other immunomodulatory substances,Rubraca,8756456,,mg/kg,64,132
+SYNTHETIC-1,DONOR_2,TREATMENT_442,Cell-based,Ceritinib,239766,NCI Thesaurus,IU/m2,187,133
+SYNTHETIC-1,DONOR_3,TREATMENT_443,Cell-based,Rucaparib,4459876,,mg/m2,192,
+SYNTHETIC-1,DONOR_4,TREATMENT_444,Monoclonal antibodies other than immune checkpoint inhibitors,Venclexta,239766,,IU/kg,,127
+SYNTHETIC-1,DONOR_5,TREATMENT_445,Other immunomodulatory substances,Keytruda,,NCI Thesaurus,mg/m2,143,117
+SYNTHETIC-1,DONOR_6,TREATMENT_446,Cell-based,Tecentriq,4459876,RxNorm,ug/m2,162,195
+SYNTHETIC-1,DONOR_7,TREATMENT_447,,Afatinib,8756456,RxNorm,mg/m2,80,102
+SYNTHETIC-1,DONOR_8,TREATMENT_448,Monoclonal antibodies other than immune checkpoint inhibitors,Keytruda,278936,NCI Thesaurus,IU/kg,89,137
+SYNTHETIC-1,DONOR_9,TREATMENT_449,Other immunomodulatory substances,Fam-trastuzumab deruxtecan-nxki,239766,PubChem,ug/m2,54,58
+SYNTHETIC-1,DONOR_10,TREATMENT_450,Cell-based,Axicabtagene ciloleucel,,,IU/kg,88,164
+SYNTHETIC-1,DONOR_11,TREATMENT_451,Immune checkpoint inhibitors,Abemaciclib,,RxNorm,IU/m2,117,60
+SYNTHETIC-1,DONOR_12,TREATMENT_452,,Zejula,239766,NCI Thesaurus,mg/kg,,161
+SYNTHETIC-1,DONOR_13,TREATMENT_453,Cell-based,Xalkori,8756456,PubChem,mg/m2,185,65
+SYNTHETIC-1,DONOR_14,TREATMENT_454,Monoclonal antibodies other than immune checkpoint inhibitors,,8836851,NCI Thesaurus,mg/kg,193,55
+SYNTHETIC-1,DONOR_15,TREATMENT_455,Immune checkpoint inhibitors,Opdivo,987654,PubChem,mg/kg,70,200
+SYNTHETIC-1,DONOR_16,TREATMENT_456,Monoclonal antibodies other than immune checkpoint inhibitors,Atezolizumab,239766,,mg/kg,,98
+SYNTHETIC-1,DONOR_17,TREATMENT_457,Immune checkpoint inhibitors,Kymriah,8836851,RxNorm,IU/m2,68,169
+SYNTHETIC-1,DONOR_18,TREATMENT_458,Other immunomodulatory substances,,239766,PubChem,,192,106
+SYNTHETIC-1,DONOR_19,TREATMENT_459,Monoclonal antibodies other than immune checkpoint inhibitors,Trametinib,4459876,PubChem,ug/m2,56,190
+SYNTHETIC-1,DONOR_20,TREATMENT_460,Monoclonal antibodies other than immune checkpoint inhibitors,Lenvatinib,8756456,RxNorm,cells/kg,183,84
+SYNTHETIC-1,DONOR_21,TREATMENT_461,Other immunomodulatory substances,Axicabtagene ciloleucel,278936,RxNorm,,128,196
+SYNTHETIC-1,DONOR_22,TREATMENT_462,Cell-based,Ribociclib,278936,RxNorm,ug/m2,,96
+SYNTHETIC-1,DONOR_23,TREATMENT_463,Cell-based,Pembrolizumab,,PubChem,mg/m2,187,145
+SYNTHETIC-1,DONOR_24,TREATMENT_464,Immune checkpoint inhibitors,Ibrance,8756456,RxNorm,IU/m2,180,82
+SYNTHETIC-1,DONOR_25,TREATMENT_465,,Yervoy,8756456,NCI Thesaurus,g/m2,124,64
+SYNTHETIC-1,DONOR_26,TREATMENT_466,Cell-based,Encorafenib,278936,RxNorm,IU/m2,,53
+SYNTHETIC-1,DONOR_27,TREATMENT_467,Other immunomodulatory substances,Crizotinib,4459876,RxNorm,mg/kg,105,174
+SYNTHETIC-1,DONOR_28,TREATMENT_468,Immune checkpoint inhibitors,,,PubChem,,,191
+SYNTHETIC-1,DONOR_29,TREATMENT_469,,Imfinzi,,,mg/m2,,146
+SYNTHETIC-1,DONOR_30,TREATMENT_470,Immune checkpoint inhibitors,Alunbrig,4459876,PubChem,,,80
+SYNTHETIC-1,DONOR_31,TREATMENT_471,Other immunomodulatory substances,Cobimetinib,,RxNorm,mg/m2,,148
+SYNTHETIC-1,DONOR_32,TREATMENT_472,Monoclonal antibodies other than immune checkpoint inhibitors,,987654,RxNorm,IU/m2,119,53
+SYNTHETIC-1,DONOR_33,TREATMENT_473,Cell-based,Niraparib,8836851,PubChem,mg/kg,,113
+SYNTHETIC-1,DONOR_34,TREATMENT_474,Monoclonal antibodies other than immune checkpoint inhibitors,Yervoy,4459876,RxNorm,IU/kg,110,
+SYNTHETIC-1,DONOR_35,TREATMENT_475,Immune checkpoint inhibitors,Nexavar,4459876,PubChem,ug/m2,195,58
+SYNTHETIC-1,DONOR_36,TREATMENT_476,Other immunomodulatory substances,Gilteritinib,8756456,,ug/m2,161,93
+SYNTHETIC-1,DONOR_37,TREATMENT_477,,,8756456,NCI Thesaurus,IU/m2,93,
+SYNTHETIC-1,DONOR_38,TREATMENT_478,Cell-based,Alunbrig,4459876,NCI Thesaurus,g/m2,113,92
+SYNTHETIC-1,DONOR_39,TREATMENT_479,Other immunomodulatory substances,Osimertinib,278936,PubChem,,112,
+SYNTHETIC-1,DONOR_40,TREATMENT_480,Other immunomodulatory substances,Trastuzumab,278936,PubChem,IU/m2,92,130

@@ -1,0 +1,4 @@
+program_id,submitter_donor_id,submitter_specimen_id,submitter_treatment_id,surgery_type,surgery_site,surgery_location,tumour_length,tumour_width,greatest_dimension_tumour,tumour_focality,residual_tumour_classification,margin_types_involved,margin_types_not_involved,lymphovascular_invasion,margin_types_not_assessed,perineural_invasion
+SYNTHETIC-2,DONOR_8,,TREATMENT_23,Wide Local Excision,C11,Metastatic,5,7,6,Not applicable,R0,,Unknown,Not applicable,Unknown|Circumferential resection margin,Present
+SYNTHETIC-2,DONOR_9,,TREATMENT_24,,C08,Metastatic,8,3,,Cannot be assessed,R0,,Common bile duct margin|Circumferential resection margin,Venous (large vessel) invasion only,Proximal margin|Distal margin,Absent
+SYNTHETIC-2,DONOR_10,,TREATMENT_25,Laparotomy,C18,Local recurrence,3,6,6,,,Circumferential resection margin|Proximal margin,Distal margin,,,Cannot be assessed

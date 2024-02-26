@@ -1,0 +1,5 @@
+program_id,submitter_donor_id,submitter_treatment_id,radiation_therapy_modality,radiation_therapy_type,radiation_therapy_fractions,radiation_therapy_dosage,anatomical_site_irradiated,radiation_boost,reference_radiation_treatment_id
+SYNTHETIC-1,DONOR_4,TREATMENT_19,,Internal,35,66,Boost - Area Previously Treated,,
+SYNTHETIC-1,DONOR_5,TREATMENT_20,Teleradiotherapy neutrons (procedure),Internal,35,70,Right Maxilla,True,REFERENCE_RADIATION_TREATMENT_2
+SYNTHETIC-1,DONOR_6,TREATMENT_21,Teleradiotherapy using electrons (procedure),,35,70,Bilateral Hip,,
+SYNTHETIC-2,DONOR_7,TREATMENT_22,Teleradiotherapy neutrons (procedure),Internal,30,70,Lower Limb,False,

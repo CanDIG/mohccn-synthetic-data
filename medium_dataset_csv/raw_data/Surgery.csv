@@ -1,0 +1,241 @@
+program_id,submitter_donor_id,submitter_specimen_id,submitter_treatment_id,surgery_type,surgery_site,surgery_location,tumour_length,tumour_width,greatest_dimension_tumour,tumour_focality,residual_tumour_classification,margin_types_involved,margin_types_not_involved,lymphovascular_invasion,margin_types_not_assessed,perineural_invasion
+SYNTHETIC-2,DONOR_41,,TREATMENT_761,Pylorus-sparing Whipple operation,C20,,3,5,5,Unifocal,R1,Distal margin|Common bile duct margin,Proximal margin|Not applicable,Lymphatic and small vessel invasion only,,
+SYNTHETIC-2,DONOR_42,,TREATMENT_762,Wedge/localised gastric resection,C06,,9,5,6,,R0,Unknown,,Absent,Not applicable,Cannot be assessed
+SYNTHETIC-2,DONOR_43,,TREATMENT_763,Fine needle aspiration biopsy,C15,Metastatic,9,6,,Not applicable,R1,,Not applicable,Both lymphatic and small vessel and venous (large vessel) invasion,,Not applicable
+SYNTHETIC-2,DONOR_44,,TREATMENT_764,Axillary lymph nodes sampling,C11,Metastatic,3,4,4,Unknown,,Common bile duct margin,Not applicable|Circumferential resection margin,Venous (large vessel) invasion only,,
+SYNTHETIC-2,DONOR_45,,TREATMENT_765,Enucleation,C15,Metastatic,4,5,6,Unifocal,R2,Not applicable,Distal margin,,Unknown|Not applicable,Present
+SYNTHETIC-2,DONOR_46,,TREATMENT_766,Fine needle aspiration biopsy,C11,Primary,9,3,4,Multifocal,R1,,Proximal margin|Not applicable,Absent,Proximal margin,Not applicable
+SYNTHETIC-2,DONOR_47,,TREATMENT_767,,C06,Local recurrence,9,5,5,Not applicable,,,,Absent,Circumferential resection margin|Not applicable,Present
+SYNTHETIC-2,DONOR_48,,TREATMENT_768,Biopsy,C11,Metastatic,5,,4,Cannot be assessed,R0,,Unknown,Venous (large vessel) invasion only,Common bile duct margin|Circumferential resection margin,Not applicable
+SYNTHETIC-2,DONOR_49,,TREATMENT_769,Cholecystectomy,C17,Metastatic,5,6,6,,,,Not applicable,Lymphatic and small vessel invasion only,Distal margin|Not applicable,
+SYNTHETIC-2,DONOR_50,,TREATMENT_770,,C15,Metastatic,,6,6,,R1,Proximal margin,Common bile duct margin|Distal margin,Unknown,Distal margin|Not applicable,Not applicable
+SYNTHETIC-2,DONOR_51,,TREATMENT_771,Segmentectomy,C19,Local recurrence,9,6,3,Unknown,,Unknown,Common bile duct margin,Unknown,Circumferential resection margin,Cannot be assessed
+SYNTHETIC-2,DONOR_52,,TREATMENT_772,Mastectomy,C14,Local recurrence,8,5,6,Cannot be assessed,Not applicable,Proximal margin|Not applicable,Proximal margin|Circumferential resection margin,Absent,,Absent
+SYNTHETIC-2,DONOR_53,,TREATMENT_773,Reexcision,C09,Primary,6,5,3,Unknown,R0,,Circumferential resection margin,,Distal margin|Not applicable,Absent
+SYNTHETIC-2,DONOR_54,,TREATMENT_774,Tumor Debulking,C05,Primary,8,4,3,Unifocal,R2,Common bile duct margin,Circumferential resection margin|Unknown,Lymphatic and small vessel invasion only,Unknown,Absent
+SYNTHETIC-2,DONOR_55,,TREATMENT_775,Cholecystectomy,C08,Metastatic,3,3,,Unknown,Not applicable,Distal margin|Not applicable,,,Common bile duct margin,Cannot be assessed
+SYNTHETIC-2,DONOR_56,,TREATMENT_776,Cholecystectomy,C13,Primary,9,4,5,Not applicable,Not applicable,Common bile duct margin,Circumferential resection margin,Not applicable,,
+SYNTHETIC-2,DONOR_57,,TREATMENT_777,Wide Local Excision,,Primary,6,3,5,Unknown,Not applicable,,,Lymphatic and small vessel invasion only,Not applicable,Cannot be assessed
+SYNTHETIC-2,DONOR_58,,TREATMENT_778,Completion Gastrectomy,C14,Metastatic,5,6,5,Multifocal,R2,Unknown,,,Not applicable|Unknown,Cannot be assessed
+SYNTHETIC-2,DONOR_59,,TREATMENT_779,Partial pancreatectomy,C16,,4,4,4,Multifocal,Not applicable,Unknown,Common bile duct margin,Unknown,Distal margin,Present
+SYNTHETIC-2,DONOR_60,,TREATMENT_780,Incision of thorax,C03,Primary,5,6,3,Not applicable,RX,Common bile duct margin|Not applicable,,Both lymphatic and small vessel and venous (large vessel) invasion,Not applicable|Common bile duct margin,Absent
+SYNTHETIC-2,DONOR_61,,TREATMENT_781,Ablation,C16,Primary,3,,6,,Not applicable,Circumferential resection margin|Common bile duct margin,Proximal margin|Common bile duct margin,Absent,,
+SYNTHETIC-2,DONOR_62,,TREATMENT_782,Sentinal Lymph Node Biopsy,C03,Primary,,,6,Unifocal,R1,Unknown,Circumferential resection margin,Unknown,Unknown|Distal margin,Cannot be assessed
+SYNTHETIC-2,DONOR_63,,TREATMENT_783,Drainage of abscess,C03,Metastatic,6,5,,Multifocal,R1,Unknown,Circumferential resection margin|Distal margin,Absent,Common bile duct margin|Unknown,Cannot be assessed
+SYNTHETIC-2,DONOR_64,,TREATMENT_784,McKeown esophagectomy,C19,Metastatic,3,4,5,Not applicable,RX,Not applicable|Common bile duct margin,Unknown|Common bile duct margin,Both lymphatic and small vessel and venous (large vessel) invasion,,Cannot be assessed
+SYNTHETIC-2,DONOR_65,,TREATMENT_785,Proximal subtotal gastrectomy,C09,Local recurrence,9,,4,Cannot be assessed,Unknown,,Distal margin|Common bile duct margin,Absent,,Absent
+SYNTHETIC-2,DONOR_66,,TREATMENT_786,Laparotomy,C18,Primary,4,7,4,Cannot be assessed,R2,,Unknown,Both lymphatic and small vessel and venous (large vessel) invasion,Unknown,Absent
+SYNTHETIC-2,DONOR_67,,TREATMENT_787,Biopsy,C06,Local recurrence,,4,6,Unknown,R0,Circumferential resection margin,Proximal margin|Circumferential resection margin,Both lymphatic and small vessel and venous (large vessel) invasion,Circumferential resection margin,Unknown
+SYNTHETIC-2,DONOR_68,,TREATMENT_788,Pneumonectomy,C15,Primary,4,3,4,,Not applicable,Proximal margin,,Both lymphatic and small vessel and venous (large vessel) invasion,Unknown,Present
+SYNTHETIC-2,DONOR_69,,TREATMENT_789,Wedge/localised gastric resection,C10,Metastatic,,7,6,Unknown,,Circumferential resection margin,Common bile duct margin,Absent,Not applicable|Proximal margin,Present
+SYNTHETIC-2,DONOR_70,,TREATMENT_790,Incision of thorax,C17,Primary,4,4,4,Cannot be assessed,R0,Circumferential resection margin|Distal margin,Distal margin|Proximal margin,Venous (large vessel) invasion only,Circumferential resection margin,Present
+SYNTHETIC-2,DONOR_41,,TREATMENT_791,Exploratory laparotomy,C10,Primary,3,5,5,Not applicable,Not applicable,,Proximal margin|Unknown,,Circumferential resection margin,Unknown
+SYNTHETIC-2,DONOR_42,,TREATMENT_792,Axillary Clearance,C11,,9,4,,,R0,Distal margin,,Absent,,
+SYNTHETIC-2,DONOR_43,,TREATMENT_793,Endoscopic biopsy,C10,Local recurrence,3,3,6,Cannot be assessed,R1,,Common bile duct margin|Circumferential resection margin,,,Unknown
+SYNTHETIC-2,DONOR_44,,TREATMENT_794,Splenectomy,C05,Primary,3,6,6,Cannot be assessed,,Distal margin|Circumferential resection margin,Proximal margin,Venous (large vessel) invasion only,,Unknown
+SYNTHETIC-2,DONOR_45,,TREATMENT_795,Triple bypass of pancreas,C13,Primary,4,6,3,,R0,,Not applicable|Common bile duct margin,Not applicable,Common bile duct margin,Unknown
+SYNTHETIC-2,DONOR_46,,TREATMENT_796,Radical pancreaticoduodenectomy,C04,Local recurrence,4,5,3,Multifocal,RX,Common bile duct margin,Not applicable,Absent,Not applicable,Not applicable
+SYNTHETIC-2,DONOR_47,,TREATMENT_797,Hysterectomy,C07,Primary,8,4,4,Cannot be assessed,R0,Distal margin,,Lymphatic and small vessel invasion only,Not applicable,Present
+SYNTHETIC-2,DONOR_48,,TREATMENT_798,Transhiatal esophagectomy,,Primary,6,5,5,Unknown,Unknown,Unknown,Unknown|Distal margin,Present,,
+SYNTHETIC-2,DONOR_49,,TREATMENT_799,Lobectomy,C14,Metastatic,8,7,3,Cannot be assessed,Not applicable,,Proximal margin|Unknown,Present,Not applicable|Unknown,Unknown
+SYNTHETIC-2,DONOR_50,,TREATMENT_800,Exploratory laparotomy,C08,Local recurrence,4,,5,Unifocal,RX,Common bile duct margin,,Absent,,Absent
+SYNTHETIC-2,DONOR_51,,TREATMENT_801,,C07,Metastatic,3,4,,Multifocal,RX,Proximal margin,Distal margin,Unknown,Not applicable,
+SYNTHETIC-2,DONOR_52,,TREATMENT_802,Mastectomy,C14,Metastatic,4,4,4,,,,Circumferential resection margin,Unknown,Unknown,
+SYNTHETIC-2,DONOR_53,,TREATMENT_803,Distal subtotal pancreatectomy,C09,,,,6,,R1,Proximal margin|Not applicable,,Absent,Circumferential resection margin,Absent
+SYNTHETIC-2,DONOR_54,,TREATMENT_804,Merendino procedure,C18,Primary,5,3,6,Unifocal,,,Unknown,Lymphatic and small vessel invasion only,Circumferential resection margin|Not applicable,Not applicable
+SYNTHETIC-2,DONOR_55,,TREATMENT_805,,,Local recurrence,,4,6,Not applicable,R0,,Circumferential resection margin|Proximal margin,Venous (large vessel) invasion only,Circumferential resection margin|Unknown,Present
+SYNTHETIC-2,DONOR_56,,TREATMENT_806,Mastectomy,C17,Primary,6,4,3,Cannot be assessed,,Circumferential resection margin|Distal margin,Distal margin|Common bile duct margin,Venous (large vessel) invasion only,Not applicable,
+SYNTHETIC-2,DONOR_57,,TREATMENT_807,,C06,,3,3,5,Cannot be assessed,R0,,Proximal margin,Lymphatic and small vessel invasion only,,Unknown
+SYNTHETIC-2,DONOR_58,,TREATMENT_808,Segmentectomy,C12,,6,6,5,Not applicable,R1,Common bile duct margin,Circumferential resection margin|Proximal margin,Lymphatic and small vessel invasion only,,
+SYNTHETIC-2,DONOR_59,,TREATMENT_809,Bypass Gastrojejunostomy,C02,Metastatic,5,4,6,Cannot be assessed,R1,Proximal margin|Circumferential resection margin,,Not applicable,,
+SYNTHETIC-2,DONOR_60,,TREATMENT_810,Biopsy,C04,Metastatic,5,7,5,Cannot be assessed,R1,,Proximal margin|Distal margin,Absent,,Absent
+SYNTHETIC-2,DONOR_61,,TREATMENT_811,,C15,Local recurrence,4,3,4,Unifocal,Not applicable,Distal margin,,Lymphatic and small vessel invasion only,,Unknown
+SYNTHETIC-2,DONOR_62,,TREATMENT_812,Incision of thorax,C12,Primary,,,3,Unknown,R1,Common bile duct margin,Common bile duct margin|Not applicable,Not applicable,,Present
+SYNTHETIC-2,DONOR_63,,TREATMENT_813,Fine needle aspiration biopsy,C13,Local recurrence,6,5,3,,,Common bile duct margin,Distal margin|Unknown,Venous (large vessel) invasion only,Distal margin|Unknown,Cannot be assessed
+SYNTHETIC-2,DONOR_64,,TREATMENT_814,Prostatectomy,C17,Primary,9,5,6,Unknown,R0,,Circumferential resection margin|Proximal margin,Present,Proximal margin|Common bile duct margin,Cannot be assessed
+SYNTHETIC-2,DONOR_65,,TREATMENT_815,Gastric Antrectomy,C10,Local recurrence,6,5,3,,R1,,,,Unknown,Not applicable
+SYNTHETIC-2,DONOR_66,,TREATMENT_816,Minimally invasive esophagectomy,C11,,5,6,4,,RX,Circumferential resection margin,Distal margin,,Proximal margin,Present
+SYNTHETIC-2,DONOR_67,,TREATMENT_817,Ivor Lewis subtotal esophagectomy,C06,Local recurrence,8,4,4,Cannot be assessed,Unknown,,,Unknown,Unknown,
+SYNTHETIC-2,DONOR_68,,TREATMENT_818,Debridement of pancreatic and peripancreatic necrosis,C20,Metastatic,6,5,6,Unifocal,R2,Unknown|Common bile duct margin,,Absent,,Absent
+SYNTHETIC-2,DONOR_69,,TREATMENT_819,Debridement of pancreatic and peripancreatic necrosis,C09,Primary,9,7,,Multifocal,Unknown,Unknown|Not applicable,Common bile duct margin|Not applicable,Present,Circumferential resection margin,Cannot be assessed
+SYNTHETIC-2,DONOR_70,,TREATMENT_820,Mastectomy,C10,Local recurrence,8,6,5,Cannot be assessed,,,Not applicable|Proximal margin,Lymphatic and small vessel invasion only,Common bile duct margin,Cannot be assessed
+SYNTHETIC-2,DONOR_41,,TREATMENT_821,Exploratory laparotomy,C11,Local recurrence,9,6,5,,RX,Common bile duct margin|Proximal margin,Circumferential resection margin|Common bile duct margin,Absent,Distal margin|Not applicable,Not applicable
+SYNTHETIC-2,DONOR_42,,TREATMENT_822,Ablation,,Local recurrence,4,5,5,Unifocal,R1,Distal margin|Common bile duct margin,Unknown|Distal margin,Venous (large vessel) invasion only,Not applicable,Not applicable
+SYNTHETIC-2,DONOR_43,,TREATMENT_823,Merendino procedure,C16,Local recurrence,3,6,6,Not applicable,Unknown,Circumferential resection margin,,Not applicable,Circumferential resection margin,Unknown
+SYNTHETIC-2,DONOR_44,,TREATMENT_824,Omentectomy,C08,Primary,9,,3,Multifocal,RX,,Not applicable,Lymphatic and small vessel invasion only,Circumferential resection margin|Unknown,
+SYNTHETIC-2,DONOR_45,,TREATMENT_825,,C18,Metastatic,8,,5,Unknown,Not applicable,Not applicable,,Both lymphatic and small vessel and venous (large vessel) invasion,Unknown,Unknown
+SYNTHETIC-2,DONOR_46,,TREATMENT_826,Triple bypass of pancreas,C10,,5,6,4,Unifocal,R2,Not applicable|Common bile duct margin,Circumferential resection margin,Both lymphatic and small vessel and venous (large vessel) invasion,,Not applicable
+SYNTHETIC-2,DONOR_47,,TREATMENT_827,Pylorus-sparing Whipple operation,C08,Metastatic,6,4,6,Multifocal,Unknown,Unknown,,Present,,
+SYNTHETIC-2,DONOR_48,,TREATMENT_828,Debridement of pancreatic and peripancreatic necrosis,C13,Primary,4,3,4,Cannot be assessed,RX,,Unknown|Not applicable,,Circumferential resection margin,Cannot be assessed
+SYNTHETIC-2,DONOR_49,,TREATMENT_829,Segmentectomy,C20,Primary,,,,,R2,Not applicable|Distal margin,Not applicable,,Unknown,Present
+SYNTHETIC-2,DONOR_50,,TREATMENT_830,Segmentectomy,C12,Metastatic,3,,5,Cannot be assessed,R1,,,Absent,,Unknown
+SYNTHETIC-2,DONOR_51,,TREATMENT_831,Endoscopic biopsy,C18,,4,5,6,Unknown,RX,,Common bile duct margin|Not applicable,,Common bile duct margin,Unknown
+SYNTHETIC-2,DONOR_52,,TREATMENT_832,Debridement of pancreatic and peripancreatic necrosis,C05,Metastatic,9,7,5,Not applicable,R1,Unknown|Proximal margin,,Lymphatic and small vessel invasion only,,
+SYNTHETIC-2,DONOR_53,,TREATMENT_833,Drainage of abscess,C14,Primary,6,4,6,Not applicable,RX,,Proximal margin|Circumferential resection margin,,,
+SYNTHETIC-2,DONOR_54,,TREATMENT_834,Endoscopic brushings of gastrointestinal tract,C18,Local recurrence,8,7,6,Unifocal,,Distal margin,,Unknown,,Present
+SYNTHETIC-2,DONOR_55,,TREATMENT_835,Wide Local Excision,C10,Metastatic,6,5,6,Unifocal,,Common bile duct margin|Circumferential resection margin,Not applicable|Distal margin,Venous (large vessel) invasion only,Unknown|Not applicable,Unknown
+SYNTHETIC-2,DONOR_56,,TREATMENT_836,Hysterectomy,C05,Metastatic,,5,3,Multifocal,R1,Distal margin|Circumferential resection margin,,Venous (large vessel) invasion only,Circumferential resection margin|Unknown,Absent
+SYNTHETIC-2,DONOR_57,,TREATMENT_837,,C20,Local recurrence,,,3,Unknown,,,Unknown|Distal margin,Present,,Unknown
+SYNTHETIC-2,DONOR_58,,TREATMENT_838,Reexcision,C01,Metastatic,8,7,4,Unifocal,,Not applicable,Proximal margin|Circumferential resection margin,Not applicable,Common bile duct margin|Unknown,Cannot be assessed
+SYNTHETIC-2,DONOR_59,,TREATMENT_839,Axillary lymph nodes sampling,C06,Metastatic,5,4,3,,Not applicable,Proximal margin|Not applicable,Not applicable,Venous (large vessel) invasion only,Common bile duct margin|Unknown,Unknown
+SYNTHETIC-2,DONOR_60,,TREATMENT_840,Transhiatal esophagectomy,,Local recurrence,8,4,6,Not applicable,RX,,,Not applicable,Not applicable,Cannot be assessed
+SYNTHETIC-2,DONOR_61,,TREATMENT_841,"Pancreaticojejunostomy, side-to-side anastomosis",C12,Primary,9,6,,Not applicable,,Proximal margin,Not applicable,,Unknown|Circumferential resection margin,Absent
+SYNTHETIC-2,DONOR_62,,TREATMENT_842,Debridement of pancreatic and peripancreatic necrosis,C16,Metastatic,,5,3,,Not applicable,Proximal margin|Distal margin,Distal margin,Both lymphatic and small vessel and venous (large vessel) invasion,,Present
+SYNTHETIC-2,DONOR_63,,TREATMENT_843,McKeown esophagectomy,C11,Local recurrence,,6,5,Unifocal,Not applicable,Distal margin|Not applicable,,Venous (large vessel) invasion only,Unknown|Proximal margin,Absent
+SYNTHETIC-2,DONOR_64,,TREATMENT_844,,C20,Metastatic,5,4,6,Not applicable,Not applicable,,Distal margin,Not applicable,Circumferential resection margin,
+SYNTHETIC-2,DONOR_65,,TREATMENT_845,Radical prostatectomy,,Local recurrence,4,,6,Not applicable,Not applicable,,,Lymphatic and small vessel invasion only,,
+SYNTHETIC-2,DONOR_66,,TREATMENT_846,Tumor Debulking,C02,Primary,,5,,Multifocal,,Common bile duct margin|Unknown,Not applicable,,Common bile duct margin|Circumferential resection margin,Cannot be assessed
+SYNTHETIC-2,DONOR_67,,TREATMENT_847,Total gastrectomy with extended lymphadenectomy,C09,Local recurrence,3,6,6,Unknown,R0,Distal margin|Proximal margin,Common bile duct margin|Unknown,Unknown,Proximal margin,Not applicable
+SYNTHETIC-2,DONOR_68,,TREATMENT_848,Transhiatal esophagectomy,C10,Primary,9,5,5,Not applicable,R1,Common bile duct margin|Unknown,Not applicable,Venous (large vessel) invasion only,,Cannot be assessed
+SYNTHETIC-2,DONOR_69,,TREATMENT_849,Bilateral complete salpingo-oophorectomy,C20,Primary,4,5,,Unknown,Unknown,Distal margin|Proximal margin,,Both lymphatic and small vessel and venous (large vessel) invasion,Common bile duct margin,
+SYNTHETIC-2,DONOR_70,,TREATMENT_850,Radical prostatectomy,C12,Metastatic,,,4,Cannot be assessed,RX,Proximal margin|Common bile duct margin,Circumferential resection margin|Common bile duct margin,Present,Circumferential resection margin|Proximal margin,Unknown
+SYNTHETIC-2,DONOR_41,,TREATMENT_851,Pancreaticoduodenectomy (Whipple procedure),C18,,5,4,3,,RX,Circumferential resection margin|Proximal margin,Unknown|Distal margin,,Not applicable,
+SYNTHETIC-2,DONOR_42,,TREATMENT_852,,C10,Metastatic,5,5,5,Not applicable,,Distal margin|Circumferential resection margin,Not applicable|Circumferential resection margin,,Common bile duct margin|Distal margin,
+SYNTHETIC-2,DONOR_43,,TREATMENT_853,Esophageal bypass surgery/jejunostomy only,C12,Metastatic,8,4,4,Unifocal,,,,Both lymphatic and small vessel and venous (large vessel) invasion,,Absent
+SYNTHETIC-2,DONOR_44,,TREATMENT_854,Radical prostatectomy,C17,Primary,5,7,4,Multifocal,,,,Venous (large vessel) invasion only,Not applicable,Absent
+SYNTHETIC-2,DONOR_45,,TREATMENT_855,Debridement of pancreatic and peripancreatic necrosis,,Primary,3,,4,,,,,Not applicable,,Cannot be assessed
+SYNTHETIC-2,DONOR_46,,TREATMENT_856,Drainage of abscess,C06,Local recurrence,6,4,5,Cannot be assessed,,Proximal margin|Unknown,Unknown|Common bile duct margin,Not applicable,Distal margin|Common bile duct margin,Present
+SYNTHETIC-2,DONOR_47,,TREATMENT_857,Total gastrectomy,C05,Metastatic,8,4,3,Not applicable,RX,Unknown,Common bile duct margin,Unknown,Distal margin|Unknown,Cannot be assessed
+SYNTHETIC-2,DONOR_48,,TREATMENT_858,Tumor Debulking,,Primary,5,4,4,Unifocal,Not applicable,Proximal margin|Unknown,,,Common bile duct margin,
+SYNTHETIC-2,DONOR_49,,TREATMENT_859,Triple bypass of pancreas,C16,Primary,5,4,3,Not applicable,R0,,,Unknown,,Absent
+SYNTHETIC-2,DONOR_50,,TREATMENT_860,Wedge/localised gastric resection,C12,Primary,8,,6,Unifocal,RX,,,Unknown,,
+SYNTHETIC-2,DONOR_51,,TREATMENT_861,Pneumonectomy,C07,,6,,5,,Unknown,Proximal margin|Distal margin,Unknown|Common bile duct margin,Venous (large vessel) invasion only,,Not applicable
+SYNTHETIC-2,DONOR_52,,TREATMENT_862,Duodenal preserving pancreatic head resection,C12,Metastatic,,3,4,,R2,,Not applicable|Distal margin,Absent,Unknown|Distal margin,Cannot be assessed
+SYNTHETIC-2,DONOR_53,,TREATMENT_863,Proximal subtotal gastrectomy,C18,Local recurrence,4,5,4,Multifocal,RX,Not applicable|Circumferential resection margin,Common bile duct margin,Both lymphatic and small vessel and venous (large vessel) invasion,Common bile duct margin,Unknown
+SYNTHETIC-2,DONOR_54,,TREATMENT_864,Cholecystojejunostomy,C20,Local recurrence,8,3,5,Unifocal,Unknown,,,Lymphatic and small vessel invasion only,Proximal margin,Present
+SYNTHETIC-2,DONOR_55,,TREATMENT_865,Ovariectomy,C17,Metastatic,9,6,6,Not applicable,Unknown,Proximal margin,Proximal margin|Not applicable,Present,Proximal margin,Unknown
+SYNTHETIC-2,DONOR_56,,TREATMENT_866,Partial pancreatectomy,C20,Primary,3,5,3,,,Common bile duct margin,Circumferential resection margin|Not applicable,Unknown,Circumferential resection margin|Not applicable,Unknown
+SYNTHETIC-2,DONOR_57,,TREATMENT_867,Wide Local Excision,C05,Metastatic,3,,4,Unknown,RX,,Common bile duct margin|Proximal margin,Not applicable,Distal margin,Cannot be assessed
+SYNTHETIC-2,DONOR_58,,TREATMENT_868,Glossectomy,C02,Primary,9,4,4,Unknown,Unknown,Circumferential resection margin|Distal margin,Circumferential resection margin|Proximal margin,,,
+SYNTHETIC-2,DONOR_59,,TREATMENT_869,Ivor Lewis subtotal esophagectomy,C14,Primary,6,6,5,Multifocal,RX,Distal margin|Common bile duct margin,,Unknown,Proximal margin|Common bile duct margin,Not applicable
+SYNTHETIC-2,DONOR_60,,TREATMENT_870,Endoscopic brushings of gastrointestinal tract,C16,Primary,9,4,3,Cannot be assessed,R2,,,Unknown,Common bile duct margin|Distal margin,Unknown
+SYNTHETIC-2,DONOR_61,,TREATMENT_871,Partial pancreatectomy,C06,Primary,9,6,3,Cannot be assessed,R0,,Circumferential resection margin|Not applicable,,Unknown,Not applicable
+SYNTHETIC-2,DONOR_62,,TREATMENT_872,,,Local recurrence,4,4,6,Multifocal,R1,Circumferential resection margin,,Unknown,,
+SYNTHETIC-2,DONOR_63,,TREATMENT_873,Transhiatal esophagectomy,C13,Metastatic,4,3,6,Cannot be assessed,R1,Proximal margin,Distal margin|Unknown,Lymphatic and small vessel invasion only,,
+SYNTHETIC-2,DONOR_64,,TREATMENT_874,,C15,Metastatic,9,4,4,Multifocal,R2,Distal margin|Common bile duct margin,,Not applicable,,Present
+SYNTHETIC-2,DONOR_65,,TREATMENT_875,Minimally invasive esophagectomy,C09,Primary,6,3,4,Unifocal,Not applicable,Circumferential resection margin|Not applicable,,Absent,Unknown|Circumferential resection margin,Present
+SYNTHETIC-2,DONOR_66,,TREATMENT_876,Mammoplasty,C04,Primary,5,4,3,Multifocal,Unknown,,,Present,Distal margin,Not applicable
+SYNTHETIC-2,DONOR_67,,TREATMENT_877,Distal subtotal pancreatectomy,C10,Primary,8,3,5,Cannot be assessed,,Not applicable,,Unknown,,Unknown
+SYNTHETIC-2,DONOR_68,,TREATMENT_878,Duodenal preserving pancreatic head resection,C17,Primary,9,3,5,Multifocal,RX,Common bile duct margin,Common bile duct margin,Unknown,Circumferential resection margin|Common bile duct margin,
+SYNTHETIC-2,DONOR_69,,TREATMENT_879,Enucleation,C08,Primary,5,3,4,Unifocal,RX,,Common bile duct margin|Proximal margin,Lymphatic and small vessel invasion only,Common bile duct margin|Circumferential resection margin,Not applicable
+SYNTHETIC-2,DONOR_70,,TREATMENT_880,Axillary lymph nodes sampling,C09,Local recurrence,8,5,6,Unifocal,R1,Distal margin|Proximal margin,Proximal margin,Venous (large vessel) invasion only,Proximal margin|Circumferential resection margin,Absent
+SYNTHETIC-2,DONOR_41,,TREATMENT_881,Tumor Debulking,C12,Metastatic,9,7,6,Cannot be assessed,R2,Common bile duct margin,Circumferential resection margin,Lymphatic and small vessel invasion only,Distal margin|Circumferential resection margin,Unknown
+SYNTHETIC-2,DONOR_42,,TREATMENT_882,Bilateral complete salpingo-oophorectomy,C08,Metastatic,5,3,3,Unifocal,R0,Common bile duct margin,,Lymphatic and small vessel invasion only,Circumferential resection margin,Unknown
+SYNTHETIC-2,DONOR_43,,TREATMENT_883,Spleen preserving distal pancreatectomy,C04,,8,7,3,Cannot be assessed,R2,,Unknown|Proximal margin,Venous (large vessel) invasion only,Unknown|Not applicable,Not applicable
+SYNTHETIC-2,DONOR_44,,TREATMENT_884,Incision of thorax,C20,Metastatic,3,3,6,Multifocal,Not applicable,Circumferential resection margin,Distal margin,Not applicable,Unknown|Distal margin,Absent
+SYNTHETIC-2,DONOR_45,,TREATMENT_885,Distal subtotal pancreatectomy,C10,Metastatic,,5,,Unknown,,,Proximal margin,Venous (large vessel) invasion only,,Not applicable
+SYNTHETIC-2,DONOR_46,,TREATMENT_886,"Pancreaticojejunostomy, side-to-side anastomosis",C06,Local recurrence,4,6,5,Unifocal,R2,Distal margin,Circumferential resection margin|Proximal margin,Unknown,,Unknown
+SYNTHETIC-2,DONOR_47,,TREATMENT_887,Lobectomy,C11,Primary,8,6,3,Not applicable,R0,,Not applicable|Distal margin,Lymphatic and small vessel invasion only,,Present
+SYNTHETIC-2,DONOR_48,,TREATMENT_888,McKeown esophagectomy,C01,Primary,3,5,6,Unifocal,,Circumferential resection margin|Not applicable,Circumferential resection margin|Proximal margin,Both lymphatic and small vessel and venous (large vessel) invasion,Not applicable|Circumferential resection margin,Present
+SYNTHETIC-2,DONOR_49,,TREATMENT_889,Radical pancreaticoduodenectomy,C05,Metastatic,3,6,4,Not applicable,R1,Not applicable|Circumferential resection margin,Distal margin,Unknown,,Absent
+SYNTHETIC-2,DONOR_50,,TREATMENT_890,,C20,,6,4,4,Unknown,R2,Circumferential resection margin,Common bile duct margin|Circumferential resection margin,,Distal margin|Unknown,Absent
+SYNTHETIC-2,DONOR_51,,TREATMENT_891,Lobectomy,C08,Metastatic,8,,4,,,,Common bile duct margin,,,
+SYNTHETIC-2,DONOR_52,,TREATMENT_892,Hepatojejunostomy,,Metastatic,8,4,5,Multifocal,R1,Common bile duct margin,,Absent,Unknown|Proximal margin,Present
+SYNTHETIC-2,DONOR_53,,TREATMENT_893,Total gastrectomy with extended lymphadenectomy,C09,Local recurrence,3,6,5,Cannot be assessed,R2,Distal margin,Unknown,Absent,,
+SYNTHETIC-2,DONOR_54,,TREATMENT_894,Esophageal bypass surgery/jejunostomy only,C01,Local recurrence,8,3,3,Not applicable,Not applicable,Unknown|Distal margin,Circumferential resection margin,,Common bile duct margin,Not applicable
+SYNTHETIC-2,DONOR_55,,TREATMENT_895,Axillary Clearance,C14,Local recurrence,9,3,4,Not applicable,R1,,Proximal margin|Not applicable,Both lymphatic and small vessel and venous (large vessel) invasion,Proximal margin|Distal margin,Not applicable
+SYNTHETIC-2,DONOR_56,,TREATMENT_896,Wedge/localised gastric resection,,Local recurrence,8,3,6,Multifocal,Unknown,,,Absent,,Unknown
+SYNTHETIC-2,DONOR_57,,TREATMENT_897,Hysterectomy,,Metastatic,9,4,3,Cannot be assessed,,Circumferential resection margin|Distal margin,Distal margin|Not applicable,Present,Unknown,Absent
+SYNTHETIC-2,DONOR_58,,TREATMENT_898,Mammoplasty,C20,Local recurrence,6,3,3,Not applicable,Not applicable,Unknown,,,Common bile duct margin|Unknown,Unknown
+SYNTHETIC-2,DONOR_59,,TREATMENT_899,Glossectomy,C17,Primary,5,4,5,,RX,Common bile duct margin|Circumferential resection margin,Distal margin,Lymphatic and small vessel invasion only,,Absent
+SYNTHETIC-2,DONOR_60,,TREATMENT_900,,C06,Primary,8,4,4,Not applicable,RX,Distal margin|Not applicable,Common bile duct margin,Lymphatic and small vessel invasion only,,Absent
+SYNTHETIC-2,DONOR_61,,TREATMENT_901,Minimally invasive esophagectomy,C19,Local recurrence,4,3,,Unknown,R1,Common bile duct margin,Not applicable|Distal margin,Venous (large vessel) invasion only,Not applicable|Proximal margin,
+SYNTHETIC-2,DONOR_62,,TREATMENT_902,Triple bypass of pancreas,C14,Primary,9,4,5,Cannot be assessed,R0,Distal margin,,Not applicable,Unknown|Distal margin,Present
+SYNTHETIC-2,DONOR_63,,TREATMENT_903,Pneumonectomy,C14,Primary,3,5,,Cannot be assessed,Unknown,Common bile duct margin|Unknown,Not applicable,Not applicable,,Cannot be assessed
+SYNTHETIC-2,DONOR_64,,TREATMENT_904,Distal subtotal pancreatectomy,C15,Metastatic,4,,6,Unifocal,Not applicable,Distal margin,Unknown,Both lymphatic and small vessel and venous (large vessel) invasion,,
+SYNTHETIC-2,DONOR_65,,TREATMENT_905,,C10,Metastatic,3,3,4,,Unknown,Distal margin,Circumferential resection margin,Venous (large vessel) invasion only,Proximal margin|Unknown,Cannot be assessed
+SYNTHETIC-2,DONOR_66,,TREATMENT_906,Ivor Lewis subtotal esophagectomy,C02,Primary,9,7,4,Multifocal,,Proximal margin,Common bile duct margin,Lymphatic and small vessel invasion only,Not applicable,Unknown
+SYNTHETIC-2,DONOR_67,,TREATMENT_907,Lobectomy,C07,Local recurrence,8,5,6,,Unknown,,Circumferential resection margin,Not applicable,Unknown,Unknown
+SYNTHETIC-2,DONOR_68,,TREATMENT_908,Laparotomy,C03,Primary,3,7,5,Cannot be assessed,R1,,,Not applicable,Not applicable|Proximal margin,Not applicable
+SYNTHETIC-2,DONOR_69,,TREATMENT_909,"Pancreaticojejunostomy, side-to-side anastomosis",C14,Local recurrence,6,5,6,Unknown,R0,,,Absent,,
+SYNTHETIC-2,DONOR_70,,TREATMENT_910,Laparotomy,C09,Local recurrence,3,,3,,Not applicable,Common bile duct margin,Distal margin|Not applicable,Absent,,Present
+SYNTHETIC-3,DONOR_71,,TREATMENT_911,Triple bypass of pancreas,,Local recurrence,9,5,3,Cannot be assessed,R1,,,Not applicable,Common bile duct margin,
+SYNTHETIC-3,DONOR_72,,TREATMENT_912,Left thoracoabdominal incision,C04,Primary,8,5,5,Multifocal,RX,Unknown|Circumferential resection margin,,Not applicable,Unknown,
+SYNTHETIC-3,DONOR_73,,TREATMENT_913,Cholecystojejunostomy,C13,Local recurrence,9,,3,,,Proximal margin,Unknown,Not applicable,Unknown|Distal margin,Cannot be assessed
+SYNTHETIC-3,DONOR_74,,TREATMENT_914,Gastric Antrectomy,C10,Local recurrence,3,,3,Multifocal,R1,Unknown,,Present,Common bile duct margin,Cannot be assessed
+SYNTHETIC-3,DONOR_75,,TREATMENT_915,Radical prostatectomy,C12,Local recurrence,8,5,6,Unifocal,R2,Circumferential resection margin,Circumferential resection margin,,Not applicable|Proximal margin,Present
+SYNTHETIC-3,DONOR_76,,TREATMENT_916,Radical prostatectomy,C17,Metastatic,4,6,6,Unifocal,R0,,Circumferential resection margin|Not applicable,,Distal margin,
+SYNTHETIC-3,DONOR_77,,TREATMENT_917,Glossectomy,C08,Metastatic,5,5,6,,Not applicable,Unknown,,,Circumferential resection margin,
+SYNTHETIC-3,DONOR_78,,TREATMENT_918,Total gastrectomy,C05,Primary,,4,,Unifocal,R0,Proximal margin|Circumferential resection margin,Distal margin,Present,,Absent
+SYNTHETIC-3,DONOR_79,,TREATMENT_919,Radical pancreaticoduodenectomy,C04,Local recurrence,,3,6,,R1,Not applicable,Distal margin|Unknown,,Common bile duct margin|Distal margin,Present
+SYNTHETIC-3,DONOR_80,,TREATMENT_920,,C01,Metastatic,5,7,3,Multifocal,R0,,,Lymphatic and small vessel invasion only,Unknown|Common bile duct margin,Not applicable
+SYNTHETIC-3,DONOR_81,,TREATMENT_921,Reexcision,C15,Local recurrence,9,5,6,Unknown,RX,Not applicable|Distal margin,Proximal margin,Absent,Proximal margin|Unknown,
+SYNTHETIC-3,DONOR_82,,TREATMENT_922,Segmentectomy,C11,Metastatic,8,6,6,,R1,Not applicable|Circumferential resection margin,Distal margin,Venous (large vessel) invasion only,Circumferential resection margin|Distal margin,Cannot be assessed
+SYNTHETIC-3,DONOR_83,,TREATMENT_923,Biopsy,,Local recurrence,3,4,4,Multifocal,R1,Circumferential resection margin|Proximal margin,,Lymphatic and small vessel invasion only,Common bile duct margin|Proximal margin,Absent
+SYNTHETIC-3,DONOR_84,,TREATMENT_924,McKeown esophagectomy,C04,Local recurrence,6,5,5,Unknown,R0,,,,Circumferential resection margin,
+SYNTHETIC-3,DONOR_85,,TREATMENT_925,Wedge/localised gastric resection,C19,Metastatic,6,4,6,Unknown,,Distal margin,Common bile duct margin,Unknown,Distal margin|Not applicable,Present
+SYNTHETIC-3,DONOR_86,,TREATMENT_926,Cholecystojejunostomy,C18,Metastatic,,3,3,Cannot be assessed,Not applicable,,,,,Absent
+SYNTHETIC-3,DONOR_87,,TREATMENT_927,Debridement of pancreatic and peripancreatic necrosis,C16,,,6,3,Unknown,Not applicable,Circumferential resection margin|Common bile duct margin,,,Proximal margin|Unknown,
+SYNTHETIC-3,DONOR_88,,TREATMENT_928,Lobectomy,C05,Primary,9,7,3,Unifocal,Unknown,Circumferential resection margin|Unknown,Common bile duct margin|Distal margin,Venous (large vessel) invasion only,,Present
+SYNTHETIC-3,DONOR_89,,TREATMENT_929,Hepatojejunostomy,C17,Local recurrence,8,4,4,Unifocal,Not applicable,Unknown,,Both lymphatic and small vessel and venous (large vessel) invasion,Not applicable,
+SYNTHETIC-3,DONOR_90,,TREATMENT_930,Pancreaticoduodenectomy (Whipple procedure),C02,Primary,4,7,4,Multifocal,,,,Not applicable,,
+SYNTHETIC-3,DONOR_71,,TREATMENT_931,Bilateral complete salpingo-oophorectomy,C12,Local recurrence,5,7,5,Not applicable,R2,,,Absent,,
+SYNTHETIC-3,DONOR_72,,TREATMENT_932,Gastric Antrectomy,C06,Local recurrence,,3,3,Cannot be assessed,RX,Circumferential resection margin|Not applicable,,,Distal margin|Unknown,
+SYNTHETIC-3,DONOR_73,,TREATMENT_933,Cholecystectomy,,Primary,3,3,3,Unknown,R0,,,Present,Proximal margin|Not applicable,Present
+SYNTHETIC-3,DONOR_74,,TREATMENT_934,Wide Local Excision,C06,Metastatic,6,3,4,Cannot be assessed,R2,Unknown,Proximal margin|Not applicable,,,Unknown
+SYNTHETIC-3,DONOR_75,,TREATMENT_935,Glossectomy,C11,Primary,5,4,3,,R1,Common bile duct margin|Not applicable,,Lymphatic and small vessel invasion only,Proximal margin,Present
+SYNTHETIC-3,DONOR_76,,TREATMENT_936,Bilateral complete salpingo-oophorectomy,C14,Metastatic,9,5,5,Unifocal,,Distal margin|Common bile duct margin,Not applicable|Circumferential resection margin,,Proximal margin,Absent
+SYNTHETIC-3,DONOR_77,,TREATMENT_937,Distal subtotal pancreatectomy,C08,Primary,9,3,4,Multifocal,RX,Common bile duct margin|Unknown,Circumferential resection margin|Unknown,Absent,,
+SYNTHETIC-3,DONOR_78,,TREATMENT_938,Spleen preserving distal pancreatectomy,,Metastatic,8,3,6,Cannot be assessed,R2,Not applicable|Distal margin,Proximal margin|Not applicable,,,
+SYNTHETIC-3,DONOR_79,,TREATMENT_939,Distal subtotal pancreatectomy,C11,Primary,8,5,6,Unknown,Unknown,Unknown|Common bile duct margin,,Lymphatic and small vessel invasion only,Not applicable|Proximal margin,
+SYNTHETIC-3,DONOR_80,,TREATMENT_940,Debridement of pancreatic and peripancreatic necrosis,C20,Metastatic,3,,,Unknown,,Proximal margin,Common bile duct margin|Circumferential resection margin,,,Unknown
+SYNTHETIC-3,DONOR_81,,TREATMENT_941,Hysterectomy,C07,Primary,6,6,6,,Not applicable,,Distal margin|Not applicable,Lymphatic and small vessel invasion only,,Unknown
+SYNTHETIC-3,DONOR_82,,TREATMENT_942,Laparotomy,C18,Metastatic,9,7,3,Multifocal,,Unknown,Circumferential resection margin,Lymphatic and small vessel invasion only,Distal margin|Circumferential resection margin,
+SYNTHETIC-3,DONOR_83,,TREATMENT_943,Splenectomy,C04,Primary,,7,4,Multifocal,R1,Not applicable,,Lymphatic and small vessel invasion only,Common bile duct margin|Proximal margin,Cannot be assessed
+SYNTHETIC-3,DONOR_84,,TREATMENT_944,Ovariectomy,C09,Primary,9,7,4,,R0,,,Venous (large vessel) invasion only,Not applicable,Absent
+SYNTHETIC-3,DONOR_85,,TREATMENT_945,Exploratory laparotomy,C06,,5,6,,Multifocal,R1,,Not applicable,Absent,,Present
+SYNTHETIC-3,DONOR_86,,TREATMENT_946,,,,5,4,6,,R0,,Distal margin|Unknown,Unknown,Proximal margin|Common bile duct margin,
+SYNTHETIC-3,DONOR_87,,TREATMENT_947,,C01,Metastatic,3,6,5,Multifocal,R0,,Circumferential resection margin|Unknown,Unknown,Proximal margin|Unknown,Cannot be assessed
+SYNTHETIC-3,DONOR_88,,TREATMENT_948,,C03,Metastatic,8,5,5,Cannot be assessed,Unknown,,,Not applicable,,Present
+SYNTHETIC-3,DONOR_89,,TREATMENT_949,Triple bypass of pancreas,C08,Metastatic,4,7,5,Not applicable,R1,Distal margin,,,,Absent
+SYNTHETIC-3,DONOR_90,,TREATMENT_950,Spleen preserving distal pancreatectomy,C16,Metastatic,5,7,6,Not applicable,,Proximal margin|Common bile duct margin,,Absent,Circumferential resection margin|Proximal margin,Unknown
+SYNTHETIC-3,DONOR_71,,TREATMENT_951,Radical prostatectomy,C01,Local recurrence,6,5,3,Unknown,Not applicable,Proximal margin|Distal margin,Unknown,Venous (large vessel) invasion only,Distal margin|Common bile duct margin,
+SYNTHETIC-3,DONOR_72,,TREATMENT_952,Merendino procedure,C07,Metastatic,,3,3,Not applicable,R1,Common bile duct margin|Proximal margin,Proximal margin|Common bile duct margin,Absent,,Unknown
+SYNTHETIC-3,DONOR_73,,TREATMENT_953,Reexcision,C06,Local recurrence,6,5,4,Cannot be assessed,Unknown,Circumferential resection margin,,Not applicable,Distal margin,Present
+SYNTHETIC-3,DONOR_74,,TREATMENT_954,,C14,Local recurrence,6,7,3,Not applicable,Unknown,Unknown,Common bile duct margin|Distal margin,Lymphatic and small vessel invasion only,Circumferential resection margin|Proximal margin,
+SYNTHETIC-3,DONOR_75,,TREATMENT_955,Ivor Lewis subtotal esophagectomy,C11,Local recurrence,5,6,6,Unifocal,,,Distal margin|Not applicable,Unknown,Common bile duct margin,Cannot be assessed
+SYNTHETIC-3,DONOR_76,,TREATMENT_956,Endoscopic brushings of gastrointestinal tract,C12,,5,6,4,Multifocal,RX,Not applicable,,Absent,Distal margin,
+SYNTHETIC-3,DONOR_77,,TREATMENT_957,Endoscopic brushings of gastrointestinal tract,C05,Local recurrence,6,3,6,Unknown,R0,Circumferential resection margin|Not applicable,Not applicable|Distal margin,Present,,
+SYNTHETIC-3,DONOR_78,,TREATMENT_958,Ablation,C01,,6,4,,Unknown,Not applicable,,Not applicable,Not applicable,,Cannot be assessed
+SYNTHETIC-3,DONOR_79,,TREATMENT_959,,C09,Primary,9,6,3,Multifocal,R2,,Distal margin|Not applicable,Present,Common bile duct margin|Unknown,Unknown
+SYNTHETIC-3,DONOR_80,,TREATMENT_960,Biopsy,C12,,3,3,6,Not applicable,Not applicable,Unknown,,Both lymphatic and small vessel and venous (large vessel) invasion,,Absent
+SYNTHETIC-3,DONOR_81,,TREATMENT_961,Radical prostatectomy,C06,Primary,4,4,,,R0,Unknown|Common bile duct margin,Distal margin|Proximal margin,Present,Proximal margin|Unknown,
+SYNTHETIC-3,DONOR_82,,TREATMENT_962,,C05,Local recurrence,3,4,3,Unknown,R2,Circumferential resection margin|Unknown,,Present,Common bile duct margin,
+SYNTHETIC-3,DONOR_83,,TREATMENT_963,Radical prostatectomy,C04,Primary,4,3,4,Not applicable,RX,,Common bile duct margin|Proximal margin,Both lymphatic and small vessel and venous (large vessel) invasion,,Absent
+SYNTHETIC-3,DONOR_84,,TREATMENT_964,Spleen preserving distal pancreatectomy,,Metastatic,5,6,4,Unknown,,Not applicable,Proximal margin,Lymphatic and small vessel invasion only,Circumferential resection margin,Unknown
+SYNTHETIC-3,DONOR_85,,TREATMENT_965,Pylorus-sparing Whipple operation,C02,Local recurrence,6,6,4,,,,,Unknown,Distal margin|Not applicable,Unknown
+SYNTHETIC-3,DONOR_86,,TREATMENT_966,McKeown esophagectomy,C12,Primary,6,6,3,Cannot be assessed,RX,,Unknown,Not applicable,Circumferential resection margin,Not applicable
+SYNTHETIC-3,DONOR_87,,TREATMENT_967,Laparotomy,C17,Primary,,5,3,Unifocal,R0,Circumferential resection margin|Proximal margin,,Lymphatic and small vessel invasion only,,Not applicable
+SYNTHETIC-3,DONOR_88,,TREATMENT_968,Splenectomy,C05,Local recurrence,5,6,,Unifocal,R0,Proximal margin|Circumferential resection margin,Distal margin|Not applicable,Absent,Distal margin|Unknown,Cannot be assessed
+SYNTHETIC-3,DONOR_89,,TREATMENT_969,Completion Gastrectomy,C16,,8,7,4,Unknown,RX,Not applicable,Proximal margin|Not applicable,Both lymphatic and small vessel and venous (large vessel) invasion,Distal margin|Circumferential resection margin,Unknown
+SYNTHETIC-3,DONOR_90,,TREATMENT_970,Distal subtotal pancreatectomy,C02,Local recurrence,5,5,3,Unknown,,Not applicable,Not applicable,Venous (large vessel) invasion only,Unknown,Not applicable
+SYNTHETIC-3,DONOR_71,,TREATMENT_971,McKeown esophagectomy,C03,Metastatic,3,6,6,Unifocal,R0,Unknown|Circumferential resection margin,,Unknown,,Cannot be assessed
+SYNTHETIC-3,DONOR_72,,TREATMENT_972,Lobectomy,C13,Metastatic,4,3,4,Not applicable,Unknown,,Distal margin,Both lymphatic and small vessel and venous (large vessel) invasion,,
+SYNTHETIC-3,DONOR_73,,TREATMENT_973,Distal subtotal pancreatectomy,C03,Local recurrence,5,7,4,Cannot be assessed,RX,Circumferential resection margin,Proximal margin,Unknown,Proximal margin,Not applicable
+SYNTHETIC-3,DONOR_74,,TREATMENT_974,Completion Gastrectomy,C15,Metastatic,6,4,6,Unknown,RX,Distal margin,,Unknown,,Unknown
+SYNTHETIC-3,DONOR_75,,TREATMENT_975,Pylorus-sparing Whipple operation,,,5,5,6,Unknown,Unknown,,Not applicable,Unknown,,Present
+SYNTHETIC-3,DONOR_76,,TREATMENT_976,Completion Gastrectomy,C09,Primary,3,4,6,Not applicable,Not applicable,Proximal margin|Unknown,Proximal margin|Common bile duct margin,Venous (large vessel) invasion only,,Absent
+SYNTHETIC-3,DONOR_77,,TREATMENT_977,Debridement of pancreatic and peripancreatic necrosis,C02,Primary,8,3,6,Cannot be assessed,R1,,Not applicable,Absent,,Absent
+SYNTHETIC-3,DONOR_78,,TREATMENT_978,Bilateral complete salpingo-oophorectomy,C10,Local recurrence,,4,3,Unifocal,Not applicable,Proximal margin|Distal margin,Circumferential resection margin|Not applicable,Present,Common bile duct margin,Not applicable
+SYNTHETIC-3,DONOR_79,,TREATMENT_979,Mastectomy,C15,Primary,5,5,4,,RX,Unknown|Not applicable,,Unknown,,Not applicable
+SYNTHETIC-3,DONOR_80,,TREATMENT_980,Radical pancreaticoduodenectomy,C13,Metastatic,8,4,3,Cannot be assessed,Unknown,,Proximal margin|Unknown,Absent,Unknown|Distal margin,Present
+SYNTHETIC-3,DONOR_81,,TREATMENT_981,Gastric Antrectomy,C01,Local recurrence,4,4,3,Cannot be assessed,Not applicable,Unknown,Common bile duct margin,,,Unknown
+SYNTHETIC-3,DONOR_82,,TREATMENT_982,Tumor Debulking,C08,,8,3,6,Unknown,,Proximal margin|Circumferential resection margin,Circumferential resection margin|Unknown,,,Cannot be assessed
+SYNTHETIC-3,DONOR_83,,TREATMENT_983,Sentinal Lymph Node Biopsy,C05,,3,7,6,,R0,Circumferential resection margin|Common bile duct margin,Proximal margin,Not applicable,Common bile duct margin|Unknown,Cannot be assessed
+SYNTHETIC-3,DONOR_84,,TREATMENT_984,Transhiatal esophagectomy,C12,,6,4,6,Cannot be assessed,R2,Distal margin|Not applicable,Not applicable,Absent,Not applicable|Circumferential resection margin,Not applicable
+SYNTHETIC-3,DONOR_85,,TREATMENT_985,Total gastrectomy with extended lymphadenectomy,C14,,8,,,Cannot be assessed,R2,,Unknown|Proximal margin,Lymphatic and small vessel invasion only,Unknown,
+SYNTHETIC-3,DONOR_86,,TREATMENT_986,Segmentectomy,C15,Metastatic,5,7,5,Not applicable,,,Circumferential resection margin,Lymphatic and small vessel invasion only,Not applicable,Present
+SYNTHETIC-3,DONOR_87,,TREATMENT_987,Mammoplasty,C11,Local recurrence,4,6,5,Not applicable,R1,,Not applicable|Proximal margin,,Unknown|Circumferential resection margin,Absent
+SYNTHETIC-3,DONOR_88,,TREATMENT_988,Total gastrectomy,C04,Local recurrence,5,5,,,,Proximal margin|Circumferential resection margin,Unknown,,Unknown|Common bile duct margin,Cannot be assessed
+SYNTHETIC-3,DONOR_89,,TREATMENT_989,Partial pancreatectomy,,Metastatic,3,,3,Multifocal,R1,Unknown,Proximal margin,Lymphatic and small vessel invasion only,Proximal margin|Distal margin,Cannot be assessed
+SYNTHETIC-3,DONOR_90,,TREATMENT_990,Bilateral complete salpingo-oophorectomy,C02,Local recurrence,3,6,3,Multifocal,,,Distal margin,Both lymphatic and small vessel and venous (large vessel) invasion,Proximal margin|Circumferential resection margin,Absent
+SYNTHETIC-4,DONOR_91,,TREATMENT_991,Biopsy,C05,Primary,,,3,Multifocal,Unknown,Common bile duct margin|Proximal margin,Circumferential resection margin|Not applicable,Unknown,Circumferential resection margin|Unknown,Not applicable
+SYNTHETIC-4,DONOR_92,,TREATMENT_992,Reexcision,,Metastatic,3,5,3,Unknown,Unknown,Circumferential resection margin|Distal margin,,Not applicable,,Unknown
+SYNTHETIC-4,DONOR_93,,TREATMENT_993,Minimally invasive esophagectomy,C08,Metastatic,4,6,6,,,Distal margin|Proximal margin,,,Distal margin|Not applicable,Present
+SYNTHETIC-4,DONOR_94,,TREATMENT_994,McKeown esophagectomy,C07,Local recurrence,6,7,5,Unknown,RX,Unknown|Circumferential resection margin,Proximal margin,Not applicable,Unknown|Circumferential resection margin,Not applicable
+SYNTHETIC-4,DONOR_95,,TREATMENT_995,Drainage of abscess,C16,Metastatic,8,6,4,Multifocal,,Common bile duct margin,Distal margin,Both lymphatic and small vessel and venous (large vessel) invasion,,Unknown
+SYNTHETIC-4,DONOR_96,,TREATMENT_996,Debridement of pancreatic and peripancreatic necrosis,C13,,9,5,,Cannot be assessed,R0,Not applicable,Proximal margin|Common bile duct margin,Not applicable,Proximal margin|Circumferential resection margin,Absent
+SYNTHETIC-4,DONOR_97,,TREATMENT_997,Completion Gastrectomy,C20,Metastatic,6,4,6,Unknown,RX,,Proximal margin,,Circumferential resection margin|Distal margin,
+SYNTHETIC-4,DONOR_98,,TREATMENT_998,Endoscopic biopsy,C20,Local recurrence,,5,4,Cannot be assessed,R2,,,Unknown,Distal margin,Present
+SYNTHETIC-4,DONOR_99,,TREATMENT_999,,C08,Metastatic,4,3,,Unknown,Not applicable,,Circumferential resection margin|Proximal margin,Not applicable,,Absent
+SYNTHETIC-4,DONOR_100,,TREATMENT_1000,Omentectomy,,Metastatic,,3,6,Cannot be assessed,R0,Unknown,Distal margin|Not applicable,Lymphatic and small vessel invasion only,Proximal margin,Unknown
