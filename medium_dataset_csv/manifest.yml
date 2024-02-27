@@ -1,4 +1,4 @@
-description: Mapping for small synthetic dataset.
+description: Mapping for medium synthetic dataset.
 # mapping is the csv file that contains the list of fields and mapping functions
 mapping: moh.csv
 # the name of the top-level identifier column in the input data
