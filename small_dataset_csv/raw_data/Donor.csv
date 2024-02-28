@@ -2,12 +2,12 @@ is_deceased,cause_of_death,date_resolution,date_of_death,primary_site,gender,sex
 True,Died of other reasons,day,"{'month_interval': 37, 'day_interval': 1110}",,Man,Female,,"{'month_interval': 27, 'day_interval': 810}",DONOR_1,SYNTHETIC-1,,
 True,Died of other reasons,day,"{'month_interval': 37, 'day_interval': 1110}",Thyroid gland|Kidney,Woman,Unknown,,"{'month_interval': 5, 'day_interval': 150}",DONOR_2,SYNTHETIC-1,"{'month_interval': -242, 'day_interval': -7260}",
 True,Unknown,month,{'month_interval': 33},Parotid gland|Rectum|Skin,Man,Female,,{'month_interval': 5},DONOR_3,SYNTHETIC-1,{'month_interval': -483},
-,,,{'month_interval': 91},Ovary,Man,,Lost contact,{'month_interval': 1},DONOR_4,SYNTHETIC-1,{'month_interval': -964},1
-,,day,"{'month_interval': 57, 'day_interval': 1710}",Cervix uteri|Vulva,Woman,,Lost contact,,DONOR_5,SYNTHETIC-1,"{'month_interval': -641, 'day_interval': -19230}",2
+,,,,Ovary,Man,,Lost contact,{'month_interval': 1},DONOR_4,SYNTHETIC-1,{'month_interval': -964},1
+,,day,,Cervix uteri|Vulva,Woman,,Lost contact,,DONOR_5,SYNTHETIC-1,"{'month_interval': -641, 'day_interval': -19230}",2
 True,Died of cancer,day,"{'month_interval': 67, 'day_interval': 2010}",Ovary|Stomach,,,,"{'month_interval': 24, 'day_interval': 720}",DONOR_6,SYNTHETIC-1,"{'month_interval': -575, 'day_interval': -17250}",
 True,Unknown,day,"{'month_interval': 27, 'day_interval': 810}",Other and unspecified major salivary glands|Other and unspecified parts of biliary tract|Base of tongue|Hypopharynx|Skin,Woman,Male,,"{'month_interval': 22, 'day_interval': 660}",DONOR_7,SYNTHETIC-2,"{'month_interval': -138, 'day_interval': -4140}",
-,,day,"{'month_interval': 90, 'day_interval': 2700}",Other endocrine glands and related structures,,Female,Withdrew from study,,DONOR_8,SYNTHETIC-2,,3
+,,day,,Other endocrine glands and related structures,,Female,Withdrew from study,,DONOR_8,SYNTHETIC-2,,3
 True,Unknown,day,"{'month_interval': 40, 'day_interval': 1200}",Penis|Other and unspecified parts of mouth|Testis|Adrenal gland,Man,Male,,"{'month_interval': 11, 'day_interval': 330}",DONOR_9,SYNTHETIC-2,"{'month_interval': -750, 'day_interval': -22500}",
-True,Died of other reasons,month,{'month_interval': 25},Testis|Other and unspecified female genital organs|Other endocrine glands and related structures|Pancreas,Non-binary,Female,,2022-03,DONOR_10,SYNTHETIC-2,,
-True,Unknown,,,Floor of mouth,Woman,Other,,2021-07,DONOR_11,SYNTHETIC-2,1989-01,
-True,Unknown,,,Base of tongue,Man,Other,,2022-09,DONOR_12,SYNTHETIC-2,1997-09,
+True,Died of other reasons,month,{'month_interval': 25},Testis|Other and unspecified female genital organs|Other endocrine glands and related structures|Pancreas,Non-binary,Female,,,DONOR_10,SYNTHETIC-2,,
+True,Unknown,,"{'month_interval': 90, 'day_interval': 2700}",Floor of mouth,Woman,Other,,,DONOR_11,SYNTHETIC-2,,
+True,Unknown,,"{'month_interval': 40, 'day_interval': 1200}",Base of tongue,Man,Other,,,DONOR_12,SYNTHETIC-2,,

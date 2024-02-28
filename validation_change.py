@@ -26,8 +26,11 @@ def process_donor(df):
         condition = (df['is_deceased'] == False) & df['cause_of_death'].notna()
         df.loc[condition, 'cause_of_death'] = ""
         condition = df['is_deceased'].isna() & df['cause_of_death'].notna()
-        print(df['is_deceased'].isna())
-        df.loc[condition, 'cause_of_death'] = ""
+        df.loc[condition, 'date_of_death'] = ""
+        condition = (df['is_deceased'] == False) & df['date_of_death'].notna()
+        df.loc[condition, 'date_of_death'] = ""
+        condition = df['is_deceased'].isna() & df['date_of_death'].notna()
+        df.loc[condition, 'date_of_death'] = ""
         condition = (df['is_deceased'] == True) & df['lost_to_followup_reason'].notna()
         df.loc[condition, 'lost_to_followup_reason'] = ""
         condition = (df['is_deceased'] == True) & df['lost_to_followup_after_clinical_event_identifier'].notna()
@@ -44,6 +47,8 @@ def process_exposure(df):
     if 'tobacco_smoking_status' in df.columns and 'tobacco_type' in df.columns:
         condition = df['tobacco_smoking_status'].isin(['Smoking history not documented', 'Lifelong non-smoker (<100 cigarettes smoked in lifetime)', 'Not applicable'])
         df.loc[condition, 'tobacco_type'] = ""
+        condition = df['tobacco_smoking_status'].isin(['Smoking history not documented', 'Lifelong non-smoker (<100 cigarettes smoked in lifetime)', 'Not applicable'])
+        df.loc[condition, 'pack_years_smoked'] = ""
     return df
 
 def parse_args():

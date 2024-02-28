@@ -1,4 +1,3 @@
-## THIS IS A TEST FILE: DO NOT USE FOR EXAMPLE PURPOSES
 ## Schema generated from https://raw.githubusercontent.com/CanDIG/katsu/develop/chord_metadata_service/mohpackets/docs/schema.yml
 ## Based on repo commit sha "29fd55d173b7a01daa72fcc89187e3aabd1fb51e"
 ## MoH template is manually updated to match the MoH clinical data model
@@ -6,6 +5,9 @@
 DONOR.INDEX, {indexed_on(Donor.submitter_donor_id)}
 DONOR.INDEX.cause_of_death, {single_val(Donor.cause_of_death)}
 DONOR.INDEX.date_resolution, {single_val(Donor.date_resolution)}
+DONOR.INDEX.date_alive_after_lost_to_followup, {map_function.self(Donor.date_alive_after_lost_to_followup)}
+DONOR.INDEX.date_of_birth, {map_function.self(Donor.date_of_birth)}
+DONOR.INDEX.date_of_death, {map_function.self(Donor.date_of_death)}
 DONOR.INDEX.gender, {single_val(Donor.gender)}
 DONOR.INDEX.is_deceased, {boolean(Donor.is_deceased)}
 DONOR.INDEX.lost_to_followup_after_clinical_event_identifier, {single_val(Donor.lost_to_followup_after_clinical_event_identifier)}
@@ -13,7 +15,6 @@ DONOR.INDEX.lost_to_followup_reason, {single_val(Donor.lost_to_followup_reason)}
 DONOR.INDEX.primary_site, {pipe_delim(Donor.primary_site)}
 DONOR.INDEX.program_id, {single_val(Donor.program_id)}
 DONOR.INDEX.sex_at_birth, {single_val(Donor.sex_at_birth)}
-DONOR.INDEX.date_of_death, {single_val(Donor.date_of death)}
 DONOR.INDEX.submitter_donor_id, {single_val(Donor.submitter_donor_id)}
 DONOR.INDEX.primary_diagnoses.INDEX, {indexed_on(PrimaryDiagnosis.submitter_donor_id)}
 DONOR.INDEX.primary_diagnoses.INDEX.basis_of_diagnosis, {single_val(PrimaryDiagnosis.basis_of_diagnosis)}
@@ -23,6 +24,7 @@ DONOR.INDEX.primary_diagnoses.INDEX.clinical_n_category, {single_val(PrimaryDiag
 DONOR.INDEX.primary_diagnoses.INDEX.clinical_stage_group, {single_val(PrimaryDiagnosis.clinical_stage_group)}
 DONOR.INDEX.primary_diagnoses.INDEX.clinical_t_category, {single_val(PrimaryDiagnosis.clinical_t_category)}
 DONOR.INDEX.primary_diagnoses.INDEX.clinical_tumour_staging_system, {single_val(PrimaryDiagnosis.clinical_tumour_staging_system)}
+DONOR.INDEX.primary_diagnoses.INDEX.date_of_diagnosis, {map_function.self(PrimaryDiagnosis.date_of_diagnosis)}
 DONOR.INDEX.primary_diagnoses.INDEX.laterality, {single_val(PrimaryDiagnosis.laterality)}
 DONOR.INDEX.primary_diagnoses.INDEX.lymph_nodes_examined_method, {single_val(PrimaryDiagnosis.lymph_nodes_examined_method)}
 DONOR.INDEX.primary_diagnoses.INDEX.lymph_nodes_examined_status, {single_val(PrimaryDiagnosis.lymph_nodes_examined_status)}
@@ -39,6 +41,7 @@ DONOR.INDEX.primary_diagnoses.INDEX.specimens.INDEX.percent_tumour_cells_range, 
 DONOR.INDEX.primary_diagnoses.INDEX.specimens.INDEX.reference_pathology_confirmed_diagnosis, {single_val(Specimen.reference_pathology_confirmed_diagnosis)}
 DONOR.INDEX.primary_diagnoses.INDEX.specimens.INDEX.reference_pathology_confirmed_tumour_presence, {single_val(Specimen.reference_pathology_confirmed_tumour_presence)}
 DONOR.INDEX.primary_diagnoses.INDEX.specimens.INDEX.specimen_anatomic_location, {single_val(Specimen.specimen_anatomic_location)}
+DONOR.INDEX.primary_diagnoses.INDEX.specimens.INDEX.specimen_collection_date, {map_function.self(Specimen.specimen_collection_date)}
 DONOR.INDEX.primary_diagnoses.INDEX.specimens.INDEX.specimen_laterality, {single_val(Specimen.specimen_laterality)}
 DONOR.INDEX.primary_diagnoses.INDEX.specimens.INDEX.specimen_processing, {single_val(Specimen.specimen_processing)}
 DONOR.INDEX.primary_diagnoses.INDEX.specimens.INDEX.specimen_storage, {single_val(Specimen.specimen_storage)}
@@ -61,8 +64,10 @@ DONOR.INDEX.primary_diagnoses.INDEX.treatments.INDEX.response_to_treatment, {sin
 DONOR.INDEX.primary_diagnoses.INDEX.treatments.INDEX.response_to_treatment_criteria_method, {single_val(Treatment.response_to_treatment_criteria_method)}
 DONOR.INDEX.primary_diagnoses.INDEX.treatments.INDEX.status_of_treatment, {single_val(Treatment.status_of_treatment)}
 DONOR.INDEX.primary_diagnoses.INDEX.treatments.INDEX.submitter_treatment_id, {single_val(Treatment.submitter_treatment_id)}
+DONOR.INDEX.primary_diagnoses.INDEX.treatments.INDEX.treatment_end_date, {map_function.self(Treatment.treatment_end_date)}
 DONOR.INDEX.primary_diagnoses.INDEX.treatments.INDEX.treatment_intent, {single_val(Treatment.treatment_intent)}
 DONOR.INDEX.primary_diagnoses.INDEX.treatments.INDEX.treatment_setting, {single_val(Treatment.treatment_setting)}
+DONOR.INDEX.primary_diagnoses.INDEX.treatments.INDEX.treatment_start_date, {map_function.self(Treatment.treatment_start_date)}
 DONOR.INDEX.primary_diagnoses.INDEX.treatments.INDEX.treatment_type, {pipe_delim(Treatment.treatment_type)}
 DONOR.INDEX.primary_diagnoses.INDEX.treatments.INDEX.chemotherapies.INDEX, {indexed_on(Chemotherapy.submitter_treatment_id)}
 DONOR.INDEX.primary_diagnoses.INDEX.treatments.INDEX.chemotherapies.INDEX.actual_cumulative_drug_dose, {integer(Chemotherapy.actual_cumulative_drug_dose)}
@@ -111,6 +116,8 @@ DONOR.INDEX.primary_diagnoses.INDEX.treatments.INDEX.surgeries.INDEX.tumour_leng
 DONOR.INDEX.primary_diagnoses.INDEX.treatments.INDEX.surgeries.INDEX.tumour_width, {integer(Surgery.tumour_width)}
 DONOR.INDEX.primary_diagnoses.INDEX.treatments.INDEX.followups.INDEX, {indexed_on(FollowUp.submitter_treatment_id)}
 DONOR.INDEX.primary_diagnoses.INDEX.treatments.INDEX.followups.INDEX.anatomic_site_progression_or_recurrence, {pipe_delim(FollowUp.anatomic_site_progression_or_recurrence)}
+DONOR.INDEX.primary_diagnoses.INDEX.treatments.INDEX.followups.INDEX.date_of_followup, {map_function.self(FollowUp.date_of_followup)}
+DONOR.INDEX.primary_diagnoses.INDEX.treatments.INDEX.followups.INDEX.date_of_relapse, {map_function.self(FollowUp.date_of_relapse)}
 DONOR.INDEX.primary_diagnoses.INDEX.treatments.INDEX.followups.INDEX.disease_status_at_followup, {single_val(FollowUp.disease_status_at_followup)}
 DONOR.INDEX.primary_diagnoses.INDEX.treatments.INDEX.followups.INDEX.method_of_progression_status, {pipe_delim(FollowUp.method_of_progression_status)}
 DONOR.INDEX.primary_diagnoses.INDEX.treatments.INDEX.followups.INDEX.recurrence_m_category, {single_val(FollowUp.recurrence_m_category)}
@@ -122,6 +129,8 @@ DONOR.INDEX.primary_diagnoses.INDEX.treatments.INDEX.followups.INDEX.relapse_typ
 DONOR.INDEX.primary_diagnoses.INDEX.treatments.INDEX.followups.INDEX.submitter_follow_up_id, {single_val(FollowUp.submitter_follow_up_id)}
 DONOR.INDEX.primary_diagnoses.INDEX.followups.INDEX, {indexed_on(FollowUp.submitter_primary_diagnosis_id)}
 DONOR.INDEX.primary_diagnoses.INDEX.followups.INDEX.anatomic_site_progression_or_recurrence, {pipe_delim(FollowUp.anatomic_site_progression_or_recurrence)}
+DONOR.INDEX.primary_diagnoses.INDEX.followups.INDEX.date_of_followup, {map_function.self(FollowUp.date_of_followup)}
+DONOR.INDEX.primary_diagnoses.INDEX.followups.INDEX.date_of_relapse, {map_function.self(FollowUp.date_of_relapse)}
 DONOR.INDEX.primary_diagnoses.INDEX.followups.INDEX.disease_status_at_followup, {single_val(FollowUp.disease_status_at_followup)}
 DONOR.INDEX.primary_diagnoses.INDEX.followups.INDEX.method_of_progression_status, {pipe_delim(FollowUp.method_of_progression_status)}
 DONOR.INDEX.primary_diagnoses.INDEX.followups.INDEX.recurrence_m_category, {single_val(FollowUp.recurrence_m_category)}
@@ -139,11 +148,13 @@ DONOR.INDEX.comorbidities.INDEX.comorbidity_type_code, {single_val(Comorbidity.c
 DONOR.INDEX.comorbidities.INDEX.laterality_of_prior_malignancy, {single_val(Comorbidity.laterality_of_prior_malignancy)}
 DONOR.INDEX.comorbidities.INDEX.prior_malignancy, {single_val(Comorbidity.prior_malignancy)}
 DONOR.INDEX.exposures.INDEX, {indexed_on(Exposure.submitter_donor_id)}
+DONOR.INDEX.exposures.INDEX.pack_years_smoked, {integer(Exposure.pack_years_smoked)}
 DONOR.INDEX.exposures.INDEX.tobacco_smoking_status, {single_val(Exposure.tobacco_smoking_status)}
 DONOR.INDEX.exposures.INDEX.tobacco_type, {pipe_delim(Exposure.tobacco_type)}
 DONOR.INDEX.biomarkers.INDEX, {indexed_on(Biomarker.submitter_donor_id)}
 DONOR.INDEX.biomarkers.INDEX.ca125, {integer(Biomarker.ca125)}
 DONOR.INDEX.biomarkers.INDEX.cea, {integer(Biomarker.cea)}
+DONOR.INDEX.biomarkers.INDEX.er_percent_positive, {floating(Biomarker.er_percent_positive)}
 DONOR.INDEX.biomarkers.INDEX.er_status, {single_val(Biomarker.er_status)}
 DONOR.INDEX.biomarkers.INDEX.her2_ihc_status, {single_val(Biomarker.her2_ihc_status)}
 DONOR.INDEX.biomarkers.INDEX.her2_ish_status, {single_val(Biomarker.her2_ish_status)}
@@ -151,13 +162,17 @@ DONOR.INDEX.biomarkers.INDEX.hpv_ihc_status, {single_val(Biomarker.hpv_ihc_statu
 DONOR.INDEX.biomarkers.INDEX.hpv_pcr_status, {single_val(Biomarker.hpv_pcr_status)}
 DONOR.INDEX.biomarkers.INDEX.hpv_strain, {pipe_delim(Biomarker.hpv_strain)}
 DONOR.INDEX.biomarkers.INDEX.pr_status, {single_val(Biomarker.pr_status)}
+DONOR.INDEX.biomarkers.INDEX.pr_percent_positive, {floating(Biomarker.pr_percent_positive)}
 DONOR.INDEX.biomarkers.INDEX.psa_level, {integer(Biomarker.psa_level)}
 DONOR.INDEX.biomarkers.INDEX.submitter_follow_up_id, {single_val(Biomarker.submitter_follow_up_id)}
 DONOR.INDEX.biomarkers.INDEX.submitter_primary_diagnosis_id, {single_val(Biomarker.submitter_primary_diagnosis_id)}
 DONOR.INDEX.biomarkers.INDEX.submitter_specimen_id, {single_val(Biomarker.submitter_specimen_id)}
 DONOR.INDEX.biomarkers.INDEX.submitter_treatment_id, {single_val(Biomarker.submitter_treatment_id)}
+DONOR.INDEX.biomarkers.INDEX.test_date, {map_function.self(Biomarker.test_date)}
 DONOR.INDEX.followups.INDEX, {moh_indexed_on_donor_if_others_absent(FollowUp.submitter_donor_id, FollowUp.submitter_primary_diagnosis_id, FollowUp.submitter_treatment_id)}
 DONOR.INDEX.followups.INDEX.anatomic_site_progression_or_recurrence, {pipe_delim(FollowUp.anatomic_site_progression_or_recurrence)}
+DONOR.INDEX.followups.INDEX.date_of_followup, {map_function.self(FollowUp.date_of_followup)}
+DONOR.INDEX.followups.INDEX.date_of_relapse, {map_function.self(FollowUp.date_of_relapse)}
 DONOR.INDEX.followups.INDEX.disease_status_at_followup, {single_val(FollowUp.disease_status_at_followup)}
 DONOR.INDEX.followups.INDEX.method_of_progression_status, {pipe_delim(FollowUp.method_of_progression_status)}
 DONOR.INDEX.followups.INDEX.recurrence_m_category, {single_val(FollowUp.recurrence_m_category)}
