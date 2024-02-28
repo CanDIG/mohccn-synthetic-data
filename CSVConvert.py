@@ -19,11 +19,6 @@ def convert_csv(path, output_folder):
                 data = json.load(f)
                 df = pd.DataFrame(data)
 
-                float64_columns = df.select_dtypes(include='float64').columns
-                if not float64_columns.empty:
-                    for key in float64_columns:
-                        df[key] = pd.to_numeric(df[key], errors='ignore').astype('Int64', errors='ignore')
-
                 # Concatenate values for all columns with list-type values
                 for column in df.columns:
                     if df[column].apply(lambda x: isinstance(x, list)).any():
