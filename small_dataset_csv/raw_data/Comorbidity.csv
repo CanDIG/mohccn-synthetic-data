@@ -1,0 +1,15 @@
+program_id,submitter_donor_id,prior_malignancy,laterality_of_prior_malignancy,age_at_comorbidity_diagnosis,comorbidity_type_code,comorbidity_treatment_status,comorbidity_treatment
+SYNTHETIC-1,DONOR_1,Yes,Right,56.0,C43.9,No,Surgery
+SYNTHETIC-1,DONOR_1,Unknown,,,C67.6,Unknown,Photodynamic therapy
+SYNTHETIC-1,DONOR_1,Yes,Unknown,53.0,C34.9,Yes,Endoscopic therapy
+SYNTHETIC-1,DONOR_2,,,54.0,C03.9,Unknown,Radiation therapy
+SYNTHETIC-1,DONOR_2,No,,42.0,C02.0,Unknown,Bone marrow transplant
+SYNTHETIC-1,DONOR_2,Unknown,,42.0,C34.9,Yes,Bone marrow transplant
+SYNTHETIC-1,DONOR_3,No,,36.0,C03.9,No,Chemotherapy
+SYNTHETIC-1,DONOR_3,Yes,Bilateral,48.0,C04.9,Yes,Ablation
+SYNTHETIC-1,DONOR_4,No,,,C43.9,,No treatment
+SYNTHETIC-1,DONOR_4,,,60.0,C02.9,No,Other targeting molecular therapy
+SYNTHETIC-1,DONOR_5,No,,39.0,,Yes,Other targeting molecular therapy
+SYNTHETIC-1,DONOR_6,Yes,Not applicable,,C02.2,,Radiation therapy
+SYNTHETIC-2,DONOR_7,Unknown,,42.0,C02.1,,Other targeting molecular therapy
+SYNTHETIC-2,DONOR_8,Unknown,,48.0,C43.9,Yes,Radiation therapy

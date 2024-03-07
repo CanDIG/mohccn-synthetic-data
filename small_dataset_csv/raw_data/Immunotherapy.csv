@@ -1,0 +1,12 @@
+program_id,submitter_donor_id,submitter_treatment_id,immunotherapy_type,drug_name,drug_reference_identifier,drug_reference_database,immunotherapy_drug_dose_units,prescribed_cumulative_drug_dose,actual_cumulative_drug_dose
+SYNTHETIC-1,DONOR_2,TREATMENT_14,Other immunomodulatory substances,Braftovi,987654,PubChem,,133.0,
+SYNTHETIC-1,DONOR_2,TREATMENT_14,Other immunomodulatory substances,Alunbrig,278936,PubChem,,174.0,199.0
+SYNTHETIC-1,DONOR_2,TREATMENT_14,Cell-based,Nivolumab,987654,PubChem,g/m2,55.0,90.0
+SYNTHETIC-1,DONOR_2,TREATMENT_15,Other immunomodulatory substances,Belantamab,4459876,NCI Thesaurus,mg/kg,55.0,195.0
+SYNTHETIC-1,DONOR_2,TREATMENT_15,Immune checkpoint inhibitors,Cotellic,239766,NCI Thesaurus,IU/kg,89.0,151.0
+SYNTHETIC-1,DONOR_2,TREATMENT_15,Monoclonal antibodies other than immune checkpoint inhibitors,Lenvatinib,239766,PubChem,IU/m2,146.0,
+SYNTHETIC-1,DONOR_3,TREATMENT_16,Cell-based,Kadcyla,987654,RxNorm,ug/m2,,104.0
+SYNTHETIC-1,DONOR_3,TREATMENT_16,,Niraparib,278936,NCI Thesaurus,g/m2,53.0,91.0
+SYNTHETIC-1,DONOR_3,TREATMENT_17,Other immunomodulatory substances,Pembrolizumab,8756456,RxNorm,cells/kg,153.0,
+SYNTHETIC-1,DONOR_3,TREATMENT_17,Cell-based,Obinutuzumab,239766,RxNorm,cells/kg,108.0,164.0
+SYNTHETIC-1,DONOR_4,TREATMENT_18,,,8756456,NCI Thesaurus,IU/kg,77.0,

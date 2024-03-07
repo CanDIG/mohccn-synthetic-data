@@ -1,0 +1,692 @@
+[
+    {
+        "program_id": "SYNTHETIC-1",
+        "genomic_file_id": "HG02102",
+        "main": {
+            "access_method": "file:////app/htsget_server/data/files/HG02102.vcf.gz",
+            "name": "HG02102.vcf.gz"
+        },
+        "index": {
+            "access_method": "file:////app/htsget_server/data/files/HG02102.vcf.gz.tbi",
+            "name": "HG02102.vcf.gz.tbi"
+        },
+        "metadata": {
+            "sequence_type": "wgs",
+            "data_type": "variant",
+            "reference": "hg38"
+        },
+        "samples": [
+            {
+                "genomic_file_sample_id": "HG02102",
+                "submitter_sample_id": "SAMPLE_REGISTRATION_1"
+            }
+        ]
+    },
+    {
+        "program_id": "SYNTHETIC-1",
+        "genomic_file_id": "NA02102",
+        "main": {
+            "access_method": "file:////app/htsget_server/data/files/NA02102.bam",
+            "name": "NA02102.bam"
+        },
+        "index": {
+            "access_method": "file:////app/htsget_server/data/files/NA02102.bam.bai",
+            "name": "NA02102.bam.bai"
+        },
+        "metadata": {
+            "sequence_type": "wgs",
+            "data_type": "read",
+            "reference": "hg38"
+        },
+        "samples": [
+            {
+                "genomic_file_sample_id": "NA02102",
+                "submitter_sample_id": "SAMPLE_REGISTRATION_2"
+            }
+        ]
+    },
+    {
+        "program_id": "SYNTHETIC-1",
+        "genomic_file_id": "NA02102",
+        "main": {
+            "access_method": "file:////app/htsget_server/data/files/NA02102.chr1.cram",
+            "name": "NA02102.chr1.cram"
+        },
+        "index": {
+            "access_method": "file:////app/htsget_server/data/files/NA02102.chr1.cram.crai",
+            "name": "NA02102.chr1.cram.crai"
+        },
+        "metadata": {
+            "sequence_type": "wgs",
+            "data_type": "read",
+            "reference": "hg38"
+        },
+        "samples": [
+            {
+                "genomic_file_sample_id": "NA02102",
+                "submitter_sample_id": "SAMPLE_REGISTRATION_3"
+            }
+        ]
+    },
+    {
+        "program_id": "SYNTHETIC-2",
+        "genomic_file_id": "HG02102",
+        "main": {
+            "access_method": "file:////app/htsget_server/data/files/HG02102.vcf.gz",
+            "name": "HG02102.vcf.gz"
+        },
+        "index": {
+            "access_method": "file:////app/htsget_server/data/files/HG02102.vcf.gz.tbi",
+            "name": "HG02102.vcf.gz.tbi"
+        },
+        "metadata": {
+            "sequence_type": "wgs",
+            "data_type": "variant",
+            "reference": "hg38"
+        },
+        "samples": [
+            {
+                "genomic_file_sample_id": "HG02102",
+                "submitter_sample_id": "SAMPLE_REGISTRATION_1004"
+            }
+        ]
+    },
+    {
+        "program_id": "SYNTHETIC-2",
+        "genomic_file_id": "NA02102",
+        "main": {
+            "access_method": "file:////app/htsget_server/data/files/NA02102.bam",
+            "name": "NA02102.bam"
+        },
+        "index": {
+            "access_method": "file:////app/htsget_server/data/files/NA02102.bam.bai",
+            "name": "NA02102.bam.bai"
+        },
+        "metadata": {
+            "sequence_type": "wgs",
+            "data_type": "read",
+            "reference": "hg38"
+        },
+        "samples": [
+            {
+                "genomic_file_sample_id": "NA02102",
+				"submitter_sample_id": "SAMPLE_REGISTRATION_1005"
+			}
+        ]
+    },
+    {
+        "program_id": "SYNTHETIC-2",
+        "genomic_file_id": "NA02102",
+        "main": {
+            "access_method": "file:////app/htsget_server/data/files/NA02102.chr1.cram",
+            "name": "NA02102.chr1.cram"
+        },
+        "index": {
+            "access_method": "file:////app/htsget_server/data/files/NA02102.chr1.cram.crai",
+            "name": "NA02102.chr1.cram.crai"
+        },
+        "metadata": {
+            "sequence_type": "wgs",
+            "data_type": "read",
+            "reference": "hg38"
+        },
+        "samples": [
+            {
+                "genomic_file_sample_id": "NA02102",
+                "submitter_sample_id": "SAMPLE_REGISTRATION_1006"
+            }
+        ]
+    },
+    {
+        "program_id": "SYNTHETIC-3",
+        "genomic_file_id": "HG02102",
+        "main": {
+            "access_method": "file:////app/htsget_server/data/files/HG02102.vcf.gz",
+            "name": "HG02102.vcf.gz"
+        },
+        "index": {
+            "access_method": "file:////app/htsget_server/data/files/HG02102.vcf.gz.tbi",
+            "name": "HG02102.vcf.gz.tbi"
+        },
+        "metadata": {
+            "sequence_type": "wgs",
+            "data_type": "variant",
+            "reference": "hg38"
+        },
+        "samples": [
+            {
+                "genomic_file_sample_id": "HG02102",
+                "submitter_sample_id": "SAMPLE_REGISTRATION_2185"
+            }
+        ]
+    },
+    {
+        "program_id": "SYNTHETIC-3",
+        "genomic_file_id": "NA02102",
+        "main": {
+            "access_method": "file:////app/htsget_server/data/files/NA02102.bam",
+            "name": "NA02102.bam"
+        },
+        "index": {
+            "access_method": "file:////app/htsget_server/data/files/NA02102.bam.bai",
+            "name": "NA02102.bam.bai"
+        },
+        "metadata": {
+            "sequence_type": "wgs",
+            "data_type": "read",
+            "reference": "hg38"
+        },
+        "samples": [
+            {
+                "genomic_file_sample_id": "NA02102",
+				"submitter_sample_id": "SAMPLE_REGISTRATION_2186"
+			}
+        ]
+    },
+    {
+        "program_id": "SYNTHETIC-3",
+        "genomic_file_id": "NA02102",
+        "main": {
+            "access_method": "file:////app/htsget_server/data/files/NA02102.chr1.cram",
+            "name": "NA02102.chr1.cram"
+        },
+        "index": {
+            "access_method": "file:////app/htsget_server/data/files/NA02102.chr1.cram.crai",
+            "name": "NA02102.chr1.cram.crai"
+        },
+        "metadata": {
+            "sequence_type": "wgs",
+            "data_type": "read",
+            "reference": "hg38"
+        },
+        "samples": [
+            {
+                "genomic_file_sample_id": "NA02102",
+                "submitter_sample_id": "SAMPLE_REGISTRATION_2187"
+            }
+        ]
+    },
+    {
+        "program_id": "SYNTHETIC-4",
+        "genomic_file_id": "HG02102",
+        "main": {
+            "access_method": "file:////app/htsget_server/data/files/HG02102.vcf.gz",
+            "name": "HG02102.vcf.gz"
+        },
+        "index": {
+            "access_method": "file:////app/htsget_server/data/files/HG02102.vcf.gz.tbi",
+            "name": "HG02102.vcf.gz.tbi"
+        },
+        "metadata": {
+            "sequence_type": "wgs",
+            "data_type": "variant",
+            "reference": "hg38"
+        },
+        "samples": [
+            {
+                "genomic_file_sample_id": "HG02102",
+                "submitter_sample_id": "SAMPLE_REGISTRATION_3045"
+            }
+        ]
+    },
+    {
+        "program_id": "SYNTHETIC-4",
+        "genomic_file_id": "NA02102",
+        "main": {
+            "access_method": "file:////app/htsget_server/data/files/NA02102.bam",
+            "name": "NA02102.bam"
+        },
+        "index": {
+            "access_method": "file:////app/htsget_server/data/files/NA02102.bam.bai",
+            "name": "NA02102.bam.bai"
+        },
+        "metadata": {
+            "sequence_type": "wgs",
+            "data_type": "read",
+            "reference": "hg38"
+        },
+        "samples": [
+            {
+                "genomic_file_sample_id": "NA02102",
+				"submitter_sample_id": "SAMPLE_REGISTRATION_3046"
+			}
+        ]
+    },
+    {
+        "program_id": "SYNTHETIC-4",
+        "genomic_file_id": "NA02102",
+        "main": {
+            "access_method": "file:////app/htsget_server/data/files/NA02102.chr1.cram",
+            "name": "NA02102.chr1.cram"
+        },
+        "index": {
+            "access_method": "file:////app/htsget_server/data/files/NA02102.chr1.cram.crai",
+            "name": "NA02102.chr1.cram.crai"
+        },
+        "metadata": {
+            "sequence_type": "wgs",
+            "data_type": "read",
+            "reference": "hg38"
+        },
+        "samples": [
+            {
+                "genomic_file_sample_id": "NA02102",
+                "submitter_sample_id": "SAMPLE_REGISTRATION_3047"
+            }
+        ]
+    },
+    {
+        "program_id": "SYNTHETIC-5",
+        "genomic_file_id": "HG02102",
+        "main": {
+            "access_method": "file:////app/htsget_server/data/files/HG02102.vcf.gz",
+            "name": "HG02102.vcf.gz"
+        },
+        "index": {
+            "access_method": "file:////app/htsget_server/data/files/HG02102.vcf.gz.tbi",
+            "name": "HG02102.vcf.gz.tbi"
+        },
+        "metadata": {
+            "sequence_type": "wgs",
+            "data_type": "variant",
+            "reference": "hg38"
+        },
+        "samples": [
+            {
+                "genomic_file_sample_id": "HG02102",
+                "submitter_sample_id": "SAMPLE_REGISTRATION_4300"
+            }
+        ]
+    },
+    {
+        "program_id": "SYNTHETIC-5",
+        "genomic_file_id": "NA02102",
+        "main": {
+            "access_method": "file:////app/htsget_server/data/files/NA02102.bam",
+            "name": "NA02102.bam"
+        },
+        "index": {
+            "access_method": "file:////app/htsget_server/data/files/NA02102.bam.bai",
+            "name": "NA02102.bam.bai"
+        },
+        "metadata": {
+            "sequence_type": "wgs",
+            "data_type": "read",
+            "reference": "hg38"
+        },
+        "samples": [
+            {
+                "genomic_file_sample_id": "NA02102",
+				"submitter_sample_id": "SAMPLE_REGISTRATION_4301"
+			}
+        ]
+    },
+    {
+        "program_id": "SYNTHETIC-5",
+        "genomic_file_id": "NA02102",
+        "main": {
+            "access_method": "file:////app/htsget_server/data/files/NA02102.chr1.cram",
+            "name": "NA02102.chr1.cram"
+        },
+        "index": {
+            "access_method": "file:////app/htsget_server/data/files/NA02102.chr1.cram.crai",
+            "name": "NA02102.chr1.cram.crai"
+        },
+        "metadata": {
+            "sequence_type": "wgs",
+            "data_type": "read",
+            "reference": "hg38"
+        },
+        "samples": [
+            {
+                "genomic_file_sample_id": "NA02102",
+                "submitter_sample_id": "SAMPLE_REGISTRATION_4302"
+            }
+        ]
+    },
+    {
+        "program_id": "SYNTHETIC-6",
+        "genomic_file_id": "HG02102",
+        "main": {
+            "access_method": "file:////app/htsget_server/data/files/HG02102.vcf.gz",
+            "name": "HG02102.vcf.gz"
+        },
+        "index": {
+            "access_method": "file:////app/htsget_server/data/files/HG02102.vcf.gz.tbi",
+            "name": "HG02102.vcf.gz.tbi"
+        },
+        "metadata": {
+            "sequence_type": "wgs",
+            "data_type": "variant",
+            "reference": "hg38"
+        },
+        "samples": [
+            {
+                "genomic_file_sample_id": "HG02102",
+                "submitter_sample_id": "SAMPLE_REGISTRATION_5061"
+            }
+        ]
+    },
+    {
+        "program_id": "SYNTHETIC-6",
+        "genomic_file_id": "NA02102",
+        "main": {
+            "access_method": "file:////app/htsget_server/data/files/NA02102.bam",
+            "name": "NA02102.bam"
+        },
+        "index": {
+            "access_method": "file:////app/htsget_server/data/files/NA02102.bam.bai",
+            "name": "NA02102.bam.bai"
+        },
+        "metadata": {
+            "sequence_type": "wgs",
+            "data_type": "read",
+            "reference": "hg38"
+        },
+        "samples": [
+            {
+                "genomic_file_sample_id": "NA02102",
+				"submitter_sample_id": "SAMPLE_REGISTRATION_5062"
+			}
+        ]
+    },
+    {
+        "program_id": "SYNTHETIC-6",
+        "genomic_file_id": "NA02102",
+        "main": {
+            "access_method": "file:////app/htsget_server/data/files/NA02102.chr1.cram",
+            "name": "NA02102.chr1.cram"
+        },
+        "index": {
+            "access_method": "file:////app/htsget_server/data/files/NA02102.chr1.cram.crai",
+            "name": "NA02102.chr1.cram.crai"
+        },
+        "metadata": {
+            "sequence_type": "wgs",
+            "data_type": "read",
+            "reference": "hg38"
+        },
+        "samples": [
+            {
+                "genomic_file_sample_id": "NA02102",
+                "submitter_sample_id": "SAMPLE_REGISTRATION_5063"
+            }
+        ]
+    },
+    {
+        "program_id": "SYNTHETIC-7",
+        "genomic_file_id": "HG02102",
+        "main": {
+            "access_method": "file:////app/htsget_server/data/files/HG02102.vcf.gz",
+            "name": "HG02102.vcf.gz"
+        },
+        "index": {
+            "access_method": "file:////app/htsget_server/data/files/HG02102.vcf.gz.tbi",
+            "name": "HG02102.vcf.gz.tbi"
+        },
+        "metadata": {
+            "sequence_type": "wgs",
+            "data_type": "variant",
+            "reference": "hg38"
+        },
+        "samples": [
+            {
+                "genomic_file_sample_id": "HG02102",
+                "submitter_sample_id": "SAMPLE_REGISTRATION_6192"
+            }
+        ]
+    },
+    {
+        "program_id": "SYNTHETIC-7",
+        "genomic_file_id": "NA02102",
+        "main": {
+            "access_method": "file:////app/htsget_server/data/files/NA02102.bam",
+            "name": "NA02102.bam"
+        },
+        "index": {
+            "access_method": "file:////app/htsget_server/data/files/NA02102.bam.bai",
+            "name": "NA02102.bam.bai"
+        },
+        "metadata": {
+            "sequence_type": "wgs",
+            "data_type": "read",
+            "reference": "hg38"
+        },
+        "samples": [
+            {
+                "genomic_file_sample_id": "NA02102",
+				"submitter_sample_id": "SAMPLE_REGISTRATION_6193"
+			}
+        ]
+    },
+    {
+        "program_id": "SYNTHETIC-7",
+        "genomic_file_id": "NA02102",
+        "main": {
+            "access_method": "file:////app/htsget_server/data/files/NA02102.chr1.cram",
+            "name": "NA02102.chr1.cram"
+        },
+        "index": {
+            "access_method": "file:////app/htsget_server/data/files/NA02102.chr1.cram.crai",
+            "name": "NA02102.chr1.cram.crai"
+        },
+        "metadata": {
+            "sequence_type": "wgs",
+            "data_type": "read",
+            "reference": "hg38"
+        },
+        "samples": [
+            {
+                "genomic_file_sample_id": "NA02102",
+                "submitter_sample_id": "SAMPLE_REGISTRATION_6194"
+            }
+        ]
+    },
+    {
+        "program_id": "SYNTHETIC-8",
+        "genomic_file_id": "HG02102",
+        "main": {
+            "access_method": "file:////app/htsget_server/data/files/HG02102.vcf.gz",
+            "name": "HG02102.vcf.gz"
+        },
+        "index": {
+            "access_method": "file:////app/htsget_server/data/files/HG02102.vcf.gz.tbi",
+            "name": "HG02102.vcf.gz.tbi"
+        },
+        "metadata": {
+            "sequence_type": "wgs",
+            "data_type": "variant",
+            "reference": "hg38"
+        },
+        "samples": [
+            {
+                "genomic_file_sample_id": "HG02102",
+                "submitter_sample_id": "SAMPLE_REGISTRATION_7090"
+            }
+        ]
+    },
+    {
+        "program_id": "SYNTHETIC-8",
+        "genomic_file_id": "NA02102",
+        "main": {
+            "access_method": "file:////app/htsget_server/data/files/NA02102.bam",
+            "name": "NA02102.bam"
+        },
+        "index": {
+            "access_method": "file:////app/htsget_server/data/files/NA02102.bam.bai",
+            "name": "NA02102.bam.bai"
+        },
+        "metadata": {
+            "sequence_type": "wgs",
+            "data_type": "read",
+            "reference": "hg38"
+        },
+        "samples": [
+            {
+                "genomic_file_sample_id": "NA02102",
+				"submitter_sample_id": "SAMPLE_REGISTRATION_7091"
+			}
+        ]
+    },
+    {
+        "program_id": "SYNTHETIC-8",
+        "genomic_file_id": "NA02102",
+        "main": {
+            "access_method": "file:////app/htsget_server/data/files/NA02102.chr1.cram",
+            "name": "NA02102.chr1.cram"
+        },
+        "index": {
+            "access_method": "file:////app/htsget_server/data/files/NA02102.chr1.cram.crai",
+            "name": "NA02102.chr1.cram.crai"
+        },
+        "metadata": {
+            "sequence_type": "wgs",
+            "data_type": "read",
+            "reference": "hg38"
+        },
+        "samples": [
+            {
+                "genomic_file_sample_id": "NA02102",
+                "submitter_sample_id": "SAMPLE_REGISTRATION_7092"
+            }
+        ]
+    },
+    {
+        "program_id": "SYNTHETIC-9",
+        "genomic_file_id": "HG02102",
+        "main": {
+            "access_method": "file:////app/htsget_server/data/files/HG02102.vcf.gz",
+            "name": "HG02102.vcf.gz"
+        },
+        "index": {
+            "access_method": "file:////app/htsget_server/data/files/HG02102.vcf.gz.tbi",
+            "name": "HG02102.vcf.gz.tbi"
+        },
+        "metadata": {
+            "sequence_type": "wgs",
+            "data_type": "variant",
+            "reference": "hg38"
+        },
+        "samples": [
+            {
+                "genomic_file_sample_id": "HG02102",
+                "submitter_sample_id": "SAMPLE_REGISTRATION_8125"
+            }
+        ]
+    },
+    {
+        "program_id": "SYNTHETIC-9",
+        "genomic_file_id": "NA02102",
+        "main": {
+            "access_method": "file:////app/htsget_server/data/files/NA02102.bam",
+            "name": "NA02102.bam"
+        },
+        "index": {
+            "access_method": "file:////app/htsget_server/data/files/NA02102.bam.bai",
+            "name": "NA02102.bam.bai"
+        },
+        "metadata": {
+            "sequence_type": "wgs",
+            "data_type": "read",
+            "reference": "hg38"
+        },
+        "samples": [
+            {
+                "genomic_file_sample_id": "NA02102",
+				"submitter_sample_id": "SAMPLE_REGISTRATION_8126"
+			}
+        ]
+    },
+    {
+        "program_id": "SYNTHETIC-9",
+        "genomic_file_id": "NA02102",
+        "main": {
+            "access_method": "file:////app/htsget_server/data/files/NA02102.chr1.cram",
+            "name": "NA02102.chr1.cram"
+        },
+        "index": {
+            "access_method": "file:////app/htsget_server/data/files/NA02102.chr1.cram.crai",
+            "name": "NA02102.chr1.cram.crai"
+        },
+        "metadata": {
+            "sequence_type": "wgs",
+            "data_type": "read",
+            "reference": "hg38"
+        },
+        "samples": [
+            {
+                "genomic_file_sample_id": "NA02102",
+                "submitter_sample_id": "SAMPLE_REGISTRATION_8127"
+            }
+        ]
+    },
+    {
+        "program_id": "SYNTHETIC-10",
+        "genomic_file_id": "HG02102",
+        "main": {
+            "access_method": "file:////app/htsget_server/data/files/HG02102.vcf.gz",
+            "name": "HG02102.vcf.gz"
+        },
+        "index": {
+            "access_method": "file:////app/htsget_server/data/files/HG02102.vcf.gz.tbi",
+            "name": "HG02102.vcf.gz.tbi"
+        },
+        "metadata": {
+            "sequence_type": "wgs",
+            "data_type": "variant",
+            "reference": "hg38"
+        },
+        "samples": [
+            {
+                "genomic_file_sample_id": "HG02102",
+                "submitter_sample_id": "SAMPLE_REGISTRATION_9240"
+            }
+        ]
+    },
+    {
+        "program_id": "SYNTHETIC-10",
+        "genomic_file_id": "NA02102",
+        "main": {
+            "access_method": "file:////app/htsget_server/data/files/NA02102.bam",
+            "name": "NA02102.bam"
+        },
+        "index": {
+            "access_method": "file:////app/htsget_server/data/files/NA02102.bam.bai",
+            "name": "NA02102.bam.bai"
+        },
+        "metadata": {
+            "sequence_type": "wgs",
+            "data_type": "read",
+            "reference": "hg38"
+        },
+        "samples": [
+            {
+                "genomic_file_sample_id": "NA02102",
+				"submitter_sample_id": "SAMPLE_REGISTRATION_9241"
+			}
+        ]
+    },
+    {
+        "program_id": "SYNTHETIC-10",
+        "genomic_file_id": "NA02102",
+        "main": {
+            "access_method": "file:////app/htsget_server/data/files/NA02102.chr1.cram",
+            "name": "NA02102.chr1.cram"
+        },
+        "index": {
+            "access_method": "file:////app/htsget_server/data/files/NA02102.chr1.cram.crai",
+            "name": "NA02102.chr1.cram.crai"
+        },
+        "metadata": {
+            "sequence_type": "wgs",
+            "data_type": "read",
+            "reference": "hg38"
+        },
+        "samples": [
+            {
+                "genomic_file_sample_id": "NA02102",
+                "submitter_sample_id": "SAMPLE_REGISTRATION_9242"
+            }
+        ]
+    }
+]

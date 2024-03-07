@@ -1,0 +1,13 @@
+is_deceased,cause_of_death,date_resolution,date_of_death,primary_site,gender,sex_at_birth,lost_to_followup_reason,date_alive_after_lost_to_followup,submitter_donor_id,program_id,date_of_birth,lost_to_followup_after_clinical_event_identifier
+True,Died of other reasons,day,"{'month_interval': 37, 'day_interval': 1110}",,Man,Female,,,DONOR_1,SYNTHETIC-1,,
+True,Died of other reasons,day,"{'month_interval': 37, 'day_interval': 1110}",Thyroid gland|Kidney,Woman,Unknown,,,DONOR_2,SYNTHETIC-1,"{'month_interval': -242, 'day_interval': -7260}",
+True,Unknown,month,{'month_interval': 33},Parotid gland|Rectum|Skin,Man,Female,,,DONOR_3,SYNTHETIC-1,{'month_interval': -483},
+,,month,,Ovary,Man,,,{'month_interval': 1},DONOR_4,SYNTHETIC-1,{'month_interval': -964},
+,,day,,Cervix uteri|Vulva,Woman,,,,DONOR_5,SYNTHETIC-1,"{'month_interval': -641, 'day_interval': -19230}",
+True,Died of cancer,day,"{'month_interval': 67, 'day_interval': 2010}",Ovary|Stomach,,,,,DONOR_6,SYNTHETIC-1,"{'month_interval': -575, 'day_interval': -17250}",
+True,Unknown,day,"{'month_interval': 27, 'day_interval': 810}",Other and unspecified major salivary glands|Other and unspecified parts of biliary tract|Base of tongue|Hypopharynx|Skin,Woman,Male,,,DONOR_7,SYNTHETIC-2,"{'month_interval': -138, 'day_interval': -4140}",
+,,day,,Other endocrine glands and related structures,,Female,,,DONOR_8,SYNTHETIC-2,,
+True,Unknown,day,"{'month_interval': 40, 'day_interval': 1200}",Penis|Other and unspecified parts of mouth|Testis|Adrenal gland,Man,Male,,,DONOR_9,SYNTHETIC-2,"{'month_interval': -750, 'day_interval': -22500}",
+True,Died of other reasons,month,{'month_interval': 25},Testis|Other and unspecified female genital organs|Other endocrine glands and related structures|Pancreas,Non-binary,Female,,,DONOR_10,SYNTHETIC-2,,
+True,Unknown,month,"{'month_interval': 90, 'day_interval': 2700}",Floor of mouth,Woman,Other,,,DONOR_11,SYNTHETIC-2,,
+True,Unknown,month,"{'month_interval': 40, 'day_interval': 1200}",Base of tongue,Man,Other,,,DONOR_12,SYNTHETIC-2,,

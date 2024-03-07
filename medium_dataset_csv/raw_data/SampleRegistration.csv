@@ -1,0 +1,1001 @@
+submitter_sample_id,program_id,submitter_donor_id,submitter_specimen_id,specimen_tissue_source,tumour_normal_designation,specimen_type,sample_type
+SAMPLE_REGISTRATION_1,SYNTHETIC-1,DONOR_1,SPECIMEN_1,Abdominal fluid,Normal,Cell line - derived from normal,Total DNA
+SAMPLE_REGISTRATION_2,SYNTHETIC-1,DONOR_2,SPECIMEN_2,Pericardial effusion,Normal,Normal,Amplified DNA
+SAMPLE_REGISTRATION_3,SYNTHETIC-1,DONOR_3,SPECIMEN_3,Bone marrow fluid,Normal,,polyA+ RNA
+SAMPLE_REGISTRATION_4,SYNTHETIC-1,DONOR_4,SPECIMEN_4,Synovial fluid,Normal,Normal - tissue adjacent to primary tumour,rRNA-depleted RNA
+SAMPLE_REGISTRATION_5,SYNTHETIC-1,DONOR_5,SPECIMEN_5,Seminal fluid,Normal,Cell line - derived from xenograft tumour,ctDNA
+SAMPLE_REGISTRATION_6,SYNTHETIC-1,DONOR_6,SPECIMEN_6,Cerebrospinal fluid,Normal,Cell line - derived from primary tumour,Amplified DNA
+SAMPLE_REGISTRATION_7,SYNTHETIC-1,DONOR_7,SPECIMEN_7,Convalescent plasma,Normal,Cell line - derived from metastatic tumour,rRNA-depleted RNA
+SAMPLE_REGISTRATION_8,SYNTHETIC-1,DONOR_8,SPECIMEN_8,Solid tissue,Normal,Cell line - derived from metastatic tumour,Protein
+SAMPLE_REGISTRATION_9,SYNTHETIC-1,DONOR_9,SPECIMEN_9,Urine,Normal,Cell line - derived from normal,rRNA-depleted RNA
+SAMPLE_REGISTRATION_10,SYNTHETIC-1,DONOR_10,SPECIMEN_10,Urine,,Normal - tissue adjacent to primary tumour,Protein
+SAMPLE_REGISTRATION_11,SYNTHETIC-1,DONOR_11,SPECIMEN_11,Solid tissue,Normal,Cell line - derived from metastatic tumour,
+SAMPLE_REGISTRATION_12,SYNTHETIC-1,DONOR_12,SPECIMEN_12,,,Xenograft - derived from tumour cell line,
+SAMPLE_REGISTRATION_13,SYNTHETIC-1,DONOR_13,SPECIMEN_13,Buffy coat,Normal,Normal,Total DNA
+SAMPLE_REGISTRATION_14,SYNTHETIC-1,DONOR_14,SPECIMEN_14,Vitreous fluid,Normal,Metastatic tumour,Total RNA
+SAMPLE_REGISTRATION_15,SYNTHETIC-1,DONOR_15,SPECIMEN_15,Renal cyst fluid,Normal,Cell line - derived from metastatic tumour,Total RNA
+SAMPLE_REGISTRATION_16,SYNTHETIC-1,DONOR_16,SPECIMEN_16,Female genital fluid,Tumour,Cell line - derived from xenograft tumour,Total RNA
+SAMPLE_REGISTRATION_17,SYNTHETIC-1,DONOR_17,SPECIMEN_17,Buffy coat,Tumour,Recurrent tumour,
+SAMPLE_REGISTRATION_18,SYNTHETIC-1,DONOR_18,SPECIMEN_18,Blood derived - peripheral blood,Tumour,Xenograft - derived from tumour cell line,ctDNA
+SAMPLE_REGISTRATION_19,SYNTHETIC-1,DONOR_19,SPECIMEN_19,Synovial fluid,Normal,,Amplified DNA
+SAMPLE_REGISTRATION_20,SYNTHETIC-1,DONOR_20,SPECIMEN_20,Urine,Tumour,Metastatic tumour - metastasis local to lymph node,
+SAMPLE_REGISTRATION_21,SYNTHETIC-1,DONOR_21,SPECIMEN_21,Cervical mucus,Normal,Metastatic tumour - metastasis local to lymph node,Other DNA enrichments
+SAMPLE_REGISTRATION_22,SYNTHETIC-1,DONOR_22,SPECIMEN_22,Arterial blood,Normal,Cell line - derived from xenograft tumour,Total DNA
+SAMPLE_REGISTRATION_23,SYNTHETIC-1,DONOR_23,SPECIMEN_23,Vitreous fluid,Tumour,Metastatic tumour - metastasis local to lymph node,
+SAMPLE_REGISTRATION_24,SYNTHETIC-1,DONOR_24,SPECIMEN_24,Serum,Normal,Primary tumour - additional new primary,rRNA-depleted RNA
+SAMPLE_REGISTRATION_25,SYNTHETIC-1,DONOR_25,SPECIMEN_25,Cervical mucus,Normal,Metastatic tumour,Total RNA
+SAMPLE_REGISTRATION_26,SYNTHETIC-1,DONOR_26,SPECIMEN_26,Hydrocele fluid,Normal,Metastatic tumour,Other DNA enrichments
+SAMPLE_REGISTRATION_27,SYNTHETIC-1,DONOR_27,SPECIMEN_27,Vitreous fluid,Normal,Xenograft - derived from metastatic tumour,Other DNA enrichments
+SAMPLE_REGISTRATION_28,SYNTHETIC-1,DONOR_28,SPECIMEN_28,Buffy coat,Normal,Xenograft - derived from primary tumour,rRNA-depleted RNA
+SAMPLE_REGISTRATION_29,SYNTHETIC-1,DONOR_29,SPECIMEN_29,Cord blood,Normal,Cell line - derived from xenograft tumour,
+SAMPLE_REGISTRATION_30,SYNTHETIC-1,DONOR_30,SPECIMEN_30,Amniotic fluid,Normal,Recurrent tumour,
+SAMPLE_REGISTRATION_31,SYNTHETIC-1,DONOR_31,SPECIMEN_31,Seminal fluid,Normal,Cell line - derived from normal,ctDNA
+SAMPLE_REGISTRATION_32,SYNTHETIC-1,DONOR_32,SPECIMEN_32,Cord blood,Normal,Xenograft - derived from primary tumour,rRNA-depleted RNA
+SAMPLE_REGISTRATION_33,SYNTHETIC-1,DONOR_33,SPECIMEN_33,,Normal,Cell line - derived from metastatic tumour,ctDNA
+SAMPLE_REGISTRATION_34,SYNTHETIC-1,DONOR_34,SPECIMEN_34,Pericardial effusion,Normal,Normal - tissue adjacent to primary tumour,Other RNA fractions
+SAMPLE_REGISTRATION_35,SYNTHETIC-1,DONOR_35,SPECIMEN_35,Renal cyst fluid,Tumour,Primary tumour - additional new primary,Protein
+SAMPLE_REGISTRATION_36,SYNTHETIC-1,DONOR_36,SPECIMEN_36,,Normal,,Amplified DNA
+SAMPLE_REGISTRATION_37,SYNTHETIC-1,DONOR_37,SPECIMEN_37,Bile,Tumour,,Total DNA
+SAMPLE_REGISTRATION_38,SYNTHETIC-1,DONOR_38,SPECIMEN_38,Sputum,Normal,Xenograft - derived from metastatic tumour,Total RNA
+SAMPLE_REGISTRATION_39,SYNTHETIC-1,DONOR_39,SPECIMEN_39,,Tumour,,Other DNA enrichments
+SAMPLE_REGISTRATION_40,SYNTHETIC-1,DONOR_40,SPECIMEN_40,Serum,Tumour,Cell line - derived from xenograft tumour,Amplified DNA
+SAMPLE_REGISTRATION_41,SYNTHETIC-1,DONOR_1,SPECIMEN_41,Urine,Normal,Cell line - derived from metastatic tumour,Other DNA enrichments
+SAMPLE_REGISTRATION_42,SYNTHETIC-1,DONOR_2,SPECIMEN_42,Buffy coat,Normal,Recurrent tumour,
+SAMPLE_REGISTRATION_43,SYNTHETIC-1,DONOR_3,SPECIMEN_43,Cervical mucus,Tumour,,Other RNA fractions
+SAMPLE_REGISTRATION_44,SYNTHETIC-1,DONOR_4,SPECIMEN_44,Amniotic fluid,Tumour,Metastatic tumour - metastasis to distant location,Total DNA
+SAMPLE_REGISTRATION_45,SYNTHETIC-1,DONOR_5,SPECIMEN_45,Sputum,Tumour,Metastatic tumour - metastasis to distant location,Total RNA
+SAMPLE_REGISTRATION_46,SYNTHETIC-1,DONOR_6,SPECIMEN_46,,Normal,Cell line - derived from normal,
+SAMPLE_REGISTRATION_47,SYNTHETIC-1,DONOR_7,SPECIMEN_47,Blood derived - bone marrow,Tumour,Metastatic tumour - metastasis local to lymph node,Amplified DNA
+SAMPLE_REGISTRATION_48,SYNTHETIC-1,DONOR_8,SPECIMEN_48,Bone marrow fluid,Tumour,Primary tumour - adjacent to normal,Total RNA
+SAMPLE_REGISTRATION_49,SYNTHETIC-1,DONOR_9,SPECIMEN_49,Renal cyst fluid,Normal,Cell line - derived from metastatic tumour,Amplified DNA
+SAMPLE_REGISTRATION_50,SYNTHETIC-1,DONOR_10,SPECIMEN_50,Solid tissue,,Cell line - derived from primary tumour,Total DNA
+SAMPLE_REGISTRATION_51,SYNTHETIC-1,DONOR_11,SPECIMEN_51,Arterial blood,Tumour,Xenograft - derived from metastatic tumour,rRNA-depleted RNA
+SAMPLE_REGISTRATION_52,SYNTHETIC-1,DONOR_12,SPECIMEN_52,Female genital fluid,Normal,Normal - tissue adjacent to primary tumour,Total RNA
+SAMPLE_REGISTRATION_53,SYNTHETIC-1,DONOR_13,SPECIMEN_53,Synovial fluid,Normal,Xenograft - derived from primary tumour,Total DNA
+SAMPLE_REGISTRATION_54,SYNTHETIC-1,DONOR_14,SPECIMEN_54,Vitreous fluid,Tumour,Primary tumour - adjacent to normal,Other RNA fractions
+SAMPLE_REGISTRATION_55,SYNTHETIC-1,DONOR_15,SPECIMEN_55,Duodenal fluid,Tumour,,Total RNA
+SAMPLE_REGISTRATION_56,SYNTHETIC-1,DONOR_16,SPECIMEN_56,Vitreous fluid,Normal,,Other DNA enrichments
+SAMPLE_REGISTRATION_57,SYNTHETIC-1,DONOR_17,SPECIMEN_57,Cerebrospinal fluid,Normal,Xenograft - derived from tumour cell line,polyA+ RNA
+SAMPLE_REGISTRATION_58,SYNTHETIC-1,DONOR_18,SPECIMEN_58,Vitreous fluid,Normal,,Other DNA enrichments
+SAMPLE_REGISTRATION_59,SYNTHETIC-1,DONOR_19,SPECIMEN_59,Sputum,Tumour,Xenograft - derived from primary tumour,Amplified DNA
+SAMPLE_REGISTRATION_60,SYNTHETIC-1,DONOR_20,SPECIMEN_60,Saliva,Tumour,Primary tumour - additional new primary,ctDNA
+SAMPLE_REGISTRATION_61,SYNTHETIC-1,DONOR_21,SPECIMEN_61,Venous blood,Tumour,Metastatic tumour,polyA+ RNA
+SAMPLE_REGISTRATION_62,SYNTHETIC-1,DONOR_22,SPECIMEN_62,Abdominal fluid,Normal,Metastatic tumour,polyA+ RNA
+SAMPLE_REGISTRATION_63,SYNTHETIC-1,DONOR_23,SPECIMEN_63,Abdominal fluid,Normal,Xenograft - derived from metastatic tumour,ctDNA
+SAMPLE_REGISTRATION_64,SYNTHETIC-1,DONOR_24,SPECIMEN_64,Pericardial effusion,Normal,Cell line - derived from primary tumour,
+SAMPLE_REGISTRATION_65,SYNTHETIC-1,DONOR_25,SPECIMEN_65,Seminal fluid,Normal,Primary tumour - adjacent to normal,Protein
+SAMPLE_REGISTRATION_66,SYNTHETIC-1,DONOR_26,SPECIMEN_66,Arterial blood,Normal,,polyA+ RNA
+SAMPLE_REGISTRATION_67,SYNTHETIC-1,DONOR_27,SPECIMEN_67,Pleural fluid,Tumour,Normal,Total DNA
+SAMPLE_REGISTRATION_68,SYNTHETIC-1,DONOR_28,SPECIMEN_68,Sputum,Normal,Cell line - derived from xenograft tumour,ctDNA
+SAMPLE_REGISTRATION_69,SYNTHETIC-1,DONOR_29,SPECIMEN_69,,Tumour,Xenograft - derived from tumour cell line,
+SAMPLE_REGISTRATION_70,SYNTHETIC-1,DONOR_30,SPECIMEN_70,Blood derived - peripheral blood,Tumour,,Protein
+SAMPLE_REGISTRATION_71,SYNTHETIC-1,DONOR_31,SPECIMEN_71,Buccal cell,Normal,Metastatic tumour,Amplified DNA
+SAMPLE_REGISTRATION_72,SYNTHETIC-1,DONOR_32,SPECIMEN_72,Sputum,Normal,Cell line - derived from normal,rRNA-depleted RNA
+SAMPLE_REGISTRATION_73,SYNTHETIC-1,DONOR_33,SPECIMEN_73,Cerebrospinal fluid,Normal,Metastatic tumour - metastasis to distant location,Total RNA
+SAMPLE_REGISTRATION_74,SYNTHETIC-1,DONOR_34,SPECIMEN_74,Hydrocele fluid,,,Total DNA
+SAMPLE_REGISTRATION_75,SYNTHETIC-1,DONOR_35,SPECIMEN_75,Bone marrow derived mononuclear cells,Tumour,Metastatic tumour - metastasis to distant location,rRNA-depleted RNA
+SAMPLE_REGISTRATION_76,SYNTHETIC-1,DONOR_36,SPECIMEN_76,Bile,Tumour,Recurrent tumour,Total DNA
+SAMPLE_REGISTRATION_77,SYNTHETIC-1,DONOR_37,SPECIMEN_77,,Normal,Xenograft - derived from tumour cell line,Total DNA
+SAMPLE_REGISTRATION_78,SYNTHETIC-1,DONOR_38,SPECIMEN_78,Sputum,,Primary tumour - additional new primary,Total DNA
+SAMPLE_REGISTRATION_79,SYNTHETIC-1,DONOR_39,SPECIMEN_79,Pancreatic fluid,Normal,Metastatic tumour - additional metastatic,polyA+ RNA
+SAMPLE_REGISTRATION_80,SYNTHETIC-1,DONOR_40,SPECIMEN_80,Pericardial effusion,,Cell line - derived from primary tumour,Other DNA enrichments
+SAMPLE_REGISTRATION_81,SYNTHETIC-1,DONOR_1,SPECIMEN_81,Serum,Normal,Cell line - derived from primary tumour,Total DNA
+SAMPLE_REGISTRATION_82,SYNTHETIC-1,DONOR_2,SPECIMEN_82,Bone marrow derived mononuclear cells,Tumour,Xenograft - derived from metastatic tumour,rRNA-depleted RNA
+SAMPLE_REGISTRATION_83,SYNTHETIC-1,DONOR_3,SPECIMEN_83,Male genital fluid,Normal,,ctDNA
+SAMPLE_REGISTRATION_84,SYNTHETIC-1,DONOR_4,SPECIMEN_84,Arterial blood,Tumour,,
+SAMPLE_REGISTRATION_85,SYNTHETIC-1,DONOR_5,SPECIMEN_85,Duodenal fluid,Normal,Cell line - derived from primary tumour,ctDNA
+SAMPLE_REGISTRATION_86,SYNTHETIC-1,DONOR_6,SPECIMEN_86,Female genital fluid,Normal,Normal - tissue adjacent to primary tumour,rRNA-depleted RNA
+SAMPLE_REGISTRATION_87,SYNTHETIC-1,DONOR_7,SPECIMEN_87,,Normal,Normal,rRNA-depleted RNA
+SAMPLE_REGISTRATION_88,SYNTHETIC-1,DONOR_8,SPECIMEN_88,Bone marrow fluid,Normal,Xenograft - derived from metastatic tumour,polyA+ RNA
+SAMPLE_REGISTRATION_89,SYNTHETIC-1,DONOR_9,SPECIMEN_89,Venous blood,Normal,,Total DNA
+SAMPLE_REGISTRATION_90,SYNTHETIC-1,DONOR_10,SPECIMEN_90,Cerebrospinal fluid,Normal,Primary tumour - adjacent to normal,Total DNA
+SAMPLE_REGISTRATION_91,SYNTHETIC-1,DONOR_11,SPECIMEN_91,Bile,Normal,Metastatic tumour,Amplified DNA
+SAMPLE_REGISTRATION_92,SYNTHETIC-1,DONOR_12,SPECIMEN_92,Cervical mucus,Normal,,Protein
+SAMPLE_REGISTRATION_93,SYNTHETIC-1,DONOR_13,SPECIMEN_93,Abdominal fluid,Tumour,Primary tumour,Protein
+SAMPLE_REGISTRATION_94,SYNTHETIC-1,DONOR_14,SPECIMEN_94,Synovial fluid,Tumour,Cell line - derived from normal,Other DNA enrichments
+SAMPLE_REGISTRATION_95,SYNTHETIC-1,DONOR_15,SPECIMEN_95,Buccal cell,Normal,Cell line - derived from metastatic tumour,Other RNA fractions
+SAMPLE_REGISTRATION_96,SYNTHETIC-1,DONOR_16,SPECIMEN_96,Solid tissue,Tumour,,Amplified DNA
+SAMPLE_REGISTRATION_97,SYNTHETIC-1,DONOR_17,SPECIMEN_97,Renal cyst fluid,Tumour,Metastatic tumour - additional metastatic,
+SAMPLE_REGISTRATION_98,SYNTHETIC-1,DONOR_18,SPECIMEN_98,Cord blood,Tumour,Xenograft - derived from tumour cell line,Other DNA enrichments
+SAMPLE_REGISTRATION_99,SYNTHETIC-1,DONOR_19,SPECIMEN_99,Female genital fluid,Tumour,Recurrent tumour,Total RNA
+SAMPLE_REGISTRATION_100,SYNTHETIC-1,DONOR_20,SPECIMEN_100,,Tumour,Normal - tissue adjacent to primary tumour,
+SAMPLE_REGISTRATION_101,SYNTHETIC-1,DONOR_21,SPECIMEN_101,Bile,Normal,Xenograft - derived from tumour cell line,polyA+ RNA
+SAMPLE_REGISTRATION_102,SYNTHETIC-1,DONOR_22,SPECIMEN_102,Blood derived - peripheral blood,Tumour,Xenograft - derived from tumour cell line,Protein
+SAMPLE_REGISTRATION_103,SYNTHETIC-1,DONOR_23,SPECIMEN_103,Venous blood,Tumour,Recurrent tumour,Amplified DNA
+SAMPLE_REGISTRATION_104,SYNTHETIC-1,DONOR_24,SPECIMEN_104,Cervical mucus,,Xenograft - derived from primary tumour,Amplified DNA
+SAMPLE_REGISTRATION_105,SYNTHETIC-1,DONOR_25,SPECIMEN_105,,Tumour,Metastatic tumour,
+SAMPLE_REGISTRATION_106,SYNTHETIC-1,DONOR_26,SPECIMEN_106,,Normal,Recurrent tumour,Other RNA fractions
+SAMPLE_REGISTRATION_107,SYNTHETIC-1,DONOR_27,SPECIMEN_107,Cord blood,Tumour,Primary tumour,rRNA-depleted RNA
+SAMPLE_REGISTRATION_108,SYNTHETIC-1,DONOR_28,SPECIMEN_108,Pancreatic fluid,Normal,Normal,ctDNA
+SAMPLE_REGISTRATION_109,SYNTHETIC-1,DONOR_29,SPECIMEN_109,Convalescent plasma,Tumour,Metastatic tumour - metastasis local to lymph node,rRNA-depleted RNA
+SAMPLE_REGISTRATION_110,SYNTHETIC-1,DONOR_30,SPECIMEN_110,Cord blood,Tumour,Recurrent tumour,
+SAMPLE_REGISTRATION_111,SYNTHETIC-1,DONOR_31,SPECIMEN_111,Seminal fluid,Normal,Xenograft - derived from metastatic tumour,Amplified DNA
+SAMPLE_REGISTRATION_112,SYNTHETIC-1,DONOR_32,SPECIMEN_112,Blood derived - bone marrow,Tumour,,Total RNA
+SAMPLE_REGISTRATION_113,SYNTHETIC-1,DONOR_33,SPECIMEN_113,Urine,Tumour,Cell line - derived from metastatic tumour,ctDNA
+SAMPLE_REGISTRATION_114,SYNTHETIC-1,DONOR_34,SPECIMEN_114,Pancreatic fluid,Tumour,Primary tumour - adjacent to normal,Amplified DNA
+SAMPLE_REGISTRATION_115,SYNTHETIC-1,DONOR_35,SPECIMEN_115,Synovial fluid,Normal,Metastatic tumour - metastasis local to lymph node,polyA+ RNA
+SAMPLE_REGISTRATION_116,SYNTHETIC-1,DONOR_36,SPECIMEN_116,Blood derived - bone marrow,Normal,,ctDNA
+SAMPLE_REGISTRATION_117,SYNTHETIC-1,DONOR_37,SPECIMEN_117,Seminal fluid,,Cell line - derived from xenograft tumour,Protein
+SAMPLE_REGISTRATION_118,SYNTHETIC-1,DONOR_38,SPECIMEN_118,,Normal,Cell line - derived from normal,Amplified DNA
+SAMPLE_REGISTRATION_119,SYNTHETIC-1,DONOR_39,SPECIMEN_119,Saliva,Tumour,Metastatic tumour - metastasis local to lymph node,Protein
+SAMPLE_REGISTRATION_120,SYNTHETIC-1,DONOR_40,SPECIMEN_120,Blood derived - bone marrow,Tumour,Cell line - derived from primary tumour,Total RNA
+SAMPLE_REGISTRATION_121,SYNTHETIC-1,DONOR_1,SPECIMEN_121,Blood derived - peripheral blood,Tumour,Cell line - derived from normal,
+SAMPLE_REGISTRATION_122,SYNTHETIC-1,DONOR_2,SPECIMEN_122,Buccal cell,Normal,Metastatic tumour - metastasis to distant location,rRNA-depleted RNA
+SAMPLE_REGISTRATION_123,SYNTHETIC-1,DONOR_3,SPECIMEN_123,,Tumour,Metastatic tumour - metastasis local to lymph node,
+SAMPLE_REGISTRATION_124,SYNTHETIC-1,DONOR_4,SPECIMEN_124,Vitreous fluid,,Metastatic tumour - additional metastatic,Total RNA
+SAMPLE_REGISTRATION_125,SYNTHETIC-1,DONOR_5,SPECIMEN_125,Male genital fluid,Tumour,Primary tumour - additional new primary,Amplified DNA
+SAMPLE_REGISTRATION_126,SYNTHETIC-1,DONOR_6,SPECIMEN_126,Amniotic fluid,Tumour,Normal - tissue adjacent to primary tumour,polyA+ RNA
+SAMPLE_REGISTRATION_127,SYNTHETIC-1,DONOR_7,SPECIMEN_127,Bone marrow derived mononuclear cells,Tumour,Cell line - derived from primary tumour,Other DNA enrichments
+SAMPLE_REGISTRATION_128,SYNTHETIC-1,DONOR_8,SPECIMEN_128,Pleural fluid,Tumour,Normal,Total RNA
+SAMPLE_REGISTRATION_129,SYNTHETIC-1,DONOR_9,SPECIMEN_129,Pleural fluid,Normal,,Total RNA
+SAMPLE_REGISTRATION_130,SYNTHETIC-1,DONOR_10,SPECIMEN_130,Amniotic fluid,Tumour,Metastatic tumour - metastasis local to lymph node,ctDNA
+SAMPLE_REGISTRATION_131,SYNTHETIC-1,DONOR_11,SPECIMEN_131,Duodenal fluid,Tumour,,Other DNA enrichments
+SAMPLE_REGISTRATION_132,SYNTHETIC-1,DONOR_12,SPECIMEN_132,Amniotic fluid,Tumour,Xenograft - derived from primary tumour,polyA+ RNA
+SAMPLE_REGISTRATION_133,SYNTHETIC-1,DONOR_13,SPECIMEN_133,Blood derived - bone marrow,Tumour,Normal,ctDNA
+SAMPLE_REGISTRATION_134,SYNTHETIC-1,DONOR_14,SPECIMEN_134,Buffy coat,,Xenograft - derived from tumour cell line,Amplified DNA
+SAMPLE_REGISTRATION_135,SYNTHETIC-1,DONOR_15,SPECIMEN_135,Saliva,Normal,Metastatic tumour - metastasis local to lymph node,
+SAMPLE_REGISTRATION_136,SYNTHETIC-1,DONOR_16,SPECIMEN_136,Bone marrow fluid,Normal,Recurrent tumour,Protein
+SAMPLE_REGISTRATION_137,SYNTHETIC-1,DONOR_17,SPECIMEN_137,Pericardial effusion,Normal,Metastatic tumour - metastasis to distant location,Amplified DNA
+SAMPLE_REGISTRATION_138,SYNTHETIC-1,DONOR_18,SPECIMEN_138,Amniotic fluid,Tumour,Cell line - derived from primary tumour,polyA+ RNA
+SAMPLE_REGISTRATION_139,SYNTHETIC-1,DONOR_19,SPECIMEN_139,Amniotic fluid,Normal,Primary tumour - additional new primary,Amplified DNA
+SAMPLE_REGISTRATION_140,SYNTHETIC-1,DONOR_20,SPECIMEN_140,Hydrocele fluid,,Metastatic tumour - additional metastatic,ctDNA
+SAMPLE_REGISTRATION_141,SYNTHETIC-1,DONOR_21,SPECIMEN_141,Pancreatic fluid,Normal,Cell line - derived from primary tumour,ctDNA
+SAMPLE_REGISTRATION_142,SYNTHETIC-1,DONOR_22,SPECIMEN_142,Serum,Tumour,Cell line - derived from normal,Other DNA enrichments
+SAMPLE_REGISTRATION_143,SYNTHETIC-1,DONOR_23,SPECIMEN_143,Hydrocele fluid,Normal,Primary tumour - adjacent to normal,Protein
+SAMPLE_REGISTRATION_144,SYNTHETIC-1,DONOR_24,SPECIMEN_144,Buccal cell,Normal,,Total DNA
+SAMPLE_REGISTRATION_145,SYNTHETIC-1,DONOR_25,SPECIMEN_145,Venous blood,Tumour,Normal - tissue adjacent to primary tumour,rRNA-depleted RNA
+SAMPLE_REGISTRATION_146,SYNTHETIC-1,DONOR_26,SPECIMEN_146,Pericardial effusion,,,Total RNA
+SAMPLE_REGISTRATION_147,SYNTHETIC-1,DONOR_27,SPECIMEN_147,Male genital fluid,Normal,Cell line - derived from metastatic tumour,Total DNA
+SAMPLE_REGISTRATION_148,SYNTHETIC-1,DONOR_28,SPECIMEN_148,Vitreous fluid,Normal,Cell line - derived from xenograft tumour,Other DNA enrichments
+SAMPLE_REGISTRATION_149,SYNTHETIC-1,DONOR_29,SPECIMEN_149,Serum,Tumour,Cell line - derived from metastatic tumour,Total DNA
+SAMPLE_REGISTRATION_150,SYNTHETIC-1,DONOR_30,SPECIMEN_150,Urine,Normal,Xenograft - derived from primary tumour,Total RNA
+SAMPLE_REGISTRATION_151,SYNTHETIC-1,DONOR_31,SPECIMEN_151,Seminal fluid,Tumour,Metastatic tumour - additional metastatic,Total RNA
+SAMPLE_REGISTRATION_152,SYNTHETIC-1,DONOR_32,SPECIMEN_152,Pancreatic fluid,Tumour,Cell line - derived from normal,ctDNA
+SAMPLE_REGISTRATION_153,SYNTHETIC-1,DONOR_33,SPECIMEN_153,Hydrocele fluid,Normal,Normal - tissue adjacent to primary tumour,Protein
+SAMPLE_REGISTRATION_154,SYNTHETIC-1,DONOR_34,SPECIMEN_154,Male genital fluid,Normal,Xenograft - derived from primary tumour,Other DNA enrichments
+SAMPLE_REGISTRATION_155,SYNTHETIC-1,DONOR_35,SPECIMEN_155,Bone marrow derived mononuclear cells,Normal,Xenograft - derived from tumour cell line,Other DNA enrichments
+SAMPLE_REGISTRATION_156,SYNTHETIC-1,DONOR_36,SPECIMEN_156,,Normal,Normal - tissue adjacent to primary tumour,
+SAMPLE_REGISTRATION_157,SYNTHETIC-1,DONOR_37,SPECIMEN_157,Arterial blood,,Metastatic tumour,Total DNA
+SAMPLE_REGISTRATION_158,SYNTHETIC-1,DONOR_38,SPECIMEN_158,Serum,Normal,Xenograft - derived from primary tumour,
+SAMPLE_REGISTRATION_159,SYNTHETIC-1,DONOR_39,SPECIMEN_159,Urine,Tumour,,polyA+ RNA
+SAMPLE_REGISTRATION_160,SYNTHETIC-1,DONOR_40,SPECIMEN_160,Male genital fluid,Tumour,Primary tumour,
+SAMPLE_REGISTRATION_161,SYNTHETIC-1,DONOR_1,SPECIMEN_161,Abdominal fluid,Normal,Cell line - derived from primary tumour,
+SAMPLE_REGISTRATION_162,SYNTHETIC-1,DONOR_2,SPECIMEN_162,Solid tissue,Normal,Metastatic tumour,
+SAMPLE_REGISTRATION_163,SYNTHETIC-1,DONOR_3,SPECIMEN_163,Convalescent plasma,Tumour,Xenograft - derived from primary tumour,
+SAMPLE_REGISTRATION_164,SYNTHETIC-1,DONOR_4,SPECIMEN_164,Solid tissue,Normal,Cell line - derived from normal,Total DNA
+SAMPLE_REGISTRATION_165,SYNTHETIC-1,DONOR_5,SPECIMEN_165,Buffy coat,Normal,Metastatic tumour - additional metastatic,rRNA-depleted RNA
+SAMPLE_REGISTRATION_166,SYNTHETIC-1,DONOR_6,SPECIMEN_166,Buccal cell,Normal,Primary tumour - additional new primary,ctDNA
+SAMPLE_REGISTRATION_167,SYNTHETIC-1,DONOR_7,SPECIMEN_167,,Tumour,Cell line - derived from xenograft tumour,Amplified DNA
+SAMPLE_REGISTRATION_168,SYNTHETIC-1,DONOR_8,SPECIMEN_168,Male genital fluid,Normal,Cell line - derived from xenograft tumour,Total RNA
+SAMPLE_REGISTRATION_169,SYNTHETIC-1,DONOR_9,SPECIMEN_169,Vitreous fluid,Tumour,Cell line - derived from xenograft tumour,Other RNA fractions
+SAMPLE_REGISTRATION_170,SYNTHETIC-1,DONOR_10,SPECIMEN_170,Pleural fluid,Tumour,Metastatic tumour,Other RNA fractions
+SAMPLE_REGISTRATION_171,SYNTHETIC-1,DONOR_11,SPECIMEN_171,,Normal,Cell line - derived from metastatic tumour,polyA+ RNA
+SAMPLE_REGISTRATION_172,SYNTHETIC-1,DONOR_12,SPECIMEN_172,Cord blood,Normal,Xenograft - derived from primary tumour,Other DNA enrichments
+SAMPLE_REGISTRATION_173,SYNTHETIC-1,DONOR_13,SPECIMEN_173,Amniotic fluid,Tumour,Primary tumour,polyA+ RNA
+SAMPLE_REGISTRATION_174,SYNTHETIC-1,DONOR_14,SPECIMEN_174,Male genital fluid,Tumour,Metastatic tumour - metastasis local to lymph node,Protein
+SAMPLE_REGISTRATION_175,SYNTHETIC-1,DONOR_15,SPECIMEN_175,Sputum,Tumour,Primary tumour - adjacent to normal,Other DNA enrichments
+SAMPLE_REGISTRATION_176,SYNTHETIC-1,DONOR_16,SPECIMEN_176,Buccal cell,Normal,Cell line - derived from primary tumour,polyA+ RNA
+SAMPLE_REGISTRATION_177,SYNTHETIC-1,DONOR_17,SPECIMEN_177,Seminal fluid,Tumour,Cell line - derived from normal,
+SAMPLE_REGISTRATION_178,SYNTHETIC-1,DONOR_18,SPECIMEN_178,Amniotic fluid,Normal,Cell line - derived from normal,
+SAMPLE_REGISTRATION_179,SYNTHETIC-1,DONOR_19,SPECIMEN_179,Pancreatic fluid,,Primary tumour,rRNA-depleted RNA
+SAMPLE_REGISTRATION_180,SYNTHETIC-1,DONOR_20,SPECIMEN_180,Bone marrow derived mononuclear cells,Tumour,,Protein
+SAMPLE_REGISTRATION_181,SYNTHETIC-1,DONOR_21,SPECIMEN_181,Cord blood,Normal,Recurrent tumour,Total DNA
+SAMPLE_REGISTRATION_182,SYNTHETIC-1,DONOR_22,SPECIMEN_182,Seminal fluid,Tumour,Recurrent tumour,polyA+ RNA
+SAMPLE_REGISTRATION_183,SYNTHETIC-1,DONOR_23,SPECIMEN_183,Male genital fluid,Tumour,Metastatic tumour,Total DNA
+SAMPLE_REGISTRATION_184,SYNTHETIC-1,DONOR_24,SPECIMEN_184,Cord blood,Tumour,Metastatic tumour - additional metastatic,Amplified DNA
+SAMPLE_REGISTRATION_185,SYNTHETIC-1,DONOR_25,SPECIMEN_185,Saliva,Tumour,Recurrent tumour,rRNA-depleted RNA
+SAMPLE_REGISTRATION_186,SYNTHETIC-1,DONOR_26,SPECIMEN_186,Bone marrow fluid,Normal,Metastatic tumour - metastasis to distant location,
+SAMPLE_REGISTRATION_187,SYNTHETIC-1,DONOR_27,SPECIMEN_187,Cervical mucus,Normal,Primary tumour - additional new primary,Other RNA fractions
+SAMPLE_REGISTRATION_188,SYNTHETIC-1,DONOR_28,SPECIMEN_188,Arterial blood,,Primary tumour - additional new primary,Protein
+SAMPLE_REGISTRATION_189,SYNTHETIC-1,DONOR_29,SPECIMEN_189,,,Primary tumour - additional new primary,
+SAMPLE_REGISTRATION_190,SYNTHETIC-1,DONOR_30,SPECIMEN_190,Sputum,Tumour,Metastatic tumour - additional metastatic,Amplified DNA
+SAMPLE_REGISTRATION_191,SYNTHETIC-1,DONOR_31,SPECIMEN_191,Buccal cell,Normal,Cell line - derived from xenograft tumour,Other DNA enrichments
+SAMPLE_REGISTRATION_192,SYNTHETIC-1,DONOR_32,SPECIMEN_192,Pleural fluid,Tumour,Primary tumour,ctDNA
+SAMPLE_REGISTRATION_193,SYNTHETIC-1,DONOR_33,SPECIMEN_193,Sputum,Tumour,Metastatic tumour - metastasis to distant location,Total RNA
+SAMPLE_REGISTRATION_194,SYNTHETIC-1,DONOR_34,SPECIMEN_194,Bone marrow derived mononuclear cells,Tumour,Cell line - derived from xenograft tumour,ctDNA
+SAMPLE_REGISTRATION_195,SYNTHETIC-1,DONOR_35,SPECIMEN_195,Bone marrow fluid,Normal,,Total DNA
+SAMPLE_REGISTRATION_196,SYNTHETIC-1,DONOR_36,SPECIMEN_196,,Tumour,Cell line - derived from normal,rRNA-depleted RNA
+SAMPLE_REGISTRATION_197,SYNTHETIC-1,DONOR_37,SPECIMEN_197,Urine,Tumour,Cell line - derived from xenograft tumour,Other DNA enrichments
+SAMPLE_REGISTRATION_198,SYNTHETIC-1,DONOR_38,SPECIMEN_198,Pericardial effusion,,Primary tumour - additional new primary,Other RNA fractions
+SAMPLE_REGISTRATION_199,SYNTHETIC-1,DONOR_39,SPECIMEN_199,,Normal,Primary tumour - additional new primary,Amplified DNA
+SAMPLE_REGISTRATION_200,SYNTHETIC-1,DONOR_40,SPECIMEN_200,Male genital fluid,Tumour,Recurrent tumour,Other RNA fractions
+SAMPLE_REGISTRATION_201,SYNTHETIC-1,DONOR_1,SPECIMEN_201,Duodenal fluid,Normal,Metastatic tumour,
+SAMPLE_REGISTRATION_202,SYNTHETIC-1,DONOR_2,SPECIMEN_202,Buffy coat,Tumour,,
+SAMPLE_REGISTRATION_203,SYNTHETIC-1,DONOR_3,SPECIMEN_203,,Normal,Primary tumour - adjacent to normal,polyA+ RNA
+SAMPLE_REGISTRATION_204,SYNTHETIC-1,DONOR_4,SPECIMEN_204,Amniotic fluid,Tumour,Cell line - derived from normal,Amplified DNA
+SAMPLE_REGISTRATION_205,SYNTHETIC-1,DONOR_5,SPECIMEN_205,Vitreous fluid,Tumour,Cell line - derived from primary tumour,Total DNA
+SAMPLE_REGISTRATION_206,SYNTHETIC-1,DONOR_6,SPECIMEN_206,Pancreatic fluid,Tumour,Cell line - derived from xenograft tumour,Other RNA fractions
+SAMPLE_REGISTRATION_207,SYNTHETIC-1,DONOR_7,SPECIMEN_207,Blood derived - bone marrow,Tumour,Primary tumour,
+SAMPLE_REGISTRATION_208,SYNTHETIC-1,DONOR_8,SPECIMEN_208,Bone marrow fluid,Normal,Xenograft - derived from metastatic tumour,Total DNA
+SAMPLE_REGISTRATION_209,SYNTHETIC-1,DONOR_9,SPECIMEN_209,Arterial blood,Tumour,Primary tumour,rRNA-depleted RNA
+SAMPLE_REGISTRATION_210,SYNTHETIC-1,DONOR_10,SPECIMEN_210,Venous blood,,Normal - tissue adjacent to primary tumour,Other RNA fractions
+SAMPLE_REGISTRATION_211,SYNTHETIC-1,DONOR_11,SPECIMEN_211,Amniotic fluid,Normal,Metastatic tumour,Protein
+SAMPLE_REGISTRATION_212,SYNTHETIC-1,DONOR_12,SPECIMEN_212,Convalescent plasma,Normal,Cell line - derived from metastatic tumour,Total DNA
+SAMPLE_REGISTRATION_213,SYNTHETIC-1,DONOR_13,SPECIMEN_213,Buccal cell,,Xenograft - derived from primary tumour,Other DNA enrichments
+SAMPLE_REGISTRATION_214,SYNTHETIC-1,DONOR_14,SPECIMEN_214,Cerebrospinal fluid,Tumour,Metastatic tumour,ctDNA
+SAMPLE_REGISTRATION_215,SYNTHETIC-1,DONOR_15,SPECIMEN_215,Cerebrospinal fluid,Tumour,Cell line - derived from xenograft tumour,Other DNA enrichments
+SAMPLE_REGISTRATION_216,SYNTHETIC-1,DONOR_16,SPECIMEN_216,Buffy coat,Tumour,Cell line - derived from xenograft tumour,rRNA-depleted RNA
+SAMPLE_REGISTRATION_217,SYNTHETIC-1,DONOR_17,SPECIMEN_217,Female genital fluid,,Metastatic tumour,rRNA-depleted RNA
+SAMPLE_REGISTRATION_218,SYNTHETIC-1,DONOR_18,SPECIMEN_218,Bone marrow derived mononuclear cells,Tumour,Recurrent tumour,Total DNA
+SAMPLE_REGISTRATION_219,SYNTHETIC-1,DONOR_19,SPECIMEN_219,,Normal,Primary tumour,Protein
+SAMPLE_REGISTRATION_220,SYNTHETIC-1,DONOR_20,SPECIMEN_220,Serum,Tumour,,Other DNA enrichments
+SAMPLE_REGISTRATION_221,SYNTHETIC-1,DONOR_21,SPECIMEN_221,Venous blood,Normal,Xenograft - derived from metastatic tumour,polyA+ RNA
+SAMPLE_REGISTRATION_222,SYNTHETIC-1,DONOR_22,SPECIMEN_222,Bone marrow derived mononuclear cells,Tumour,Primary tumour,ctDNA
+SAMPLE_REGISTRATION_223,SYNTHETIC-1,DONOR_23,SPECIMEN_223,Venous blood,Tumour,Primary tumour - adjacent to normal,Other DNA enrichments
+SAMPLE_REGISTRATION_224,SYNTHETIC-1,DONOR_24,SPECIMEN_224,Saliva,Normal,Cell line - derived from primary tumour,Protein
+SAMPLE_REGISTRATION_225,SYNTHETIC-1,DONOR_25,SPECIMEN_225,Blood derived - bone marrow,Tumour,Cell line - derived from normal,Total RNA
+SAMPLE_REGISTRATION_226,SYNTHETIC-1,DONOR_26,SPECIMEN_226,Arterial blood,Tumour,Metastatic tumour - metastasis to distant location,Protein
+SAMPLE_REGISTRATION_227,SYNTHETIC-1,DONOR_27,SPECIMEN_227,,Tumour,Recurrent tumour,Other DNA enrichments
+SAMPLE_REGISTRATION_228,SYNTHETIC-1,DONOR_28,SPECIMEN_228,,Tumour,,Other DNA enrichments
+SAMPLE_REGISTRATION_229,SYNTHETIC-1,DONOR_29,SPECIMEN_229,Cerebrospinal fluid,Normal,Metastatic tumour - metastasis local to lymph node,Protein
+SAMPLE_REGISTRATION_230,SYNTHETIC-1,DONOR_30,SPECIMEN_230,Female genital fluid,Tumour,Metastatic tumour,Other RNA fractions
+SAMPLE_REGISTRATION_231,SYNTHETIC-1,DONOR_31,SPECIMEN_231,Bone marrow derived mononuclear cells,,,Other RNA fractions
+SAMPLE_REGISTRATION_232,SYNTHETIC-1,DONOR_32,SPECIMEN_232,,Normal,Cell line - derived from xenograft tumour,Total RNA
+SAMPLE_REGISTRATION_233,SYNTHETIC-1,DONOR_33,SPECIMEN_233,Hydrocele fluid,Tumour,Metastatic tumour,Protein
+SAMPLE_REGISTRATION_234,SYNTHETIC-1,DONOR_34,SPECIMEN_234,Cord blood,Tumour,Recurrent tumour,
+SAMPLE_REGISTRATION_235,SYNTHETIC-1,DONOR_35,SPECIMEN_235,Synovial fluid,Normal,Normal - tissue adjacent to primary tumour,Total RNA
+SAMPLE_REGISTRATION_236,SYNTHETIC-1,DONOR_36,SPECIMEN_236,,Normal,,Total RNA
+SAMPLE_REGISTRATION_237,SYNTHETIC-1,DONOR_37,SPECIMEN_237,,Normal,Cell line - derived from metastatic tumour,Total DNA
+SAMPLE_REGISTRATION_238,SYNTHETIC-1,DONOR_38,SPECIMEN_238,Abdominal fluid,Normal,Primary tumour - adjacent to normal,Protein
+SAMPLE_REGISTRATION_239,SYNTHETIC-1,DONOR_39,SPECIMEN_239,Venous blood,Tumour,Recurrent tumour,polyA+ RNA
+SAMPLE_REGISTRATION_240,SYNTHETIC-1,DONOR_40,SPECIMEN_240,Serum,Tumour,Xenograft - derived from tumour cell line,Total RNA
+SAMPLE_REGISTRATION_241,SYNTHETIC-1,DONOR_1,SPECIMEN_241,Fetal blood,,,rRNA-depleted RNA
+SAMPLE_REGISTRATION_242,SYNTHETIC-1,DONOR_2,SPECIMEN_242,Cerebrospinal fluid,Normal,Cell line - derived from metastatic tumour,polyA+ RNA
+SAMPLE_REGISTRATION_243,SYNTHETIC-1,DONOR_3,SPECIMEN_243,Duodenal fluid,Tumour,Metastatic tumour - additional metastatic,Amplified DNA
+SAMPLE_REGISTRATION_244,SYNTHETIC-1,DONOR_4,SPECIMEN_244,Abdominal fluid,Normal,Cell line - derived from metastatic tumour,Protein
+SAMPLE_REGISTRATION_245,SYNTHETIC-1,DONOR_5,SPECIMEN_245,Male genital fluid,Normal,Metastatic tumour,rRNA-depleted RNA
+SAMPLE_REGISTRATION_246,SYNTHETIC-1,DONOR_6,SPECIMEN_246,Cervical mucus,Tumour,Xenograft - derived from metastatic tumour,Amplified DNA
+SAMPLE_REGISTRATION_247,SYNTHETIC-1,DONOR_7,SPECIMEN_247,,Tumour,Xenograft - derived from metastatic tumour,Total DNA
+SAMPLE_REGISTRATION_248,SYNTHETIC-1,DONOR_8,SPECIMEN_248,Solid tissue,Normal,Primary tumour - additional new primary,
+SAMPLE_REGISTRATION_249,SYNTHETIC-1,DONOR_9,SPECIMEN_249,Bile,Tumour,Cell line - derived from normal,Other RNA fractions
+SAMPLE_REGISTRATION_250,SYNTHETIC-1,DONOR_10,SPECIMEN_250,Cerebrospinal fluid,Normal,Metastatic tumour - metastasis local to lymph node,Total RNA
+SAMPLE_REGISTRATION_251,SYNTHETIC-1,DONOR_11,SPECIMEN_251,Venous blood,Tumour,,Total RNA
+SAMPLE_REGISTRATION_252,SYNTHETIC-1,DONOR_12,SPECIMEN_252,Cerebrospinal fluid,,Metastatic tumour - additional metastatic,Amplified DNA
+SAMPLE_REGISTRATION_253,SYNTHETIC-1,DONOR_13,SPECIMEN_253,Bone marrow derived mononuclear cells,Normal,Cell line - derived from xenograft tumour,Total RNA
+SAMPLE_REGISTRATION_254,SYNTHETIC-1,DONOR_14,SPECIMEN_254,Arterial blood,Normal,Xenograft - derived from tumour cell line,Amplified DNA
+SAMPLE_REGISTRATION_255,SYNTHETIC-1,DONOR_15,SPECIMEN_255,Venous blood,Tumour,Normal - tissue adjacent to primary tumour,Total RNA
+SAMPLE_REGISTRATION_256,SYNTHETIC-1,DONOR_16,SPECIMEN_256,Serum,Tumour,,Protein
+SAMPLE_REGISTRATION_257,SYNTHETIC-1,DONOR_17,SPECIMEN_257,Buffy coat,Normal,Metastatic tumour - metastasis to distant location,Amplified DNA
+SAMPLE_REGISTRATION_258,SYNTHETIC-1,DONOR_18,SPECIMEN_258,Buccal cell,Normal,Cell line - derived from xenograft tumour,ctDNA
+SAMPLE_REGISTRATION_259,SYNTHETIC-1,DONOR_19,SPECIMEN_259,Blood derived - peripheral blood,Normal,Recurrent tumour,Total RNA
+SAMPLE_REGISTRATION_260,SYNTHETIC-1,DONOR_20,SPECIMEN_260,Duodenal fluid,Tumour,Cell line - derived from metastatic tumour,
+SAMPLE_REGISTRATION_261,SYNTHETIC-1,DONOR_21,SPECIMEN_261,Venous blood,Tumour,Metastatic tumour - metastasis local to lymph node,polyA+ RNA
+SAMPLE_REGISTRATION_262,SYNTHETIC-1,DONOR_22,SPECIMEN_262,Blood derived - peripheral blood,Normal,Cell line - derived from xenograft tumour,Protein
+SAMPLE_REGISTRATION_263,SYNTHETIC-1,DONOR_23,SPECIMEN_263,,Normal,,Other DNA enrichments
+SAMPLE_REGISTRATION_264,SYNTHETIC-1,DONOR_24,SPECIMEN_264,Bone marrow fluid,Normal,Cell line - derived from metastatic tumour,ctDNA
+SAMPLE_REGISTRATION_265,SYNTHETIC-1,DONOR_25,SPECIMEN_265,Pancreatic fluid,Tumour,Cell line - derived from primary tumour,ctDNA
+SAMPLE_REGISTRATION_266,SYNTHETIC-1,DONOR_26,SPECIMEN_266,Pericardial effusion,Normal,Normal,Protein
+SAMPLE_REGISTRATION_267,SYNTHETIC-1,DONOR_27,SPECIMEN_267,Abdominal fluid,Normal,Xenograft - derived from primary tumour,
+SAMPLE_REGISTRATION_268,SYNTHETIC-1,DONOR_28,SPECIMEN_268,Vitreous fluid,Tumour,Cell line - derived from metastatic tumour,polyA+ RNA
+SAMPLE_REGISTRATION_269,SYNTHETIC-1,DONOR_29,SPECIMEN_269,Buccal cell,Tumour,Recurrent tumour,Total DNA
+SAMPLE_REGISTRATION_270,SYNTHETIC-1,DONOR_30,SPECIMEN_270,,Tumour,Xenograft - derived from tumour cell line,Total DNA
+SAMPLE_REGISTRATION_271,SYNTHETIC-1,DONOR_31,SPECIMEN_271,,Normal,Metastatic tumour - metastasis local to lymph node,Total DNA
+SAMPLE_REGISTRATION_272,SYNTHETIC-1,DONOR_32,SPECIMEN_272,Renal cyst fluid,Tumour,Normal,Protein
+SAMPLE_REGISTRATION_273,SYNTHETIC-1,DONOR_33,SPECIMEN_273,Renal cyst fluid,Normal,Metastatic tumour,Total RNA
+SAMPLE_REGISTRATION_274,SYNTHETIC-1,DONOR_34,SPECIMEN_274,Bone marrow derived mononuclear cells,Tumour,Metastatic tumour - additional metastatic,
+SAMPLE_REGISTRATION_275,SYNTHETIC-1,DONOR_35,SPECIMEN_275,Duodenal fluid,Normal,,rRNA-depleted RNA
+SAMPLE_REGISTRATION_276,SYNTHETIC-1,DONOR_36,SPECIMEN_276,,Tumour,Metastatic tumour,ctDNA
+SAMPLE_REGISTRATION_277,SYNTHETIC-1,DONOR_37,SPECIMEN_277,Fetal blood,,Xenograft - derived from tumour cell line,Protein
+SAMPLE_REGISTRATION_278,SYNTHETIC-1,DONOR_38,SPECIMEN_278,Blood derived - bone marrow,Normal,Cell line - derived from normal,rRNA-depleted RNA
+SAMPLE_REGISTRATION_279,SYNTHETIC-1,DONOR_39,SPECIMEN_279,,Tumour,Cell line - derived from xenograft tumour,rRNA-depleted RNA
+SAMPLE_REGISTRATION_280,SYNTHETIC-1,DONOR_40,SPECIMEN_280,Arterial blood,Normal,Metastatic tumour - metastasis local to lymph node,Amplified DNA
+SAMPLE_REGISTRATION_281,SYNTHETIC-1,DONOR_1,SPECIMEN_281,Bone marrow derived mononuclear cells,Normal,Metastatic tumour,rRNA-depleted RNA
+SAMPLE_REGISTRATION_282,SYNTHETIC-1,DONOR_2,SPECIMEN_282,Synovial fluid,Normal,Xenograft - derived from tumour cell line,
+SAMPLE_REGISTRATION_283,SYNTHETIC-1,DONOR_3,SPECIMEN_283,Pancreatic fluid,Tumour,Primary tumour - additional new primary,ctDNA
+SAMPLE_REGISTRATION_284,SYNTHETIC-1,DONOR_4,SPECIMEN_284,Seminal fluid,Tumour,Cell line - derived from normal,
+SAMPLE_REGISTRATION_285,SYNTHETIC-1,DONOR_5,SPECIMEN_285,Urine,Tumour,Normal - tissue adjacent to primary tumour,Total DNA
+SAMPLE_REGISTRATION_286,SYNTHETIC-1,DONOR_6,SPECIMEN_286,Duodenal fluid,Tumour,Primary tumour - additional new primary,Amplified DNA
+SAMPLE_REGISTRATION_287,SYNTHETIC-1,DONOR_7,SPECIMEN_287,Amniotic fluid,,Cell line - derived from primary tumour,rRNA-depleted RNA
+SAMPLE_REGISTRATION_288,SYNTHETIC-1,DONOR_8,SPECIMEN_288,Convalescent plasma,Tumour,Metastatic tumour,Other DNA enrichments
+SAMPLE_REGISTRATION_289,SYNTHETIC-1,DONOR_9,SPECIMEN_289,Venous blood,Normal,Xenograft - derived from primary tumour,Protein
+SAMPLE_REGISTRATION_290,SYNTHETIC-1,DONOR_10,SPECIMEN_290,Arterial blood,Normal,Normal - tissue adjacent to primary tumour,Protein
+SAMPLE_REGISTRATION_291,SYNTHETIC-1,DONOR_11,SPECIMEN_291,Blood derived - peripheral blood,Tumour,Metastatic tumour - additional metastatic,
+SAMPLE_REGISTRATION_292,SYNTHETIC-1,DONOR_12,SPECIMEN_292,Buccal cell,Tumour,Cell line - derived from metastatic tumour,Total RNA
+SAMPLE_REGISTRATION_293,SYNTHETIC-1,DONOR_13,SPECIMEN_293,Venous blood,Normal,Recurrent tumour,Other RNA fractions
+SAMPLE_REGISTRATION_294,SYNTHETIC-1,DONOR_14,SPECIMEN_294,Arterial blood,Tumour,Xenograft - derived from metastatic tumour,Protein
+SAMPLE_REGISTRATION_295,SYNTHETIC-1,DONOR_15,SPECIMEN_295,Blood derived - bone marrow,Normal,Primary tumour - additional new primary,Other RNA fractions
+SAMPLE_REGISTRATION_296,SYNTHETIC-1,DONOR_16,SPECIMEN_296,Arterial blood,Tumour,Cell line - derived from xenograft tumour,Protein
+SAMPLE_REGISTRATION_297,SYNTHETIC-1,DONOR_17,SPECIMEN_297,Cerebrospinal fluid,Normal,Primary tumour,Other RNA fractions
+SAMPLE_REGISTRATION_298,SYNTHETIC-1,DONOR_18,SPECIMEN_298,Pancreatic fluid,Tumour,Primary tumour - adjacent to normal,polyA+ RNA
+SAMPLE_REGISTRATION_299,SYNTHETIC-1,DONOR_19,SPECIMEN_299,Seminal fluid,Normal,Metastatic tumour - metastasis to distant location,Other RNA fractions
+SAMPLE_REGISTRATION_300,SYNTHETIC-1,DONOR_20,SPECIMEN_300,Pleural fluid,Normal,Metastatic tumour - additional metastatic,rRNA-depleted RNA
+SAMPLE_REGISTRATION_301,SYNTHETIC-1,DONOR_21,SPECIMEN_301,Vitreous fluid,Normal,Metastatic tumour - additional metastatic,Total RNA
+SAMPLE_REGISTRATION_302,SYNTHETIC-1,DONOR_22,SPECIMEN_302,Cervical mucus,Tumour,Metastatic tumour - additional metastatic,
+SAMPLE_REGISTRATION_303,SYNTHETIC-1,DONOR_23,SPECIMEN_303,Bone marrow fluid,Normal,Metastatic tumour - metastasis to distant location,Amplified DNA
+SAMPLE_REGISTRATION_304,SYNTHETIC-1,DONOR_24,SPECIMEN_304,Buffy coat,Tumour,Normal,ctDNA
+SAMPLE_REGISTRATION_305,SYNTHETIC-1,DONOR_25,SPECIMEN_305,Pleural fluid,Normal,,Protein
+SAMPLE_REGISTRATION_306,SYNTHETIC-1,DONOR_26,SPECIMEN_306,Vitreous fluid,Normal,,Other RNA fractions
+SAMPLE_REGISTRATION_307,SYNTHETIC-1,DONOR_27,SPECIMEN_307,Convalescent plasma,Normal,Metastatic tumour - additional metastatic,
+SAMPLE_REGISTRATION_308,SYNTHETIC-1,DONOR_28,SPECIMEN_308,Hydrocele fluid,Tumour,Cell line - derived from normal,polyA+ RNA
+SAMPLE_REGISTRATION_309,SYNTHETIC-1,DONOR_29,SPECIMEN_309,Seminal fluid,Tumour,Xenograft - derived from primary tumour,Total RNA
+SAMPLE_REGISTRATION_310,SYNTHETIC-1,DONOR_30,SPECIMEN_310,Renal cyst fluid,,Metastatic tumour - metastasis to distant location,
+SAMPLE_REGISTRATION_311,SYNTHETIC-1,DONOR_31,SPECIMEN_311,Venous blood,Tumour,Metastatic tumour - additional metastatic,ctDNA
+SAMPLE_REGISTRATION_312,SYNTHETIC-1,DONOR_32,SPECIMEN_312,Urine,Tumour,Metastatic tumour - additional metastatic,rRNA-depleted RNA
+SAMPLE_REGISTRATION_313,SYNTHETIC-1,DONOR_33,SPECIMEN_313,Renal cyst fluid,Tumour,Xenograft - derived from tumour cell line,ctDNA
+SAMPLE_REGISTRATION_314,SYNTHETIC-1,DONOR_34,SPECIMEN_314,Buccal cell,Tumour,Xenograft - derived from metastatic tumour,Amplified DNA
+SAMPLE_REGISTRATION_315,SYNTHETIC-1,DONOR_35,SPECIMEN_315,Pericardial effusion,Normal,Metastatic tumour - metastasis to distant location,Total RNA
+SAMPLE_REGISTRATION_316,SYNTHETIC-1,DONOR_36,SPECIMEN_316,Buffy coat,Normal,Cell line - derived from normal,Other DNA enrichments
+SAMPLE_REGISTRATION_317,SYNTHETIC-1,DONOR_37,SPECIMEN_317,Seminal fluid,Normal,Cell line - derived from metastatic tumour,rRNA-depleted RNA
+SAMPLE_REGISTRATION_318,SYNTHETIC-1,DONOR_38,SPECIMEN_318,Seminal fluid,Tumour,Xenograft - derived from metastatic tumour,Total RNA
+SAMPLE_REGISTRATION_319,SYNTHETIC-1,DONOR_39,SPECIMEN_319,Seminal fluid,Tumour,Metastatic tumour - additional metastatic,Total RNA
+SAMPLE_REGISTRATION_320,SYNTHETIC-1,DONOR_40,SPECIMEN_320,Venous blood,Tumour,Recurrent tumour,Other RNA fractions
+SAMPLE_REGISTRATION_321,SYNTHETIC-1,DONOR_1,SPECIMEN_321,Renal cyst fluid,Tumour,Primary tumour - additional new primary,Total DNA
+SAMPLE_REGISTRATION_322,SYNTHETIC-1,DONOR_2,SPECIMEN_322,,,Metastatic tumour - additional metastatic,Total DNA
+SAMPLE_REGISTRATION_323,SYNTHETIC-1,DONOR_3,SPECIMEN_323,Male genital fluid,Normal,Metastatic tumour - metastasis to distant location,
+SAMPLE_REGISTRATION_324,SYNTHETIC-1,DONOR_4,SPECIMEN_324,Cervical mucus,Tumour,Normal - tissue adjacent to primary tumour,ctDNA
+SAMPLE_REGISTRATION_325,SYNTHETIC-1,DONOR_5,SPECIMEN_325,Convalescent plasma,Tumour,Xenograft - derived from tumour cell line,Other DNA enrichments
+SAMPLE_REGISTRATION_326,SYNTHETIC-1,DONOR_6,SPECIMEN_326,Pleural fluid,Tumour,Normal - tissue adjacent to primary tumour,ctDNA
+SAMPLE_REGISTRATION_327,SYNTHETIC-1,DONOR_7,SPECIMEN_327,Duodenal fluid,Normal,Normal - tissue adjacent to primary tumour,Protein
+SAMPLE_REGISTRATION_328,SYNTHETIC-1,DONOR_8,SPECIMEN_328,Male genital fluid,Normal,Cell line - derived from xenograft tumour,Total DNA
+SAMPLE_REGISTRATION_329,SYNTHETIC-1,DONOR_9,SPECIMEN_329,,Normal,Primary tumour - additional new primary,Amplified DNA
+SAMPLE_REGISTRATION_330,SYNTHETIC-1,DONOR_10,SPECIMEN_330,Solid tissue,Tumour,Primary tumour,Other RNA fractions
+SAMPLE_REGISTRATION_331,SYNTHETIC-1,DONOR_11,SPECIMEN_331,,Normal,Cell line - derived from primary tumour,ctDNA
+SAMPLE_REGISTRATION_332,SYNTHETIC-1,DONOR_12,SPECIMEN_332,Cerebrospinal fluid,Normal,Normal - tissue adjacent to primary tumour,Other DNA enrichments
+SAMPLE_REGISTRATION_333,SYNTHETIC-1,DONOR_13,SPECIMEN_333,Amniotic fluid,Normal,Metastatic tumour - additional metastatic,Amplified DNA
+SAMPLE_REGISTRATION_334,SYNTHETIC-1,DONOR_14,SPECIMEN_334,Vitreous fluid,Tumour,Primary tumour - additional new primary,Protein
+SAMPLE_REGISTRATION_335,SYNTHETIC-1,DONOR_15,SPECIMEN_335,Synovial fluid,Normal,,Other RNA fractions
+SAMPLE_REGISTRATION_336,SYNTHETIC-1,DONOR_16,SPECIMEN_336,Amniotic fluid,Tumour,Metastatic tumour,
+SAMPLE_REGISTRATION_337,SYNTHETIC-1,DONOR_17,SPECIMEN_337,Cerebrospinal fluid,,Cell line - derived from normal,
+SAMPLE_REGISTRATION_338,SYNTHETIC-1,DONOR_18,SPECIMEN_338,Amniotic fluid,Tumour,Metastatic tumour,Amplified DNA
+SAMPLE_REGISTRATION_339,SYNTHETIC-1,DONOR_19,SPECIMEN_339,Solid tissue,Tumour,,polyA+ RNA
+SAMPLE_REGISTRATION_340,SYNTHETIC-1,DONOR_20,SPECIMEN_340,,Tumour,Xenograft - derived from tumour cell line,Total RNA
+SAMPLE_REGISTRATION_341,SYNTHETIC-1,DONOR_21,SPECIMEN_341,Pleural fluid,Normal,Normal,Other DNA enrichments
+SAMPLE_REGISTRATION_342,SYNTHETIC-1,DONOR_22,SPECIMEN_342,Duodenal fluid,Tumour,Cell line - derived from primary tumour,Protein
+SAMPLE_REGISTRATION_343,SYNTHETIC-1,DONOR_23,SPECIMEN_343,Venous blood,Normal,Metastatic tumour - additional metastatic,rRNA-depleted RNA
+SAMPLE_REGISTRATION_344,SYNTHETIC-1,DONOR_24,SPECIMEN_344,Urine,Tumour,Primary tumour - adjacent to normal,Protein
+SAMPLE_REGISTRATION_345,SYNTHETIC-1,DONOR_25,SPECIMEN_345,Synovial fluid,Tumour,Metastatic tumour - additional metastatic,Protein
+SAMPLE_REGISTRATION_346,SYNTHETIC-1,DONOR_26,SPECIMEN_346,Amniotic fluid,Normal,Cell line - derived from xenograft tumour,Total RNA
+SAMPLE_REGISTRATION_347,SYNTHETIC-1,DONOR_27,SPECIMEN_347,Bile,Tumour,,
+SAMPLE_REGISTRATION_348,SYNTHETIC-1,DONOR_28,SPECIMEN_348,Pancreatic fluid,Normal,Metastatic tumour - additional metastatic,Other DNA enrichments
+SAMPLE_REGISTRATION_349,SYNTHETIC-1,DONOR_29,SPECIMEN_349,Blood derived - peripheral blood,Tumour,Xenograft - derived from primary tumour,
+SAMPLE_REGISTRATION_350,SYNTHETIC-1,DONOR_30,SPECIMEN_350,Blood derived - peripheral blood,Tumour,Cell line - derived from metastatic tumour,Other DNA enrichments
+SAMPLE_REGISTRATION_351,SYNTHETIC-1,DONOR_31,SPECIMEN_351,,,Xenograft - derived from metastatic tumour,Other DNA enrichments
+SAMPLE_REGISTRATION_352,SYNTHETIC-1,DONOR_32,SPECIMEN_352,Synovial fluid,Normal,,Amplified DNA
+SAMPLE_REGISTRATION_353,SYNTHETIC-1,DONOR_33,SPECIMEN_353,Blood derived - bone marrow,Tumour,Cell line - derived from normal,Other RNA fractions
+SAMPLE_REGISTRATION_354,SYNTHETIC-1,DONOR_34,SPECIMEN_354,Hydrocele fluid,Normal,Metastatic tumour - metastasis local to lymph node,rRNA-depleted RNA
+SAMPLE_REGISTRATION_355,SYNTHETIC-1,DONOR_35,SPECIMEN_355,Solid tissue,Normal,Cell line - derived from metastatic tumour,Amplified DNA
+SAMPLE_REGISTRATION_356,SYNTHETIC-1,DONOR_36,SPECIMEN_356,Buccal cell,Tumour,Xenograft - derived from tumour cell line,Other DNA enrichments
+SAMPLE_REGISTRATION_357,SYNTHETIC-1,DONOR_37,SPECIMEN_357,,Normal,Primary tumour - additional new primary,Protein
+SAMPLE_REGISTRATION_358,SYNTHETIC-1,DONOR_38,SPECIMEN_358,Bile,Tumour,Xenograft - derived from primary tumour,Total DNA
+SAMPLE_REGISTRATION_359,SYNTHETIC-1,DONOR_39,SPECIMEN_359,Synovial fluid,Normal,Normal,ctDNA
+SAMPLE_REGISTRATION_360,SYNTHETIC-1,DONOR_40,SPECIMEN_360,,Tumour,Metastatic tumour - metastasis to distant location,polyA+ RNA
+SAMPLE_REGISTRATION_361,SYNTHETIC-1,DONOR_1,SPECIMEN_361,Blood derived - peripheral blood,Tumour,Primary tumour,rRNA-depleted RNA
+SAMPLE_REGISTRATION_362,SYNTHETIC-1,DONOR_2,SPECIMEN_362,Fetal blood,Tumour,Cell line - derived from xenograft tumour,Other DNA enrichments
+SAMPLE_REGISTRATION_363,SYNTHETIC-1,DONOR_3,SPECIMEN_363,Male genital fluid,Tumour,Primary tumour - additional new primary,Total DNA
+SAMPLE_REGISTRATION_364,SYNTHETIC-1,DONOR_4,SPECIMEN_364,Fetal blood,Normal,Cell line - derived from xenograft tumour,polyA+ RNA
+SAMPLE_REGISTRATION_365,SYNTHETIC-1,DONOR_5,SPECIMEN_365,Urine,,Primary tumour,rRNA-depleted RNA
+SAMPLE_REGISTRATION_366,SYNTHETIC-1,DONOR_6,SPECIMEN_366,,Normal,Normal - tissue adjacent to primary tumour,Other DNA enrichments
+SAMPLE_REGISTRATION_367,SYNTHETIC-1,DONOR_7,SPECIMEN_367,,Normal,Xenograft - derived from metastatic tumour,Amplified DNA
+SAMPLE_REGISTRATION_368,SYNTHETIC-1,DONOR_8,SPECIMEN_368,Cord blood,Tumour,Cell line - derived from metastatic tumour,
+SAMPLE_REGISTRATION_369,SYNTHETIC-1,DONOR_9,SPECIMEN_369,Female genital fluid,Normal,Cell line - derived from xenograft tumour,polyA+ RNA
+SAMPLE_REGISTRATION_370,SYNTHETIC-1,DONOR_10,SPECIMEN_370,Venous blood,,Cell line - derived from xenograft tumour,Protein
+SAMPLE_REGISTRATION_371,SYNTHETIC-1,DONOR_11,SPECIMEN_371,Bile,Normal,Cell line - derived from xenograft tumour,Total DNA
+SAMPLE_REGISTRATION_372,SYNTHETIC-1,DONOR_12,SPECIMEN_372,Abdominal fluid,Normal,Cell line - derived from primary tumour,
+SAMPLE_REGISTRATION_373,SYNTHETIC-1,DONOR_13,SPECIMEN_373,Vitreous fluid,Normal,Cell line - derived from primary tumour,Other RNA fractions
+SAMPLE_REGISTRATION_374,SYNTHETIC-1,DONOR_14,SPECIMEN_374,Cerebrospinal fluid,Normal,Primary tumour - additional new primary,rRNA-depleted RNA
+SAMPLE_REGISTRATION_375,SYNTHETIC-1,DONOR_15,SPECIMEN_375,Fetal blood,Tumour,Metastatic tumour - metastasis to distant location,Amplified DNA
+SAMPLE_REGISTRATION_376,SYNTHETIC-1,DONOR_16,SPECIMEN_376,Buffy coat,Tumour,Cell line - derived from xenograft tumour,Total DNA
+SAMPLE_REGISTRATION_377,SYNTHETIC-1,DONOR_17,SPECIMEN_377,,Normal,Xenograft - derived from primary tumour,Other RNA fractions
+SAMPLE_REGISTRATION_378,SYNTHETIC-1,DONOR_18,SPECIMEN_378,,Normal,Normal - tissue adjacent to primary tumour,Protein
+SAMPLE_REGISTRATION_379,SYNTHETIC-1,DONOR_19,SPECIMEN_379,Seminal fluid,Tumour,Metastatic tumour,
+SAMPLE_REGISTRATION_380,SYNTHETIC-1,DONOR_20,SPECIMEN_380,Abdominal fluid,Normal,,rRNA-depleted RNA
+SAMPLE_REGISTRATION_381,SYNTHETIC-1,DONOR_21,SPECIMEN_381,Pericardial effusion,Tumour,Metastatic tumour - additional metastatic,Amplified DNA
+SAMPLE_REGISTRATION_382,SYNTHETIC-1,DONOR_22,SPECIMEN_382,Cervical mucus,Tumour,Recurrent tumour,
+SAMPLE_REGISTRATION_383,SYNTHETIC-1,DONOR_23,SPECIMEN_383,Abdominal fluid,Normal,Primary tumour - additional new primary,
+SAMPLE_REGISTRATION_384,SYNTHETIC-1,DONOR_24,SPECIMEN_384,,Tumour,Cell line - derived from primary tumour,polyA+ RNA
+SAMPLE_REGISTRATION_385,SYNTHETIC-1,DONOR_25,SPECIMEN_385,Blood derived - bone marrow,Tumour,,polyA+ RNA
+SAMPLE_REGISTRATION_386,SYNTHETIC-1,DONOR_26,SPECIMEN_386,Sputum,Tumour,Recurrent tumour,Other RNA fractions
+SAMPLE_REGISTRATION_387,SYNTHETIC-1,DONOR_27,SPECIMEN_387,Male genital fluid,Tumour,Cell line - derived from primary tumour,Total DNA
+SAMPLE_REGISTRATION_388,SYNTHETIC-1,DONOR_28,SPECIMEN_388,Venous blood,Normal,Primary tumour,ctDNA
+SAMPLE_REGISTRATION_389,SYNTHETIC-1,DONOR_29,SPECIMEN_389,Female genital fluid,Normal,Metastatic tumour - metastasis local to lymph node,Other RNA fractions
+SAMPLE_REGISTRATION_390,SYNTHETIC-1,DONOR_30,SPECIMEN_390,Hydrocele fluid,,Cell line - derived from xenograft tumour,Other RNA fractions
+SAMPLE_REGISTRATION_391,SYNTHETIC-1,DONOR_31,SPECIMEN_391,Duodenal fluid,Normal,Cell line - derived from normal,
+SAMPLE_REGISTRATION_392,SYNTHETIC-1,DONOR_32,SPECIMEN_392,Cord blood,Normal,Xenograft - derived from tumour cell line,
+SAMPLE_REGISTRATION_393,SYNTHETIC-1,DONOR_33,SPECIMEN_393,Pancreatic fluid,Normal,Primary tumour - additional new primary,Other DNA enrichments
+SAMPLE_REGISTRATION_394,SYNTHETIC-1,DONOR_34,SPECIMEN_394,Bone marrow derived mononuclear cells,Tumour,Metastatic tumour - metastasis to distant location,Protein
+SAMPLE_REGISTRATION_395,SYNTHETIC-1,DONOR_35,SPECIMEN_395,Duodenal fluid,,Normal - tissue adjacent to primary tumour,Total DNA
+SAMPLE_REGISTRATION_396,SYNTHETIC-1,DONOR_36,SPECIMEN_396,Arterial blood,Normal,Metastatic tumour - metastasis to distant location,ctDNA
+SAMPLE_REGISTRATION_397,SYNTHETIC-1,DONOR_37,SPECIMEN_397,Bone marrow derived mononuclear cells,Normal,Metastatic tumour - metastasis local to lymph node,Other RNA fractions
+SAMPLE_REGISTRATION_398,SYNTHETIC-1,DONOR_38,SPECIMEN_398,Bone marrow derived mononuclear cells,Normal,Metastatic tumour - additional metastatic,Total RNA
+SAMPLE_REGISTRATION_399,SYNTHETIC-1,DONOR_39,SPECIMEN_399,Sputum,Tumour,Primary tumour,polyA+ RNA
+SAMPLE_REGISTRATION_400,SYNTHETIC-1,DONOR_40,SPECIMEN_400,Cervical mucus,Normal,Primary tumour - adjacent to normal,Total RNA
+SAMPLE_REGISTRATION_401,SYNTHETIC-1,DONOR_1,SPECIMEN_401,Sputum,Tumour,Primary tumour,Total RNA
+SAMPLE_REGISTRATION_402,SYNTHETIC-1,DONOR_2,SPECIMEN_402,Buffy coat,Normal,Normal - tissue adjacent to primary tumour,
+SAMPLE_REGISTRATION_403,SYNTHETIC-1,DONOR_3,SPECIMEN_403,Bile,,Cell line - derived from metastatic tumour,Total RNA
+SAMPLE_REGISTRATION_404,SYNTHETIC-1,DONOR_4,SPECIMEN_404,Venous blood,,Primary tumour - adjacent to normal,Amplified DNA
+SAMPLE_REGISTRATION_405,SYNTHETIC-1,DONOR_5,SPECIMEN_405,Arterial blood,Normal,Xenograft - derived from primary tumour,ctDNA
+SAMPLE_REGISTRATION_406,SYNTHETIC-1,DONOR_6,SPECIMEN_406,,Normal,,Total RNA
+SAMPLE_REGISTRATION_407,SYNTHETIC-1,DONOR_7,SPECIMEN_407,Serum,,Xenograft - derived from metastatic tumour,Protein
+SAMPLE_REGISTRATION_408,SYNTHETIC-1,DONOR_8,SPECIMEN_408,Bile,,Metastatic tumour,Protein
+SAMPLE_REGISTRATION_409,SYNTHETIC-1,DONOR_9,SPECIMEN_409,,Tumour,Xenograft - derived from metastatic tumour,ctDNA
+SAMPLE_REGISTRATION_410,SYNTHETIC-1,DONOR_10,SPECIMEN_410,,Tumour,Cell line - derived from xenograft tumour,Protein
+SAMPLE_REGISTRATION_411,SYNTHETIC-1,DONOR_11,SPECIMEN_411,Pleural fluid,Normal,,Protein
+SAMPLE_REGISTRATION_412,SYNTHETIC-1,DONOR_12,SPECIMEN_412,Bile,Normal,Metastatic tumour - metastasis local to lymph node,polyA+ RNA
+SAMPLE_REGISTRATION_413,SYNTHETIC-1,DONOR_13,SPECIMEN_413,Blood derived - peripheral blood,Tumour,Primary tumour,Other RNA fractions
+SAMPLE_REGISTRATION_414,SYNTHETIC-1,DONOR_14,SPECIMEN_414,Bone marrow derived mononuclear cells,Tumour,Metastatic tumour - additional metastatic,Other DNA enrichments
+SAMPLE_REGISTRATION_415,SYNTHETIC-1,DONOR_15,SPECIMEN_415,Cord blood,Normal,Xenograft - derived from metastatic tumour,
+SAMPLE_REGISTRATION_416,SYNTHETIC-1,DONOR_16,SPECIMEN_416,Saliva,Normal,Cell line - derived from normal,Total DNA
+SAMPLE_REGISTRATION_417,SYNTHETIC-1,DONOR_17,SPECIMEN_417,Buccal cell,Tumour,Metastatic tumour - additional metastatic,ctDNA
+SAMPLE_REGISTRATION_418,SYNTHETIC-1,DONOR_18,SPECIMEN_418,Cervical mucus,,,polyA+ RNA
+SAMPLE_REGISTRATION_419,SYNTHETIC-1,DONOR_19,SPECIMEN_419,Vitreous fluid,Tumour,Primary tumour - additional new primary,Protein
+SAMPLE_REGISTRATION_420,SYNTHETIC-1,DONOR_20,SPECIMEN_420,Female genital fluid,Tumour,,
+SAMPLE_REGISTRATION_421,SYNTHETIC-1,DONOR_21,SPECIMEN_421,Cervical mucus,Tumour,Xenograft - derived from tumour cell line,ctDNA
+SAMPLE_REGISTRATION_422,SYNTHETIC-1,DONOR_22,SPECIMEN_422,Fetal blood,,Xenograft - derived from tumour cell line,
+SAMPLE_REGISTRATION_423,SYNTHETIC-1,DONOR_23,SPECIMEN_423,Bone marrow fluid,Tumour,Primary tumour - adjacent to normal,rRNA-depleted RNA
+SAMPLE_REGISTRATION_424,SYNTHETIC-1,DONOR_24,SPECIMEN_424,Female genital fluid,Normal,Metastatic tumour - metastasis to distant location,ctDNA
+SAMPLE_REGISTRATION_425,SYNTHETIC-1,DONOR_25,SPECIMEN_425,Seminal fluid,Tumour,Primary tumour - additional new primary,Total RNA
+SAMPLE_REGISTRATION_426,SYNTHETIC-1,DONOR_26,SPECIMEN_426,Serum,Normal,Cell line - derived from xenograft tumour,Amplified DNA
+SAMPLE_REGISTRATION_427,SYNTHETIC-1,DONOR_27,SPECIMEN_427,Renal cyst fluid,Normal,Normal - tissue adjacent to primary tumour,Total RNA
+SAMPLE_REGISTRATION_428,SYNTHETIC-1,DONOR_28,SPECIMEN_428,Abdominal fluid,Normal,Metastatic tumour - additional metastatic,
+SAMPLE_REGISTRATION_429,SYNTHETIC-1,DONOR_29,SPECIMEN_429,Urine,Tumour,,Amplified DNA
+SAMPLE_REGISTRATION_430,SYNTHETIC-1,DONOR_30,SPECIMEN_430,Buffy coat,Tumour,Cell line - derived from metastatic tumour,Other RNA fractions
+SAMPLE_REGISTRATION_431,SYNTHETIC-1,DONOR_31,SPECIMEN_431,Serum,Tumour,,Amplified DNA
+SAMPLE_REGISTRATION_432,SYNTHETIC-1,DONOR_32,SPECIMEN_432,Pancreatic fluid,,Cell line - derived from xenograft tumour,Total DNA
+SAMPLE_REGISTRATION_433,SYNTHETIC-1,DONOR_33,SPECIMEN_433,Seminal fluid,Normal,Xenograft - derived from tumour cell line,Other RNA fractions
+SAMPLE_REGISTRATION_434,SYNTHETIC-1,DONOR_34,SPECIMEN_434,Arterial blood,Normal,Xenograft - derived from primary tumour,polyA+ RNA
+SAMPLE_REGISTRATION_435,SYNTHETIC-1,DONOR_35,SPECIMEN_435,Buffy coat,Tumour,Metastatic tumour - metastasis local to lymph node,Other RNA fractions
+SAMPLE_REGISTRATION_436,SYNTHETIC-1,DONOR_36,SPECIMEN_436,Bile,Tumour,Cell line - derived from normal,Protein
+SAMPLE_REGISTRATION_437,SYNTHETIC-1,DONOR_37,SPECIMEN_437,Cord blood,Normal,Xenograft - derived from primary tumour,Total DNA
+SAMPLE_REGISTRATION_438,SYNTHETIC-1,DONOR_38,SPECIMEN_438,Amniotic fluid,Normal,Cell line - derived from xenograft tumour,Total DNA
+SAMPLE_REGISTRATION_439,SYNTHETIC-1,DONOR_39,SPECIMEN_439,Serum,,,Protein
+SAMPLE_REGISTRATION_440,SYNTHETIC-1,DONOR_40,SPECIMEN_440,Cerebrospinal fluid,Tumour,Recurrent tumour,ctDNA
+SAMPLE_REGISTRATION_441,SYNTHETIC-1,DONOR_1,SPECIMEN_441,Hydrocele fluid,Tumour,Metastatic tumour - metastasis local to lymph node,Other RNA fractions
+SAMPLE_REGISTRATION_442,SYNTHETIC-1,DONOR_2,SPECIMEN_442,Urine,Tumour,Recurrent tumour,ctDNA
+SAMPLE_REGISTRATION_443,SYNTHETIC-1,DONOR_3,SPECIMEN_443,,Normal,Cell line - derived from primary tumour,Total DNA
+SAMPLE_REGISTRATION_444,SYNTHETIC-1,DONOR_4,SPECIMEN_444,Solid tissue,Normal,Xenograft - derived from tumour cell line,Protein
+SAMPLE_REGISTRATION_445,SYNTHETIC-1,DONOR_5,SPECIMEN_445,Arterial blood,Tumour,Cell line - derived from xenograft tumour,polyA+ RNA
+SAMPLE_REGISTRATION_446,SYNTHETIC-1,DONOR_6,SPECIMEN_446,Saliva,Tumour,Xenograft - derived from metastatic tumour,Protein
+SAMPLE_REGISTRATION_447,SYNTHETIC-1,DONOR_7,SPECIMEN_447,Bone marrow derived mononuclear cells,Normal,Metastatic tumour - metastasis to distant location,
+SAMPLE_REGISTRATION_448,SYNTHETIC-1,DONOR_8,SPECIMEN_448,Duodenal fluid,Tumour,Metastatic tumour - additional metastatic,Amplified DNA
+SAMPLE_REGISTRATION_449,SYNTHETIC-1,DONOR_9,SPECIMEN_449,Cord blood,Normal,,Total RNA
+SAMPLE_REGISTRATION_450,SYNTHETIC-1,DONOR_10,SPECIMEN_450,,Normal,Primary tumour - additional new primary,Amplified DNA
+SAMPLE_REGISTRATION_451,SYNTHETIC-1,DONOR_11,SPECIMEN_451,Bile,Normal,Metastatic tumour - additional metastatic,ctDNA
+SAMPLE_REGISTRATION_452,SYNTHETIC-1,DONOR_12,SPECIMEN_452,Female genital fluid,,Normal - tissue adjacent to primary tumour,
+SAMPLE_REGISTRATION_453,SYNTHETIC-1,DONOR_13,SPECIMEN_453,Hydrocele fluid,Tumour,Cell line - derived from metastatic tumour,ctDNA
+SAMPLE_REGISTRATION_454,SYNTHETIC-1,DONOR_14,SPECIMEN_454,Seminal fluid,Tumour,Cell line - derived from normal,
+SAMPLE_REGISTRATION_455,SYNTHETIC-1,DONOR_15,SPECIMEN_455,Sputum,Tumour,Xenograft - derived from primary tumour,Other RNA fractions
+SAMPLE_REGISTRATION_456,SYNTHETIC-1,DONOR_16,SPECIMEN_456,Urine,Normal,Primary tumour - adjacent to normal,ctDNA
+SAMPLE_REGISTRATION_457,SYNTHETIC-1,DONOR_17,SPECIMEN_457,Convalescent plasma,Tumour,,Protein
+SAMPLE_REGISTRATION_458,SYNTHETIC-1,DONOR_18,SPECIMEN_458,Blood derived - bone marrow,Tumour,Cell line - derived from xenograft tumour,
+SAMPLE_REGISTRATION_459,SYNTHETIC-1,DONOR_19,SPECIMEN_459,Pancreatic fluid,Tumour,,Total DNA
+SAMPLE_REGISTRATION_460,SYNTHETIC-1,DONOR_20,SPECIMEN_460,Fetal blood,Normal,Cell line - derived from metastatic tumour,rRNA-depleted RNA
+SAMPLE_REGISTRATION_461,SYNTHETIC-1,DONOR_21,SPECIMEN_461,Pleural fluid,Tumour,Normal - tissue adjacent to primary tumour,Total RNA
+SAMPLE_REGISTRATION_462,SYNTHETIC-1,DONOR_22,SPECIMEN_462,Arterial blood,Normal,Metastatic tumour - additional metastatic,Amplified DNA
+SAMPLE_REGISTRATION_463,SYNTHETIC-1,DONOR_23,SPECIMEN_463,,Normal,Primary tumour,ctDNA
+SAMPLE_REGISTRATION_464,SYNTHETIC-1,DONOR_24,SPECIMEN_464,Convalescent plasma,Tumour,Metastatic tumour - metastasis to distant location,Other DNA enrichments
+SAMPLE_REGISTRATION_465,SYNTHETIC-1,DONOR_25,SPECIMEN_465,Synovial fluid,Normal,,Protein
+SAMPLE_REGISTRATION_466,SYNTHETIC-1,DONOR_26,SPECIMEN_466,Hydrocele fluid,Tumour,Cell line - derived from xenograft tumour,Total DNA
+SAMPLE_REGISTRATION_467,SYNTHETIC-1,DONOR_27,SPECIMEN_467,Fetal blood,Tumour,Xenograft - derived from tumour cell line,rRNA-depleted RNA
+SAMPLE_REGISTRATION_468,SYNTHETIC-1,DONOR_28,SPECIMEN_468,Male genital fluid,Normal,Xenograft - derived from metastatic tumour,Total RNA
+SAMPLE_REGISTRATION_469,SYNTHETIC-1,DONOR_29,SPECIMEN_469,Vitreous fluid,Normal,Primary tumour - additional new primary,Amplified DNA
+SAMPLE_REGISTRATION_470,SYNTHETIC-1,DONOR_30,SPECIMEN_470,Venous blood,,Xenograft - derived from metastatic tumour,polyA+ RNA
+SAMPLE_REGISTRATION_471,SYNTHETIC-1,DONOR_31,SPECIMEN_471,Bile,Tumour,Metastatic tumour - additional metastatic,
+SAMPLE_REGISTRATION_472,SYNTHETIC-1,DONOR_32,SPECIMEN_472,Cerebrospinal fluid,Tumour,Xenograft - derived from metastatic tumour,Other DNA enrichments
+SAMPLE_REGISTRATION_473,SYNTHETIC-1,DONOR_33,SPECIMEN_473,Buccal cell,,Primary tumour - adjacent to normal,Protein
+SAMPLE_REGISTRATION_474,SYNTHETIC-1,DONOR_34,SPECIMEN_474,Female genital fluid,Tumour,Recurrent tumour,Other DNA enrichments
+SAMPLE_REGISTRATION_475,SYNTHETIC-1,DONOR_35,SPECIMEN_475,Cervical mucus,Normal,Primary tumour - adjacent to normal,Other DNA enrichments
+SAMPLE_REGISTRATION_476,SYNTHETIC-1,DONOR_36,SPECIMEN_476,Fetal blood,Tumour,Primary tumour - adjacent to normal,Protein
+SAMPLE_REGISTRATION_477,SYNTHETIC-1,DONOR_37,SPECIMEN_477,Arterial blood,Tumour,Xenograft - derived from primary tumour,
+SAMPLE_REGISTRATION_478,SYNTHETIC-1,DONOR_38,SPECIMEN_478,Serum,Normal,Primary tumour - adjacent to normal,ctDNA
+SAMPLE_REGISTRATION_479,SYNTHETIC-1,DONOR_39,SPECIMEN_479,Renal cyst fluid,Tumour,,Protein
+SAMPLE_REGISTRATION_480,SYNTHETIC-1,DONOR_40,SPECIMEN_480,Buffy coat,Normal,Cell line - derived from primary tumour,ctDNA
+SAMPLE_REGISTRATION_481,SYNTHETIC-1,DONOR_1,SPECIMEN_481,Solid tissue,,Metastatic tumour,Total RNA
+SAMPLE_REGISTRATION_482,SYNTHETIC-1,DONOR_2,SPECIMEN_482,Synovial fluid,Normal,Metastatic tumour - metastasis to distant location,polyA+ RNA
+SAMPLE_REGISTRATION_483,SYNTHETIC-1,DONOR_3,SPECIMEN_483,Fetal blood,Tumour,Primary tumour - adjacent to normal,polyA+ RNA
+SAMPLE_REGISTRATION_484,SYNTHETIC-1,DONOR_4,SPECIMEN_484,Cerebrospinal fluid,,,Other DNA enrichments
+SAMPLE_REGISTRATION_485,SYNTHETIC-1,DONOR_5,SPECIMEN_485,,Tumour,,
+SAMPLE_REGISTRATION_486,SYNTHETIC-1,DONOR_6,SPECIMEN_486,Cervical mucus,Normal,Xenograft - derived from metastatic tumour,Other DNA enrichments
+SAMPLE_REGISTRATION_487,SYNTHETIC-1,DONOR_7,SPECIMEN_487,Urine,Normal,Primary tumour,Total DNA
+SAMPLE_REGISTRATION_488,SYNTHETIC-1,DONOR_8,SPECIMEN_488,Synovial fluid,Tumour,Cell line - derived from normal,Other DNA enrichments
+SAMPLE_REGISTRATION_489,SYNTHETIC-1,DONOR_9,SPECIMEN_489,Sputum,Tumour,Metastatic tumour,
+SAMPLE_REGISTRATION_490,SYNTHETIC-1,DONOR_10,SPECIMEN_490,,Tumour,Primary tumour,ctDNA
+SAMPLE_REGISTRATION_491,SYNTHETIC-1,DONOR_11,SPECIMEN_491,Convalescent plasma,Tumour,Cell line - derived from normal,Protein
+SAMPLE_REGISTRATION_492,SYNTHETIC-1,DONOR_12,SPECIMEN_492,Blood derived - bone marrow,Tumour,,Total RNA
+SAMPLE_REGISTRATION_493,SYNTHETIC-1,DONOR_13,SPECIMEN_493,,Tumour,Xenograft - derived from metastatic tumour,Other DNA enrichments
+SAMPLE_REGISTRATION_494,SYNTHETIC-1,DONOR_14,SPECIMEN_494,Buffy coat,Normal,,rRNA-depleted RNA
+SAMPLE_REGISTRATION_495,SYNTHETIC-1,DONOR_15,SPECIMEN_495,Bone marrow fluid,Normal,Xenograft - derived from primary tumour,
+SAMPLE_REGISTRATION_496,SYNTHETIC-1,DONOR_16,SPECIMEN_496,Arterial blood,Tumour,Xenograft - derived from metastatic tumour,Total RNA
+SAMPLE_REGISTRATION_497,SYNTHETIC-1,DONOR_17,SPECIMEN_497,Cord blood,Tumour,Cell line - derived from primary tumour,rRNA-depleted RNA
+SAMPLE_REGISTRATION_498,SYNTHETIC-1,DONOR_18,SPECIMEN_498,Cerebrospinal fluid,Tumour,Primary tumour - adjacent to normal,rRNA-depleted RNA
+SAMPLE_REGISTRATION_499,SYNTHETIC-1,DONOR_19,SPECIMEN_499,Duodenal fluid,,Metastatic tumour - metastasis to distant location,Other RNA fractions
+SAMPLE_REGISTRATION_500,SYNTHETIC-1,DONOR_20,SPECIMEN_500,Renal cyst fluid,Normal,Metastatic tumour,polyA+ RNA
+SAMPLE_REGISTRATION_501,SYNTHETIC-1,DONOR_21,SPECIMEN_501,Vitreous fluid,Tumour,Metastatic tumour,Other RNA fractions
+SAMPLE_REGISTRATION_502,SYNTHETIC-1,DONOR_22,SPECIMEN_502,,Tumour,Normal,
+SAMPLE_REGISTRATION_503,SYNTHETIC-1,DONOR_23,SPECIMEN_503,Saliva,Tumour,Normal - tissue adjacent to primary tumour,Amplified DNA
+SAMPLE_REGISTRATION_504,SYNTHETIC-1,DONOR_24,SPECIMEN_504,Female genital fluid,Normal,Primary tumour,rRNA-depleted RNA
+SAMPLE_REGISTRATION_505,SYNTHETIC-1,DONOR_25,SPECIMEN_505,Vitreous fluid,,Cell line - derived from primary tumour,Total DNA
+SAMPLE_REGISTRATION_506,SYNTHETIC-1,DONOR_26,SPECIMEN_506,Blood derived - bone marrow,,Normal,rRNA-depleted RNA
+SAMPLE_REGISTRATION_507,SYNTHETIC-1,DONOR_27,SPECIMEN_507,Cervical mucus,,Metastatic tumour - additional metastatic,rRNA-depleted RNA
+SAMPLE_REGISTRATION_508,SYNTHETIC-1,DONOR_28,SPECIMEN_508,Vitreous fluid,Tumour,Primary tumour - additional new primary,Total RNA
+SAMPLE_REGISTRATION_509,SYNTHETIC-1,DONOR_29,SPECIMEN_509,Pericardial effusion,Normal,Primary tumour,polyA+ RNA
+SAMPLE_REGISTRATION_510,SYNTHETIC-1,DONOR_30,SPECIMEN_510,Arterial blood,Normal,Metastatic tumour,Total DNA
+SAMPLE_REGISTRATION_511,SYNTHETIC-1,DONOR_31,SPECIMEN_511,Pancreatic fluid,Normal,Cell line - derived from primary tumour,polyA+ RNA
+SAMPLE_REGISTRATION_512,SYNTHETIC-1,DONOR_32,SPECIMEN_512,Vitreous fluid,Tumour,Xenograft - derived from primary tumour,Total RNA
+SAMPLE_REGISTRATION_513,SYNTHETIC-1,DONOR_33,SPECIMEN_513,Cord blood,Normal,Xenograft - derived from tumour cell line,ctDNA
+SAMPLE_REGISTRATION_514,SYNTHETIC-1,DONOR_34,SPECIMEN_514,,Normal,Metastatic tumour - metastasis local to lymph node,
+SAMPLE_REGISTRATION_515,SYNTHETIC-1,DONOR_35,SPECIMEN_515,Vitreous fluid,Normal,Recurrent tumour,Total DNA
+SAMPLE_REGISTRATION_516,SYNTHETIC-1,DONOR_36,SPECIMEN_516,,,Primary tumour,rRNA-depleted RNA
+SAMPLE_REGISTRATION_517,SYNTHETIC-1,DONOR_37,SPECIMEN_517,Saliva,Normal,Normal - tissue adjacent to primary tumour,
+SAMPLE_REGISTRATION_518,SYNTHETIC-1,DONOR_38,SPECIMEN_518,Buffy coat,Tumour,Cell line - derived from metastatic tumour,Total RNA
+SAMPLE_REGISTRATION_519,SYNTHETIC-1,DONOR_39,SPECIMEN_519,Synovial fluid,Normal,Cell line - derived from primary tumour,Total DNA
+SAMPLE_REGISTRATION_520,SYNTHETIC-1,DONOR_40,SPECIMEN_520,Convalescent plasma,Tumour,Metastatic tumour - additional metastatic,rRNA-depleted RNA
+SAMPLE_REGISTRATION_521,SYNTHETIC-1,DONOR_1,SPECIMEN_521,Blood derived - bone marrow,Normal,Cell line - derived from primary tumour,Other DNA enrichments
+SAMPLE_REGISTRATION_522,SYNTHETIC-1,DONOR_2,SPECIMEN_522,Duodenal fluid,Tumour,Cell line - derived from primary tumour,ctDNA
+SAMPLE_REGISTRATION_523,SYNTHETIC-1,DONOR_3,SPECIMEN_523,Renal cyst fluid,Normal,Metastatic tumour - metastasis to distant location,
+SAMPLE_REGISTRATION_524,SYNTHETIC-1,DONOR_4,SPECIMEN_524,Urine,Normal,Metastatic tumour - metastasis local to lymph node,polyA+ RNA
+SAMPLE_REGISTRATION_525,SYNTHETIC-1,DONOR_5,SPECIMEN_525,Cord blood,Tumour,Xenograft - derived from primary tumour,
+SAMPLE_REGISTRATION_526,SYNTHETIC-1,DONOR_6,SPECIMEN_526,Blood derived - peripheral blood,Normal,Xenograft - derived from metastatic tumour,Total DNA
+SAMPLE_REGISTRATION_527,SYNTHETIC-1,DONOR_7,SPECIMEN_527,Convalescent plasma,Tumour,Xenograft - derived from tumour cell line,
+SAMPLE_REGISTRATION_528,SYNTHETIC-1,DONOR_8,SPECIMEN_528,Bone marrow fluid,Tumour,Metastatic tumour - metastasis to distant location,Amplified DNA
+SAMPLE_REGISTRATION_529,SYNTHETIC-1,DONOR_9,SPECIMEN_529,Bone marrow fluid,Tumour,Recurrent tumour,
+SAMPLE_REGISTRATION_530,SYNTHETIC-1,DONOR_10,SPECIMEN_530,Pericardial effusion,Tumour,Xenograft - derived from metastatic tumour,Other DNA enrichments
+SAMPLE_REGISTRATION_531,SYNTHETIC-1,DONOR_11,SPECIMEN_531,Duodenal fluid,Tumour,Normal,Protein
+SAMPLE_REGISTRATION_532,SYNTHETIC-1,DONOR_12,SPECIMEN_532,Saliva,Normal,,polyA+ RNA
+SAMPLE_REGISTRATION_533,SYNTHETIC-1,DONOR_13,SPECIMEN_533,Renal cyst fluid,Tumour,Xenograft - derived from primary tumour,Protein
+SAMPLE_REGISTRATION_534,SYNTHETIC-1,DONOR_14,SPECIMEN_534,Female genital fluid,Tumour,Metastatic tumour - metastasis to distant location,Total DNA
+SAMPLE_REGISTRATION_535,SYNTHETIC-1,DONOR_15,SPECIMEN_535,Urine,Tumour,,Protein
+SAMPLE_REGISTRATION_536,SYNTHETIC-1,DONOR_16,SPECIMEN_536,Hydrocele fluid,Tumour,Cell line - derived from xenograft tumour,Protein
+SAMPLE_REGISTRATION_537,SYNTHETIC-1,DONOR_17,SPECIMEN_537,Bone marrow fluid,Tumour,Metastatic tumour - metastasis local to lymph node,polyA+ RNA
+SAMPLE_REGISTRATION_538,SYNTHETIC-1,DONOR_18,SPECIMEN_538,Bile,Tumour,Cell line - derived from xenograft tumour,Total DNA
+SAMPLE_REGISTRATION_539,SYNTHETIC-1,DONOR_19,SPECIMEN_539,Saliva,,Cell line - derived from primary tumour,
+SAMPLE_REGISTRATION_540,SYNTHETIC-1,DONOR_20,SPECIMEN_540,Saliva,Normal,Metastatic tumour - metastasis local to lymph node,Other DNA enrichments
+SAMPLE_REGISTRATION_541,SYNTHETIC-1,DONOR_21,SPECIMEN_541,Renal cyst fluid,Tumour,Cell line - derived from primary tumour,Total DNA
+SAMPLE_REGISTRATION_542,SYNTHETIC-1,DONOR_22,SPECIMEN_542,Buffy coat,Normal,Metastatic tumour - metastasis to distant location,Protein
+SAMPLE_REGISTRATION_543,SYNTHETIC-1,DONOR_23,SPECIMEN_543,Seminal fluid,Normal,,Total RNA
+SAMPLE_REGISTRATION_544,SYNTHETIC-1,DONOR_24,SPECIMEN_544,Female genital fluid,Normal,Metastatic tumour - metastasis local to lymph node,Total RNA
+SAMPLE_REGISTRATION_545,SYNTHETIC-1,DONOR_25,SPECIMEN_545,Bone marrow fluid,Normal,Metastatic tumour - metastasis local to lymph node,polyA+ RNA
+SAMPLE_REGISTRATION_546,SYNTHETIC-1,DONOR_26,SPECIMEN_546,Solid tissue,Tumour,,
+SAMPLE_REGISTRATION_547,SYNTHETIC-1,DONOR_27,SPECIMEN_547,Renal cyst fluid,Tumour,Xenograft - derived from primary tumour,Other RNA fractions
+SAMPLE_REGISTRATION_548,SYNTHETIC-1,DONOR_28,SPECIMEN_548,Cervical mucus,,,Other DNA enrichments
+SAMPLE_REGISTRATION_549,SYNTHETIC-1,DONOR_29,SPECIMEN_549,,Normal,Recurrent tumour,
+SAMPLE_REGISTRATION_550,SYNTHETIC-1,DONOR_30,SPECIMEN_550,Cerebrospinal fluid,Tumour,Metastatic tumour - metastasis to distant location,Protein
+SAMPLE_REGISTRATION_551,SYNTHETIC-1,DONOR_31,SPECIMEN_551,,Tumour,Cell line - derived from normal,Protein
+SAMPLE_REGISTRATION_552,SYNTHETIC-1,DONOR_32,SPECIMEN_552,Blood derived - peripheral blood,Normal,Metastatic tumour - additional metastatic,rRNA-depleted RNA
+SAMPLE_REGISTRATION_553,SYNTHETIC-1,DONOR_33,SPECIMEN_553,Sputum,Tumour,Cell line - derived from xenograft tumour,Total DNA
+SAMPLE_REGISTRATION_554,SYNTHETIC-1,DONOR_34,SPECIMEN_554,Venous blood,,Cell line - derived from metastatic tumour,Total DNA
+SAMPLE_REGISTRATION_555,SYNTHETIC-1,DONOR_35,SPECIMEN_555,Bile,Normal,Primary tumour - additional new primary,Total DNA
+SAMPLE_REGISTRATION_556,SYNTHETIC-1,DONOR_36,SPECIMEN_556,Cervical mucus,Tumour,Cell line - derived from primary tumour,Total RNA
+SAMPLE_REGISTRATION_557,SYNTHETIC-1,DONOR_37,SPECIMEN_557,Saliva,Normal,,Amplified DNA
+SAMPLE_REGISTRATION_558,SYNTHETIC-1,DONOR_38,SPECIMEN_558,Urine,Tumour,Xenograft - derived from metastatic tumour,polyA+ RNA
+SAMPLE_REGISTRATION_559,SYNTHETIC-1,DONOR_39,SPECIMEN_559,Seminal fluid,Tumour,Xenograft - derived from tumour cell line,Amplified DNA
+SAMPLE_REGISTRATION_560,SYNTHETIC-1,DONOR_40,SPECIMEN_560,Blood derived - peripheral blood,Tumour,Cell line - derived from xenograft tumour,
+SAMPLE_REGISTRATION_561,SYNTHETIC-1,DONOR_1,SPECIMEN_561,,Normal,Metastatic tumour - metastasis to distant location,rRNA-depleted RNA
+SAMPLE_REGISTRATION_562,SYNTHETIC-1,DONOR_2,SPECIMEN_562,Fetal blood,Normal,Primary tumour - adjacent to normal,Amplified DNA
+SAMPLE_REGISTRATION_563,SYNTHETIC-1,DONOR_3,SPECIMEN_563,Bile,,Primary tumour,Total RNA
+SAMPLE_REGISTRATION_564,SYNTHETIC-1,DONOR_4,SPECIMEN_564,Saliva,,Xenograft - derived from metastatic tumour,ctDNA
+SAMPLE_REGISTRATION_565,SYNTHETIC-1,DONOR_5,SPECIMEN_565,Synovial fluid,Normal,Primary tumour - additional new primary,rRNA-depleted RNA
+SAMPLE_REGISTRATION_566,SYNTHETIC-1,DONOR_6,SPECIMEN_566,Pleural fluid,Normal,Xenograft - derived from primary tumour,
+SAMPLE_REGISTRATION_567,SYNTHETIC-1,DONOR_7,SPECIMEN_567,Blood derived - bone marrow,Normal,Metastatic tumour,polyA+ RNA
+SAMPLE_REGISTRATION_568,SYNTHETIC-1,DONOR_8,SPECIMEN_568,,Normal,,Amplified DNA
+SAMPLE_REGISTRATION_569,SYNTHETIC-1,DONOR_9,SPECIMEN_569,Cervical mucus,,Cell line - derived from xenograft tumour,
+SAMPLE_REGISTRATION_570,SYNTHETIC-1,DONOR_10,SPECIMEN_570,Fetal blood,Normal,Cell line - derived from primary tumour,
+SAMPLE_REGISTRATION_571,SYNTHETIC-1,DONOR_11,SPECIMEN_571,Synovial fluid,,Cell line - derived from metastatic tumour,Protein
+SAMPLE_REGISTRATION_572,SYNTHETIC-1,DONOR_12,SPECIMEN_572,Synovial fluid,Tumour,Cell line - derived from normal,Other RNA fractions
+SAMPLE_REGISTRATION_573,SYNTHETIC-1,DONOR_13,SPECIMEN_573,Buccal cell,Tumour,Metastatic tumour - metastasis local to lymph node,rRNA-depleted RNA
+SAMPLE_REGISTRATION_574,SYNTHETIC-1,DONOR_14,SPECIMEN_574,,Normal,Xenograft - derived from metastatic tumour,Other DNA enrichments
+SAMPLE_REGISTRATION_575,SYNTHETIC-1,DONOR_15,SPECIMEN_575,Bile,Normal,Primary tumour - additional new primary,
+SAMPLE_REGISTRATION_576,SYNTHETIC-1,DONOR_16,SPECIMEN_576,Cerebrospinal fluid,,Cell line - derived from metastatic tumour,ctDNA
+SAMPLE_REGISTRATION_577,SYNTHETIC-1,DONOR_17,SPECIMEN_577,Renal cyst fluid,Tumour,Primary tumour,polyA+ RNA
+SAMPLE_REGISTRATION_578,SYNTHETIC-1,DONOR_18,SPECIMEN_578,Buccal cell,Tumour,Recurrent tumour,Protein
+SAMPLE_REGISTRATION_579,SYNTHETIC-1,DONOR_19,SPECIMEN_579,Serum,Normal,Xenograft - derived from tumour cell line,polyA+ RNA
+SAMPLE_REGISTRATION_580,SYNTHETIC-1,DONOR_20,SPECIMEN_580,Seminal fluid,Tumour,,Total DNA
+SAMPLE_REGISTRATION_581,SYNTHETIC-1,DONOR_21,SPECIMEN_581,Cord blood,,Recurrent tumour,Total RNA
+SAMPLE_REGISTRATION_582,SYNTHETIC-1,DONOR_22,SPECIMEN_582,Saliva,Tumour,Xenograft - derived from metastatic tumour,polyA+ RNA
+SAMPLE_REGISTRATION_583,SYNTHETIC-1,DONOR_23,SPECIMEN_583,Buccal cell,Normal,Normal,polyA+ RNA
+SAMPLE_REGISTRATION_584,SYNTHETIC-1,DONOR_24,SPECIMEN_584,Renal cyst fluid,Tumour,Normal,
+SAMPLE_REGISTRATION_585,SYNTHETIC-1,DONOR_25,SPECIMEN_585,Female genital fluid,Tumour,Xenograft - derived from primary tumour,
+SAMPLE_REGISTRATION_586,SYNTHETIC-1,DONOR_26,SPECIMEN_586,Female genital fluid,Normal,Primary tumour - additional new primary,Protein
+SAMPLE_REGISTRATION_587,SYNTHETIC-1,DONOR_27,SPECIMEN_587,Seminal fluid,Tumour,Metastatic tumour,
+SAMPLE_REGISTRATION_588,SYNTHETIC-1,DONOR_28,SPECIMEN_588,Fetal blood,Normal,Primary tumour - adjacent to normal,Total DNA
+SAMPLE_REGISTRATION_589,SYNTHETIC-1,DONOR_29,SPECIMEN_589,Blood derived - peripheral blood,Tumour,Metastatic tumour - metastasis local to lymph node,Other DNA enrichments
+SAMPLE_REGISTRATION_590,SYNTHETIC-1,DONOR_30,SPECIMEN_590,Buffy coat,,Xenograft - derived from metastatic tumour,Other DNA enrichments
+SAMPLE_REGISTRATION_591,SYNTHETIC-1,DONOR_31,SPECIMEN_591,Male genital fluid,Tumour,,polyA+ RNA
+SAMPLE_REGISTRATION_592,SYNTHETIC-1,DONOR_32,SPECIMEN_592,Bone marrow derived mononuclear cells,Normal,Xenograft - derived from tumour cell line,Total RNA
+SAMPLE_REGISTRATION_593,SYNTHETIC-1,DONOR_33,SPECIMEN_593,Serum,Normal,Xenograft - derived from tumour cell line,polyA+ RNA
+SAMPLE_REGISTRATION_594,SYNTHETIC-1,DONOR_34,SPECIMEN_594,Serum,Normal,,Total DNA
+SAMPLE_REGISTRATION_595,SYNTHETIC-1,DONOR_35,SPECIMEN_595,Cervical mucus,Tumour,Cell line - derived from metastatic tumour,Other DNA enrichments
+SAMPLE_REGISTRATION_596,SYNTHETIC-1,DONOR_36,SPECIMEN_596,Bone marrow fluid,,Cell line - derived from primary tumour,Other DNA enrichments
+SAMPLE_REGISTRATION_597,SYNTHETIC-1,DONOR_37,SPECIMEN_597,Hydrocele fluid,Normal,Cell line - derived from metastatic tumour,polyA+ RNA
+SAMPLE_REGISTRATION_598,SYNTHETIC-1,DONOR_38,SPECIMEN_598,,Normal,Xenograft - derived from primary tumour,Protein
+SAMPLE_REGISTRATION_599,SYNTHETIC-1,DONOR_39,SPECIMEN_599,Amniotic fluid,Normal,Xenograft - derived from primary tumour,polyA+ RNA
+SAMPLE_REGISTRATION_600,SYNTHETIC-1,DONOR_40,SPECIMEN_600,,Tumour,,ctDNA
+SAMPLE_REGISTRATION_601,SYNTHETIC-1,DONOR_1,SPECIMEN_601,,Tumour,Cell line - derived from xenograft tumour,polyA+ RNA
+SAMPLE_REGISTRATION_602,SYNTHETIC-1,DONOR_2,SPECIMEN_602,Bone marrow derived mononuclear cells,,Xenograft - derived from primary tumour,Protein
+SAMPLE_REGISTRATION_603,SYNTHETIC-1,DONOR_3,SPECIMEN_603,Fetal blood,,,rRNA-depleted RNA
+SAMPLE_REGISTRATION_604,SYNTHETIC-1,DONOR_4,SPECIMEN_604,Amniotic fluid,Tumour,Metastatic tumour,
+SAMPLE_REGISTRATION_605,SYNTHETIC-1,DONOR_5,SPECIMEN_605,Renal cyst fluid,,Recurrent tumour,Other RNA fractions
+SAMPLE_REGISTRATION_606,SYNTHETIC-1,DONOR_6,SPECIMEN_606,,Tumour,Xenograft - derived from metastatic tumour,rRNA-depleted RNA
+SAMPLE_REGISTRATION_607,SYNTHETIC-1,DONOR_7,SPECIMEN_607,Pancreatic fluid,Tumour,Cell line - derived from metastatic tumour,Total RNA
+SAMPLE_REGISTRATION_608,SYNTHETIC-1,DONOR_8,SPECIMEN_608,Duodenal fluid,Normal,Metastatic tumour - additional metastatic,Total DNA
+SAMPLE_REGISTRATION_609,SYNTHETIC-1,DONOR_9,SPECIMEN_609,Serum,Tumour,Primary tumour - adjacent to normal,Total DNA
+SAMPLE_REGISTRATION_610,SYNTHETIC-1,DONOR_10,SPECIMEN_610,Cord blood,Tumour,,
+SAMPLE_REGISTRATION_611,SYNTHETIC-1,DONOR_11,SPECIMEN_611,Blood derived - peripheral blood,Tumour,Xenograft - derived from primary tumour,Amplified DNA
+SAMPLE_REGISTRATION_612,SYNTHETIC-1,DONOR_12,SPECIMEN_612,Arterial blood,Normal,Recurrent tumour,Amplified DNA
+SAMPLE_REGISTRATION_613,SYNTHETIC-1,DONOR_13,SPECIMEN_613,Bone marrow fluid,,Normal - tissue adjacent to primary tumour,polyA+ RNA
+SAMPLE_REGISTRATION_614,SYNTHETIC-1,DONOR_14,SPECIMEN_614,Cord blood,Normal,Primary tumour,Other RNA fractions
+SAMPLE_REGISTRATION_615,SYNTHETIC-1,DONOR_15,SPECIMEN_615,Amniotic fluid,Tumour,Primary tumour,Other RNA fractions
+SAMPLE_REGISTRATION_616,SYNTHETIC-1,DONOR_16,SPECIMEN_616,Sputum,Tumour,Cell line - derived from primary tumour,Other DNA enrichments
+SAMPLE_REGISTRATION_617,SYNTHETIC-1,DONOR_17,SPECIMEN_617,Arterial blood,Normal,Primary tumour - additional new primary,ctDNA
+SAMPLE_REGISTRATION_618,SYNTHETIC-1,DONOR_18,SPECIMEN_618,Bile,Normal,Cell line - derived from normal,Protein
+SAMPLE_REGISTRATION_619,SYNTHETIC-1,DONOR_19,SPECIMEN_619,Female genital fluid,,Metastatic tumour,Total DNA
+SAMPLE_REGISTRATION_620,SYNTHETIC-1,DONOR_20,SPECIMEN_620,,Tumour,Cell line - derived from primary tumour,Other RNA fractions
+SAMPLE_REGISTRATION_621,SYNTHETIC-1,DONOR_21,SPECIMEN_621,,Normal,Cell line - derived from normal,Other DNA enrichments
+SAMPLE_REGISTRATION_622,SYNTHETIC-1,DONOR_22,SPECIMEN_622,Vitreous fluid,Tumour,Normal - tissue adjacent to primary tumour,polyA+ RNA
+SAMPLE_REGISTRATION_623,SYNTHETIC-1,DONOR_23,SPECIMEN_623,Blood derived - bone marrow,Tumour,Cell line - derived from normal,Protein
+SAMPLE_REGISTRATION_624,SYNTHETIC-1,DONOR_24,SPECIMEN_624,Bone marrow fluid,Tumour,Metastatic tumour - metastasis local to lymph node,
+SAMPLE_REGISTRATION_625,SYNTHETIC-1,DONOR_25,SPECIMEN_625,Bone marrow fluid,Tumour,Cell line - derived from xenograft tumour,ctDNA
+SAMPLE_REGISTRATION_626,SYNTHETIC-1,DONOR_26,SPECIMEN_626,Sputum,Tumour,Xenograft - derived from metastatic tumour,Total DNA
+SAMPLE_REGISTRATION_627,SYNTHETIC-1,DONOR_27,SPECIMEN_627,,Normal,Xenograft - derived from metastatic tumour,Total DNA
+SAMPLE_REGISTRATION_628,SYNTHETIC-1,DONOR_28,SPECIMEN_628,Bile,Normal,,
+SAMPLE_REGISTRATION_629,SYNTHETIC-1,DONOR_29,SPECIMEN_629,Pleural fluid,Tumour,,rRNA-depleted RNA
+SAMPLE_REGISTRATION_630,SYNTHETIC-1,DONOR_30,SPECIMEN_630,Blood derived - bone marrow,Normal,Normal,Protein
+SAMPLE_REGISTRATION_631,SYNTHETIC-1,DONOR_31,SPECIMEN_631,Bone marrow derived mononuclear cells,Normal,Cell line - derived from primary tumour,polyA+ RNA
+SAMPLE_REGISTRATION_632,SYNTHETIC-1,DONOR_32,SPECIMEN_632,,Tumour,Metastatic tumour,Other RNA fractions
+SAMPLE_REGISTRATION_633,SYNTHETIC-1,DONOR_33,SPECIMEN_633,Hydrocele fluid,Tumour,Primary tumour - additional new primary,
+SAMPLE_REGISTRATION_634,SYNTHETIC-1,DONOR_34,SPECIMEN_634,Cervical mucus,Tumour,Metastatic tumour - metastasis local to lymph node,ctDNA
+SAMPLE_REGISTRATION_635,SYNTHETIC-1,DONOR_35,SPECIMEN_635,Sputum,Tumour,Normal - tissue adjacent to primary tumour,polyA+ RNA
+SAMPLE_REGISTRATION_636,SYNTHETIC-1,DONOR_36,SPECIMEN_636,Buccal cell,Normal,Metastatic tumour - metastasis local to lymph node,Total RNA
+SAMPLE_REGISTRATION_637,SYNTHETIC-1,DONOR_37,SPECIMEN_637,Pericardial effusion,,Metastatic tumour - additional metastatic,Protein
+SAMPLE_REGISTRATION_638,SYNTHETIC-1,DONOR_38,SPECIMEN_638,Blood derived - bone marrow,Tumour,Cell line - derived from xenograft tumour,Other DNA enrichments
+SAMPLE_REGISTRATION_639,SYNTHETIC-1,DONOR_39,SPECIMEN_639,Abdominal fluid,Tumour,Metastatic tumour,Total RNA
+SAMPLE_REGISTRATION_640,SYNTHETIC-1,DONOR_40,SPECIMEN_640,Vitreous fluid,Tumour,Cell line - derived from primary tumour,
+SAMPLE_REGISTRATION_641,SYNTHETIC-2,DONOR_41,SPECIMEN_641,Bone marrow derived mononuclear cells,,,Total DNA
+SAMPLE_REGISTRATION_642,SYNTHETIC-2,DONOR_42,SPECIMEN_642,Synovial fluid,Normal,Metastatic tumour,Amplified DNA
+SAMPLE_REGISTRATION_643,SYNTHETIC-2,DONOR_43,SPECIMEN_643,Cord blood,,Metastatic tumour - metastasis local to lymph node,Other DNA enrichments
+SAMPLE_REGISTRATION_644,SYNTHETIC-2,DONOR_44,SPECIMEN_644,Buffy coat,Normal,Cell line - derived from xenograft tumour,ctDNA
+SAMPLE_REGISTRATION_645,SYNTHETIC-2,DONOR_45,SPECIMEN_645,Hydrocele fluid,Tumour,Xenograft - derived from primary tumour,Amplified DNA
+SAMPLE_REGISTRATION_646,SYNTHETIC-2,DONOR_46,SPECIMEN_646,Venous blood,Normal,Primary tumour - adjacent to normal,Total RNA
+SAMPLE_REGISTRATION_647,SYNTHETIC-2,DONOR_47,SPECIMEN_647,Pleural fluid,,Metastatic tumour - metastasis to distant location,Protein
+SAMPLE_REGISTRATION_648,SYNTHETIC-2,DONOR_48,SPECIMEN_648,Cord blood,Normal,,Amplified DNA
+SAMPLE_REGISTRATION_649,SYNTHETIC-2,DONOR_49,SPECIMEN_649,Female genital fluid,Normal,Cell line - derived from metastatic tumour,Amplified DNA
+SAMPLE_REGISTRATION_650,SYNTHETIC-2,DONOR_50,SPECIMEN_650,Cervical mucus,Tumour,,
+SAMPLE_REGISTRATION_651,SYNTHETIC-2,DONOR_51,SPECIMEN_651,Buccal cell,Normal,Metastatic tumour,Total RNA
+SAMPLE_REGISTRATION_652,SYNTHETIC-2,DONOR_52,SPECIMEN_652,Solid tissue,Tumour,Cell line - derived from primary tumour,rRNA-depleted RNA
+SAMPLE_REGISTRATION_653,SYNTHETIC-2,DONOR_53,SPECIMEN_653,Saliva,Normal,Metastatic tumour,rRNA-depleted RNA
+SAMPLE_REGISTRATION_654,SYNTHETIC-2,DONOR_54,SPECIMEN_654,Blood derived - peripheral blood,Normal,Cell line - derived from metastatic tumour,Total DNA
+SAMPLE_REGISTRATION_655,SYNTHETIC-2,DONOR_55,SPECIMEN_655,Buccal cell,Tumour,Primary tumour - additional new primary,
+SAMPLE_REGISTRATION_656,SYNTHETIC-2,DONOR_56,SPECIMEN_656,Serum,Tumour,,rRNA-depleted RNA
+SAMPLE_REGISTRATION_657,SYNTHETIC-2,DONOR_57,SPECIMEN_657,Vitreous fluid,Tumour,Xenograft - derived from tumour cell line,Other RNA fractions
+SAMPLE_REGISTRATION_658,SYNTHETIC-2,DONOR_58,SPECIMEN_658,Buccal cell,Tumour,Primary tumour,Total RNA
+SAMPLE_REGISTRATION_659,SYNTHETIC-2,DONOR_59,SPECIMEN_659,Arterial blood,Normal,Normal,Amplified DNA
+SAMPLE_REGISTRATION_660,SYNTHETIC-2,DONOR_60,SPECIMEN_660,Duodenal fluid,Normal,Xenograft - derived from primary tumour,Total RNA
+SAMPLE_REGISTRATION_661,SYNTHETIC-2,DONOR_61,SPECIMEN_661,Sputum,Tumour,Normal - tissue adjacent to primary tumour,Total RNA
+SAMPLE_REGISTRATION_662,SYNTHETIC-2,DONOR_62,SPECIMEN_662,Male genital fluid,Tumour,Cell line - derived from xenograft tumour,Amplified DNA
+SAMPLE_REGISTRATION_663,SYNTHETIC-2,DONOR_63,SPECIMEN_663,Male genital fluid,Tumour,,polyA+ RNA
+SAMPLE_REGISTRATION_664,SYNTHETIC-2,DONOR_64,SPECIMEN_664,Blood derived - bone marrow,Tumour,Cell line - derived from primary tumour,polyA+ RNA
+SAMPLE_REGISTRATION_665,SYNTHETIC-2,DONOR_65,SPECIMEN_665,,Normal,,Total RNA
+SAMPLE_REGISTRATION_666,SYNTHETIC-2,DONOR_66,SPECIMEN_666,Urine,Normal,Primary tumour - adjacent to normal,Total RNA
+SAMPLE_REGISTRATION_667,SYNTHETIC-2,DONOR_67,SPECIMEN_667,Cord blood,Normal,,Total DNA
+SAMPLE_REGISTRATION_668,SYNTHETIC-2,DONOR_68,SPECIMEN_668,,Tumour,Cell line - derived from metastatic tumour,ctDNA
+SAMPLE_REGISTRATION_669,SYNTHETIC-2,DONOR_69,SPECIMEN_669,Female genital fluid,,Cell line - derived from metastatic tumour,polyA+ RNA
+SAMPLE_REGISTRATION_670,SYNTHETIC-2,DONOR_70,SPECIMEN_670,Cerebrospinal fluid,Tumour,Primary tumour - adjacent to normal,Total DNA
+SAMPLE_REGISTRATION_671,SYNTHETIC-2,DONOR_41,SPECIMEN_671,Seminal fluid,Tumour,Primary tumour - additional new primary,Other DNA enrichments
+SAMPLE_REGISTRATION_672,SYNTHETIC-2,DONOR_42,SPECIMEN_672,Pleural fluid,Normal,Xenograft - derived from tumour cell line,rRNA-depleted RNA
+SAMPLE_REGISTRATION_673,SYNTHETIC-2,DONOR_43,SPECIMEN_673,Hydrocele fluid,Tumour,Primary tumour - adjacent to normal,Total DNA
+SAMPLE_REGISTRATION_674,SYNTHETIC-2,DONOR_44,SPECIMEN_674,,Normal,Primary tumour - additional new primary,ctDNA
+SAMPLE_REGISTRATION_675,SYNTHETIC-2,DONOR_45,SPECIMEN_675,,Tumour,,polyA+ RNA
+SAMPLE_REGISTRATION_676,SYNTHETIC-2,DONOR_46,SPECIMEN_676,,Normal,Primary tumour,Protein
+SAMPLE_REGISTRATION_677,SYNTHETIC-2,DONOR_47,SPECIMEN_677,Synovial fluid,Normal,Primary tumour,
+SAMPLE_REGISTRATION_678,SYNTHETIC-2,DONOR_48,SPECIMEN_678,,Normal,Metastatic tumour,polyA+ RNA
+SAMPLE_REGISTRATION_679,SYNTHETIC-2,DONOR_49,SPECIMEN_679,Arterial blood,Tumour,Cell line - derived from primary tumour,Amplified DNA
+SAMPLE_REGISTRATION_680,SYNTHETIC-2,DONOR_50,SPECIMEN_680,Serum,Normal,Metastatic tumour - metastasis to distant location,rRNA-depleted RNA
+SAMPLE_REGISTRATION_681,SYNTHETIC-2,DONOR_51,SPECIMEN_681,Cerebrospinal fluid,Normal,Cell line - derived from xenograft tumour,Amplified DNA
+SAMPLE_REGISTRATION_682,SYNTHETIC-2,DONOR_52,SPECIMEN_682,,Tumour,Primary tumour - additional new primary,Total DNA
+SAMPLE_REGISTRATION_683,SYNTHETIC-2,DONOR_53,SPECIMEN_683,Serum,Tumour,Metastatic tumour - metastasis local to lymph node,Amplified DNA
+SAMPLE_REGISTRATION_684,SYNTHETIC-2,DONOR_54,SPECIMEN_684,Female genital fluid,Tumour,,Other DNA enrichments
+SAMPLE_REGISTRATION_685,SYNTHETIC-2,DONOR_55,SPECIMEN_685,Buffy coat,Tumour,Cell line - derived from xenograft tumour,
+SAMPLE_REGISTRATION_686,SYNTHETIC-2,DONOR_56,SPECIMEN_686,,Normal,Xenograft - derived from tumour cell line,polyA+ RNA
+SAMPLE_REGISTRATION_687,SYNTHETIC-2,DONOR_57,SPECIMEN_687,Bile,,Metastatic tumour - additional metastatic,Other DNA enrichments
+SAMPLE_REGISTRATION_688,SYNTHETIC-2,DONOR_58,SPECIMEN_688,Bone marrow fluid,Tumour,Primary tumour - additional new primary,Total RNA
+SAMPLE_REGISTRATION_689,SYNTHETIC-2,DONOR_59,SPECIMEN_689,Arterial blood,Tumour,Normal - tissue adjacent to primary tumour,polyA+ RNA
+SAMPLE_REGISTRATION_690,SYNTHETIC-2,DONOR_60,SPECIMEN_690,Synovial fluid,Normal,Metastatic tumour,polyA+ RNA
+SAMPLE_REGISTRATION_691,SYNTHETIC-2,DONOR_61,SPECIMEN_691,Venous blood,Normal,,ctDNA
+SAMPLE_REGISTRATION_692,SYNTHETIC-2,DONOR_62,SPECIMEN_692,Blood derived - peripheral blood,Tumour,Primary tumour - additional new primary,Other DNA enrichments
+SAMPLE_REGISTRATION_693,SYNTHETIC-2,DONOR_63,SPECIMEN_693,Seminal fluid,Normal,Cell line - derived from metastatic tumour,Amplified DNA
+SAMPLE_REGISTRATION_694,SYNTHETIC-2,DONOR_64,SPECIMEN_694,Solid tissue,Tumour,Xenograft - derived from primary tumour,Other RNA fractions
+SAMPLE_REGISTRATION_695,SYNTHETIC-2,DONOR_65,SPECIMEN_695,Pancreatic fluid,Tumour,Metastatic tumour - additional metastatic,Total DNA
+SAMPLE_REGISTRATION_696,SYNTHETIC-2,DONOR_66,SPECIMEN_696,Cord blood,Tumour,Primary tumour - additional new primary,Protein
+SAMPLE_REGISTRATION_697,SYNTHETIC-2,DONOR_67,SPECIMEN_697,Arterial blood,Tumour,Primary tumour,Amplified DNA
+SAMPLE_REGISTRATION_698,SYNTHETIC-2,DONOR_68,SPECIMEN_698,Duodenal fluid,Normal,Metastatic tumour - metastasis to distant location,rRNA-depleted RNA
+SAMPLE_REGISTRATION_699,SYNTHETIC-2,DONOR_69,SPECIMEN_699,Pleural fluid,Tumour,Metastatic tumour - metastasis to distant location,
+SAMPLE_REGISTRATION_700,SYNTHETIC-2,DONOR_70,SPECIMEN_700,Amniotic fluid,Normal,Primary tumour - additional new primary,Total DNA
+SAMPLE_REGISTRATION_701,SYNTHETIC-2,DONOR_41,SPECIMEN_701,Solid tissue,Tumour,Primary tumour,Amplified DNA
+SAMPLE_REGISTRATION_702,SYNTHETIC-2,DONOR_42,SPECIMEN_702,Solid tissue,,,Other DNA enrichments
+SAMPLE_REGISTRATION_703,SYNTHETIC-2,DONOR_43,SPECIMEN_703,Serum,Tumour,Recurrent tumour,ctDNA
+SAMPLE_REGISTRATION_704,SYNTHETIC-2,DONOR_44,SPECIMEN_704,,Normal,Xenograft - derived from tumour cell line,Protein
+SAMPLE_REGISTRATION_705,SYNTHETIC-2,DONOR_45,SPECIMEN_705,Hydrocele fluid,Tumour,,Total RNA
+SAMPLE_REGISTRATION_706,SYNTHETIC-2,DONOR_46,SPECIMEN_706,Pancreatic fluid,Normal,Xenograft - derived from tumour cell line,Other RNA fractions
+SAMPLE_REGISTRATION_707,SYNTHETIC-2,DONOR_47,SPECIMEN_707,,Normal,Primary tumour,ctDNA
+SAMPLE_REGISTRATION_708,SYNTHETIC-2,DONOR_48,SPECIMEN_708,Bone marrow derived mononuclear cells,Normal,,
+SAMPLE_REGISTRATION_709,SYNTHETIC-2,DONOR_49,SPECIMEN_709,Seminal fluid,Normal,Xenograft - derived from primary tumour,
+SAMPLE_REGISTRATION_710,SYNTHETIC-2,DONOR_50,SPECIMEN_710,Synovial fluid,Normal,Primary tumour - additional new primary,Other DNA enrichments
+SAMPLE_REGISTRATION_711,SYNTHETIC-2,DONOR_51,SPECIMEN_711,Cervical mucus,Tumour,Recurrent tumour,Other RNA fractions
+SAMPLE_REGISTRATION_712,SYNTHETIC-2,DONOR_52,SPECIMEN_712,Bone marrow fluid,Normal,Cell line - derived from primary tumour,Total RNA
+SAMPLE_REGISTRATION_713,SYNTHETIC-2,DONOR_53,SPECIMEN_713,Buccal cell,Normal,,polyA+ RNA
+SAMPLE_REGISTRATION_714,SYNTHETIC-2,DONOR_54,SPECIMEN_714,Buccal cell,Normal,Recurrent tumour,Total DNA
+SAMPLE_REGISTRATION_715,SYNTHETIC-2,DONOR_55,SPECIMEN_715,Duodenal fluid,,Metastatic tumour - metastasis to distant location,ctDNA
+SAMPLE_REGISTRATION_716,SYNTHETIC-2,DONOR_56,SPECIMEN_716,Venous blood,Normal,Metastatic tumour - additional metastatic,Total RNA
+SAMPLE_REGISTRATION_717,SYNTHETIC-2,DONOR_57,SPECIMEN_717,Arterial blood,Normal,Cell line - derived from normal,Total RNA
+SAMPLE_REGISTRATION_718,SYNTHETIC-2,DONOR_58,SPECIMEN_718,Buccal cell,Tumour,Normal,Total DNA
+SAMPLE_REGISTRATION_719,SYNTHETIC-2,DONOR_59,SPECIMEN_719,Bone marrow fluid,Normal,Cell line - derived from xenograft tumour,rRNA-depleted RNA
+SAMPLE_REGISTRATION_720,SYNTHETIC-2,DONOR_60,SPECIMEN_720,Cervical mucus,Normal,Metastatic tumour - additional metastatic,Total DNA
+SAMPLE_REGISTRATION_721,SYNTHETIC-2,DONOR_61,SPECIMEN_721,Cerebrospinal fluid,Tumour,,Total RNA
+SAMPLE_REGISTRATION_722,SYNTHETIC-2,DONOR_62,SPECIMEN_722,Blood derived - peripheral blood,Tumour,Metastatic tumour,Total RNA
+SAMPLE_REGISTRATION_723,SYNTHETIC-2,DONOR_63,SPECIMEN_723,Cervical mucus,Tumour,Cell line - derived from xenograft tumour,rRNA-depleted RNA
+SAMPLE_REGISTRATION_724,SYNTHETIC-2,DONOR_64,SPECIMEN_724,Cord blood,Tumour,Cell line - derived from normal,polyA+ RNA
+SAMPLE_REGISTRATION_725,SYNTHETIC-2,DONOR_65,SPECIMEN_725,Pancreatic fluid,,Xenograft - derived from primary tumour,
+SAMPLE_REGISTRATION_726,SYNTHETIC-2,DONOR_66,SPECIMEN_726,Urine,,Metastatic tumour - additional metastatic,Other DNA enrichments
+SAMPLE_REGISTRATION_727,SYNTHETIC-2,DONOR_67,SPECIMEN_727,Vitreous fluid,Normal,Normal,Other RNA fractions
+SAMPLE_REGISTRATION_728,SYNTHETIC-2,DONOR_68,SPECIMEN_728,Synovial fluid,Tumour,Xenograft - derived from metastatic tumour,ctDNA
+SAMPLE_REGISTRATION_729,SYNTHETIC-2,DONOR_69,SPECIMEN_729,Hydrocele fluid,Normal,Xenograft - derived from tumour cell line,rRNA-depleted RNA
+SAMPLE_REGISTRATION_730,SYNTHETIC-2,DONOR_70,SPECIMEN_730,Vitreous fluid,Normal,Recurrent tumour,Total DNA
+SAMPLE_REGISTRATION_731,SYNTHETIC-2,DONOR_41,SPECIMEN_731,Pericardial effusion,Tumour,Primary tumour - adjacent to normal,Total RNA
+SAMPLE_REGISTRATION_732,SYNTHETIC-2,DONOR_42,SPECIMEN_732,Buccal cell,Tumour,Primary tumour - additional new primary,Total DNA
+SAMPLE_REGISTRATION_733,SYNTHETIC-2,DONOR_43,SPECIMEN_733,,Tumour,Xenograft - derived from metastatic tumour,Total RNA
+SAMPLE_REGISTRATION_734,SYNTHETIC-2,DONOR_44,SPECIMEN_734,Abdominal fluid,Normal,Xenograft - derived from primary tumour,
+SAMPLE_REGISTRATION_735,SYNTHETIC-2,DONOR_45,SPECIMEN_735,Bile,Tumour,,Protein
+SAMPLE_REGISTRATION_736,SYNTHETIC-2,DONOR_46,SPECIMEN_736,Saliva,Tumour,Cell line - derived from xenograft tumour,ctDNA
+SAMPLE_REGISTRATION_737,SYNTHETIC-2,DONOR_47,SPECIMEN_737,Sputum,Normal,Xenograft - derived from primary tumour,Amplified DNA
+SAMPLE_REGISTRATION_738,SYNTHETIC-2,DONOR_48,SPECIMEN_738,Urine,Normal,Metastatic tumour - additional metastatic,Other RNA fractions
+SAMPLE_REGISTRATION_739,SYNTHETIC-2,DONOR_49,SPECIMEN_739,Pancreatic fluid,Normal,Normal - tissue adjacent to primary tumour,
+SAMPLE_REGISTRATION_740,SYNTHETIC-2,DONOR_50,SPECIMEN_740,Blood derived - peripheral blood,Normal,Cell line - derived from normal,polyA+ RNA
+SAMPLE_REGISTRATION_741,SYNTHETIC-2,DONOR_51,SPECIMEN_741,Buffy coat,Normal,Cell line - derived from normal,Total RNA
+SAMPLE_REGISTRATION_742,SYNTHETIC-2,DONOR_52,SPECIMEN_742,Vitreous fluid,Normal,Primary tumour - additional new primary,Amplified DNA
+SAMPLE_REGISTRATION_743,SYNTHETIC-2,DONOR_53,SPECIMEN_743,Blood derived - bone marrow,Tumour,Cell line - derived from primary tumour,
+SAMPLE_REGISTRATION_744,SYNTHETIC-2,DONOR_54,SPECIMEN_744,Female genital fluid,Tumour,Cell line - derived from xenograft tumour,Protein
+SAMPLE_REGISTRATION_745,SYNTHETIC-2,DONOR_55,SPECIMEN_745,Buffy coat,Tumour,,Other RNA fractions
+SAMPLE_REGISTRATION_746,SYNTHETIC-2,DONOR_56,SPECIMEN_746,Cord blood,Normal,Cell line - derived from metastatic tumour,Total DNA
+SAMPLE_REGISTRATION_747,SYNTHETIC-2,DONOR_57,SPECIMEN_747,Vitreous fluid,Tumour,Xenograft - derived from metastatic tumour,ctDNA
+SAMPLE_REGISTRATION_748,SYNTHETIC-2,DONOR_58,SPECIMEN_748,Bone marrow derived mononuclear cells,,Cell line - derived from xenograft tumour,Amplified DNA
+SAMPLE_REGISTRATION_749,SYNTHETIC-2,DONOR_59,SPECIMEN_749,Convalescent plasma,Normal,Normal - tissue adjacent to primary tumour,Other RNA fractions
+SAMPLE_REGISTRATION_750,SYNTHETIC-2,DONOR_60,SPECIMEN_750,,Normal,Primary tumour - adjacent to normal,ctDNA
+SAMPLE_REGISTRATION_751,SYNTHETIC-2,DONOR_61,SPECIMEN_751,Cervical mucus,Tumour,Cell line - derived from primary tumour,Other DNA enrichments
+SAMPLE_REGISTRATION_752,SYNTHETIC-2,DONOR_62,SPECIMEN_752,Duodenal fluid,Normal,Cell line - derived from normal,polyA+ RNA
+SAMPLE_REGISTRATION_753,SYNTHETIC-2,DONOR_63,SPECIMEN_753,Venous blood,Normal,Metastatic tumour - metastasis to distant location,Total RNA
+SAMPLE_REGISTRATION_754,SYNTHETIC-2,DONOR_64,SPECIMEN_754,Amniotic fluid,Tumour,Normal,Amplified DNA
+SAMPLE_REGISTRATION_755,SYNTHETIC-2,DONOR_65,SPECIMEN_755,Hydrocele fluid,Tumour,Primary tumour,Protein
+SAMPLE_REGISTRATION_756,SYNTHETIC-2,DONOR_66,SPECIMEN_756,Serum,Normal,Normal,rRNA-depleted RNA
+SAMPLE_REGISTRATION_757,SYNTHETIC-2,DONOR_67,SPECIMEN_757,Buccal cell,Tumour,Xenograft - derived from metastatic tumour,Total RNA
+SAMPLE_REGISTRATION_758,SYNTHETIC-2,DONOR_68,SPECIMEN_758,,Normal,Primary tumour,Other DNA enrichments
+SAMPLE_REGISTRATION_759,SYNTHETIC-2,DONOR_69,SPECIMEN_759,Bone marrow fluid,Normal,Cell line - derived from metastatic tumour,rRNA-depleted RNA
+SAMPLE_REGISTRATION_760,SYNTHETIC-2,DONOR_70,SPECIMEN_760,,Normal,Normal,Amplified DNA
+SAMPLE_REGISTRATION_761,SYNTHETIC-2,DONOR_41,SPECIMEN_761,Cervical mucus,Normal,Cell line - derived from xenograft tumour,polyA+ RNA
+SAMPLE_REGISTRATION_762,SYNTHETIC-2,DONOR_42,SPECIMEN_762,,Normal,Cell line - derived from primary tumour,polyA+ RNA
+SAMPLE_REGISTRATION_763,SYNTHETIC-2,DONOR_43,SPECIMEN_763,Fetal blood,Normal,Metastatic tumour - metastasis to distant location,Total DNA
+SAMPLE_REGISTRATION_764,SYNTHETIC-2,DONOR_44,SPECIMEN_764,Saliva,Normal,Cell line - derived from metastatic tumour,Total DNA
+SAMPLE_REGISTRATION_765,SYNTHETIC-2,DONOR_45,SPECIMEN_765,,Tumour,Primary tumour - adjacent to normal,Other DNA enrichments
+SAMPLE_REGISTRATION_766,SYNTHETIC-2,DONOR_46,SPECIMEN_766,Arterial blood,Normal,Cell line - derived from metastatic tumour,
+SAMPLE_REGISTRATION_767,SYNTHETIC-2,DONOR_47,SPECIMEN_767,Abdominal fluid,Tumour,Primary tumour - adjacent to normal,polyA+ RNA
+SAMPLE_REGISTRATION_768,SYNTHETIC-2,DONOR_48,SPECIMEN_768,Venous blood,,Primary tumour - adjacent to normal,ctDNA
+SAMPLE_REGISTRATION_769,SYNTHETIC-2,DONOR_49,SPECIMEN_769,Cervical mucus,Tumour,Cell line - derived from metastatic tumour,
+SAMPLE_REGISTRATION_770,SYNTHETIC-2,DONOR_50,SPECIMEN_770,,,Cell line - derived from xenograft tumour,
+SAMPLE_REGISTRATION_771,SYNTHETIC-2,DONOR_51,SPECIMEN_771,Blood derived - peripheral blood,Normal,Recurrent tumour,polyA+ RNA
+SAMPLE_REGISTRATION_772,SYNTHETIC-2,DONOR_52,SPECIMEN_772,Duodenal fluid,,Xenograft - derived from metastatic tumour,Protein
+SAMPLE_REGISTRATION_773,SYNTHETIC-2,DONOR_53,SPECIMEN_773,,Normal,Normal - tissue adjacent to primary tumour,Total RNA
+SAMPLE_REGISTRATION_774,SYNTHETIC-2,DONOR_54,SPECIMEN_774,Bile,Normal,Cell line - derived from xenograft tumour,
+SAMPLE_REGISTRATION_775,SYNTHETIC-2,DONOR_55,SPECIMEN_775,Amniotic fluid,,Normal,Amplified DNA
+SAMPLE_REGISTRATION_776,SYNTHETIC-2,DONOR_56,SPECIMEN_776,Hydrocele fluid,Tumour,Metastatic tumour - additional metastatic,Other RNA fractions
+SAMPLE_REGISTRATION_777,SYNTHETIC-2,DONOR_57,SPECIMEN_777,Blood derived - peripheral blood,Normal,Cell line - derived from normal,Other RNA fractions
+SAMPLE_REGISTRATION_778,SYNTHETIC-2,DONOR_58,SPECIMEN_778,Renal cyst fluid,Tumour,Cell line - derived from primary tumour,Protein
+SAMPLE_REGISTRATION_779,SYNTHETIC-2,DONOR_59,SPECIMEN_779,Pancreatic fluid,Normal,Cell line - derived from primary tumour,Total RNA
+SAMPLE_REGISTRATION_780,SYNTHETIC-2,DONOR_60,SPECIMEN_780,Cerebrospinal fluid,Normal,Primary tumour,
+SAMPLE_REGISTRATION_781,SYNTHETIC-2,DONOR_61,SPECIMEN_781,Blood derived - peripheral blood,Normal,Cell line - derived from metastatic tumour,
+SAMPLE_REGISTRATION_782,SYNTHETIC-2,DONOR_62,SPECIMEN_782,Blood derived - peripheral blood,Tumour,Xenograft - derived from primary tumour,Total RNA
+SAMPLE_REGISTRATION_783,SYNTHETIC-2,DONOR_63,SPECIMEN_783,,Normal,Xenograft - derived from tumour cell line,
+SAMPLE_REGISTRATION_784,SYNTHETIC-2,DONOR_64,SPECIMEN_784,,Tumour,Cell line - derived from primary tumour,Amplified DNA
+SAMPLE_REGISTRATION_785,SYNTHETIC-2,DONOR_65,SPECIMEN_785,Sputum,Normal,,
+SAMPLE_REGISTRATION_786,SYNTHETIC-2,DONOR_66,SPECIMEN_786,Cervical mucus,Normal,,rRNA-depleted RNA
+SAMPLE_REGISTRATION_787,SYNTHETIC-2,DONOR_67,SPECIMEN_787,Buffy coat,Tumour,Xenograft - derived from metastatic tumour,rRNA-depleted RNA
+SAMPLE_REGISTRATION_788,SYNTHETIC-2,DONOR_68,SPECIMEN_788,Urine,Tumour,Normal - tissue adjacent to primary tumour,Protein
+SAMPLE_REGISTRATION_789,SYNTHETIC-2,DONOR_69,SPECIMEN_789,Seminal fluid,Normal,Metastatic tumour - metastasis to distant location,Other DNA enrichments
+SAMPLE_REGISTRATION_790,SYNTHETIC-2,DONOR_70,SPECIMEN_790,,,Metastatic tumour,ctDNA
+SAMPLE_REGISTRATION_791,SYNTHETIC-2,DONOR_41,SPECIMEN_791,Buffy coat,Normal,Metastatic tumour - metastasis local to lymph node,
+SAMPLE_REGISTRATION_792,SYNTHETIC-2,DONOR_42,SPECIMEN_792,,Normal,Metastatic tumour - additional metastatic,
+SAMPLE_REGISTRATION_793,SYNTHETIC-2,DONOR_43,SPECIMEN_793,Duodenal fluid,Normal,Cell line - derived from primary tumour,Protein
+SAMPLE_REGISTRATION_794,SYNTHETIC-2,DONOR_44,SPECIMEN_794,Pleural fluid,Normal,,Other DNA enrichments
+SAMPLE_REGISTRATION_795,SYNTHETIC-2,DONOR_45,SPECIMEN_795,Pericardial effusion,Tumour,Xenograft - derived from tumour cell line,Amplified DNA
+SAMPLE_REGISTRATION_796,SYNTHETIC-2,DONOR_46,SPECIMEN_796,Synovial fluid,Tumour,Cell line - derived from xenograft tumour,polyA+ RNA
+SAMPLE_REGISTRATION_797,SYNTHETIC-2,DONOR_47,SPECIMEN_797,Solid tissue,Normal,Xenograft - derived from metastatic tumour,
+SAMPLE_REGISTRATION_798,SYNTHETIC-2,DONOR_48,SPECIMEN_798,Duodenal fluid,Normal,Primary tumour - adjacent to normal,ctDNA
+SAMPLE_REGISTRATION_799,SYNTHETIC-2,DONOR_49,SPECIMEN_799,Hydrocele fluid,Tumour,Normal - tissue adjacent to primary tumour,Amplified DNA
+SAMPLE_REGISTRATION_800,SYNTHETIC-2,DONOR_50,SPECIMEN_800,Renal cyst fluid,,Metastatic tumour - metastasis to distant location,Amplified DNA
+SAMPLE_REGISTRATION_801,SYNTHETIC-2,DONOR_51,SPECIMEN_801,Cerebrospinal fluid,Normal,,ctDNA
+SAMPLE_REGISTRATION_802,SYNTHETIC-2,DONOR_52,SPECIMEN_802,Synovial fluid,Normal,Metastatic tumour,
+SAMPLE_REGISTRATION_803,SYNTHETIC-2,DONOR_53,SPECIMEN_803,Pericardial effusion,Tumour,Normal - tissue adjacent to primary tumour,Total DNA
+SAMPLE_REGISTRATION_804,SYNTHETIC-2,DONOR_54,SPECIMEN_804,,Normal,Metastatic tumour - metastasis local to lymph node,Other RNA fractions
+SAMPLE_REGISTRATION_805,SYNTHETIC-2,DONOR_55,SPECIMEN_805,Buffy coat,,Cell line - derived from primary tumour,Other DNA enrichments
+SAMPLE_REGISTRATION_806,SYNTHETIC-2,DONOR_56,SPECIMEN_806,Seminal fluid,,Primary tumour - additional new primary,Other RNA fractions
+SAMPLE_REGISTRATION_807,SYNTHETIC-2,DONOR_57,SPECIMEN_807,Amniotic fluid,Tumour,Xenograft - derived from metastatic tumour,Amplified DNA
+SAMPLE_REGISTRATION_808,SYNTHETIC-2,DONOR_58,SPECIMEN_808,Convalescent plasma,,Metastatic tumour - metastasis to distant location,Other RNA fractions
+SAMPLE_REGISTRATION_809,SYNTHETIC-2,DONOR_59,SPECIMEN_809,Urine,Normal,Xenograft - derived from metastatic tumour,Other RNA fractions
+SAMPLE_REGISTRATION_810,SYNTHETIC-2,DONOR_60,SPECIMEN_810,Bile,Normal,Metastatic tumour,Amplified DNA
+SAMPLE_REGISTRATION_811,SYNTHETIC-2,DONOR_61,SPECIMEN_811,Saliva,,Xenograft - derived from tumour cell line,Protein
+SAMPLE_REGISTRATION_812,SYNTHETIC-2,DONOR_62,SPECIMEN_812,Cord blood,Tumour,Xenograft - derived from primary tumour,Other DNA enrichments
+SAMPLE_REGISTRATION_813,SYNTHETIC-2,DONOR_63,SPECIMEN_813,Vitreous fluid,Tumour,Cell line - derived from primary tumour,rRNA-depleted RNA
+SAMPLE_REGISTRATION_814,SYNTHETIC-2,DONOR_64,SPECIMEN_814,Bone marrow fluid,Tumour,Normal,Total DNA
+SAMPLE_REGISTRATION_815,SYNTHETIC-2,DONOR_65,SPECIMEN_815,Buccal cell,Normal,Recurrent tumour,Other RNA fractions
+SAMPLE_REGISTRATION_816,SYNTHETIC-2,DONOR_66,SPECIMEN_816,,Normal,,polyA+ RNA
+SAMPLE_REGISTRATION_817,SYNTHETIC-2,DONOR_67,SPECIMEN_817,Convalescent plasma,,Metastatic tumour,Total DNA
+SAMPLE_REGISTRATION_818,SYNTHETIC-2,DONOR_68,SPECIMEN_818,Cerebrospinal fluid,Tumour,Metastatic tumour - additional metastatic,ctDNA
+SAMPLE_REGISTRATION_819,SYNTHETIC-2,DONOR_69,SPECIMEN_819,Duodenal fluid,Normal,Metastatic tumour - additional metastatic,Other RNA fractions
+SAMPLE_REGISTRATION_820,SYNTHETIC-2,DONOR_70,SPECIMEN_820,Vitreous fluid,Tumour,Cell line - derived from metastatic tumour,rRNA-depleted RNA
+SAMPLE_REGISTRATION_821,SYNTHETIC-2,DONOR_41,SPECIMEN_821,Convalescent plasma,,Cell line - derived from metastatic tumour,Other DNA enrichments
+SAMPLE_REGISTRATION_822,SYNTHETIC-2,DONOR_42,SPECIMEN_822,Arterial blood,Normal,Primary tumour - additional new primary,Other DNA enrichments
+SAMPLE_REGISTRATION_823,SYNTHETIC-2,DONOR_43,SPECIMEN_823,Bone marrow fluid,Tumour,Cell line - derived from normal,Other DNA enrichments
+SAMPLE_REGISTRATION_824,SYNTHETIC-2,DONOR_44,SPECIMEN_824,Abdominal fluid,Tumour,Cell line - derived from metastatic tumour,Amplified DNA
+SAMPLE_REGISTRATION_825,SYNTHETIC-2,DONOR_45,SPECIMEN_825,,,Xenograft - derived from primary tumour,
+SAMPLE_REGISTRATION_826,SYNTHETIC-2,DONOR_46,SPECIMEN_826,Cerebrospinal fluid,Tumour,Metastatic tumour - metastasis to distant location,Protein
+SAMPLE_REGISTRATION_827,SYNTHETIC-2,DONOR_47,SPECIMEN_827,Bile,Tumour,Cell line - derived from xenograft tumour,
+SAMPLE_REGISTRATION_828,SYNTHETIC-2,DONOR_48,SPECIMEN_828,,Tumour,,
+SAMPLE_REGISTRATION_829,SYNTHETIC-2,DONOR_49,SPECIMEN_829,Serum,Tumour,,Total RNA
+SAMPLE_REGISTRATION_830,SYNTHETIC-2,DONOR_50,SPECIMEN_830,Buccal cell,Tumour,Xenograft - derived from metastatic tumour,Other RNA fractions
+SAMPLE_REGISTRATION_831,SYNTHETIC-2,DONOR_51,SPECIMEN_831,Pleural fluid,Normal,,Other RNA fractions
+SAMPLE_REGISTRATION_832,SYNTHETIC-2,DONOR_52,SPECIMEN_832,Convalescent plasma,,Normal - tissue adjacent to primary tumour,Amplified DNA
+SAMPLE_REGISTRATION_833,SYNTHETIC-2,DONOR_53,SPECIMEN_833,Serum,Normal,,Total DNA
+SAMPLE_REGISTRATION_834,SYNTHETIC-2,DONOR_54,SPECIMEN_834,Bile,Tumour,,Total DNA
+SAMPLE_REGISTRATION_835,SYNTHETIC-2,DONOR_55,SPECIMEN_835,,Tumour,,ctDNA
+SAMPLE_REGISTRATION_836,SYNTHETIC-2,DONOR_56,SPECIMEN_836,Serum,Tumour,Metastatic tumour - metastasis local to lymph node,Total DNA
+SAMPLE_REGISTRATION_837,SYNTHETIC-2,DONOR_57,SPECIMEN_837,Male genital fluid,Normal,Cell line - derived from normal,Other DNA enrichments
+SAMPLE_REGISTRATION_838,SYNTHETIC-2,DONOR_58,SPECIMEN_838,,Tumour,Primary tumour - adjacent to normal,rRNA-depleted RNA
+SAMPLE_REGISTRATION_839,SYNTHETIC-2,DONOR_59,SPECIMEN_839,Male genital fluid,Tumour,Metastatic tumour - additional metastatic,rRNA-depleted RNA
+SAMPLE_REGISTRATION_840,SYNTHETIC-2,DONOR_60,SPECIMEN_840,Bile,Tumour,Primary tumour,Total DNA
+SAMPLE_REGISTRATION_841,SYNTHETIC-2,DONOR_61,SPECIMEN_841,Sputum,Normal,Cell line - derived from xenograft tumour,rRNA-depleted RNA
+SAMPLE_REGISTRATION_842,SYNTHETIC-2,DONOR_62,SPECIMEN_842,,Normal,Cell line - derived from metastatic tumour,Protein
+SAMPLE_REGISTRATION_843,SYNTHETIC-2,DONOR_63,SPECIMEN_843,Synovial fluid,Tumour,Xenograft - derived from metastatic tumour,Total RNA
+SAMPLE_REGISTRATION_844,SYNTHETIC-2,DONOR_64,SPECIMEN_844,Serum,Normal,Normal,Other RNA fractions
+SAMPLE_REGISTRATION_845,SYNTHETIC-2,DONOR_65,SPECIMEN_845,Urine,Normal,Normal - tissue adjacent to primary tumour,rRNA-depleted RNA
+SAMPLE_REGISTRATION_846,SYNTHETIC-2,DONOR_66,SPECIMEN_846,Cerebrospinal fluid,Tumour,Xenograft - derived from metastatic tumour,rRNA-depleted RNA
+SAMPLE_REGISTRATION_847,SYNTHETIC-2,DONOR_67,SPECIMEN_847,Female genital fluid,Tumour,Recurrent tumour,Amplified DNA
+SAMPLE_REGISTRATION_848,SYNTHETIC-2,DONOR_68,SPECIMEN_848,Arterial blood,Tumour,Metastatic tumour - additional metastatic,rRNA-depleted RNA
+SAMPLE_REGISTRATION_849,SYNTHETIC-2,DONOR_69,SPECIMEN_849,Cord blood,Normal,Normal - tissue adjacent to primary tumour,polyA+ RNA
+SAMPLE_REGISTRATION_850,SYNTHETIC-2,DONOR_70,SPECIMEN_850,Buccal cell,,Metastatic tumour - metastasis to distant location,ctDNA
+SAMPLE_REGISTRATION_851,SYNTHETIC-2,DONOR_41,SPECIMEN_851,Bone marrow derived mononuclear cells,Normal,Normal,Total RNA
+SAMPLE_REGISTRATION_852,SYNTHETIC-2,DONOR_42,SPECIMEN_852,Cerebrospinal fluid,Normal,Normal,Total RNA
+SAMPLE_REGISTRATION_853,SYNTHETIC-2,DONOR_43,SPECIMEN_853,Convalescent plasma,,Xenograft - derived from tumour cell line,Other DNA enrichments
+SAMPLE_REGISTRATION_854,SYNTHETIC-2,DONOR_44,SPECIMEN_854,Sputum,Tumour,Normal - tissue adjacent to primary tumour,ctDNA
+SAMPLE_REGISTRATION_855,SYNTHETIC-2,DONOR_45,SPECIMEN_855,Blood derived - bone marrow,,Primary tumour,Other DNA enrichments
+SAMPLE_REGISTRATION_856,SYNTHETIC-2,DONOR_46,SPECIMEN_856,Solid tissue,Tumour,Primary tumour,polyA+ RNA
+SAMPLE_REGISTRATION_857,SYNTHETIC-2,DONOR_47,SPECIMEN_857,Cerebrospinal fluid,Tumour,Metastatic tumour - metastasis local to lymph node,rRNA-depleted RNA
+SAMPLE_REGISTRATION_858,SYNTHETIC-2,DONOR_48,SPECIMEN_858,Serum,Tumour,Cell line - derived from primary tumour,Amplified DNA
+SAMPLE_REGISTRATION_859,SYNTHETIC-2,DONOR_49,SPECIMEN_859,Female genital fluid,Tumour,Normal,Protein
+SAMPLE_REGISTRATION_860,SYNTHETIC-2,DONOR_50,SPECIMEN_860,Male genital fluid,,Cell line - derived from xenograft tumour,polyA+ RNA
+SAMPLE_REGISTRATION_861,SYNTHETIC-2,DONOR_51,SPECIMEN_861,Blood derived - peripheral blood,Tumour,Metastatic tumour,Protein
+SAMPLE_REGISTRATION_862,SYNTHETIC-2,DONOR_52,SPECIMEN_862,Saliva,Tumour,Metastatic tumour - additional metastatic,Total DNA
+SAMPLE_REGISTRATION_863,SYNTHETIC-2,DONOR_53,SPECIMEN_863,Bone marrow derived mononuclear cells,Normal,Cell line - derived from metastatic tumour,rRNA-depleted RNA
+SAMPLE_REGISTRATION_864,SYNTHETIC-2,DONOR_54,SPECIMEN_864,Amniotic fluid,Normal,Primary tumour - adjacent to normal,Amplified DNA
+SAMPLE_REGISTRATION_865,SYNTHETIC-2,DONOR_55,SPECIMEN_865,Renal cyst fluid,Normal,Normal - tissue adjacent to primary tumour,Amplified DNA
+SAMPLE_REGISTRATION_866,SYNTHETIC-2,DONOR_56,SPECIMEN_866,Solid tissue,Tumour,,Protein
+SAMPLE_REGISTRATION_867,SYNTHETIC-2,DONOR_57,SPECIMEN_867,Pericardial effusion,Tumour,,Other RNA fractions
+SAMPLE_REGISTRATION_868,SYNTHETIC-2,DONOR_58,SPECIMEN_868,Convalescent plasma,Normal,,ctDNA
+SAMPLE_REGISTRATION_869,SYNTHETIC-2,DONOR_59,SPECIMEN_869,Serum,Tumour,Primary tumour - additional new primary,Other DNA enrichments
+SAMPLE_REGISTRATION_870,SYNTHETIC-2,DONOR_60,SPECIMEN_870,Bone marrow fluid,Tumour,Metastatic tumour - additional metastatic,
+SAMPLE_REGISTRATION_871,SYNTHETIC-2,DONOR_61,SPECIMEN_871,,Tumour,,
+SAMPLE_REGISTRATION_872,SYNTHETIC-2,DONOR_62,SPECIMEN_872,Abdominal fluid,Tumour,Metastatic tumour - metastasis local to lymph node,Protein
+SAMPLE_REGISTRATION_873,SYNTHETIC-2,DONOR_63,SPECIMEN_873,Cervical mucus,Normal,Cell line - derived from xenograft tumour,polyA+ RNA
+SAMPLE_REGISTRATION_874,SYNTHETIC-2,DONOR_64,SPECIMEN_874,Male genital fluid,Tumour,,Amplified DNA
+SAMPLE_REGISTRATION_875,SYNTHETIC-2,DONOR_65,SPECIMEN_875,Urine,Normal,Cell line - derived from primary tumour,polyA+ RNA
+SAMPLE_REGISTRATION_876,SYNTHETIC-2,DONOR_66,SPECIMEN_876,Pancreatic fluid,Normal,Metastatic tumour,
+SAMPLE_REGISTRATION_877,SYNTHETIC-2,DONOR_67,SPECIMEN_877,Duodenal fluid,Tumour,Metastatic tumour,Amplified DNA
+SAMPLE_REGISTRATION_878,SYNTHETIC-2,DONOR_68,SPECIMEN_878,Female genital fluid,Tumour,,ctDNA
+SAMPLE_REGISTRATION_879,SYNTHETIC-2,DONOR_69,SPECIMEN_879,Bone marrow derived mononuclear cells,Tumour,Metastatic tumour - additional metastatic,rRNA-depleted RNA
+SAMPLE_REGISTRATION_880,SYNTHETIC-2,DONOR_70,SPECIMEN_880,,Normal,Xenograft - derived from primary tumour,polyA+ RNA
+SAMPLE_REGISTRATION_881,SYNTHETIC-2,DONOR_41,SPECIMEN_881,Sputum,,Normal - tissue adjacent to primary tumour,polyA+ RNA
+SAMPLE_REGISTRATION_882,SYNTHETIC-2,DONOR_42,SPECIMEN_882,Female genital fluid,Tumour,Normal - tissue adjacent to primary tumour,Total RNA
+SAMPLE_REGISTRATION_883,SYNTHETIC-2,DONOR_43,SPECIMEN_883,Cord blood,,Metastatic tumour - metastasis local to lymph node,ctDNA
+SAMPLE_REGISTRATION_884,SYNTHETIC-2,DONOR_44,SPECIMEN_884,Saliva,Tumour,Primary tumour - additional new primary,Total DNA
+SAMPLE_REGISTRATION_885,SYNTHETIC-2,DONOR_45,SPECIMEN_885,Female genital fluid,,Cell line - derived from xenograft tumour,Total RNA
+SAMPLE_REGISTRATION_886,SYNTHETIC-2,DONOR_46,SPECIMEN_886,Hydrocele fluid,Tumour,Metastatic tumour - metastasis local to lymph node,
+SAMPLE_REGISTRATION_887,SYNTHETIC-2,DONOR_47,SPECIMEN_887,Buccal cell,Normal,Cell line - derived from normal,Total DNA
+SAMPLE_REGISTRATION_888,SYNTHETIC-2,DONOR_48,SPECIMEN_888,Amniotic fluid,Normal,Metastatic tumour,Total RNA
+SAMPLE_REGISTRATION_889,SYNTHETIC-2,DONOR_49,SPECIMEN_889,Arterial blood,Normal,Normal,
+SAMPLE_REGISTRATION_890,SYNTHETIC-2,DONOR_50,SPECIMEN_890,Cerebrospinal fluid,Normal,Cell line - derived from metastatic tumour,
+SAMPLE_REGISTRATION_891,SYNTHETIC-2,DONOR_51,SPECIMEN_891,Male genital fluid,Tumour,,Amplified DNA
+SAMPLE_REGISTRATION_892,SYNTHETIC-2,DONOR_52,SPECIMEN_892,Male genital fluid,Normal,Metastatic tumour - additional metastatic,Total DNA
+SAMPLE_REGISTRATION_893,SYNTHETIC-2,DONOR_53,SPECIMEN_893,Sputum,Tumour,Normal,Amplified DNA
+SAMPLE_REGISTRATION_894,SYNTHETIC-2,DONOR_54,SPECIMEN_894,Urine,Normal,,Other DNA enrichments
+SAMPLE_REGISTRATION_895,SYNTHETIC-2,DONOR_55,SPECIMEN_895,,Normal,Metastatic tumour - additional metastatic,
+SAMPLE_REGISTRATION_896,SYNTHETIC-2,DONOR_56,SPECIMEN_896,Solid tissue,Normal,Cell line - derived from normal,rRNA-depleted RNA
+SAMPLE_REGISTRATION_897,SYNTHETIC-2,DONOR_57,SPECIMEN_897,Pancreatic fluid,Normal,,Other RNA fractions
+SAMPLE_REGISTRATION_898,SYNTHETIC-2,DONOR_58,SPECIMEN_898,Serum,Tumour,Normal - tissue adjacent to primary tumour,ctDNA
+SAMPLE_REGISTRATION_899,SYNTHETIC-2,DONOR_59,SPECIMEN_899,Blood derived - peripheral blood,,Xenograft - derived from metastatic tumour,rRNA-depleted RNA
+SAMPLE_REGISTRATION_900,SYNTHETIC-2,DONOR_60,SPECIMEN_900,,Normal,Metastatic tumour - metastasis local to lymph node,
+SAMPLE_REGISTRATION_901,SYNTHETIC-2,DONOR_61,SPECIMEN_901,Urine,Tumour,Recurrent tumour,Other DNA enrichments
+SAMPLE_REGISTRATION_902,SYNTHETIC-2,DONOR_62,SPECIMEN_902,Bone marrow derived mononuclear cells,Normal,Normal,Protein
+SAMPLE_REGISTRATION_903,SYNTHETIC-2,DONOR_63,SPECIMEN_903,Abdominal fluid,Tumour,,
+SAMPLE_REGISTRATION_904,SYNTHETIC-2,DONOR_64,SPECIMEN_904,Abdominal fluid,Normal,Xenograft - derived from metastatic tumour,ctDNA
+SAMPLE_REGISTRATION_905,SYNTHETIC-2,DONOR_65,SPECIMEN_905,Solid tissue,Normal,Xenograft - derived from metastatic tumour,ctDNA
+SAMPLE_REGISTRATION_906,SYNTHETIC-2,DONOR_66,SPECIMEN_906,Bone marrow derived mononuclear cells,Tumour,Xenograft - derived from primary tumour,polyA+ RNA
+SAMPLE_REGISTRATION_907,SYNTHETIC-2,DONOR_67,SPECIMEN_907,Fetal blood,Normal,Xenograft - derived from metastatic tumour,Other RNA fractions
+SAMPLE_REGISTRATION_908,SYNTHETIC-2,DONOR_68,SPECIMEN_908,Abdominal fluid,Tumour,Primary tumour - additional new primary,polyA+ RNA
+SAMPLE_REGISTRATION_909,SYNTHETIC-2,DONOR_69,SPECIMEN_909,,Tumour,Cell line - derived from metastatic tumour,ctDNA
+SAMPLE_REGISTRATION_910,SYNTHETIC-2,DONOR_70,SPECIMEN_910,Venous blood,Normal,Metastatic tumour - metastasis local to lymph node,rRNA-depleted RNA
+SAMPLE_REGISTRATION_911,SYNTHETIC-3,DONOR_71,SPECIMEN_911,Pancreatic fluid,Normal,Primary tumour - adjacent to normal,
+SAMPLE_REGISTRATION_912,SYNTHETIC-3,DONOR_72,SPECIMEN_912,Abdominal fluid,,Cell line - derived from normal,Other DNA enrichments
+SAMPLE_REGISTRATION_913,SYNTHETIC-3,DONOR_73,SPECIMEN_913,Amniotic fluid,Tumour,Cell line - derived from primary tumour,Total RNA
+SAMPLE_REGISTRATION_914,SYNTHETIC-3,DONOR_74,SPECIMEN_914,Pericardial effusion,Normal,Primary tumour,
+SAMPLE_REGISTRATION_915,SYNTHETIC-3,DONOR_75,SPECIMEN_915,Seminal fluid,Tumour,Cell line - derived from xenograft tumour,
+SAMPLE_REGISTRATION_916,SYNTHETIC-3,DONOR_76,SPECIMEN_916,Hydrocele fluid,Normal,Cell line - derived from metastatic tumour,Protein
+SAMPLE_REGISTRATION_917,SYNTHETIC-3,DONOR_77,SPECIMEN_917,Buccal cell,,,Protein
+SAMPLE_REGISTRATION_918,SYNTHETIC-3,DONOR_78,SPECIMEN_918,,Tumour,,Total DNA
+SAMPLE_REGISTRATION_919,SYNTHETIC-3,DONOR_79,SPECIMEN_919,,Tumour,,Other DNA enrichments
+SAMPLE_REGISTRATION_920,SYNTHETIC-3,DONOR_80,SPECIMEN_920,Hydrocele fluid,Normal,Cell line - derived from primary tumour,Other RNA fractions
+SAMPLE_REGISTRATION_921,SYNTHETIC-3,DONOR_81,SPECIMEN_921,Cerebrospinal fluid,Tumour,Cell line - derived from normal,Total DNA
+SAMPLE_REGISTRATION_922,SYNTHETIC-3,DONOR_82,SPECIMEN_922,Solid tissue,Tumour,Primary tumour,rRNA-depleted RNA
+SAMPLE_REGISTRATION_923,SYNTHETIC-3,DONOR_83,SPECIMEN_923,Pericardial effusion,Normal,Metastatic tumour - metastasis to distant location,Protein
+SAMPLE_REGISTRATION_924,SYNTHETIC-3,DONOR_84,SPECIMEN_924,Pleural fluid,Normal,Xenograft - derived from primary tumour,Amplified DNA
+SAMPLE_REGISTRATION_925,SYNTHETIC-3,DONOR_85,SPECIMEN_925,Cervical mucus,Normal,Xenograft - derived from primary tumour,Total RNA
+SAMPLE_REGISTRATION_926,SYNTHETIC-3,DONOR_86,SPECIMEN_926,Urine,,Cell line - derived from metastatic tumour,Protein
+SAMPLE_REGISTRATION_927,SYNTHETIC-3,DONOR_87,SPECIMEN_927,,,Primary tumour,Other DNA enrichments
+SAMPLE_REGISTRATION_928,SYNTHETIC-3,DONOR_88,SPECIMEN_928,,Tumour,Metastatic tumour - additional metastatic,
+SAMPLE_REGISTRATION_929,SYNTHETIC-3,DONOR_89,SPECIMEN_929,Buccal cell,Normal,,polyA+ RNA
+SAMPLE_REGISTRATION_930,SYNTHETIC-3,DONOR_90,SPECIMEN_930,Pancreatic fluid,Normal,Metastatic tumour - metastasis local to lymph node,Amplified DNA
+SAMPLE_REGISTRATION_931,SYNTHETIC-3,DONOR_71,SPECIMEN_931,,Tumour,Recurrent tumour,Amplified DNA
+SAMPLE_REGISTRATION_932,SYNTHETIC-3,DONOR_72,SPECIMEN_932,Seminal fluid,Tumour,Normal,Protein
+SAMPLE_REGISTRATION_933,SYNTHETIC-3,DONOR_73,SPECIMEN_933,Renal cyst fluid,Tumour,Primary tumour - adjacent to normal,Total DNA
+SAMPLE_REGISTRATION_934,SYNTHETIC-3,DONOR_74,SPECIMEN_934,Solid tissue,Normal,Metastatic tumour - metastasis local to lymph node,Total DNA
+SAMPLE_REGISTRATION_935,SYNTHETIC-3,DONOR_75,SPECIMEN_935,Cervical mucus,Tumour,Primary tumour,
+SAMPLE_REGISTRATION_936,SYNTHETIC-3,DONOR_76,SPECIMEN_936,Synovial fluid,Tumour,Metastatic tumour - metastasis local to lymph node,
+SAMPLE_REGISTRATION_937,SYNTHETIC-3,DONOR_77,SPECIMEN_937,,Normal,,Amplified DNA
+SAMPLE_REGISTRATION_938,SYNTHETIC-3,DONOR_78,SPECIMEN_938,Solid tissue,Tumour,Xenograft - derived from primary tumour,Total RNA
+SAMPLE_REGISTRATION_939,SYNTHETIC-3,DONOR_79,SPECIMEN_939,Blood derived - bone marrow,,Xenograft - derived from tumour cell line,ctDNA
+SAMPLE_REGISTRATION_940,SYNTHETIC-3,DONOR_80,SPECIMEN_940,Female genital fluid,Normal,Cell line - derived from normal,
+SAMPLE_REGISTRATION_941,SYNTHETIC-3,DONOR_81,SPECIMEN_941,Vitreous fluid,Normal,Metastatic tumour,ctDNA
+SAMPLE_REGISTRATION_942,SYNTHETIC-3,DONOR_82,SPECIMEN_942,Abdominal fluid,Tumour,Metastatic tumour - additional metastatic,rRNA-depleted RNA
+SAMPLE_REGISTRATION_943,SYNTHETIC-3,DONOR_83,SPECIMEN_943,Bile,Normal,,Total RNA
+SAMPLE_REGISTRATION_944,SYNTHETIC-3,DONOR_84,SPECIMEN_944,Blood derived - peripheral blood,Tumour,Recurrent tumour,rRNA-depleted RNA
+SAMPLE_REGISTRATION_945,SYNTHETIC-3,DONOR_85,SPECIMEN_945,Solid tissue,Normal,Recurrent tumour,Other RNA fractions
+SAMPLE_REGISTRATION_946,SYNTHETIC-3,DONOR_86,SPECIMEN_946,Female genital fluid,,Metastatic tumour,
+SAMPLE_REGISTRATION_947,SYNTHETIC-3,DONOR_87,SPECIMEN_947,Venous blood,Normal,Xenograft - derived from primary tumour,
+SAMPLE_REGISTRATION_948,SYNTHETIC-3,DONOR_88,SPECIMEN_948,Synovial fluid,Normal,Xenograft - derived from metastatic tumour,Other DNA enrichments
+SAMPLE_REGISTRATION_949,SYNTHETIC-3,DONOR_89,SPECIMEN_949,Renal cyst fluid,Tumour,Metastatic tumour - metastasis to distant location,ctDNA
+SAMPLE_REGISTRATION_950,SYNTHETIC-3,DONOR_90,SPECIMEN_950,Duodenal fluid,,Metastatic tumour - metastasis local to lymph node,rRNA-depleted RNA
+SAMPLE_REGISTRATION_951,SYNTHETIC-3,DONOR_71,SPECIMEN_951,Saliva,Tumour,Cell line - derived from primary tumour,rRNA-depleted RNA
+SAMPLE_REGISTRATION_952,SYNTHETIC-3,DONOR_72,SPECIMEN_952,,Normal,Cell line - derived from primary tumour,
+SAMPLE_REGISTRATION_953,SYNTHETIC-3,DONOR_73,SPECIMEN_953,Convalescent plasma,Tumour,Metastatic tumour - metastasis to distant location,Other DNA enrichments
+SAMPLE_REGISTRATION_954,SYNTHETIC-3,DONOR_74,SPECIMEN_954,,Normal,Metastatic tumour - metastasis local to lymph node,Protein
+SAMPLE_REGISTRATION_955,SYNTHETIC-3,DONOR_75,SPECIMEN_955,Sputum,Tumour,Xenograft - derived from primary tumour,Total RNA
+SAMPLE_REGISTRATION_956,SYNTHETIC-3,DONOR_76,SPECIMEN_956,Pericardial effusion,,Metastatic tumour - metastasis local to lymph node,
+SAMPLE_REGISTRATION_957,SYNTHETIC-3,DONOR_77,SPECIMEN_957,Convalescent plasma,Tumour,Cell line - derived from normal,ctDNA
+SAMPLE_REGISTRATION_958,SYNTHETIC-3,DONOR_78,SPECIMEN_958,Female genital fluid,Tumour,Primary tumour - adjacent to normal,rRNA-depleted RNA
+SAMPLE_REGISTRATION_959,SYNTHETIC-3,DONOR_79,SPECIMEN_959,Renal cyst fluid,,Cell line - derived from primary tumour,Amplified DNA
+SAMPLE_REGISTRATION_960,SYNTHETIC-3,DONOR_80,SPECIMEN_960,Bone marrow fluid,Tumour,Primary tumour - additional new primary,Other DNA enrichments
+SAMPLE_REGISTRATION_961,SYNTHETIC-3,DONOR_81,SPECIMEN_961,Abdominal fluid,Normal,Normal - tissue adjacent to primary tumour,rRNA-depleted RNA
+SAMPLE_REGISTRATION_962,SYNTHETIC-3,DONOR_82,SPECIMEN_962,Buffy coat,Tumour,Xenograft - derived from tumour cell line,Protein
+SAMPLE_REGISTRATION_963,SYNTHETIC-3,DONOR_83,SPECIMEN_963,Pericardial effusion,Normal,Xenograft - derived from tumour cell line,Protein
+SAMPLE_REGISTRATION_964,SYNTHETIC-3,DONOR_84,SPECIMEN_964,Cervical mucus,Normal,Primary tumour - adjacent to normal,Other RNA fractions
+SAMPLE_REGISTRATION_965,SYNTHETIC-3,DONOR_85,SPECIMEN_965,Hydrocele fluid,Normal,Xenograft - derived from metastatic tumour,Total DNA
+SAMPLE_REGISTRATION_966,SYNTHETIC-3,DONOR_86,SPECIMEN_966,Bile,Tumour,Cell line - derived from metastatic tumour,polyA+ RNA
+SAMPLE_REGISTRATION_967,SYNTHETIC-3,DONOR_87,SPECIMEN_967,Buffy coat,Normal,,polyA+ RNA
+SAMPLE_REGISTRATION_968,SYNTHETIC-3,DONOR_88,SPECIMEN_968,Venous blood,Normal,Cell line - derived from primary tumour,Protein
+SAMPLE_REGISTRATION_969,SYNTHETIC-3,DONOR_89,SPECIMEN_969,Convalescent plasma,Tumour,,Amplified DNA
+SAMPLE_REGISTRATION_970,SYNTHETIC-3,DONOR_90,SPECIMEN_970,Hydrocele fluid,Tumour,Xenograft - derived from primary tumour,ctDNA
+SAMPLE_REGISTRATION_971,SYNTHETIC-3,DONOR_71,SPECIMEN_971,Blood derived - bone marrow,Tumour,Cell line - derived from xenograft tumour,Other DNA enrichments
+SAMPLE_REGISTRATION_972,SYNTHETIC-3,DONOR_72,SPECIMEN_972,Blood derived - bone marrow,Tumour,Recurrent tumour,polyA+ RNA
+SAMPLE_REGISTRATION_973,SYNTHETIC-3,DONOR_73,SPECIMEN_973,Urine,Normal,Primary tumour - additional new primary,Other RNA fractions
+SAMPLE_REGISTRATION_974,SYNTHETIC-3,DONOR_74,SPECIMEN_974,Arterial blood,Tumour,Cell line - derived from metastatic tumour,Amplified DNA
+SAMPLE_REGISTRATION_975,SYNTHETIC-3,DONOR_75,SPECIMEN_975,Blood derived - peripheral blood,Normal,,Other DNA enrichments
+SAMPLE_REGISTRATION_976,SYNTHETIC-3,DONOR_76,SPECIMEN_976,Cord blood,Tumour,Normal - tissue adjacent to primary tumour,Protein
+SAMPLE_REGISTRATION_977,SYNTHETIC-3,DONOR_77,SPECIMEN_977,Renal cyst fluid,Tumour,Metastatic tumour - metastasis to distant location,Total RNA
+SAMPLE_REGISTRATION_978,SYNTHETIC-3,DONOR_78,SPECIMEN_978,Saliva,,Primary tumour - additional new primary,Total RNA
+SAMPLE_REGISTRATION_979,SYNTHETIC-3,DONOR_79,SPECIMEN_979,Sputum,Tumour,Metastatic tumour - metastasis to distant location,rRNA-depleted RNA
+SAMPLE_REGISTRATION_980,SYNTHETIC-3,DONOR_80,SPECIMEN_980,Duodenal fluid,Tumour,Metastatic tumour - metastasis to distant location,polyA+ RNA
+SAMPLE_REGISTRATION_981,SYNTHETIC-3,DONOR_81,SPECIMEN_981,Abdominal fluid,Tumour,Metastatic tumour - metastasis to distant location,Total RNA
+SAMPLE_REGISTRATION_982,SYNTHETIC-3,DONOR_82,SPECIMEN_982,Sputum,Tumour,Xenograft - derived from tumour cell line,ctDNA
+SAMPLE_REGISTRATION_983,SYNTHETIC-3,DONOR_83,SPECIMEN_983,Pleural fluid,Tumour,Normal - tissue adjacent to primary tumour,Total DNA
+SAMPLE_REGISTRATION_984,SYNTHETIC-3,DONOR_84,SPECIMEN_984,Buffy coat,Tumour,Metastatic tumour - metastasis local to lymph node,polyA+ RNA
+SAMPLE_REGISTRATION_985,SYNTHETIC-3,DONOR_85,SPECIMEN_985,Abdominal fluid,Tumour,Metastatic tumour - metastasis to distant location,Amplified DNA
+SAMPLE_REGISTRATION_986,SYNTHETIC-3,DONOR_86,SPECIMEN_986,Convalescent plasma,Normal,Cell line - derived from metastatic tumour,Total RNA
+SAMPLE_REGISTRATION_987,SYNTHETIC-3,DONOR_87,SPECIMEN_987,Bone marrow derived mononuclear cells,Normal,,ctDNA
+SAMPLE_REGISTRATION_988,SYNTHETIC-3,DONOR_88,SPECIMEN_988,Serum,Tumour,Primary tumour - additional new primary,Total RNA
+SAMPLE_REGISTRATION_989,SYNTHETIC-3,DONOR_89,SPECIMEN_989,Vitreous fluid,Tumour,Cell line - derived from xenograft tumour,
+SAMPLE_REGISTRATION_990,SYNTHETIC-3,DONOR_90,SPECIMEN_990,Bone marrow fluid,Normal,Cell line - derived from primary tumour,
+SAMPLE_REGISTRATION_991,SYNTHETIC-4,DONOR_91,SPECIMEN_991,Female genital fluid,,,Total DNA
+SAMPLE_REGISTRATION_992,SYNTHETIC-4,DONOR_92,SPECIMEN_992,Synovial fluid,Normal,Metastatic tumour - additional metastatic,ctDNA
+SAMPLE_REGISTRATION_993,SYNTHETIC-4,DONOR_93,SPECIMEN_993,Serum,,Cell line - derived from metastatic tumour,ctDNA
+SAMPLE_REGISTRATION_994,SYNTHETIC-4,DONOR_94,SPECIMEN_994,Bone marrow derived mononuclear cells,Tumour,,Other RNA fractions
+SAMPLE_REGISTRATION_995,SYNTHETIC-4,DONOR_95,SPECIMEN_995,Buffy coat,Normal,Metastatic tumour - metastasis to distant location,Total DNA
+SAMPLE_REGISTRATION_996,SYNTHETIC-4,DONOR_96,SPECIMEN_996,Abdominal fluid,Normal,Xenograft - derived from metastatic tumour,Total DNA
+SAMPLE_REGISTRATION_997,SYNTHETIC-4,DONOR_97,SPECIMEN_997,Saliva,Tumour,Xenograft - derived from tumour cell line,polyA+ RNA
+SAMPLE_REGISTRATION_998,SYNTHETIC-4,DONOR_98,SPECIMEN_998,Urine,Normal,Cell line - derived from metastatic tumour,Other DNA enrichments
+SAMPLE_REGISTRATION_999,SYNTHETIC-4,DONOR_99,SPECIMEN_999,Serum,Tumour,Metastatic tumour - additional metastatic,Other DNA enrichments
+SAMPLE_REGISTRATION_1000,SYNTHETIC-4,DONOR_100,SPECIMEN_1000,Arterial blood,Normal,Xenograft - derived from tumour cell line,ctDNA
