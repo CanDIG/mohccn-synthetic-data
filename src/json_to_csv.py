@@ -80,22 +80,319 @@ def add_extra_donors():
             "sex_at_birth": "Other",
             "submitter_donor_id": "DONOR_11"
         }
+    # the null donor
     donor_12 = {
-            "cause_of_death": "Unknown",
-            "date_of_death": {
-                "month_interval": 40,
-                "day_interval": 1200
-            },
-            "gender": "Man",
-            "is_deceased": True,
-            "primary_site": [
-                "Base of tongue"
-            ],
-            "program_id": "SYNTHETIC-2",
-            "sex_at_birth": "Other",
-            "submitter_donor_id": "DONOR_12"
+            "submitter_donor_id": "DONOR_12",
+            "program_id": "SYNTHETIC-2"
         }
     return donor_11, donor_12
+
+
+def add_pds():
+    donor_12 = [{
+        "submitter_primary_diagnosis_id": "PRIMARY_DIAGNOSIS_1a",
+        "submitter_donor_id": "DONOR_12",
+        "program_id": "SYNTHETIC-2"
+    }]
+    return donor_12
+
+
+def add_specimens():
+    donor_12 = [{
+        "submitter_specimen_id": "SPECIMEN_1a",
+        "submitter_donor_id": "DONOR_12",
+        "submitter_primary_diagnosis_id": "PRIMARY_DIAGNOSIS_1a",
+        "program_id": "SYNTHETIC-2"
+    }]
+    return donor_12
+
+
+def add_samples():
+    donor_12 = [
+        {
+            "submitter_sample_id": "SAMPLE_REGISTRATION_1a",
+            "submitter_specimen_id": "SPECIMEN_1a",
+            "submitter_donor_id": "DONOR_12",
+            "program_id": "SYNTHETIC-2"
+        },
+        {
+            "submitter_sample_id": "SAMPLE_REGISTRATION_2a",
+            "submitter_specimen_id": "SPECIMEN_1a",
+            "submitter_donor_id": "DONOR_12",
+            "program_id": "SYNTHETIC-2"
+        }
+    ]
+    return donor_12
+
+
+def add_treatments():
+    donor_12 = [
+        {
+            "submitter_treatment_id": "TREATMENT_1a",
+            "submitter_donor_id": "DONOR_12",
+            "submitter_primary_diagnosis_id": "PRIMARY_DIAGNOSIS_1a",
+            "program_id": "SYNTHETIC-2"
+        },
+        {
+            "submitter_treatment_id": "TREATMENT_2a",
+            "submitter_donor_id": "DONOR_12",
+            "submitter_primary_diagnosis_id": "PRIMARY_DIAGNOSIS_1a",
+            "program_id": "SYNTHETIC-2"
+        }
+    ]
+    return donor_12
+
+
+def add_chemo():
+    donor_12 = [
+        {
+            "submitter_treatment_id": "TREATMENT_2a",
+            "actual_cumulative_drug_dose": 60,
+            "submitter_donor_id": "DONOR_12",
+            "program_id": "SYNTHETIC-2"
+        },
+        {
+            "submitter_treatment_id": "TREATMENT_2a",
+            "prescribed_cumulative_drug_dose": 4600,
+            "submitter_donor_id": "DONOR_12",
+            "program_id": "SYNTHETIC-2"
+        },
+        {
+            "submitter_treatment_id": "TREATMENT_1a",
+            "drug_name": "Gemcitabine",
+            "drug_reference_database": "NCI Thesaurus",
+            "submitter_donor_id": "DONOR_12",
+            "program_id": "SYNTHETIC-2"
+        }
+    ]
+    return donor_12
+
+
+def add_followups():
+    donor_12 = [
+        {
+            "submitter_follow_up_id": "FOLLOW_UP_2a",
+            "submitter_treatment_id": "TREATMENT_1a",
+            "submitter_donor_id": "DONOR_12",
+            "program_id": "SYNTHETIC-2"
+        },
+        {
+            "submitter_follow_up_id": "FOLLOW_UP_1a",
+            "submitter_primary_diagnosis_id": "PRIMARY_DIAGNOSIS_1a",
+            "submitter_donor_id": "DONOR_12",
+            "program_id": "SYNTHETIC-2"
+        }
+    ]
+    return donor_12
+
+
+def add_comorbidities():
+    donor_12 = [{
+        "age_at_comorbidity_diagnosis": 56,
+        "comorbidity_type_code": "C43.9",
+        "submitter_donor_id": "DONOR_12",
+        "program_id": "SYNTHETIC-2"
+    },
+        {
+            "comorbidity_treatment": "Photodynamic therapy",
+            "submitter_donor_id": "DONOR_12",
+            "program_id": "SYNTHETIC-2"
+        },
+        {
+            "prior_malignancy": "Yes",
+            "submitter_donor_id": "DONOR_12",
+            "program_id": "SYNTHETIC-2"
+        }
+
+    ]
+    return donor_12
+
+
+def add_exposures():
+    donor_12 = [
+        {
+            "tobacco_smoking_status": "Current smoker",
+            "submitter_donor_id": "DONOR_12",
+            "program_id": "SYNTHETIC-2"
+        },
+        {
+            "pack_years_smoked": 72,
+            "submitter_donor_id": "DONOR_12",
+            "program_id": "SYNTHETIC-2"
+        }
+    ]
+    return donor_12
+
+
+def add_biomarkers():
+    donor_12 = [
+        {
+            "test_date": {
+                "month_interval": 49,
+                "day_interval": 1470
+            }
+        },
+        {
+            "ca125": 109,
+        },
+        {
+            "hpv_strain": [
+                "HPV52",
+                "HPV58",
+                "HPV35"
+            ]
+        },
+        {
+            "er_status": "Not applicable",
+            "her2_ihc_status": "Cannot be determined",
+            "her2_ish_status": "Positive",
+            "hpv_ihc_status": "Negative",
+            "hpv_pcr_status": "Not applicable",
+            "hpv_strain": [
+                "HPV33",
+                "HPV16"
+            ]
+        },
+        {
+            "cea": 5,
+        }
+    ]
+    return donor_12
+
+
+def add_hormone_therapies():
+    donor_12 = [
+        {
+            "submitter_treatment_id": "TREATMENT_2a",
+            "drug_name": "Cabergoline",
+            "submitter_donor_id": "DONOR_12",
+            "program_id": "SYNTHETIC-2"
+        },
+        {
+            "submitter_treatment_id": "TREATMENT_2a",
+            "drug_name": "Lutetium Lu 177 Dotatate",
+            "drug_reference_identifier": "557845",
+            "submitter_donor_id": "DONOR_12",
+            "program_id": "SYNTHETIC-2"
+        },
+        {
+            "submitter_treatment_id": "TREATMENT_1a",
+            "prescribed_cumulative_drug_dose": 106,
+            "actual_cumulative_drug_dose": 85,
+            "submitter_donor_id": "DONOR_12",
+            "program_id": "SYNTHETIC-2"
+        }
+    ]
+    return donor_12
+
+
+def add_immunotherapies():
+    donor_12 = [
+        {
+            "submitter_treatment_id": "TREATMENT_2a",
+            "immunotherapy_type": "Other immunomodulatory substances",
+            "submitter_donor_id": "DONOR_12",
+            "program_id": "SYNTHETIC-2"
+        },
+        {
+            "submitter_treatment_id": "TREATMENT_2a",
+            "drug_name": "Nivolumab",
+            "drug_reference_identifier": "987654",
+            "drug_reference_database": "PubChem",
+            "submitter_donor_id": "DONOR_12",
+            "program_id": "SYNTHETIC-2"
+        },
+        {
+            "submitter_treatment_id": "TREATMENT_1a",
+            "immunotherapy_drug_dose_units": "mg/kg",
+            "submitter_donor_id": "DONOR_12",
+            "program_id": "SYNTHETIC-2"
+        }
+    ]
+    return donor_12
+
+
+def add_radiations():
+    donor_12 = [
+        {
+            "submitter_treatment_id": "TREATMENT_2a",
+            "radiation_therapy_type": "Internal",
+            "submitter_donor_id": "DONOR_12",
+            "program_id": "SYNTHETIC-2"
+        },
+        {
+            "submitter_treatment_id": "TREATMENT_2a",
+            "radiation_therapy_modality": "Teleradiotherapy neutrons (procedure)",
+            "submitter_donor_id": "DONOR_12",
+            "program_id": "SYNTHETIC-2"
+        },
+        {
+            "submitter_treatment_id": "TREATMENT_1a",
+            "anatomical_site_irradiated": "Right Maxilla",
+            "submitter_donor_id": "DONOR_12",
+            "program_id": "SYNTHETIC-2"
+        }
+    ]
+    return donor_12
+
+
+def add_surgeries():
+    donor_12 = [
+        {
+            "submitter_treatment_id": "TREATMENT_2a",
+            "submitter_specimen_id": "SPECIMEN_1a",
+            "surgery_type": "Wide Local Excision",
+            "submitter_donor_id": "DONOR_12",
+            "program_id": "SYNTHETIC-2"
+        },
+        {
+            "submitter_treatment_id": "TREATMENT_2a",
+            "submitter_specimen_id": "SPECIMEN_1a",
+            "surgery_site": "C11",
+            "submitter_donor_id": "DONOR_12",
+            "program_id": "SYNTHETIC-2"
+        },
+        {
+            "submitter_treatment_id": "TREATMENT_1a",
+            "submitter_specimen_id": "SPECIMEN_1a",
+            "surgery_location": "Metastatic",
+            "submitter_donor_id": "DONOR_12",
+            "program_id": "SYNTHETIC-2"
+        }
+    ]
+    return donor_12
+
+
+def add_objects(filename):
+    match filename:
+        case "Donor.json":
+            return add_extra_donors()
+        case "PrimaryDiagnosis.json":
+            return add_pds()
+        case "Treatment.json":
+            return add_treatments()
+        case "Chemotherapy.json":
+            return add_chemo()
+        case "Comorbidity.json":
+            return add_comorbidities()
+        case "Exposure.json":
+            return add_exposures()
+        case "FollowUp.json":
+            return add_followups()
+        case "HormoneTherapy.json":
+            return add_hormone_therapies()
+        case "Immunotherapy.json":
+            return add_immunotherapies()
+        case "Radiation.json":
+            return add_radiations()
+        case "SampleRegistration.json":
+            return add_samples()
+        case "Specimen.json":
+            return add_specimens()
+        case "Surgery.json":
+            return add_surgeries()
+        case _:
+            return
 
 
 def convert_to_csv(size, input_path):
@@ -107,12 +404,26 @@ def convert_to_csv(size, input_path):
 
     # Iterate through all JSON files in the synthetic_data_folder
     for filename in os.listdir(synthetic_data_folder):
+        print(filename)
         if filename.endswith('.json') and not filename.startswith("Program"):
             json_file_path = os.path.join(synthetic_data_folder, filename)
             with open(json_file_path, 'r') as f:
                 data = json.load(f)
-                if filename.startswith("Donor") and size == "small":
-                    data.extend(add_extra_donors())
+                extra_objects = add_objects(filename)
+                if extra_objects:
+                    data.extend(extra_objects)
+                # if filename.startswith("Donor") and size == "small":
+                #     data.extend(add_extra_donors())
+                # if filename.startswith("Primary") and size == "small":
+                #     data.extend(add_pds())
+                # if filename.startswith("Treatment") and size == "small":
+                #     data.extend(add_treatments())
+                # if filename.startswith("Chemo") and size == "small":
+                #     data.extend(add_chemo())
+                # if filename.startswith("Specimen") and size == "small":
+                #     data.extend(add_specimens())
+                # if filename.startswith("Sample") and size == "small":
+                #     data.extend(add_samples())
                 df = pd.DataFrame(data)
                 if filename.startswith("Donor"):
                     df = process_donor(df)
