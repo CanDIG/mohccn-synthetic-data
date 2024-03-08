@@ -229,26 +229,36 @@ def add_biomarkers():
         {
             "test_date": {
                 "month_interval": 49,
-                "day_interval": 1470
+                "day_interval": 1470,
+                "submitter_donor_id": "DONOR_12",
+                "program_id": "SYNTHETIC-2"
             }
         },
         {
             "ca125": 109,
+            "submitter_donor_id": "DONOR_12",
+            "program_id": "SYNTHETIC-2"
         },
         {
             "hpv_strain": [
                 "HPV52",
                 "HPV58",
                 "HPV35"
-            ]
+            ],
+            "submitter_donor_id": "DONOR_12",
+            "program_id": "SYNTHETIC-2"
         },
         {
             "er_status": "Not applicable",
             "her2_ihc_status": "Cannot be determined",
             "her2_ish_status": "Positive",
+            "submitter_donor_id": "DONOR_12",
+            "program_id": "SYNTHETIC-2"
         },
         {
             "cea": 5,
+            "submitter_donor_id": "DONOR_12",
+            "program_id": "SYNTHETIC-2"
         }
     ]
     return donor_12

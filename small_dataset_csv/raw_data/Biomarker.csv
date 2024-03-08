@@ -14,8 +14,8 @@ test_date,psa_level,ca125,cea,er_status,er_percent_positive,pr_status,pr_percent
 "{'month_interval': 20, 'day_interval': 600}",318.0,,12.0,Not applicable,,Unknown,41.9,Positive,Cannot be determined,Cannot be determined,HPV66|HPV56,DONOR_4,SYNTHETIC-1,Cannot be determined,,,TREATMENT_15,
 "{'month_interval': 45, 'day_interval': 1350}",249.0,81.0,12.0,Unknown,59.2,Positive,82.4,Cannot be determined,Not applicable,Not applicable,HPV56|HPV45|HPV59,DONOR_4,SYNTHETIC-1,Unknown,,,TREATMENT_15,
 "{'month_interval': 5, 'day_interval': 150}",214.0,,,Cannot be determined,,Cannot be determined,46.1,Equivocal,Negative,,HPV16|HPV18,DONOR_7,SYNTHETIC-2,Unknown,,,,FOLLOW_UP_31
-"{'month_interval': 49, 'day_interval': 1470}",,,,,,,,,,,,,,,,,,
-,,109.0,,,,,,,,,,,,,,,,
-,,,,,,,,,,,HPV52|HPV58|HPV35,,,,,,,
-,,,,Not applicable,,,,Cannot be determined,Positive,,,,,,,,,
-,,,5.0,,,,,,,,,,,,,,,
+"{'month_interval': 49, 'day_interval': 1470, 'submitter_donor_id': 'DONOR_12', 'program_id': 'SYNTHETIC-2'}",,,,,,,,,,,,,,,,,,
+,,109.0,,,,,,,,,,DONOR_12,SYNTHETIC-2,,,,,
+,,,,,,,,,,,HPV52|HPV58|HPV35,DONOR_12,SYNTHETIC-2,,,,,
+,,,,Not applicable,,,,Cannot be determined,Positive,,,DONOR_12,SYNTHETIC-2,,,,,
+,,,5.0,,,,,,,,,DONOR_12,SYNTHETIC-2,,,,,
