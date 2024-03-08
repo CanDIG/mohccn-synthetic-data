@@ -230,9 +230,10 @@ def add_biomarkers():
             "test_date": {
                 "month_interval": 49,
                 "day_interval": 1470,
-                "submitter_donor_id": "DONOR_12",
-                "program_id": "SYNTHETIC-2"
-            }
+
+            },
+            "submitter_donor_id": "DONOR_12",
+            "program_id": "SYNTHETIC-2"
         },
         {
             "ca125": 109,
