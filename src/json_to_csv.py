@@ -246,12 +246,6 @@ def add_biomarkers():
             "er_status": "Not applicable",
             "her2_ihc_status": "Cannot be determined",
             "her2_ish_status": "Positive",
-            "hpv_ihc_status": "Negative",
-            "hpv_pcr_status": "Not applicable",
-            "hpv_strain": [
-                "HPV33",
-                "HPV16"
-            ]
         },
         {
             "cea": 5,
@@ -391,6 +385,8 @@ def add_objects(filename):
             return add_specimens()
         case "Surgery.json":
             return add_surgeries()
+        case "Biomarker.json":
+            return add_biomarkers()
         case _:
             return
 
@@ -404,7 +400,6 @@ def convert_to_csv(size, input_path):
 
     # Iterate through all JSON files in the synthetic_data_folder
     for filename in os.listdir(synthetic_data_folder):
-        print(filename)
         if filename.endswith('.json') and not filename.startswith("Program"):
             json_file_path = os.path.join(synthetic_data_folder, filename)
             with open(json_file_path, 'r') as f:
@@ -412,18 +407,6 @@ def convert_to_csv(size, input_path):
                 extra_objects = add_objects(filename)
                 if extra_objects:
                     data.extend(extra_objects)
-                # if filename.startswith("Donor") and size == "small":
-                #     data.extend(add_extra_donors())
-                # if filename.startswith("Primary") and size == "small":
-                #     data.extend(add_pds())
-                # if filename.startswith("Treatment") and size == "small":
-                #     data.extend(add_treatments())
-                # if filename.startswith("Chemo") and size == "small":
-                #     data.extend(add_chemo())
-                # if filename.startswith("Specimen") and size == "small":
-                #     data.extend(add_specimens())
-                # if filename.startswith("Sample") and size == "small":
-                #     data.extend(add_samples())
                 df = pd.DataFrame(data)
                 if filename.startswith("Donor"):
                     df = process_donor(df)
