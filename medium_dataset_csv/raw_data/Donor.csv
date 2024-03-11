@@ -99,5 +99,5 @@ True,Died of cancer,"{'month_interval': -210, 'day_interval': -6300}","{'month_i
 True,Died of other reasons,"{'month_interval': -623, 'day_interval': -18690}","{'month_interval': 34, 'day_interval': 1020}",,Non-binary,Female,,,,DONOR_98,SYNTHETIC-4,day
 False,,{'month_interval': -875},,,Man,Female,,,{'month_interval': 39},DONOR_99,SYNTHETIC-4,month
 ,,,,Esophagus,Man,Female,,,{'month_interval': 14},DONOR_100,SYNTHETIC-4,month
-True,Unknown,,"{'month_interval': 90, 'day_interval': 2700}",Floor of mouth,Woman,Other,,,,DONOR_11,SYNTHETIC-2,month
+True,Unknown,,"{'month_interval': 90, 'day_interval': 2700}",Floor of mouth,Woman,Other,,,,DONOR_011,SYNTHETIC-2,month
 ,,,,,,,,,,DONOR_000,SYNTHETIC-2,month
