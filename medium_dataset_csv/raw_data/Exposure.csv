@@ -999,3 +999,5 @@ SYNTHETIC-2,DONOR_67,Smoking history not documented,,
 SYNTHETIC-2,DONOR_68,Not applicable,,
 SYNTHETIC-2,DONOR_69,Lifelong non-smoker (<100 cigarettes smoked in lifetime),,
 SYNTHETIC-2,DONOR_70,Current reformed smoker for <= 15 years,Cigarettes|Unknown|Chewing Tobacco,
+SYNTHETIC-2,DONOR_000,Current smoker,,
+SYNTHETIC-2,DONOR_000,,,72.0

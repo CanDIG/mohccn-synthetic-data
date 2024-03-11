@@ -999,3 +999,6 @@ SYNTHETIC-1,DONOR_37,TREATMENT_477,,,8756456,NCI Thesaurus,IU/m2,93.0,
 SYNTHETIC-1,DONOR_38,TREATMENT_478,Cell-based,Alunbrig,4459876,NCI Thesaurus,g/m2,113.0,92.0
 SYNTHETIC-1,DONOR_39,TREATMENT_479,Other immunomodulatory substances,Osimertinib,278936,PubChem,,112.0,
 SYNTHETIC-1,DONOR_40,TREATMENT_480,Other immunomodulatory substances,Trastuzumab,278936,PubChem,IU/m2,92.0,130.0
+SYNTHETIC-2,DONOR_000,TREATMENT_2a,Other immunomodulatory substances,,,,,,
+SYNTHETIC-2,DONOR_000,TREATMENT_2a,,Nivolumab,987654,PubChem,,,
+SYNTHETIC-2,DONOR_000,TREATMENT_1a,,,,,mg/kg,,

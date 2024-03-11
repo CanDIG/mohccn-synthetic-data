@@ -999,3 +999,6 @@ SYNTHETIC-4,DONOR_97,Unknown,,44.0,,Unknown,Hormonal therapy
 SYNTHETIC-4,DONOR_98,Yes,Not applicable,50.0,,,Chemotherapy
 SYNTHETIC-4,DONOR_99,Yes,Unknown,40.0,C06.2,Yes,Stem cell transplant
 SYNTHETIC-4,DONOR_100,Unknown,,,C02.9,Unknown,Other targeting molecular therapy
+SYNTHETIC-2,DONOR_000,,,56.0,C43.9,,
+SYNTHETIC-2,DONOR_000,,,,,,Photodynamic therapy
+SYNTHETIC-2,DONOR_000,Yes,,,,,

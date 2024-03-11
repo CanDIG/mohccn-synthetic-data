@@ -2,6 +2,6 @@ program_id,submitter_donor_id,submitter_specimen_id,submitter_treatment_id,surge
 SYNTHETIC-2,DONOR_8,,TREATMENT_23,Wide Local Excision,C11,Metastatic,5,7,6,Not applicable,R0,,Unknown,Not applicable,Unknown|Circumferential resection margin,Present
 SYNTHETIC-2,DONOR_9,,TREATMENT_24,,C08,Metastatic,8,3,,Cannot be assessed,R0,,Common bile duct margin|Circumferential resection margin,Venous (large vessel) invasion only,Proximal margin|Distal margin,Absent
 SYNTHETIC-2,DONOR_10,,TREATMENT_25,Laparotomy,C18,Local recurrence,3,6,6,,,Circumferential resection margin|Proximal margin,Distal margin,,,Cannot be assessed
-SYNTHETIC-2,DONOR_12,SPECIMEN_1a,TREATMENT_2a,Wide Local Excision,,,,,,,,,,,,
-SYNTHETIC-2,DONOR_12,SPECIMEN_1a,TREATMENT_2a,,C11,,,,,,,,,,,
-SYNTHETIC-2,DONOR_12,SPECIMEN_1a,TREATMENT_1a,,,Metastatic,,,,,,,,,,
+SYNTHETIC-2,DONOR_000,SPECIMEN_1a,TREATMENT_2a,Wide Local Excision,,,,,,,,,,,,
+SYNTHETIC-2,DONOR_000,SPECIMEN_1a,TREATMENT_2a,,C11,,,,,,,,,,,
+SYNTHETIC-2,DONOR_000,SPECIMEN_1a,TREATMENT_1a,,,Metastatic,,,,,,,,,,

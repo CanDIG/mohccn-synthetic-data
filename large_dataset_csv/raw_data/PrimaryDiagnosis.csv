@@ -9999,3 +9999,4 @@ date_of_diagnosis,cancer_type_code,basis_of_diagnosis,number_lymph_nodes_positiv
 "{'month_interval': 77, 'day_interval': 2310}",C06.9,Specific tumour markers,12.0,Binet staging system,T3,N1b,M1d(1),Stage IIC,PRIMARY_DIAGNOSIS_9998,DONOR_4998,SYNTHETIC-10,Yes,Imaging,Bilateral
 "{'month_interval': 41, 'day_interval': 1230}",C64.9,Unknown,9.0,,Tis(Paget's),N2a,M1a(1),Stage 0,PRIMARY_DIAGNOSIS_9999,DONOR_4999,SYNTHETIC-10,Not applicable,,Right
 "{'month_interval': 80, 'day_interval': 2400}",C02.1,Clinical,2.0,,T1d,,M1d(1),Stage 1A,PRIMARY_DIAGNOSIS_10000,DONOR_5000,SYNTHETIC-10,Cannot be determined,Physical palpation of patient,Midline
+,,,,,,,,,PRIMARY_DIAGNOSIS_1a,DONOR_000,SYNTHETIC-2,,,

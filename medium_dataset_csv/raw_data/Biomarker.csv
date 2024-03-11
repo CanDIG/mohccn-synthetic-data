@@ -999,3 +999,8 @@ test_date,psa_level,ca125,cea,er_status,er_percent_positive,pr_status,pr_percent
 "{'month_interval': 40, 'day_interval': 1200}",243.0,27.0,4.0,,97.4,Not applicable,,Unknown,,Positive,,DONOR_98,SYNTHETIC-4,Negative,,SPECIMEN_998,
 "{'month_interval': 21, 'day_interval': 630}",226.0,50.0,7.0,,27.1,Unknown,12.2,Cannot be determined,Positive,Cannot be determined,,DONOR_99,SYNTHETIC-4,Cannot be determined,,SPECIMEN_999,
 "{'month_interval': 25, 'day_interval': 750}",323.0,45.0,9.0,Unknown,64.9,Unknown,69.5,Not applicable,Negative,,HPV58|HPV51,DONOR_100,SYNTHETIC-4,Unknown,,SPECIMEN_1000,
+"{'month_interval': 49, 'day_interval': 1470}",,,,,,,,,,,,DONOR_000,SYNTHETIC-2,,,,
+,,109.0,,,,,,,,,,DONOR_000,SYNTHETIC-2,,,,
+,,,,,,,,,,,HPV52|HPV58|HPV35,DONOR_000,SYNTHETIC-2,,,,
+,,,,Not applicable,,,,Cannot be determined,Positive,,,DONOR_000,SYNTHETIC-2,,,,
+,,,5.0,,,,,,,,,DONOR_000,SYNTHETIC-2,,,,
