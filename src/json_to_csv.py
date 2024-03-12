@@ -77,7 +77,8 @@ def add_extra_donors():
         "gender": "Woman",
         "is_deceased": True,
         "primary_site": [
-            "Floor of mouth"
+            "Floor of mouth",
+            "Other and unspecified parts of mouth"
         ],
         "program_id": "SYNTHETIC-2",
         "sex_at_birth": "Other",
@@ -199,7 +200,7 @@ def add_treatments():
                 "month_interval": 25,
                 "day_interval": 750
             },
-            "treatment_type": "Immunotherapy"
+            "treatment_type": ["Immunotherapy", "Surgery", "Photodynamic therapy"]
         },
         {
             "days_per_cycle": 2,
@@ -452,6 +453,13 @@ def add_chemo():
 def add_followups():
     followups = [
         {
+            "submitter_treatment_id": "TREATMENT_0025",
+            "submitter_follow_up_id": "FOLLOW_UP_0025",
+            "program_id": "SYNTHETIC-2",
+            "submitter_donor_id": "DONOR_011",
+            "anatomic_site_progression_or_recurrence": ["C00.9", "C01.9"]
+        },
+        {
             "submitter_follow_up_id": "FOLLOW_UP_2a",
             "submitter_treatment_id": "TREATMENT_1a",
             "submitter_primary_diagnosis_id": "PRIMARY_DIAGNOSIS_1a",
@@ -507,6 +515,11 @@ def add_exposures():
             "pack_years_smoked": 72,
             "submitter_donor_id": "DONOR_000",
             "program_id": "SYNTHETIC-2"
+        },
+        {
+            "program_id": "SYNTHETIC-2",
+            "submitter_donor_id": "DONOR_011",
+            "tobacco_type": ["Cigar", "Cigarettes", "Roll-ups", "Pipe"]
         }
     ]
     return exposures
@@ -548,6 +561,16 @@ def add_biomarkers():
             "cea": 5,
             "submitter_donor_id": "DONOR_000",
             "program_id": "SYNTHETIC-2"
+        },
+        {
+            "program_id": "SYNTHETIC-2",
+            "submitter_donor_id": "DONOR_011",
+            "hpv_strain": [
+                "HPV16",
+                "HPV68",
+                "HPV31",
+                "HPV59"
+            ],
         }
     ]
     return biomarkers
@@ -631,6 +654,14 @@ def add_radiations():
 
 def add_surgeries():
     surgeries = [
+        {
+            "submitter_treatment_id": "TREATMENT_0025",
+            "program_id": "SYNTHETIC-2",
+            "submitter_donor_id": "DONOR_011",
+            "margin_types_involved": ["Proximal margin", "Distal margin"],
+            "margin_types_not_involved": ["Common bile duct margin", "Circumferential resection margin"],
+            "margin_types_not_assessed": ["Unknown", "Not applicable"]
+        },
         {
             "submitter_treatment_id": "TREATMENT_2a",
             "submitter_specimen_id": "SPECIMEN_1a",

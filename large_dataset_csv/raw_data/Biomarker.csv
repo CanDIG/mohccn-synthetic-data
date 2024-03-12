@@ -18004,3 +18004,4 @@ test_date,psa_level,ca125,cea,er_status,er_percent_positive,pr_status,her2_ihc_s
 ,,,,,,,,,,,HPV52|HPV58|HPV35,DONOR_000,SYNTHETIC-2,,,,,
 ,,,,Not applicable,,,Cannot be determined,Positive,,,,DONOR_000,SYNTHETIC-2,,,,,
 ,,,5.0,,,,,,,,,DONOR_000,SYNTHETIC-2,,,,,
+,,,,,,,,,,,HPV16|HPV68|HPV31|HPV59,DONOR_011,SYNTHETIC-2,,,,,
