@@ -9,6 +9,7 @@ import json
 import pandas as pd
 import argparse
 from pathlib import Path
+import itertools
 
 
 def process_donor(df):
@@ -91,25 +92,74 @@ def add_extra_donors():
 
 
 def add_pds():
+    donor_011 = [{
+        "basis_of_diagnosis": "Specific tumour markers",
+        "cancer_type_code": "C67.6",
+        "clinical_m_category": "M1a(1)",
+        "clinical_n_category": "N0b (no biopsy)",
+        "clinical_t_category": "TX",
+        "date_of_diagnosis": {
+            "month_interval": 69,
+            "day_interval": 2070
+        },
+        "laterality": "Right",
+        "lymph_nodes_examined_method": "Imaging",
+        "lymph_nodes_examined_status": "No lymph nodes found in resected specimen",
+        "number_lymph_nodes_positive": 10,
+        "submitter_primary_diagnosis_id": "PRIMARY_DIAGNOSIS_016",
+        "program_id": "SYNTHETIC-2",
+        "submitter_donor_id": "DONOR_011"
+    }]
     donor_000 = [{
         "submitter_primary_diagnosis_id": "PRIMARY_DIAGNOSIS_1a",
         "submitter_donor_id": "DONOR_000",
         "program_id": "SYNTHETIC-2"
     }]
-    return donor_000
+    return donor_011.extend(donor_000)
 
 
 def add_specimens():
+    donor_011 = [
+        {
+            "pathological_m_category": "M1e",
+            "pathological_n_category": "N0a",
+            "pathological_stage_group": "Stage IIIC",
+            "pathological_t_category": "Tis",
+            "pathological_tumour_staging_system": "AJCC 7th edition",
+            "percent_tumour_cells_range": "0-19%",
+            "reference_pathology_confirmed_tumour_presence": "No",
+            "specimen_anatomic_location": "C43.9",
+            "specimen_collection_date": {
+                "month_interval": 20,
+                "day_interval": 600
+            },
+            "specimen_laterality": "Right",
+            "specimen_processing": "Cryopreservation in liquid nitrogen (dead tissue)",
+            "submitter_specimen_id": "SPECIMEN_022",
+            "program_id": "SYNTHETIC-2",
+            "submitter_donor_id": "DONOR_011",
+            "tumour_grade": "Low",
+            "tumour_histological_type": "8962/1"
+        }]
     donor_000 = [{
         "submitter_specimen_id": "SPECIMEN_1a",
         "submitter_donor_id": "DONOR_000",
         "submitter_primary_diagnosis_id": "PRIMARY_DIAGNOSIS_1a",
         "program_id": "SYNTHETIC-2"
     }]
-    return donor_000
+    return donor_011.extend(donor_000)
 
 
 def add_samples():
+    donor_010 = [{
+        "sample_type": "ctDNA",
+        "specimen_tissue_source": "Fetal blood",
+        "specimen_type": "Normal",
+        "submitter_sample_id": "SAMPLE_REGISTRATION_28",
+        "tumour_normal_designation": "Tumour",
+        "program_id": "SYNTHETIC-2",
+        "submitter_donor_id": "DONOR_011"
+    }]
     donor_000 = [
         {
             "submitter_sample_id": "SAMPLE_REGISTRATION_1a",
@@ -124,10 +174,211 @@ def add_samples():
             "program_id": "SYNTHETIC-2"
         }
     ]
-    return donor_000
+    return donor_010.extend(donor_000)
 
 
 def add_treatments():
+    donor_010 = [
+        {
+            "days_per_cycle": 2,
+            "is_primary_treatment": "No",
+            "line_of_treatment": 4,
+            "number_of_cycles": 4,
+            "response_to_treatment": "Complete remission with incomplete hematologic recovery (CRi)",
+            "response_to_treatment_criteria_method": "Physician Assessed Response Criteria",
+            "status_of_treatment": "Not applicable",
+            "submitter_treatment_id": "TREATMENT_0025",
+            "treatment_end_date": {
+                "month_interval": 87,
+                "day_interval": 2610
+            },
+            "treatment_setting": "Induction",
+            "treatment_start_date": {
+                "month_interval": 25,
+                "day_interval": 750
+            },
+            "treatment_type": "Immunotherapy"
+        },
+        {
+            "days_per_cycle": 2,
+            "is_primary_treatment": "No",
+            "line_of_treatment": 4,
+            "number_of_cycles": 4,
+            "response_to_treatment": "Complete remission with incomplete hematologic recovery (CRi)",
+            "response_to_treatment_criteria_method": "Physician Assessed Response Criteria",
+            "status_of_treatment": "Not applicable",
+            "submitter_treatment_id": "TREATMENT_0026",
+            "treatment_end_date": {
+                "month_interval": 87,
+                "day_interval": 2610
+            },
+            "treatment_setting": "Induction",
+            "treatment_start_date": {
+                "month_interval": 25,
+                "day_interval": 750
+            },
+            "treatment_type": "Chemotherapy"
+        },
+        {
+            "days_per_cycle": 2,
+            "is_primary_treatment": "No",
+            "line_of_treatment": 4,
+            "number_of_cycles": 4,
+            "response_to_treatment": "Complete remission with incomplete hematologic recovery (CRi)",
+            "response_to_treatment_criteria_method": "Physician Assessed Response Criteria",
+            "status_of_treatment": "Not applicable",
+            "submitter_treatment_id": "TREATMENT_0027",
+            "treatment_end_date": {
+                "month_interval": 87,
+                "day_interval": 2610
+            },
+            "treatment_setting": "Induction",
+            "treatment_start_date": {
+                "month_interval": 25,
+                "day_interval": 750
+            },
+            "treatment_type": "Hormonal therapy"
+        },
+        {
+            "days_per_cycle": 2,
+            "is_primary_treatment": "No",
+            "line_of_treatment": 4,
+            "number_of_cycles": 4,
+            "response_to_treatment": "Complete remission with incomplete hematologic recovery (CRi)",
+            "response_to_treatment_criteria_method": "Physician Assessed Response Criteria",
+            "status_of_treatment": "Not applicable",
+            "submitter_treatment_id": "TREATMENT_0034",
+            "treatment_end_date": {
+                "month_interval": 87,
+                "day_interval": 2610
+            },
+            "treatment_setting": "Induction",
+            "treatment_start_date": {
+                "month_interval": 25,
+                "day_interval": 750
+            },
+            "treatment_type": "Hormonal therapy"
+        },
+        {
+            "days_per_cycle": 2,
+            "is_primary_treatment": "No",
+            "line_of_treatment": 4,
+            "number_of_cycles": 4,
+            "response_to_treatment": "Complete remission with incomplete hematologic recovery (CRi)",
+            "response_to_treatment_criteria_method": "Physician Assessed Response Criteria",
+            "status_of_treatment": "Not applicable",
+            "submitter_treatment_id": "TREATMENT_0028",
+            "treatment_end_date": {
+                "month_interval": 87,
+                "day_interval": 2610
+            },
+            "treatment_setting": "Induction",
+            "treatment_start_date": {
+                "month_interval": 25,
+                "day_interval": 750
+            },
+            "treatment_type": "No treatment"
+        },
+        {
+            "days_per_cycle": 2,
+            "is_primary_treatment": "No",
+            "line_of_treatment": 4,
+            "number_of_cycles": 4,
+            "response_to_treatment": "Complete remission with incomplete hematologic recovery (CRi)",
+            "response_to_treatment_criteria_method": "Physician Assessed Response Criteria",
+            "status_of_treatment": "Not applicable",
+            "submitter_treatment_id": "TREATMENT_0029",
+            "treatment_end_date": {
+                "month_interval": 87,
+                "day_interval": 2610
+            },
+            "treatment_setting": "Induction",
+            "treatment_start_date": {
+                "month_interval": 25,
+                "day_interval": 750
+            },
+            "treatment_type": "Other targeting molecular therapy"
+        },
+        {
+            "days_per_cycle": 2,
+            "is_primary_treatment": "No",
+            "line_of_treatment": 4,
+            "number_of_cycles": 4,
+            "response_to_treatment": "Complete remission with incomplete hematologic recovery (CRi)",
+            "response_to_treatment_criteria_method": "Physician Assessed Response Criteria",
+            "status_of_treatment": "Not applicable",
+            "submitter_treatment_id": "TREATMENT_0030",
+            "treatment_end_date": {
+                "month_interval": 87,
+                "day_interval": 2610
+            },
+            "treatment_setting": "Induction",
+            "treatment_start_date": {
+                "month_interval": 25,
+                "day_interval": 750
+            },
+            "treatment_type": "Photodynamic therapy"
+        },
+        {
+            "days_per_cycle": 2,
+            "is_primary_treatment": "No",
+            "line_of_treatment": 4,
+            "number_of_cycles": 4,
+            "response_to_treatment": "Complete remission with incomplete hematologic recovery (CRi)",
+            "response_to_treatment_criteria_method": "Physician Assessed Response Criteria",
+            "status_of_treatment": "Not applicable",
+            "submitter_treatment_id": "TREATMENT_0031",
+            "treatment_end_date": {
+                "month_interval": 87,
+                "day_interval": 2610
+            },
+            "treatment_setting": "Induction",
+            "treatment_start_date": {
+                "month_interval": 25,
+                "day_interval": 750
+            },
+            "treatment_type": "Stem cell transplant"
+        },
+        {
+            "days_per_cycle": 2,
+            "is_primary_treatment": "No",
+            "line_of_treatment": 4,
+            "number_of_cycles": 4,
+            "response_to_treatment": "Complete remission with incomplete hematologic recovery (CRi)",
+            "response_to_treatment_criteria_method": "Physician Assessed Response Criteria",
+            "status_of_treatment": "Not applicable",
+            "submitter_treatment_id": "TREATMENT_0033",
+            "treatment_end_date": {
+                "month_interval": 87,
+                "day_interval": 2610
+            },
+            "treatment_setting": "Induction",
+            "treatment_start_date": {
+                "month_interval": 25,
+                "day_interval": 750
+            },
+            "treatment_type": "Stem cell transplant"
+        },
+        {
+            "days_per_cycle": 2,
+            "is_primary_treatment": "No",
+            "line_of_treatment": 4,
+            "number_of_cycles": 4,
+            "response_to_treatment": "Complete remission with incomplete hematologic recovery (CRi)",
+            "response_to_treatment_criteria_method": "Physician Assessed Response Criteria",
+            "status_of_treatment": "Not applicable",
+            "submitter_treatment_id": "TREATMENT_0032",
+            "treatment_end_date": {
+                "month_interval": 87,
+                "day_interval": 2610
+            },
+            "treatment_setting": "Induction",
+            "treatment_start_date": {
+                "month_interval": 25,
+                "day_interval": 750
+            },
+            "treatment_type": "Surgery"
+        }]
     donor_000 = [
         {
             "submitter_treatment_id": "TREATMENT_1a",
@@ -142,7 +393,7 @@ def add_treatments():
             "program_id": "SYNTHETIC-2"
         }
     ]
-    return donor_000
+    return donor_010.extend(donor_000)
 
 
 def add_chemo():
@@ -404,6 +655,20 @@ def add_objects(filename):
             return
 
 
+def process_objects(filename, df):
+    match filename:
+        case "Donor.json":
+            return process_donor(df)
+        case "Comorbidity.json":
+            return process_comorbidity(df)
+        case "Exposure.json":
+            return process_exposure(df)
+        case "FollowUp.json":
+            return process_followups(df)
+        case _:
+            return df
+
+
 def convert_to_csv(size, input_path):
     # Get the absolute path to the synthetic data folder
     repo_dir = os.path.dirname(os.path.dirname(__file__))
@@ -423,14 +688,8 @@ def convert_to_csv(size, input_path):
                 if extra_objects:
                     data.extend(extra_objects)
                 df = pd.DataFrame(data)
-                if filename.startswith("Donor"):
-                    df = process_donor(df)
-                elif filename.startswith("Comorbidity"):
-                    df = process_comorbidity(df)
-                elif filename.startswith("Exposure"):
-                    df = process_exposure(df)
-                elif filename.startswith("FollowUp"):
-                    df = process_followups(df)
+                df = process_objects(filename, df)
+
 
                 # Concatenate values for all columns with list-type values
                 for column in df.columns:
