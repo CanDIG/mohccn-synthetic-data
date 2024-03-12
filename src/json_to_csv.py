@@ -68,58 +68,58 @@ def process_followups(df):
 
 
 def add_extra_donors():
-    donor_011 = {
-            "cause_of_death": "Unknown",
-            "date_of_death": {
-                "month_interval": 90,
-                "day_interval": 2700
-            },
-            "gender": "Woman",
-            "is_deceased": True,
-            "primary_site": [
-                "Floor of mouth"
-            ],
-            "program_id": "SYNTHETIC-2",
-            "sex_at_birth": "Other",
-            "submitter_donor_id": "DONOR_011"
-        }
-    # the null donor
-    donor_000 = {
-            "submitter_donor_id": "DONOR_000",
-            "program_id": "SYNTHETIC-2"
-        }
-    return donor_011, donor_000
-
-
-def add_pds():
-    donor_011 = [{
-        "basis_of_diagnosis": "Specific tumour markers",
-        "cancer_type_code": "C67.6",
-        "clinical_m_category": "M1a(1)",
-        "clinical_n_category": "N0b (no biopsy)",
-        "clinical_t_category": "TX",
-        "date_of_diagnosis": {
-            "month_interval": 69,
-            "day_interval": 2070
+    donors = [{
+        "cause_of_death": "Unknown",
+        "date_of_death": {
+            "month_interval": 90,
+            "day_interval": 2700
         },
-        "laterality": "Right",
-        "lymph_nodes_examined_method": "Imaging",
-        "lymph_nodes_examined_status": "No lymph nodes found in resected specimen",
-        "number_lymph_nodes_positive": 10,
-        "submitter_primary_diagnosis_id": "PRIMARY_DIAGNOSIS_016",
+        "gender": "Woman",
+        "is_deceased": True,
+        "primary_site": [
+            "Floor of mouth"
+        ],
         "program_id": "SYNTHETIC-2",
+        "sex_at_birth": "Other",
         "submitter_donor_id": "DONOR_011"
-    }]
-    donor_000 = [{
-        "submitter_primary_diagnosis_id": "PRIMARY_DIAGNOSIS_1a",
+    },
+    {
         "submitter_donor_id": "DONOR_000",
         "program_id": "SYNTHETIC-2"
     }]
-    return donor_011.extend(donor_000)
+    return donors
+
+
+def add_pds():
+    pds = [
+        {
+            "basis_of_diagnosis": "Specific tumour markers",
+            "cancer_type_code": "C67.6",
+            "clinical_m_category": "M1a(1)",
+            "clinical_n_category": "N0b (no biopsy)",
+            "clinical_t_category": "TX",
+            "date_of_diagnosis": {
+                "month_interval": 69,
+                "day_interval": 2070
+            },
+            "laterality": "Right",
+            "lymph_nodes_examined_method": "Imaging",
+            "lymph_nodes_examined_status": "No lymph nodes found in resected specimen",
+            "number_lymph_nodes_positive": 10,
+            "submitter_primary_diagnosis_id": "PRIMARY_DIAGNOSIS_016",
+            "program_id": "SYNTHETIC-2",
+            "submitter_donor_id": "DONOR_011"
+        },
+        {
+            "submitter_primary_diagnosis_id": "PRIMARY_DIAGNOSIS_1a",
+            "submitter_donor_id": "DONOR_000",
+            "program_id": "SYNTHETIC-2"
+        }]
+    return pds
 
 
 def add_specimens():
-    donor_011 = [
+    specimens = [
         {
             "pathological_m_category": "M1e",
             "pathological_n_category": "N0a",
@@ -140,18 +140,18 @@ def add_specimens():
             "submitter_donor_id": "DONOR_011",
             "tumour_grade": "Low",
             "tumour_histological_type": "8962/1"
+        },
+        {
+            "submitter_specimen_id": "SPECIMEN_1a",
+            "submitter_donor_id": "DONOR_000",
+            "submitter_primary_diagnosis_id": "PRIMARY_DIAGNOSIS_1a",
+            "program_id": "SYNTHETIC-2"
         }]
-    donor_000 = [{
-        "submitter_specimen_id": "SPECIMEN_1a",
-        "submitter_donor_id": "DONOR_000",
-        "submitter_primary_diagnosis_id": "PRIMARY_DIAGNOSIS_1a",
-        "program_id": "SYNTHETIC-2"
-    }]
-    return donor_011.extend(donor_000)
+    return specimens
 
 
 def add_samples():
-    donor_010 = [{
+    samples = [{
         "sample_type": "ctDNA",
         "specimen_tissue_source": "Fetal blood",
         "specimen_type": "Normal",
@@ -159,8 +159,7 @@ def add_samples():
         "tumour_normal_designation": "Tumour",
         "program_id": "SYNTHETIC-2",
         "submitter_donor_id": "DONOR_011"
-    }]
-    donor_000 = [
+    },
         {
             "submitter_sample_id": "SAMPLE_REGISTRATION_1a",
             "submitter_specimen_id": "SPECIMEN_1a",
@@ -174,11 +173,11 @@ def add_samples():
             "program_id": "SYNTHETIC-2"
         }
     ]
-    return donor_010.extend(donor_000)
+    return samples
 
 
 def add_treatments():
-    donor_010 = [
+    treatments = [
         {
             "days_per_cycle": 2,
             "is_primary_treatment": "No",
@@ -188,6 +187,9 @@ def add_treatments():
             "response_to_treatment_criteria_method": "Physician Assessed Response Criteria",
             "status_of_treatment": "Not applicable",
             "submitter_treatment_id": "TREATMENT_0025",
+            "submitter_primary_diagnosis_id": "PRIMARY_DIAGNOSIS_016",
+            "program_id": "SYNTHETIC-2",
+            "submitter_donor_id": "DONOR_011",
             "treatment_end_date": {
                 "month_interval": 87,
                 "day_interval": 2610
@@ -208,6 +210,9 @@ def add_treatments():
             "response_to_treatment_criteria_method": "Physician Assessed Response Criteria",
             "status_of_treatment": "Not applicable",
             "submitter_treatment_id": "TREATMENT_0026",
+            "submitter_primary_diagnosis_id": "PRIMARY_DIAGNOSIS_016",
+            "program_id": "SYNTHETIC-2",
+            "submitter_donor_id": "DONOR_011",
             "treatment_end_date": {
                 "month_interval": 87,
                 "day_interval": 2610
@@ -228,6 +233,9 @@ def add_treatments():
             "response_to_treatment_criteria_method": "Physician Assessed Response Criteria",
             "status_of_treatment": "Not applicable",
             "submitter_treatment_id": "TREATMENT_0027",
+            "submitter_primary_diagnosis_id": "PRIMARY_DIAGNOSIS_016",
+            "program_id": "SYNTHETIC-2",
+            "submitter_donor_id": "DONOR_011",
             "treatment_end_date": {
                 "month_interval": 87,
                 "day_interval": 2610
@@ -248,6 +256,9 @@ def add_treatments():
             "response_to_treatment_criteria_method": "Physician Assessed Response Criteria",
             "status_of_treatment": "Not applicable",
             "submitter_treatment_id": "TREATMENT_0034",
+            "submitter_primary_diagnosis_id": "PRIMARY_DIAGNOSIS_016",
+            "program_id": "SYNTHETIC-2",
+            "submitter_donor_id": "DONOR_011",
             "treatment_end_date": {
                 "month_interval": 87,
                 "day_interval": 2610
@@ -268,6 +279,9 @@ def add_treatments():
             "response_to_treatment_criteria_method": "Physician Assessed Response Criteria",
             "status_of_treatment": "Not applicable",
             "submitter_treatment_id": "TREATMENT_0028",
+            "submitter_primary_diagnosis_id": "PRIMARY_DIAGNOSIS_016",
+            "program_id": "SYNTHETIC-2",
+            "submitter_donor_id": "DONOR_011",
             "treatment_end_date": {
                 "month_interval": 87,
                 "day_interval": 2610
@@ -288,6 +302,9 @@ def add_treatments():
             "response_to_treatment_criteria_method": "Physician Assessed Response Criteria",
             "status_of_treatment": "Not applicable",
             "submitter_treatment_id": "TREATMENT_0029",
+            "submitter_primary_diagnosis_id": "PRIMARY_DIAGNOSIS_016",
+            "program_id": "SYNTHETIC-2",
+            "submitter_donor_id": "DONOR_011",
             "treatment_end_date": {
                 "month_interval": 87,
                 "day_interval": 2610
@@ -308,6 +325,9 @@ def add_treatments():
             "response_to_treatment_criteria_method": "Physician Assessed Response Criteria",
             "status_of_treatment": "Not applicable",
             "submitter_treatment_id": "TREATMENT_0030",
+            "submitter_primary_diagnosis_id": "PRIMARY_DIAGNOSIS_016",
+            "program_id": "SYNTHETIC-2",
+            "submitter_donor_id": "DONOR_011",
             "treatment_end_date": {
                 "month_interval": 87,
                 "day_interval": 2610
@@ -328,6 +348,9 @@ def add_treatments():
             "response_to_treatment_criteria_method": "Physician Assessed Response Criteria",
             "status_of_treatment": "Not applicable",
             "submitter_treatment_id": "TREATMENT_0031",
+            "submitter_primary_diagnosis_id": "PRIMARY_DIAGNOSIS_016",
+            "program_id": "SYNTHETIC-2",
+            "submitter_donor_id": "DONOR_011",
             "treatment_end_date": {
                 "month_interval": 87,
                 "day_interval": 2610
@@ -348,6 +371,9 @@ def add_treatments():
             "response_to_treatment_criteria_method": "Physician Assessed Response Criteria",
             "status_of_treatment": "Not applicable",
             "submitter_treatment_id": "TREATMENT_0033",
+            "submitter_primary_diagnosis_id": "PRIMARY_DIAGNOSIS_016",
+            "program_id": "SYNTHETIC-2",
+            "submitter_donor_id": "DONOR_011",
             "treatment_end_date": {
                 "month_interval": 87,
                 "day_interval": 2610
@@ -368,6 +394,9 @@ def add_treatments():
             "response_to_treatment_criteria_method": "Physician Assessed Response Criteria",
             "status_of_treatment": "Not applicable",
             "submitter_treatment_id": "TREATMENT_0032",
+            "submitter_primary_diagnosis_id": "PRIMARY_DIAGNOSIS_016",
+            "program_id": "SYNTHETIC-2",
+            "submitter_donor_id": "DONOR_011",
             "treatment_end_date": {
                 "month_interval": 87,
                 "day_interval": 2610
@@ -378,8 +407,7 @@ def add_treatments():
                 "day_interval": 750
             },
             "treatment_type": "Surgery"
-        }]
-    donor_000 = [
+        },
         {
             "submitter_treatment_id": "TREATMENT_1a",
             "submitter_donor_id": "DONOR_000",
@@ -393,11 +421,11 @@ def add_treatments():
             "program_id": "SYNTHETIC-2"
         }
     ]
-    return donor_010.extend(donor_000)
+    return treatments
 
 
 def add_chemo():
-    donor_000 = [
+    chemos = [
         {
             "submitter_treatment_id": "TREATMENT_2a",
             "actual_cumulative_drug_dose": 60,
@@ -418,29 +446,36 @@ def add_chemo():
             "program_id": "SYNTHETIC-2"
         }
     ]
-    return donor_000
+    return chemos
 
 
 def add_followups():
-    donor_000 = [
+    followups = [
         {
             "submitter_follow_up_id": "FOLLOW_UP_2a",
             "submitter_treatment_id": "TREATMENT_1a",
+            "submitter_primary_diagnosis_id": "PRIMARY_DIAGNOSIS_1a",
             "submitter_donor_id": "DONOR_000",
             "program_id": "SYNTHETIC-2"
         },
         {
             "submitter_follow_up_id": "FOLLOW_UP_1a",
-            "submitter_primary_diagnosis_id": "PRIMARY_DIAGNOSIS_1a",
+
+            "submitter_treatment_id": "TREATMENT_1a",
+            "submitter_donor_id": "DONOR_000",
+            "program_id": "SYNTHETIC-2"
+        },
+        {
+            "submitter_follow_up_id": "FOLLOW_UP_3a",
             "submitter_donor_id": "DONOR_000",
             "program_id": "SYNTHETIC-2"
         }
     ]
-    return donor_000
+    return followups
 
 
 def add_comorbidities():
-    donor_000 = [{
+    comorbidities = [{
         "age_at_comorbidity_diagnosis": 56,
         "comorbidity_type_code": "C43.9",
         "submitter_donor_id": "DONOR_000",
@@ -458,11 +493,11 @@ def add_comorbidities():
         }
 
     ]
-    return donor_000
+    return comorbidities
 
 
 def add_exposures():
-    donor_000 = [
+    exposures = [
         {
             "tobacco_smoking_status": "Current smoker",
             "submitter_donor_id": "DONOR_000",
@@ -474,11 +509,11 @@ def add_exposures():
             "program_id": "SYNTHETIC-2"
         }
     ]
-    return donor_000
+    return exposures
 
 
 def add_biomarkers():
-    donor_000 = [
+    biomarkers = [
         {
             "test_date": {
                 "month_interval": 49,
@@ -515,11 +550,11 @@ def add_biomarkers():
             "program_id": "SYNTHETIC-2"
         }
     ]
-    return donor_000
+    return biomarkers
 
 
 def add_hormone_therapies():
-    donor_000 = [
+    hormone_therapies = [
         {
             "submitter_treatment_id": "TREATMENT_2a",
             "drug_name": "Cabergoline",
@@ -541,11 +576,11 @@ def add_hormone_therapies():
             "program_id": "SYNTHETIC-2"
         }
     ]
-    return donor_000
+    return hormone_therapies
 
 
 def add_immunotherapies():
-    donor_000 = [
+    immunotherapies = [
         {
             "submitter_treatment_id": "TREATMENT_2a",
             "immunotherapy_type": "Other immunomodulatory substances",
@@ -567,11 +602,11 @@ def add_immunotherapies():
             "program_id": "SYNTHETIC-2"
         }
     ]
-    return donor_000
+    return immunotherapies
 
 
 def add_radiations():
-    donor_000 = [
+    radiations = [
         {
             "submitter_treatment_id": "TREATMENT_2a",
             "radiation_therapy_type": "Internal",
@@ -591,11 +626,11 @@ def add_radiations():
             "program_id": "SYNTHETIC-2"
         }
     ]
-    return donor_000
+    return radiations
 
 
 def add_surgeries():
-    donor_000 = [
+    surgeries = [
         {
             "submitter_treatment_id": "TREATMENT_2a",
             "submitter_specimen_id": "SPECIMEN_1a",
@@ -618,7 +653,7 @@ def add_surgeries():
             "program_id": "SYNTHETIC-2"
         }
     ]
-    return donor_000
+    return surgeries
 
 
 def add_objects(filename):

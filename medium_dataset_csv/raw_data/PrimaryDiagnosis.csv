@@ -299,3 +299,5 @@ date_of_diagnosis,cancer_type_code,basis_of_diagnosis,lymph_nodes_examined_statu
 "{'month_interval': 74, 'day_interval': 2220}",,Clinical,Yes,Imaging,6.0,Durie-Salmon staging system,Tis(Paget's),N0a (biopsy),,Stage IIIES,,PRIMARY_DIAGNOSIS_298,DONOR_98,SYNTHETIC-4
 "{'month_interval': 83, 'day_interval': 2490}",C02.9,Clinical investigation,No lymph nodes found in resected specimen,Physical palpation of patient,3.0,International Neuroblastoma Staging System,T4c,N0a (biopsy),M1b(0),Stage 3,Midline,PRIMARY_DIAGNOSIS_299,DONOR_99,SYNTHETIC-4
 "{'month_interval': 91, 'day_interval': 2730}",C02.0,Specific tumour markers,No,Lymph node dissection/pathological exam,4.0,Rai staging system,Tis(Paget's),N2a,M1a(1),Stage IVA1,,PRIMARY_DIAGNOSIS_300,DONOR_100,SYNTHETIC-4
+"{'month_interval': 69, 'day_interval': 2070}",C67.6,Specific tumour markers,No lymph nodes found in resected specimen,Imaging,10.0,,TX,N0b (no biopsy),M1a(1),,Right,PRIMARY_DIAGNOSIS_016,DONOR_011,SYNTHETIC-2
+,,,,,,,,,,,,PRIMARY_DIAGNOSIS_1a,DONOR_000,SYNTHETIC-2
