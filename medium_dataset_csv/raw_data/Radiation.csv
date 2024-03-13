@@ -279,6 +279,7 @@ SYNTHETIC-2,DONOR_67,TREATMENT_757,Brachytherapy (procedure),External,35,70,Lowe
 SYNTHETIC-2,DONOR_68,TREATMENT_758,Radiopharmaceutical,Internal,35,70,Whole C.N.S. (Medulla Techinque),False,
 SYNTHETIC-2,DONOR_69,TREATMENT_759,Brachytherapy (procedure),External,35,66,Right Orbit,False,
 SYNTHETIC-2,DONOR_70,TREATMENT_760,Teleradiotherapy neutrons (procedure),Internal,30,66,Right Fibula,False,
-SYNTHETIC-2,DONOR_000,TREATMENT_2a,,Internal,,,,,
-SYNTHETIC-2,DONOR_000,TREATMENT_2a,Teleradiotherapy neutrons (procedure),,,,,,
-SYNTHETIC-2,DONOR_000,TREATMENT_1a,,,,,Right Maxilla,,
+SYNTHETIC-2,DONOR_ALL,TREATMENT_ALL_01,Megavoltage radiation therapy using photons (procedure),Internal,35,66,Boost - Area Previously Treated,Yes,TREATMENT_0026
+SYNTHETIC-2,DONOR_NULL,TREATMENT_2a,,Internal,,,,,
+SYNTHETIC-2,DONOR_NULL,TREATMENT_2a,Teleradiotherapy neutrons (procedure),,,,,,
+SYNTHETIC-2,DONOR_NULL,TREATMENT_1a,,,,,Right Maxilla,,

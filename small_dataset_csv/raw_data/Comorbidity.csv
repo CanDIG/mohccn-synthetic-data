@@ -13,6 +13,7 @@ SYNTHETIC-1,DONOR_5,No,,39.0,,Yes,Other targeting molecular therapy
 SYNTHETIC-1,DONOR_6,Yes,Not applicable,,C02.2,,Radiation therapy
 SYNTHETIC-2,DONOR_7,Unknown,,42.0,C02.1,,Other targeting molecular therapy
 SYNTHETIC-2,DONOR_8,Unknown,,48.0,C43.9,Yes,Radiation therapy
-SYNTHETIC-2,DONOR_000,,,56.0,C43.9,,
-SYNTHETIC-2,DONOR_000,,,,,,Photodynamic therapy
-SYNTHETIC-2,DONOR_000,Yes,,,,,
+SYNTHETIC-2,DONOR_ALL,Yes,Right,56.0,C43.9,No,Surgery
+SYNTHETIC-2,DONOR_NULL,,,56.0,C43.9,,
+SYNTHETIC-2,DONOR_NULL,,,,,,Photodynamic therapy
+SYNTHETIC-2,DONOR_NULL,Yes,,,,,

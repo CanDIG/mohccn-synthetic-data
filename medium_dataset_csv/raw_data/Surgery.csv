@@ -239,7 +239,7 @@ SYNTHETIC-4,DONOR_97,,TREATMENT_997,Completion Gastrectomy,C20,Metastatic,6,4,6,
 SYNTHETIC-4,DONOR_98,,TREATMENT_998,Endoscopic biopsy,C20,Local recurrence,,5,4,Cannot be assessed,R2,,,Unknown,Distal margin,Present
 SYNTHETIC-4,DONOR_99,,TREATMENT_999,,C08,Metastatic,4,3,,Unknown,Not applicable,,Circumferential resection margin|Proximal margin,Not applicable,,Absent
 SYNTHETIC-4,DONOR_100,,TREATMENT_1000,Omentectomy,,Metastatic,,3,6,Cannot be assessed,R0,Unknown,Distal margin|Not applicable,Lymphatic and small vessel invasion only,Proximal margin,Unknown
-SYNTHETIC-2,DONOR_011,,TREATMENT_0025,,,,,,,,,Proximal margin|Distal margin,Common bile duct margin|Circumferential resection margin,,Unknown|Not applicable,
-SYNTHETIC-2,DONOR_000,SPECIMEN_1a,TREATMENT_2a,Wide Local Excision,,,,,,,,,,,,
-SYNTHETIC-2,DONOR_000,SPECIMEN_1a,TREATMENT_2a,,C11,,,,,,,,,,,
-SYNTHETIC-2,DONOR_000,SPECIMEN_1a,TREATMENT_1a,,,Metastatic,,,,,,,,,,
+SYNTHETIC-2,DONOR_ALL,SPECIMEN_ALL_01,TREATMENT_ALL_01,Wide Local Excision,C11,Metastatic,5,7,10,Multifocal,R0,Proximal margin|Distal margin,Common bile duct margin|Circumferential resection margin,Both lymphatic and small vessel and venous (large vessel) invasion,Unknown|Not applicable,Present
+SYNTHETIC-2,DONOR_NULL,SPECIMEN_1a,TREATMENT_2a,Wide Local Excision,,,,,,,,,,,,
+SYNTHETIC-2,DONOR_NULL,SPECIMEN_1a,TREATMENT_2a,,C11,,,,,,,,,,,
+SYNTHETIC-2,DONOR_NULL,SPECIMEN_1a,TREATMENT_1a,,,Metastatic,,,,,,,,,,

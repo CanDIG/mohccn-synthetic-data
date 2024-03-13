@@ -9999,6 +9999,7 @@ SYNTHETIC-6,DONOR_2997,TREATMENT_11997,Cell-based,Encorafenib,8836851,NCI Thesau
 SYNTHETIC-6,DONOR_2998,TREATMENT_11998,Immune checkpoint inhibitors,Mekinist,987654,NCI Thesaurus,IU/m2,172.0,181.0
 SYNTHETIC-6,DONOR_2999,TREATMENT_11999,Cell-based,Crizotinib,8836851,RxNorm,g/m2,102.0,98.0
 SYNTHETIC-6,DONOR_3000,TREATMENT_12000,Immune checkpoint inhibitors,Atezolizumab,4459876,RxNorm,IU/m2,55.0,64.0
-SYNTHETIC-2,DONOR_000,TREATMENT_2a,Other immunomodulatory substances,,,,,,
-SYNTHETIC-2,DONOR_000,TREATMENT_2a,,Nivolumab,987654,PubChem,,,
-SYNTHETIC-2,DONOR_000,TREATMENT_1a,,,,,mg/kg,,
+SYNTHETIC-2,DONOR_NULL,TREATMENT_2a,Other immunomodulatory substances,,,,,,
+SYNTHETIC-2,DONOR_NULL,TREATMENT_2a,,Nivolumab,987654,PubChem,,,
+SYNTHETIC-2,DONOR_NULL,TREATMENT_1a,,,,,mg/kg,,
+SYNTHETIC-2,DONOR_ALL,TREATMENT_ALL_01,Other immunomodulatory substances,Braftovi,2049112,RxNorm,ug/m2,133.0,100.0

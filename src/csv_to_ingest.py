@@ -11,8 +11,8 @@ def parse_args():
         type=str,
         default='s',
         choices=['s', 'm', 'l'],
-        help="Size of the synthetic dataset to convert, options: 's' for small, 'm' for medium, 'l' for large (default: "
-             "small)"
+        help="Size of the synthetic dataset to convert, options: 's' for small, 'm' for medium, 'l' for large (default:"
+             " small)"
     )
     args = parser.parse_args()
     return args

@@ -9999,6 +9999,6 @@ SYNTHETIC-10,DONOR_4997,Lifelong non-smoker (<100 cigarettes smoked in lifetime)
 SYNTHETIC-10,DONOR_4998,Lifelong non-smoker (<100 cigarettes smoked in lifetime),,
 SYNTHETIC-10,DONOR_4999,Current reformed smoker for > 15 years,,
 SYNTHETIC-10,DONOR_5000,Not applicable,,
-SYNTHETIC-2,DONOR_000,Current smoker,,
-SYNTHETIC-2,DONOR_000,,,72.0
-SYNTHETIC-2,DONOR_011,,Cigar|Cigarettes|Roll-ups|Pipe,
+SYNTHETIC-2,DONOR_NULL,Current smoker,,
+SYNTHETIC-2,DONOR_NULL,,,72.0
+SYNTHETIC-2,DONOR_ALL,Current reformed smoker for > 15 years,Cigar|Cigarettes|Roll-ups|Pipe,100.0

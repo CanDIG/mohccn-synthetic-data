@@ -3999,6 +3999,7 @@ SYNTHETIC-8,DONOR_3997,TREATMENT_15997,Brachytherapy (procedure),Internal,,70,Ri
 SYNTHETIC-8,DONOR_3998,TREATMENT_15998,Radiopharmaceutical,External,,66,Pancreas,True,REFERENCE_RADIATION_TREATMENT_998
 SYNTHETIC-8,DONOR_3999,TREATMENT_15999,Radiopharmaceutical,External,30,70,,False,
 SYNTHETIC-8,DONOR_4000,TREATMENT_16000,Brachytherapy (procedure),,35,,Bilateral Heel,False,
-SYNTHETIC-2,DONOR_000,TREATMENT_2a,,Internal,,,,,
-SYNTHETIC-2,DONOR_000,TREATMENT_2a,Teleradiotherapy neutrons (procedure),,,,,,
-SYNTHETIC-2,DONOR_000,TREATMENT_1a,,,,,Right Maxilla,,
+SYNTHETIC-2,DONOR_ALL,TREATMENT_ALL_01,Megavoltage radiation therapy using photons (procedure),Internal,35,66,Boost - Area Previously Treated,Yes,TREATMENT_0026
+SYNTHETIC-2,DONOR_NULL,TREATMENT_2a,,Internal,,,,,
+SYNTHETIC-2,DONOR_NULL,TREATMENT_2a,Teleradiotherapy neutrons (procedure),,,,,,
+SYNTHETIC-2,DONOR_NULL,TREATMENT_1a,,,,,Right Maxilla,,
