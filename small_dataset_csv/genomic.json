@@ -72,11 +72,11 @@
         "program_id": "SYNTHETIC-2",
         "genomic_file_id": "HG00100-cram",
         "main": {
-            "access_method": "https://s3.us-east-1.amazonaws.com/1000genomes/phase3/data/HG00100/exome_alignment/HG00100.mapped.ILLUMINA.bwa.GBR.exome.20121211.bam.cram?public=true",
+            "access_method": "http://s3.us-east-1.amazonaws.com/1000genomes/phase3/data/HG00100/exome_alignment/HG00100.mapped.ILLUMINA.bwa.GBR.exome.20121211.bam.cram?public=true",
             "name": "HG00100.mapped.ILLUMINA.bwa.GBR.exome.20121211.bam.cram"
         },
         "index": {
-            "access_method": "https://s3.us-east-1.amazonaws.com/1000genomes/phase3/data/HG00100/exome_alignment/HG00100.mapped.ILLUMINA.bwa.GBR.exome.20121211.bam.cram.crai?public=true",
+            "access_method": "http://s3.us-east-1.amazonaws.com/1000genomes/phase3/data/HG00100/exome_alignment/HG00100.mapped.ILLUMINA.bwa.GBR.exome.20121211.bam.cram.crai?public=true",
             "name": "HG00100.mapped.ILLUMINA.bwa.GBR.exome.20121211.bam.cram.crai"
         },
         "metadata": {
@@ -95,11 +95,11 @@
         "program_id": "SYNTHETIC-2",
         "genomic_file_id": "HG00100-chrom20-bam",
         "main": {
-            "access_method": "https://s3.us-east-1.amazonaws.com/1000genomes/phase3/data/HG00100/exome_alignment/HG00100.chrom20.ILLUMINA.bwa.GBR.exome.20121211.bam?public=true",
+            "access_method": "http://s3.us-east-1.amazonaws.com/1000genomes/phase3/data/HG00100/exome_alignment/HG00100.chrom20.ILLUMINA.bwa.GBR.exome.20121211.bam?public=true",
             "name": "HG00100.chrom20.ILLUMINA.bwa.GBR.exome.20121211.bam"
         },
         "index": {
-            "access_method": "https://s3.us-east-1.amazonaws.com/1000genomes/phase3/data/HG00100/exome_alignment/HG00100.chrom20.ILLUMINA.bwa.GBR.exome.20121211.bam.bai?public=true",
+            "access_method": "http://s3.us-east-1.amazonaws.com/1000genomes/phase3/data/HG00100/exome_alignment/HG00100.chrom20.ILLUMINA.bwa.GBR.exome.20121211.bam.bai?public=true",
             "name": "HG00100.chrom20.ILLUMINA.bwa.GBR.exome.20121211.bam.bai"
         },
         "metadata": {
