@@ -70,22 +70,28 @@ def process_followups(df):
 def add_extra_donors():
     donors = [{
         "cause_of_death": "Unknown",
-        "date_of_death": {
-            "month_interval": 90,
-            "day_interval": 2700
+        "date_of_birth": {
+            "month_interval": -700,
+            "day_interval": -21292
         },
         "gender": "Woman",
-        "is_deceased": True,
+        "is_deceased": False,
         "primary_site": [
             "Floor of mouth",
             "Other and unspecified parts of mouth"
         ],
         "program_id": "SYNTHETIC-2",
         "sex_at_birth": "Other",
-        "submitter_donor_id": "DONOR_011"
+        "lost_to_followup_after_clinical_event_identifier": "TREATMENT_0033",
+        "lost_to_followup_reason": "Withdrew from study",
+        "date_alive_after_lost_to_followup": {
+                "month_interval": 88,
+                "day_interval": 2640
+            },
+        "submitter_donor_id": "DONOR_ALL"
     },
     {
-        "submitter_donor_id": "DONOR_000",
+        "submitter_donor_id": "DONOR_NULL",
         "program_id": "SYNTHETIC-2"
     }]
     return donors
@@ -109,11 +115,11 @@ def add_pds():
             "number_lymph_nodes_positive": 10,
             "submitter_primary_diagnosis_id": "PRIMARY_DIAGNOSIS_016",
             "program_id": "SYNTHETIC-2",
-            "submitter_donor_id": "DONOR_011"
+            "submitter_donor_id": "DONOR_ALL"
         },
         {
             "submitter_primary_diagnosis_id": "PRIMARY_DIAGNOSIS_1a",
-            "submitter_donor_id": "DONOR_000",
+            "submitter_donor_id": "DONOR_NULL",
             "program_id": "SYNTHETIC-2"
         }]
     return pds
@@ -138,13 +144,13 @@ def add_specimens():
             "specimen_processing": "Cryopreservation in liquid nitrogen (dead tissue)",
             "submitter_specimen_id": "SPECIMEN_022",
             "program_id": "SYNTHETIC-2",
-            "submitter_donor_id": "DONOR_011",
+            "submitter_donor_id": "DONOR_ALL",
             "tumour_grade": "Low",
             "tumour_histological_type": "8962/1"
         },
         {
             "submitter_specimen_id": "SPECIMEN_1a",
-            "submitter_donor_id": "DONOR_000",
+            "submitter_donor_id": "DONOR_NULL",
             "submitter_primary_diagnosis_id": "PRIMARY_DIAGNOSIS_1a",
             "program_id": "SYNTHETIC-2"
         }]
@@ -159,18 +165,18 @@ def add_samples():
         "submitter_sample_id": "SAMPLE_REGISTRATION_28",
         "tumour_normal_designation": "Tumour",
         "program_id": "SYNTHETIC-2",
-        "submitter_donor_id": "DONOR_011"
+        "submitter_donor_id": "DONOR_ALL"
     },
         {
             "submitter_sample_id": "SAMPLE_REGISTRATION_1a",
             "submitter_specimen_id": "SPECIMEN_1a",
-            "submitter_donor_id": "DONOR_000",
+            "submitter_donor_id": "DONOR_NULL",
             "program_id": "SYNTHETIC-2"
         },
         {
             "submitter_sample_id": "SAMPLE_REGISTRATION_2a",
             "submitter_specimen_id": "SPECIMEN_1a",
-            "submitter_donor_id": "DONOR_000",
+            "submitter_donor_id": "DONOR_NULL",
             "program_id": "SYNTHETIC-2"
         }
     ]
@@ -190,7 +196,7 @@ def add_treatments():
             "submitter_treatment_id": "TREATMENT_0025",
             "submitter_primary_diagnosis_id": "PRIMARY_DIAGNOSIS_016",
             "program_id": "SYNTHETIC-2",
-            "submitter_donor_id": "DONOR_011",
+            "submitter_donor_id": "DONOR_ALL",
             "treatment_end_date": {
                 "month_interval": 87,
                 "day_interval": 2610
@@ -213,7 +219,7 @@ def add_treatments():
             "submitter_treatment_id": "TREATMENT_0026",
             "submitter_primary_diagnosis_id": "PRIMARY_DIAGNOSIS_016",
             "program_id": "SYNTHETIC-2",
-            "submitter_donor_id": "DONOR_011",
+            "submitter_donor_id": "DONOR_ALL",
             "treatment_end_date": {
                 "month_interval": 87,
                 "day_interval": 2610
@@ -236,7 +242,7 @@ def add_treatments():
             "submitter_treatment_id": "TREATMENT_0027",
             "submitter_primary_diagnosis_id": "PRIMARY_DIAGNOSIS_016",
             "program_id": "SYNTHETIC-2",
-            "submitter_donor_id": "DONOR_011",
+            "submitter_donor_id": "DONOR_ALL",
             "treatment_end_date": {
                 "month_interval": 87,
                 "day_interval": 2610
@@ -259,7 +265,7 @@ def add_treatments():
             "submitter_treatment_id": "TREATMENT_0034",
             "submitter_primary_diagnosis_id": "PRIMARY_DIAGNOSIS_016",
             "program_id": "SYNTHETIC-2",
-            "submitter_donor_id": "DONOR_011",
+            "submitter_donor_id": "DONOR_ALL",
             "treatment_end_date": {
                 "month_interval": 87,
                 "day_interval": 2610
@@ -282,7 +288,7 @@ def add_treatments():
             "submitter_treatment_id": "TREATMENT_0028",
             "submitter_primary_diagnosis_id": "PRIMARY_DIAGNOSIS_016",
             "program_id": "SYNTHETIC-2",
-            "submitter_donor_id": "DONOR_011",
+            "submitter_donor_id": "DONOR_ALL",
             "treatment_end_date": {
                 "month_interval": 87,
                 "day_interval": 2610
@@ -305,7 +311,7 @@ def add_treatments():
             "submitter_treatment_id": "TREATMENT_0029",
             "submitter_primary_diagnosis_id": "PRIMARY_DIAGNOSIS_016",
             "program_id": "SYNTHETIC-2",
-            "submitter_donor_id": "DONOR_011",
+            "submitter_donor_id": "DONOR_ALL",
             "treatment_end_date": {
                 "month_interval": 87,
                 "day_interval": 2610
@@ -328,7 +334,7 @@ def add_treatments():
             "submitter_treatment_id": "TREATMENT_0030",
             "submitter_primary_diagnosis_id": "PRIMARY_DIAGNOSIS_016",
             "program_id": "SYNTHETIC-2",
-            "submitter_donor_id": "DONOR_011",
+            "submitter_donor_id": "DONOR_ALL",
             "treatment_end_date": {
                 "month_interval": 87,
                 "day_interval": 2610
@@ -351,7 +357,7 @@ def add_treatments():
             "submitter_treatment_id": "TREATMENT_0031",
             "submitter_primary_diagnosis_id": "PRIMARY_DIAGNOSIS_016",
             "program_id": "SYNTHETIC-2",
-            "submitter_donor_id": "DONOR_011",
+            "submitter_donor_id": "DONOR_ALL",
             "treatment_end_date": {
                 "month_interval": 87,
                 "day_interval": 2610
@@ -374,7 +380,7 @@ def add_treatments():
             "submitter_treatment_id": "TREATMENT_0033",
             "submitter_primary_diagnosis_id": "PRIMARY_DIAGNOSIS_016",
             "program_id": "SYNTHETIC-2",
-            "submitter_donor_id": "DONOR_011",
+            "submitter_donor_id": "DONOR_ALL",
             "treatment_end_date": {
                 "month_interval": 87,
                 "day_interval": 2610
@@ -397,7 +403,7 @@ def add_treatments():
             "submitter_treatment_id": "TREATMENT_0032",
             "submitter_primary_diagnosis_id": "PRIMARY_DIAGNOSIS_016",
             "program_id": "SYNTHETIC-2",
-            "submitter_donor_id": "DONOR_011",
+            "submitter_donor_id": "DONOR_ALL",
             "treatment_end_date": {
                 "month_interval": 87,
                 "day_interval": 2610
@@ -411,13 +417,13 @@ def add_treatments():
         },
         {
             "submitter_treatment_id": "TREATMENT_1a",
-            "submitter_donor_id": "DONOR_000",
+            "submitter_donor_id": "DONOR_NULL",
             "submitter_primary_diagnosis_id": "PRIMARY_DIAGNOSIS_1a",
             "program_id": "SYNTHETIC-2"
         },
         {
             "submitter_treatment_id": "TREATMENT_2a",
-            "submitter_donor_id": "DONOR_000",
+            "submitter_donor_id": "DONOR_NULL",
             "submitter_primary_diagnosis_id": "PRIMARY_DIAGNOSIS_1a",
             "program_id": "SYNTHETIC-2"
         }
@@ -430,20 +436,20 @@ def add_chemo():
         {
             "submitter_treatment_id": "TREATMENT_2a",
             "actual_cumulative_drug_dose": 60,
-            "submitter_donor_id": "DONOR_000",
+            "submitter_donor_id": "DONOR_NULL",
             "program_id": "SYNTHETIC-2"
         },
         {
             "submitter_treatment_id": "TREATMENT_2a",
             "prescribed_cumulative_drug_dose": 4600,
-            "submitter_donor_id": "DONOR_000",
+            "submitter_donor_id": "DONOR_NULL",
             "program_id": "SYNTHETIC-2"
         },
         {
             "submitter_treatment_id": "TREATMENT_1a",
             "drug_name": "Gemcitabine",
             "drug_reference_database": "NCI Thesaurus",
-            "submitter_donor_id": "DONOR_000",
+            "submitter_donor_id": "DONOR_NULL",
             "program_id": "SYNTHETIC-2"
         }
     ]
@@ -456,26 +462,26 @@ def add_followups():
             "submitter_treatment_id": "TREATMENT_0025",
             "submitter_follow_up_id": "FOLLOW_UP_0025",
             "program_id": "SYNTHETIC-2",
-            "submitter_donor_id": "DONOR_011",
+            "submitter_donor_id": "DONOR_ALL",
             "anatomic_site_progression_or_recurrence": ["C00.9", "C01.9"]
         },
         {
             "submitter_follow_up_id": "FOLLOW_UP_2a",
             "submitter_treatment_id": "TREATMENT_1a",
             "submitter_primary_diagnosis_id": "PRIMARY_DIAGNOSIS_1a",
-            "submitter_donor_id": "DONOR_000",
+            "submitter_donor_id": "DONOR_NULL",
             "program_id": "SYNTHETIC-2"
         },
         {
             "submitter_follow_up_id": "FOLLOW_UP_1a",
 
             "submitter_treatment_id": "TREATMENT_1a",
-            "submitter_donor_id": "DONOR_000",
+            "submitter_donor_id": "DONOR_NULL",
             "program_id": "SYNTHETIC-2"
         },
         {
             "submitter_follow_up_id": "FOLLOW_UP_3a",
-            "submitter_donor_id": "DONOR_000",
+            "submitter_donor_id": "DONOR_NULL",
             "program_id": "SYNTHETIC-2"
         }
     ]
@@ -486,17 +492,17 @@ def add_comorbidities():
     comorbidities = [{
         "age_at_comorbidity_diagnosis": 56,
         "comorbidity_type_code": "C43.9",
-        "submitter_donor_id": "DONOR_000",
+        "submitter_donor_id": "DONOR_NULL",
         "program_id": "SYNTHETIC-2"
     },
         {
             "comorbidity_treatment": "Photodynamic therapy",
-            "submitter_donor_id": "DONOR_000",
+            "submitter_donor_id": "DONOR_NULL",
             "program_id": "SYNTHETIC-2"
         },
         {
             "prior_malignancy": "Yes",
-            "submitter_donor_id": "DONOR_000",
+            "submitter_donor_id": "DONOR_NULL",
             "program_id": "SYNTHETIC-2"
         }
 
@@ -508,17 +514,17 @@ def add_exposures():
     exposures = [
         {
             "tobacco_smoking_status": "Current smoker",
-            "submitter_donor_id": "DONOR_000",
+            "submitter_donor_id": "DONOR_NULL",
             "program_id": "SYNTHETIC-2"
         },
         {
             "pack_years_smoked": 72,
-            "submitter_donor_id": "DONOR_000",
+            "submitter_donor_id": "DONOR_NULL",
             "program_id": "SYNTHETIC-2"
         },
         {
             "program_id": "SYNTHETIC-2",
-            "submitter_donor_id": "DONOR_011",
+            "submitter_donor_id": "DONOR_ALL",
             "tobacco_type": ["Cigar", "Cigarettes", "Roll-ups", "Pipe"]
         }
     ]
@@ -533,12 +539,12 @@ def add_biomarkers():
                 "day_interval": 1470,
 
             },
-            "submitter_donor_id": "DONOR_000",
+            "submitter_donor_id": "DONOR_NULL",
             "program_id": "SYNTHETIC-2"
         },
         {
             "ca125": 109,
-            "submitter_donor_id": "DONOR_000",
+            "submitter_donor_id": "DONOR_NULL",
             "program_id": "SYNTHETIC-2"
         },
         {
@@ -547,24 +553,24 @@ def add_biomarkers():
                 "HPV58",
                 "HPV35"
             ],
-            "submitter_donor_id": "DONOR_000",
+            "submitter_donor_id": "DONOR_NULL",
             "program_id": "SYNTHETIC-2"
         },
         {
             "er_status": "Not applicable",
             "her2_ihc_status": "Cannot be determined",
             "her2_ish_status": "Positive",
-            "submitter_donor_id": "DONOR_000",
+            "submitter_donor_id": "DONOR_NULL",
             "program_id": "SYNTHETIC-2"
         },
         {
             "cea": 5,
-            "submitter_donor_id": "DONOR_000",
+            "submitter_donor_id": "DONOR_NULL",
             "program_id": "SYNTHETIC-2"
         },
         {
             "program_id": "SYNTHETIC-2",
-            "submitter_donor_id": "DONOR_011",
+            "submitter_donor_id": "DONOR_ALL",
             "hpv_strain": [
                 "HPV16",
                 "HPV68",
@@ -581,21 +587,21 @@ def add_hormone_therapies():
         {
             "submitter_treatment_id": "TREATMENT_2a",
             "drug_name": "Cabergoline",
-            "submitter_donor_id": "DONOR_000",
+            "submitter_donor_id": "DONOR_NULL",
             "program_id": "SYNTHETIC-2"
         },
         {
             "submitter_treatment_id": "TREATMENT_2a",
             "drug_name": "Lutetium Lu 177 Dotatate",
             "drug_reference_identifier": "557845",
-            "submitter_donor_id": "DONOR_000",
+            "submitter_donor_id": "DONOR_NULL",
             "program_id": "SYNTHETIC-2"
         },
         {
             "submitter_treatment_id": "TREATMENT_1a",
             "prescribed_cumulative_drug_dose": 106,
             "actual_cumulative_drug_dose": 85,
-            "submitter_donor_id": "DONOR_000",
+            "submitter_donor_id": "DONOR_NULL",
             "program_id": "SYNTHETIC-2"
         }
     ]
@@ -607,7 +613,7 @@ def add_immunotherapies():
         {
             "submitter_treatment_id": "TREATMENT_2a",
             "immunotherapy_type": "Other immunomodulatory substances",
-            "submitter_donor_id": "DONOR_000",
+            "submitter_donor_id": "DONOR_NULL",
             "program_id": "SYNTHETIC-2"
         },
         {
@@ -615,13 +621,13 @@ def add_immunotherapies():
             "drug_name": "Nivolumab",
             "drug_reference_identifier": "987654",
             "drug_reference_database": "PubChem",
-            "submitter_donor_id": "DONOR_000",
+            "submitter_donor_id": "DONOR_NULL",
             "program_id": "SYNTHETIC-2"
         },
         {
             "submitter_treatment_id": "TREATMENT_1a",
             "immunotherapy_drug_dose_units": "mg/kg",
-            "submitter_donor_id": "DONOR_000",
+            "submitter_donor_id": "DONOR_NULL",
             "program_id": "SYNTHETIC-2"
         }
     ]
@@ -633,19 +639,19 @@ def add_radiations():
         {
             "submitter_treatment_id": "TREATMENT_2a",
             "radiation_therapy_type": "Internal",
-            "submitter_donor_id": "DONOR_000",
+            "submitter_donor_id": "DONOR_NULL",
             "program_id": "SYNTHETIC-2"
         },
         {
             "submitter_treatment_id": "TREATMENT_2a",
             "radiation_therapy_modality": "Teleradiotherapy neutrons (procedure)",
-            "submitter_donor_id": "DONOR_000",
+            "submitter_donor_id": "DONOR_NULL",
             "program_id": "SYNTHETIC-2"
         },
         {
             "submitter_treatment_id": "TREATMENT_1a",
             "anatomical_site_irradiated": "Right Maxilla",
-            "submitter_donor_id": "DONOR_000",
+            "submitter_donor_id": "DONOR_NULL",
             "program_id": "SYNTHETIC-2"
         }
     ]
@@ -657,7 +663,7 @@ def add_surgeries():
         {
             "submitter_treatment_id": "TREATMENT_0025",
             "program_id": "SYNTHETIC-2",
-            "submitter_donor_id": "DONOR_011",
+            "submitter_donor_id": "DONOR_ALL",
             "margin_types_involved": ["Proximal margin", "Distal margin"],
             "margin_types_not_involved": ["Common bile duct margin", "Circumferential resection margin"],
             "margin_types_not_assessed": ["Unknown", "Not applicable"]
@@ -666,21 +672,21 @@ def add_surgeries():
             "submitter_treatment_id": "TREATMENT_2a",
             "submitter_specimen_id": "SPECIMEN_1a",
             "surgery_type": "Wide Local Excision",
-            "submitter_donor_id": "DONOR_000",
+            "submitter_donor_id": "DONOR_NULL",
             "program_id": "SYNTHETIC-2"
         },
         {
             "submitter_treatment_id": "TREATMENT_2a",
             "submitter_specimen_id": "SPECIMEN_1a",
             "surgery_site": "C11",
-            "submitter_donor_id": "DONOR_000",
+            "submitter_donor_id": "DONOR_NULL",
             "program_id": "SYNTHETIC-2"
         },
         {
             "submitter_treatment_id": "TREATMENT_1a",
             "submitter_specimen_id": "SPECIMEN_1a",
             "surgery_location": "Metastatic",
-            "submitter_donor_id": "DONOR_000",
+            "submitter_donor_id": "DONOR_NULL",
             "program_id": "SYNTHETIC-2"
         }
     ]

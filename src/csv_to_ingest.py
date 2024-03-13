@@ -1,7 +1,7 @@
 
 import argparse
 import os
-import subprocess
+from clinical_etl import CSVConvert
 
 
 def parse_args():
@@ -24,7 +24,7 @@ def main():
     repo_dir = os.path.dirname(os.path.dirname(__file__))
     manifest_path = f"{repo_dir}/{size}_dataset_csv/"
     dataset_path = f"{manifest_path}raw_data"
-    subprocess.run([f'CSVConvert --input {dataset_path} --manifest {manifest_path}manifest.yml --minify'], shell=True)
+    CSVConvert.csv_convert(input_path=dataset_path, manifest_file=f"{manifest_path}/manifest.yml", minify=True, index_output=False)
 
 
 if __name__ == "__main__":
