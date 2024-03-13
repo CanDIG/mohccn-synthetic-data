@@ -11,7 +11,8 @@ def parse_args():
         type=str,
         default='s',
         choices=['s', 'm', 'l'],
-        help="Size of the synthetic dataset to convert, options: 's' for small, 'm' for medium, 'l' for large (default: small)"
+        help="Size of the synthetic dataset to convert, options: 's' for small, 'm' for medium, 'l' for large (default: "
+             "small)"
     )
     args = parser.parse_args()
     return args
@@ -24,7 +25,8 @@ def main():
     repo_dir = os.path.dirname(os.path.dirname(__file__))
     manifest_path = f"{repo_dir}/{size}_dataset_csv/"
     dataset_path = f"{manifest_path}raw_data"
-    CSVConvert.csv_convert(input_path=dataset_path, manifest_file=f"{manifest_path}/manifest.yml", minify=True, index_output=False)
+    CSVConvert.csv_convert(input_path=dataset_path, manifest_file=f"{manifest_path}/manifest.yml", minify=True,
+                           index_output=False)
 
 
 if __name__ == "__main__":
