@@ -3999,7 +3999,7 @@ SYNTHETIC-10,DONOR_4997,,TREATMENT_19997,Cholecystectomy,C03,Local recurrence,9,
 SYNTHETIC-10,DONOR_4998,,TREATMENT_19998,Wedge/localised gastric resection,C05,Primary,,,,Unifocal,,Unknown,Not applicable,Venous (large vessel) invasion only,Not applicable|Proximal margin,Unknown
 SYNTHETIC-10,DONOR_4999,,TREATMENT_19999,Esophageal bypass surgery/jejunostomy only,C12,Primary,8,5,3,,Not applicable,Distal margin,,Lymphatic and small vessel invasion only,,Unknown
 SYNTHETIC-10,DONOR_5000,,TREATMENT_20000,Cholecystectomy,C15,Primary,4,3,4,Not applicable,RX,,Circumferential resection margin,Not applicable,,Unknown
-SYNTHETIC-2,DONOR_ALL,SPECIMEN_ALL_01,TREATMENT_ALL_01,Wide Local Excision,C11,Metastatic,5,7,10,Multifocal,R0,Proximal margin|Distal margin,Common bile duct margin|Circumferential resection margin,Both lymphatic and small vessel and venous (large vessel) invasion,Unknown|Not applicable,Present
+SYNTHETIC-2,DONOR_ALL_01,SPECIMEN_ALL_01,TREATMENT_ALL_01,Wide Local Excision,C11,Metastatic,5,7,10,Multifocal,R0,Proximal margin|Distal margin,Common bile duct margin|Circumferential resection margin,Both lymphatic and small vessel and venous (large vessel) invasion,Unknown|Not applicable,Present
 SYNTHETIC-2,DONOR_NULL,SPECIMEN_1a,TREATMENT_2a,Wide Local Excision,,,,,,,,,,,,
 SYNTHETIC-2,DONOR_NULL,SPECIMEN_1a,TREATMENT_2a,,C11,,,,,,,,,,,
 SYNTHETIC-2,DONOR_NULL,SPECIMEN_1a,TREATMENT_1a,,,Metastatic,,,,,,,,,,

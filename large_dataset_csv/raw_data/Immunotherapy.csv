@@ -10002,4 +10002,4 @@ SYNTHETIC-6,DONOR_3000,TREATMENT_12000,Immune checkpoint inhibitors,Atezolizumab
 SYNTHETIC-2,DONOR_NULL,TREATMENT_2a,Other immunomodulatory substances,,,,,,
 SYNTHETIC-2,DONOR_NULL,TREATMENT_2a,,Nivolumab,987654,PubChem,,,
 SYNTHETIC-2,DONOR_NULL,TREATMENT_1a,,,,,mg/kg,,
-SYNTHETIC-2,DONOR_ALL,TREATMENT_ALL_01,Other immunomodulatory substances,Braftovi,2049112,RxNorm,ug/m2,133.0,100.0
+SYNTHETIC-2,DONOR_ALL_01,TREATMENT_ALL_01,Other immunomodulatory substances,Braftovi,2049112,RxNorm,ug/m2,133.0,100.0

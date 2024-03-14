@@ -18004,4 +18004,4 @@ test_date,psa_level,ca125,cea,er_status,er_percent_positive,pr_status,her2_ihc_s
 ,,,,,,,,,,,HPV52|HPV58|HPV35,DONOR_NULL,SYNTHETIC-2,,,,,FOLLOW_UP_2a
 ,,,,Not applicable,,,Cannot be determined,Positive,,,,DONOR_NULL,SYNTHETIC-2,,,SPECIMEN_1a,,
 ,,,5.0,,,,,,,,,DONOR_NULL,SYNTHETIC-2,,,,TREATMENT_2a,
-"{'month_interval': 49, 'day_interval': 1470}",265.0,59.0,9.0,Positive,89.5,Positive,Negative,Cannot be determined,Unknown,Positive,HPV16|HPV68|HPV31|HPV59,DONOR_ALL,SYNTHETIC-2,51.0,PRIMARY_DIAGNOSIS_ALL_01,,,
+"{'month_interval': 49, 'day_interval': 1470}",265.0,59.0,9.0,Positive,89.5,Positive,Negative,Cannot be determined,Unknown,Positive,HPV16|HPV68|HPV31|HPV59,DONOR_ALL_01,SYNTHETIC-2,51.0,PRIMARY_DIAGNOSIS_ALL_01,,,

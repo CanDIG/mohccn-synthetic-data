@@ -15,5 +15,6 @@ date_of_diagnosis,cancer_type_code,basis_of_diagnosis,lymph_nodes_examined_statu
 "{'month_interval': 89, 'day_interval': 2670}",C67.6,Death certificate only,No lymph nodes found in resected specimen,Lymph node dissection/pathological exam,3.0,AJCC 7th edition,Tis(LAMN),,Stage IBE,Right,PRIMARY_DIAGNOSIS_14,DONOR_8,SYNTHETIC-2,N3a
 "{'month_interval': 31, 'day_interval': 930}",C43.9,Cytology,No lymph nodes found in resected specimen,Physical palpation of patient,9.0,St Jude staging system,Tis(Paget's),M1c(0),Stage IIAS,Right,PRIMARY_DIAGNOSIS_15,DONOR_9,SYNTHETIC-2,N2b
 "{'month_interval': 69, 'day_interval': 2070}",C67.6,Specific tumour markers,No lymph nodes found in resected specimen,Imaging,10.0,,TX,M1a(1),,Right,PRIMARY_DIAGNOSIS_16,DONOR_10,SYNTHETIC-2,N0b (no biopsy)
-"{'month_interval': 69, 'day_interval': 2070}",C67.6,Specific tumour markers,No lymph nodes found in resected specimen,Imaging,10.0,AJCC 8th edition,TX,M1a(1),Stage II,Right,PRIMARY_DIAGNOSIS_ALL_01,DONOR_ALL,SYNTHETIC-2,N0b (no biopsy)
+"{'month_interval': 69, 'day_interval': 2070}",C67.6,Specific tumour markers,No lymph nodes found in resected specimen,Imaging,10.0,AJCC 8th edition,TX,M1a(1),Stage II,Right,PRIMARY_DIAGNOSIS_ALL_02,DONOR_ALL_02,SYNTHETIC-2,N0b (no biopsy)
+"{'month_interval': 69, 'day_interval': 2070}",C67.6,Specific tumour markers,No lymph nodes found in resected specimen,Imaging,10.0,AJCC 8th edition,TX,M1a(1),Stage II,Right,PRIMARY_DIAGNOSIS_ALL_01,DONOR_ALL_01,SYNTHETIC-2,N0b (no biopsy)
 ,,,,,,,,,,,PRIMARY_DIAGNOSIS_1a,DONOR_NULL,SYNTHETIC-2,

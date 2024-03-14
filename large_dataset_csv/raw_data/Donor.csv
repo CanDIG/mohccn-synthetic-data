@@ -4999,5 +4999,6 @@ True,Died of cancer,month,{'month_interval': -323},{'month_interval': 60},"Nasal
 True,Died of other reasons,day,"{'month_interval': -750, 'day_interval': -22500}","{'month_interval': 63, 'day_interval': 1890}",Unknown primary site|Liver and intrahepatic bile ducts|Pyriform sinus,Woman,Female,,,DONOR_4998,SYNTHETIC-10,
 ,,month,{'month_interval': -934},,Other and unspecified parts of mouth|Bladder,Man,Other,,{'month_interval': 34},DONOR_4999,SYNTHETIC-10,
 ,,day,"{'month_interval': -793, 'day_interval': -23790}",,,,Other,,"{'month_interval': 37, 'day_interval': 1110}",DONOR_5000,SYNTHETIC-10,
-False,,day,"{'month_interval': -700, 'day_interval': -21292}",,Floor of mouth|Other and unspecified parts of mouth,Woman,Other,Withdrew from study,"{'month_interval': 90, 'day_interval': 2700}",DONOR_ALL,SYNTHETIC-2,TREATMENT_0033
+True,Unknown,day,"{'month_interval': -700, 'day_interval': -21292}",,Floor of mouth|Other and unspecified parts of mouth,Woman,Other,,,DONOR_ALL_02,SYNTHETIC-2,
+False,,day,"{'month_interval': -700, 'day_interval': -21292}",,Floor of mouth|Other and unspecified parts of mouth,Woman,Other,Withdrew from study,"{'month_interval': 90, 'day_interval': 2700}",DONOR_ALL_01,SYNTHETIC-2,TREATMENT_0033
 ,,month,,,,,,,,DONOR_NULL,SYNTHETIC-2,
