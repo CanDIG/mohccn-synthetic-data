@@ -99,5 +99,6 @@ True,Died of cancer,"{'month_interval': -210, 'day_interval': -6300}","{'month_i
 True,Died of other reasons,"{'month_interval': -623, 'day_interval': -18690}","{'month_interval': 34, 'day_interval': 1020}",,Non-binary,Female,,,,DONOR_98,SYNTHETIC-4,day
 False,,{'month_interval': -875},,,Man,Female,,,{'month_interval': 39},DONOR_99,SYNTHETIC-4,month
 ,,,,Esophagus,Man,Female,,,{'month_interval': 14},DONOR_100,SYNTHETIC-4,month
-False,,"{'month_interval': -700, 'day_interval': -21292}",,Floor of mouth|Other and unspecified parts of mouth,Woman,Other,TREATMENT_0033,Withdrew from study,"{'month_interval': 90, 'day_interval': 2700}",DONOR_ALL,SYNTHETIC-2,day
+True,Unknown,"{'month_interval': -700, 'day_interval': -21292}","{'month_interval': 120, 'day_interval': 3653}",Floor of mouth|Other and unspecified parts of mouth,Woman,Other,,,,DONOR_ALL_02,SYNTHETIC-2,day
+False,,"{'month_interval': -700, 'day_interval': -21292}",,Floor of mouth|Other and unspecified parts of mouth,Woman,Other,TREATMENT_0033,Withdrew from study,"{'month_interval': 90, 'day_interval': 2700}",DONOR_ALL_01,SYNTHETIC-2,day
 ,,,,,,,,,,DONOR_NULL,SYNTHETIC-2,month
