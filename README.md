@@ -4,13 +4,16 @@ This repository includes three datasets (large, medium, small) in `.csv` format 
 ### Files:
 
 - **Datasets:**
-  - `large_dataset_csv`
-  - `medium_dataset_csv`
-  - `small_dataset_csv`
+  - [`large_dataset_csv`](large_dataset_csv)
+  - [`medium_dataset_csv`](medium_dataset_csv)
+  - [`small_dataset_csv`](small_dataset_csv)
 
 - **Scripts:**
+[/src](/src)
   - `json_to_csv.py`: Used to convert the original synthetic data in Katsu to CSV files.
-  - `csv_to_ingest.py`: Script for running clinical_etl on a particular dataset to convert into ingestable jsons
+    - `extra_donors.py`: Adds extra donors to all datasets to test specific scenarios. Imported by `json_to_csv.py`.
+    - `post_processing.py`: Edits data to ensure it meets conditional requirements of the model. Imported by `json_to_csv.py`.
+  - `csv_to_ingest.py`: Script for running clinical_etl on a particular dataset to convert into ingestable jsons.
 
 ## How to generate synthetic data using Mockaroo
 
@@ -54,4 +57,4 @@ Script uses the config files in the given folder to run `CSVConvert` from `clini
 
 ## How to generate genomic json files
 
-TBA
+Genomic files were created manually. We may in the future come up with a way of auto-generating these. We are also still working on testing these for functionality.

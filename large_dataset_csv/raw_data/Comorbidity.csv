@@ -9999,6 +9999,8 @@ SYNTHETIC-10,DONOR_4997,No,,53.0,C02.1,No,Photodynamic therapy
 SYNTHETIC-10,DONOR_4998,Unknown,,44.0,C06.2,Unknown,Hormonal therapy
 SYNTHETIC-10,DONOR_4999,Yes,Left,41.0,C64.9,Unknown,Hormonal therapy
 SYNTHETIC-10,DONOR_5000,Yes,Right,,C34.9,Unknown,Photodynamic therapy
-SYNTHETIC-2,DONOR_000,,,56.0,C43.9,,
-SYNTHETIC-2,DONOR_000,,,,,,Photodynamic therapy
-SYNTHETIC-2,DONOR_000,Yes,,,,,
+SYNTHETIC-2,DONOR_ALL_01,Yes,Right,56.0,C43.9,No,Surgery
+SYNTHETIC-2,DONOR_ALL_02,Yes,Right,56.0,C43.9,No,Surgery
+SYNTHETIC-2,DONOR_NULL,,,56.0,C43.9,,
+SYNTHETIC-2,DONOR_NULL,,,,,,Photodynamic therapy
+SYNTHETIC-2,DONOR_NULL,Yes,,,,,

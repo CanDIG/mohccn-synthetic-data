@@ -9999,5 +9999,6 @@ Rai staging system,T3a,N1a(sn),M0(i+),,,8063/1,C34.9,Unknown,Not done,,,,,SPECIM
 SEER staging system,T1mi,,M1,Stage M,,8250/3,C43.1,No,Yes,IASLC grading system,Unknown,Unknown,,SPECIMEN_9998,PRIMARY_DIAGNOSIS_9998,DONOR_4998,SYNTHETIC-10,,G1,20-50%
 ,T1b2,N2mi,M1c,Stage IS,"{'month_interval': 9, 'day_interval': 270}",8820/3,,Yes,Not done,Nottingham grading system,Genomics,,Left,SPECIMEN_9999,PRIMARY_DIAGNOSIS_9999,DONOR_4999,SYNTHETIC-10,Cut slide,Grade IV,0-19%
 ,Tis(Paget),,M1a(0),,"{'month_interval': 4, 'day_interval': 120}",8124/9,C43.9,No,Yes,Nottingham grading system,Image analysis,Cryopreservation in dry ice (dead tissue),Left,SPECIMEN_10000,PRIMARY_DIAGNOSIS_10000,DONOR_5000,SYNTHETIC-10,Other,Grade I,
-AJCC 7th edition,Tis,N0a,M1e,Stage IIIC,"{'month_interval': 20, 'day_interval': 600}",8962/1,C43.9,,No,,,Cryopreservation in liquid nitrogen (dead tissue),Right,SPECIMEN_022,,DONOR_011,SYNTHETIC-2,,Low,0-19%
-,,,,,,,,,,,,,,SPECIMEN_1a,PRIMARY_DIAGNOSIS_1a,DONOR_000,SYNTHETIC-2,,,
+AJCC 8th edition,Tis,N0a,M1e,Stage IIIC,"{'month_interval': 20, 'day_interval': 600}",8962/1,C43.9,Not done,No,Scarff-Bloom-Richardson grading system,Pathology estimate by percent nuclei,Cryopreservation in liquid nitrogen (dead tissue),Right,SPECIMEN_ALL_02,PRIMARY_DIAGNOSIS_ALL_02,DONOR_ALL_02,SYNTHETIC-2,Frozen in -70 freezer,Low,0-19%
+AJCC 8th edition,Tis,N0a,M1e,Stage IIIC,"{'month_interval': 20, 'day_interval': 600}",8962/1,C43.9,Not done,No,Scarff-Bloom-Richardson grading system,Pathology estimate by percent nuclei,Cryopreservation in liquid nitrogen (dead tissue),Right,SPECIMEN_ALL_01,PRIMARY_DIAGNOSIS_ALL_01,DONOR_ALL_01,SYNTHETIC-2,Frozen in -70 freezer,Low,0-19%
+,,,,,,,,,,,,,,SPECIMEN_NULL_01,PRIMARY_DIAGNOSIS_NULL_01,DONOR_NULL,SYNTHETIC-2,,,

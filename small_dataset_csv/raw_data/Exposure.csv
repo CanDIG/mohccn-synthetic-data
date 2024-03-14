@@ -7,6 +7,7 @@ SYNTHETIC-1,DONOR_2,Current reformed smoker for <= 15 years,,111.0
 SYNTHETIC-1,DONOR_3,Lifelong non-smoker (<100 cigarettes smoked in lifetime),,
 SYNTHETIC-2,DONOR_7,,Cigar|Chewing Tobacco,191.0
 SYNTHETIC-2,DONOR_8,Current reformed smoker for > 15 years,Pipe,100.0
-SYNTHETIC-2,DONOR_000,Current smoker,,
-SYNTHETIC-2,DONOR_000,,,72.0
-SYNTHETIC-2,DONOR_011,,Cigar|Cigarettes|Roll-ups|Pipe,
+SYNTHETIC-2,DONOR_NULL,Current smoker,,
+SYNTHETIC-2,DONOR_NULL,,,72.0
+SYNTHETIC-2,DONOR_ALL_01,Current reformed smoker for > 15 years,Cigar|Cigarettes|Roll-ups|Pipe,100.0
+SYNTHETIC-2,DONOR_ALL_02,Current reformed smoker for > 15 years,Cigar|Cigarettes|Roll-ups|Pipe,100.0
