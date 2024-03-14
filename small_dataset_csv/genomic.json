@@ -87,7 +87,7 @@
         "samples": [
             {
                 "genomic_file_sample_id": "HG00100",
-                "submitter_sample_id": "SAMPLE_REGISTRATION_1a"
+                "submitter_sample_id": "SAMPLE_REGISTRATION_NULL_01"
             }
         ]
     },
@@ -110,7 +110,7 @@
         "samples": [
             {
                 "genomic_file_sample_id": "HG00100",
-                "submitter_sample_id": "SAMPLE_REGISTRATION_2a"
+                "submitter_sample_id": "SAMPLE_REGISTRATION_NULL_02"
             }
         ]
     },
