@@ -6,6 +6,6 @@ SYNTHETIC-2,DONOR_7,TREATMENT_22,Teleradiotherapy neutrons (procedure),Internal,
 SYNTHETIC-2,DONOR_ALL_01,TREATMENT_0026,Megavoltage radiation therapy using photons (procedure),Internal,35,66,Upper Body,No,,PRIMARY_DIAGNOSIS_ALL_01
 SYNTHETIC-2,DONOR_ALL_02,TREATMENT_ALL_02,Megavoltage radiation therapy using photons (procedure),Internal,35,66,Upper Body,No,,PRIMARY_DIAGNOSIS_ALL_02
 SYNTHETIC-2,DONOR_ALL_01,TREATMENT_ALL_01,Megavoltage radiation therapy using photons (procedure),Internal,35,66,Boost - Area Previously Treated,Yes,TREATMENT_0026,
-SYNTHETIC-2,DONOR_NULL,TREATMENT_2a,,Internal,,,,,,
-SYNTHETIC-2,DONOR_NULL,TREATMENT_2a,Teleradiotherapy neutrons (procedure),,,,,,,
-SYNTHETIC-2,DONOR_NULL,TREATMENT_1a,,,,,Right Maxilla,,,
+SYNTHETIC-2,DONOR_NULL,TREATMENT_NULL_02,,Internal,,,,,,
+SYNTHETIC-2,DONOR_NULL,TREATMENT_NULL_02,Teleradiotherapy neutrons (procedure),,,,,,,
+SYNTHETIC-2,DONOR_NULL,TREATMENT_NULL_01,,,,,Right Maxilla,,,

@@ -4,6 +4,6 @@ SYNTHETIC-2,DONOR_9,,TREATMENT_24,,C08,Metastatic,8,3,,Cannot be assessed,R0,,Co
 SYNTHETIC-2,DONOR_10,,TREATMENT_25,Laparotomy,C18,Local recurrence,3,6,6,,,Circumferential resection margin|Proximal margin,Distal margin,,,Cannot be assessed
 SYNTHETIC-2,DONOR_ALL_01,SPECIMEN_ALL_01,TREATMENT_ALL_01,Wide Local Excision,C11,Metastatic,5,7,10,Multifocal,R0,Proximal margin|Distal margin,Common bile duct margin|Circumferential resection margin,Both lymphatic and small vessel and venous (large vessel) invasion,Unknown|Not applicable,Present
 SYNTHETIC-2,DONOR_ALL_02,SPECIMEN_ALL_02,TREATMENT_ALL_02,Wide Local Excision,C11,Metastatic,5,7,10,Multifocal,R0,Proximal margin|Distal margin,Common bile duct margin|Circumferential resection margin,Both lymphatic and small vessel and venous (large vessel) invasion,Unknown|Not applicable,Present
-SYNTHETIC-2,DONOR_NULL,SPECIMEN_1a,TREATMENT_2a,Wide Local Excision,,,,,,,,,,,,
-SYNTHETIC-2,DONOR_NULL,SPECIMEN_1a,TREATMENT_2a,,C11,,,,,,,,,,,
-SYNTHETIC-2,DONOR_NULL,SPECIMEN_1a,TREATMENT_1a,,,Metastatic,,,,,,,,,,
+SYNTHETIC-2,DONOR_NULL,SPECIMEN_NULL_01,TREATMENT_NULL_02,Wide Local Excision,,,,,,,,,,,,
+SYNTHETIC-2,DONOR_NULL,SPECIMEN_NULL_01,TREATMENT_NULL_02,,C11,,,,,,,,,,,
+SYNTHETIC-2,DONOR_NULL,SPECIMEN_NULL_01,TREATMENT_NULL_01,,,Metastatic,,,,,,,,,,

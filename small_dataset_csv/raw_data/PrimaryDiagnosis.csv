@@ -17,4 +17,4 @@ date_of_diagnosis,cancer_type_code,basis_of_diagnosis,lymph_nodes_examined_statu
 "{'month_interval': 69, 'day_interval': 2070}",C67.6,Specific tumour markers,No lymph nodes found in resected specimen,Imaging,10.0,,TX,M1a(1),,Right,PRIMARY_DIAGNOSIS_16,DONOR_10,SYNTHETIC-2,N0b (no biopsy)
 "{'month_interval': 69, 'day_interval': 2070}",C67.6,Specific tumour markers,No lymph nodes found in resected specimen,Imaging,10.0,AJCC 8th edition,TX,M1a(1),Stage II,Right,PRIMARY_DIAGNOSIS_ALL_02,DONOR_ALL_02,SYNTHETIC-2,N0b (no biopsy)
 "{'month_interval': 69, 'day_interval': 2070}",C67.6,Specific tumour markers,No lymph nodes found in resected specimen,Imaging,10.0,AJCC 8th edition,TX,M1a(1),Stage II,Right,PRIMARY_DIAGNOSIS_ALL_01,DONOR_ALL_01,SYNTHETIC-2,N0b (no biopsy)
-,,,,,,,,,,,PRIMARY_DIAGNOSIS_1a,DONOR_NULL,SYNTHETIC-2,
+,,,,,,,,,,,PRIMARY_DIAGNOSIS_NULL_01,DONOR_NULL,SYNTHETIC-2,

@@ -10,8 +10,8 @@ SYNTHETIC-1,DONOR_3,TREATMENT_16,,Niraparib,278936,NCI Thesaurus,g/m2,53.0,91.0
 SYNTHETIC-1,DONOR_3,TREATMENT_17,Other immunomodulatory substances,Pembrolizumab,8756456,RxNorm,cells/kg,153.0,
 SYNTHETIC-1,DONOR_3,TREATMENT_17,Cell-based,Obinutuzumab,239766,RxNorm,cells/kg,108.0,164.0
 SYNTHETIC-1,DONOR_4,TREATMENT_18,,,8756456,NCI Thesaurus,IU/kg,77.0,
-SYNTHETIC-2,DONOR_NULL,TREATMENT_2a,Other immunomodulatory substances,,,,,,
-SYNTHETIC-2,DONOR_NULL,TREATMENT_2a,,Nivolumab,987654,PubChem,,,
-SYNTHETIC-2,DONOR_NULL,TREATMENT_1a,,,,,mg/kg,,
+SYNTHETIC-2,DONOR_NULL,TREATMENT_NULL_02,Other immunomodulatory substances,,,,,,
+SYNTHETIC-2,DONOR_NULL,TREATMENT_NULL_02,,Nivolumab,987654,PubChem,,,
+SYNTHETIC-2,DONOR_NULL,TREATMENT_NULL_01,,,,,mg/kg,,
 SYNTHETIC-2,DONOR_ALL_01,TREATMENT_ALL_01,Other immunomodulatory substances,Braftovi,2049112,RxNorm,ug/m2,133.0,100.0
 SYNTHETIC-2,DONOR_ALL_02,TREATMENT_ALL_02,Other immunomodulatory substances,Braftovi,2049112,RxNorm,ug/m2,133.0,100.0

@@ -34,7 +34,8 @@ date_of_followup,disease_status_at_followup,relapse_type,date_of_relapse,method_
 "{'month_interval': 1, 'day_interval': 30}",,Local recurrence,"{'month_interval': 14, 'day_interval': 420}",,Tis(DCIS),M1,Stage IIIS,FOLLOW_UP_33,,PRIMARY_DIAGNOSIS_15,DONOR_9,SYNTHETIC-2,St Jude staging system,N0b,C04|C19
 "{'month_interval': 22, 'day_interval': 660}",Relapse or recurrence,Distant recurrence/metastasis,,,T1b(m),,Stage IV,FOLLOW_UP_34,TREATMENT_25,,DONOR_10,SYNTHETIC-2,SEER staging system,,C10
 "{'month_interval': 89, 'day_interval': 2670}",Loco-regional progression,Local recurrence,"{'month_interval': 88, 'day_interval': 2640}",Laboratory data interpretation (procedure)|Tumor marker measurement (procedure),T4b(s),M1a(0),Stage IVES,FOLLOW_UP_ALL_01,,,DONOR_ALL_01,SYNTHETIC-2,AJCC 8th edition,,C00.9|C01.9
-"{'month_interval': 89, 'day_interval': 2670}",Loco-regional progression,Local recurrence,"{'month_interval': 88, 'day_interval': 2640}",Laboratory data interpretation (procedure)|Tumor marker measurement (procedure),T4b(s),M1a(0),Stage IVES,FOLLOW_UP_ALL_02,TREATMENT_ALL_02,,DONOR_ALL_02,SYNTHETIC-2,AJCC 8th edition,,C00.9|C01.9
-,,,,,,,,FOLLOW_UP_2a,,PRIMARY_DIAGNOSIS_1a,DONOR_NULL,SYNTHETIC-2,,,
-,,,,,,,,FOLLOW_UP_1a,TREATMENT_1a,,DONOR_NULL,SYNTHETIC-2,,,
-,,,,,,,,FOLLOW_UP_3a,,,DONOR_NULL,SYNTHETIC-2,,,
+"{'month_interval': 89, 'day_interval': 2670}",Loco-regional progression,Local recurrence,"{'month_interval': 88, 'day_interval': 2640}",Laboratory data interpretation (procedure)|Tumor marker measurement (procedure),T4b(s),M1a(0),Stage IVES,FOLLOW_UP_ALL_02,,,DONOR_ALL_01,SYNTHETIC-2,AJCC 8th edition,,C00.9|C01.9
+"{'month_interval': 89, 'day_interval': 2670}",Loco-regional progression,Local recurrence,"{'month_interval': 88, 'day_interval': 2640}",Laboratory data interpretation (procedure)|Tumor marker measurement (procedure),T4b(s),M1a(0),Stage IVES,FOLLOW_UP_ALL_03,,,DONOR_ALL_02,SYNTHETIC-2,AJCC 8th edition,,C00.9|C01.9
+,,,,,,,,FOLLOW_UP_NULL_02,TREATMENT_NULL_01,,DONOR_NULL,SYNTHETIC-2,,,
+,,,,,,,,FOLLOW_UP_NULL_01,,,DONOR_NULL,SYNTHETIC-2,,,
+,,,,,,,,FOLLOW_UP_NULL_03,,,DONOR_NULL,SYNTHETIC-2,,,

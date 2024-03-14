@@ -34,5 +34,5 @@ PRIMARY_DIAGNOSIS_ALL_01,Other targeting molecular therapy,No,"{'month_interval'
 PRIMARY_DIAGNOSIS_ALL_01,Photodynamic therapy,No,"{'month_interval': 25, 'day_interval': 750}","{'month_interval': 87, 'day_interval': 2610}",Induction,,2.0,4.0,Physician Assessed Response Criteria,Complete remission with incomplete hematologic recovery (CRi),4.0,Not applicable,TREATMENT_0030,DONOR_ALL_01,SYNTHETIC-2
 PRIMARY_DIAGNOSIS_ALL_01,Stem cell transplant,No,"{'month_interval': 25, 'day_interval': 750}","{'month_interval': 87, 'day_interval': 2610}",Induction,,2.0,4.0,Physician Assessed Response Criteria,Complete remission with incomplete hematologic recovery (CRi),4.0,Not applicable,TREATMENT_0031,DONOR_ALL_01,SYNTHETIC-2
 PRIMARY_DIAGNOSIS_ALL_01,Photodynamic therapy,No,"{'month_interval': 25, 'day_interval': 750}","{'month_interval': 87, 'day_interval': 2610}",Induction,,2.0,4.0,Physician Assessed Response Criteria,Complete remission with incomplete hematologic recovery (CRi),4.0,Not applicable,TREATMENT_0032,DONOR_ALL_01,SYNTHETIC-2
-PRIMARY_DIAGNOSIS_1a,,,,,,,,,,,,,TREATMENT_1a,DONOR_NULL,SYNTHETIC-2
-PRIMARY_DIAGNOSIS_1a,,,,,,,,,,,,,TREATMENT_2a,DONOR_NULL,SYNTHETIC-2
+PRIMARY_DIAGNOSIS_NULL_01,,,,,,,,,,,,,TREATMENT_NULL_01,DONOR_NULL,SYNTHETIC-2
+PRIMARY_DIAGNOSIS_NULL_01,,,,,,,,,,,,,TREATMENT_NULL_02,DONOR_NULL,SYNTHETIC-2
