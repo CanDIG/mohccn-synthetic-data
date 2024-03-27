@@ -1,5 +1,5 @@
 is_deceased,cause_of_death,date_resolution,date_of_death,primary_site,gender,sex_at_birth,lost_to_followup_reason,date_alive_after_lost_to_followup,submitter_donor_id,program_id,date_of_birth,lost_to_followup_after_clinical_event_identifier
-True,Died of other reasons,day,"{'month_interval': 37, 'day_interval': 1110}",,Man,Female,,,DONOR_1,SYNTHETIC-1,,
+True,Died of other reasons,day,"{'month_interval': 37, 'day_interval': 1110}",,Man,Female,,"{'month_interval': -1, 'day_interval': -30}",DONOR_1,SYNTHETIC-1,,
 True,Died of other reasons,day,"{'month_interval': 37, 'day_interval': 1110}",Thyroid gland|Kidney,Woman,Unknown,,,DONOR_2,SYNTHETIC-1,"{'month_interval': -242, 'day_interval': -7260}",
 True,Unknown,month,{'month_interval': 33},Parotid gland|Rectum|Skin,Man,Female,,,DONOR_3,SYNTHETIC-1,{'month_interval': -483},
 ,,month,,Ovary,Man,,,{'month_interval': 1},DONOR_4,SYNTHETIC-1,{'month_interval': -964},
