@@ -1,12 +1,11 @@
-
 import argparse
 import os
 from clinical_etl import CSVConvert
 from clinical_etl.schema import ValidationError
 from pathlib import Path
-from json_to_csv import sort_key
 import pandas as pd
-import math
+import sys
+pd.options.mode.chained_assignment = None
 
 
 def ranged_type(value_type, min_value, max_value):
@@ -58,46 +57,92 @@ def parse_args():
     parser.add_argument('--sample',
                         type=ranged_type(int, 1, 4999),
                         required=False,
+                        help="Subsets the large dataset equally across the 10 programs based on the total number of "
+                             "donors specified. (There will also be the three extra custom donors)")
+    parser.add_argument('--donors-per-program', '-dp',
+                        type=ranged_type(int, 1, 500),
+                        required='--number-of-programs' in sys.argv,
                         help="Subsets the large dataset to the number of donors supplied in the argument. "
-                             "(There will also be the three extra custom donors)")
+                             "--number-of-programs must also be specified.")
+    parser.add_argument('--number-of-programs', '-np',
+                        type=ranged_type(int, 1, 10),
+                        required='--donors-per-program' in sys.argv,
+                        help="Subsets the large dataset to the number of programs supplied in the argument. "
+                             "--donors-per-program must also be specified.")
     parser.add_argument('--prefix',
                         type=str,
                         required=False,
-                        help="")
+                        help="Adds a `prefix`+`-` to all `submitter_<object>_id`s to differentiate datasets.")
     args = parser.parse_args()
     return args
 
 
-def _subsample_csv(donor_number):
+def add_prefix(prefix: str, object_df: pd.DataFrame):
+    """ Prepend all identifiers in a df with the specified prefix """
+    object_df.loc[:, object_df.columns.str.startswith('submitter_')] = (object_df.filter(regex="^submitter").
+                                                                        apply(lambda x: prefix + "-" + x))
+    object_df.loc[:, object_df.columns.str.startswith('program_')] = (object_df.filter(items=["program_id"]).
+                                                                      apply(lambda x: prefix + "-" + x))
+    if 'reference_radiation_treatment_id' in object_df.columns:
+        object_df.loc[:, object_df.columns.str.startswith('reference_radiation_treatment_id')] = \
+            (object_df.filter(items=["reference_radiation_treatment_id"]).
+             apply(lambda x: prefix + "-" + x))
+    return object_df
+
+
+def replace_identifiers(prefix: str, input_folder: str):
+    """ Iterate through all files in the input folder and prepend the prefix"""
+    file_list = list(os.listdir(input_folder))
+    print("Replacing identifiers ... ", end="")
+    repo_dir = os.path.dirname(os.path.dirname(__file__))
+    output_folder = os.path.join(repo_dir, f"custom_dataset_csv-{prefix}", "raw_data")
+    Path(output_folder).mkdir(parents=True, exist_ok=True)
+    for file in file_list:
+        csv_df = pd.read_csv(f"{input_folder}/{file}")
+        csv_df = add_prefix(prefix, csv_df)
+        csv_df.to_csv(f"{output_folder}/{file}")
+    print(f"All identifiers prepended with {prefix}-.")
+
+
+def subsample_csv(donors_per_program: int, number_of_programs: int, extra_donors: int = 0, prefix: str = None):
     # large dataset is 5000 donors and 10 programs + 3 additional custom donors
     size = 'large'
     repo_dir = os.path.dirname(os.path.dirname(__file__))
-    csv_output_folder = os.path.join(repo_dir, f"custom_dataset_csv_{donor_number}", "raw_data")
+    total_donors = (donors_per_program * number_of_programs) + extra_donors
+    csv_output_folder = os.path.join(repo_dir, f"custom_dataset_csv-{total_donors}", "raw_data")
     csv_input_folder = os.path.join(repo_dir, f"{size}_dataset_csv", "raw_data")
     Path(csv_output_folder).mkdir(parents=True, exist_ok=True)
-    donors_per_program = int(donor_number/10)
-    extra_donors = donor_number - (donors_per_program * 10)
 
     print(f"Subsampling csv files from {csv_input_folder}...")
-
     file_list = list(os.listdir(csv_input_folder))
     donor_df = pd.read_csv(f"{csv_input_folder}/Donor.csv")
+    program_list = list(set(donor_df.program_id))[:number_of_programs]
     custom_donors = ['DONOR_ALL_01', 'DONOR_ALL_02', 'DONOR_NULL']
     donor_df['donor_index'] = donor_df.groupby(['program_id']).cumcount()
-    subsampled_donor_df = donor_df.loc[donor_df.donor_index.isin(range(0, donors_per_program)) |
-                                       donor_df.submitter_donor_id.isin(custom_donors)]
+    subsampled_donor_df = donor_df.loc[donor_df.program_id.isin(program_list)]
+    subsampled_donor_df = subsampled_donor_df.loc[subsampled_donor_df.donor_index.isin(range(0, donors_per_program)) |
+                                                  subsampled_donor_df.submitter_donor_id.isin(custom_donors)]
     extra_donors_df = donor_df.loc[donor_df.program_id.isin([donor_df.program_id[0]]) &
                                    donor_df.donor_index.isin(range(donors_per_program,
                                                                    donors_per_program + extra_donors))]
     subsampled_donor_df = pd.concat([subsampled_donor_df, extra_donors_df]).drop(columns="donor_index")
-    subsampled_donor_df.to_csv(f"{csv_output_folder}/Donor.csv", index=False)
+    donor_list = list(subsampled_donor_df['submitter_donor_id'])
+    if prefix:
+        subsampled_donor_df = add_prefix(prefix, subsampled_donor_df)
+        subsampled_donor_df.to_csv(f"{csv_output_folder}/Donor.csv", index=False)
+    else:
+        subsampled_donor_df.to_csv(f"{csv_output_folder}/Donor.csv", index=False)
     for file in file_list:
         if file == "Donor.csv":
             continue
         else:
             csv_df = pd.read_csv(f"{csv_input_folder}/{file}")
-            subsampled_csv = csv_df.loc[csv_df.submitter_donor_id.isin(subsampled_donor_df.submitter_donor_id)]
-            subsampled_csv.to_csv(f"{csv_output_folder}/{file}", index=False)
+            subsampled_csv = csv_df.loc[csv_df.submitter_donor_id.isin(donor_list)]
+            if prefix:
+                subsampled_csv = add_prefix(prefix, subsampled_csv)
+                subsampled_csv.to_csv(f"{csv_output_folder}/{file}", index=False)
+            else:
+                subsampled_csv.to_csv(f"{csv_output_folder}/{file}", index=False)
     return csv_output_folder
 
 
@@ -105,14 +150,28 @@ def main():
     args = parse_args()
     size_mapping = {'s': 'small', 'm': 'medium', 'l': 'large'}
     repo_dir = os.path.dirname(os.path.dirname(__file__))
+
     if args.sample:
-        dataset_path = _subsample_csv(args.sample)
+        donors_per_program = int(args.sample / 10)
+        extra_donors = args.sample - (donors_per_program * 10)
+        dataset_path = subsample_csv(donors_per_program=donors_per_program,
+                                     number_of_programs=10, extra_donors=extra_donors,
+                                     prefix=args.prefix)
         size = size_mapping['l']
         manifest_path = f"{repo_dir}/{size}_dataset_csv/"
+    elif args.donors_per_program:
+        size = size_mapping['l']
+        manifest_path = f"{repo_dir}/{size}_dataset_csv/"
+        dataset_path = subsample_csv(donors_per_program=args.donors_per_program,
+                                     number_of_programs=args.number_of_programs,
+                                     prefix=args.prefix)
     else:
         size = size_mapping[args.size]
         manifest_path = f"{repo_dir}/{size}_dataset_csv/"
         dataset_path = f"{manifest_path}raw_data"
+        if args.prefix:
+            replace_identifiers(args.prefix, dataset_path)
+            dataset_path = f"{repo_dir}/custom_dataset_csv-{args.prefix}/raw_data"
 
     packets, errors = CSVConvert.csv_convert(input_path=dataset_path, manifest_file=f"{manifest_path}/manifest.yml",
                                              minify=True, index_output=False)
