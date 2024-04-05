@@ -13,6 +13,15 @@ import extra_donors
 import post_processing
 
 
+def sort_key(file_name):
+    """Sorting key to ensure jsons are processed in the correct order."""
+    sort_key = {'Donor.json': 0, 'PrimaryDiagnosis.json': 1, 'Treatment.json': 2, 'Specimen.json': 3,
+                'SampleRegistration.json': 4, 'FollowUp.json': 5, 'HormoneTherapy.json': 6, 'Chemotherapy.json': 7,
+                'Surgery.json': 8, 'Radiation.json': 9, 'Immunotherapy.json': 10, 'Biomarker.json': 11,
+                'Comorbidity.json': 12, 'Exposure.json': 13, 'Program.json': 14}
+    return sort_key[file_name]
+
+
 def convert_to_csv(size, input_path):
     # Get the absolute path to the synthetic data folder
     repo_dir = os.path.dirname(os.path.dirname(__file__))
@@ -22,7 +31,10 @@ def convert_to_csv(size, input_path):
 
     # Iterate through all JSON files in the synthetic_data_folder
     print(f"Processing json files from {synthetic_data_folder}...")
-    for filename in os.listdir(synthetic_data_folder):
+
+    file_list = list(os.listdir(synthetic_data_folder))
+    file_list = sorted(file_list, key=sort_key)
+    for filename in file_list:
         if filename.endswith('.json') and not filename.startswith("Program"):
             print(filename)
             json_file_path = os.path.join(synthetic_data_folder, filename)
@@ -32,7 +44,7 @@ def convert_to_csv(size, input_path):
                 if extra_objects:
                     data.extend(extra_objects)
                 df = pd.DataFrame(data)
-                df = post_processing.process_objects(filename, df)
+                df = post_processing.process_objects(filename, df, output_dir)
                 # Concatenate values with pipe for all columns with list-type values
                 for column in df.columns:
                     if df[column].apply(lambda x: isinstance(x, list)).any():
