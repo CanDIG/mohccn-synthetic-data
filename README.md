@@ -41,7 +41,7 @@ This should not need to be done unless the mockaroo data is regenerated at some 
 
 ## How to convert csv files to ingestable clinical json files
 
-If you haven't done so already, setup a python virtual environment and run:
+If you haven't done so already, set up a python virtual environment and run:
 
 ```commandline
 pip install -r requirements.txt
@@ -54,6 +54,27 @@ python src/csv_to_ingest.py --size m
 ```
 
 Script uses the config files in the given folder to run `CSVConvert` from `clinical_ETL_code` and will output `raw_data_map.json` to the `medium_dataset_csv` folder. This file can be used for clinical data ingest.
+
+### Creating a custom dataset
+
+#### Specifying dataset size
+
+##### `--sample`
+
+Specifying the `--sample` argument will sample the specified number of donors, divided approximately equally amongst the 10 programs in the large_dataset. The maximum number for this argument is 4999, as there are 5000 total donors in this dataset.
+
+Output csvs and from the clinical_etl tranformation will be saved in a folder named `custom_dataset_csv-{sample}`.
+
+##### `--donor-number` and `--number-of-programs`
+
+These two arguments must be specified together. `--donors-per-program` specifies the number of donors to choose per program, and `--number-of-programs` determines how many programs to sample from. So the total number of donors in the dataset will be `--donors-per-program` x `--number-of-programs`. The donors are sampled from the large dataset so the maximum for `--donors-per-program` is 500 and the maximum for `--number-of-programs` is 10.
+
+All outputs are saved into a folder called: `custom_dataset_csv-{total_donors}`
+
+
+#### Specifying a prefix with `--prefix`
+
+The `--prefix` argument can be used to prepend the specified prefix to all csvs in the dataset. When this argument is used, a new folder is created `custom_dataset_csv-{prefix}`, the edited csvs are saved in this folder and the manifest from the source dataset is used for clinical_etl conversion. The outputs from clinical_etl are also saved in this folder.
 
 ## How to generate genomic json files
 

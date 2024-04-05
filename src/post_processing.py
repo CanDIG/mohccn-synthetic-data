@@ -218,7 +218,7 @@ def process_treatments(df, output_dir):
     df = df.drop(columns=['start_end_diff', 'end_month_interval', 'start_month_interval',
                           'diagnosis_month_interval', 'death_month_interval', 'birth_month_interval',
                           'end_death_diff', 'start_diagnosis_diff', 'start_death_diff', 'date_of_death',
-                          'date_of_birth', 'date_of_diagnosis'])
+                          'date_of_birth', 'date_of_diagnosis', 'end_diagnosis_diff'])
     return df
 
 
