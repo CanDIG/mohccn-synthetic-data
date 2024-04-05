@@ -1,4 +1,5 @@
-*_dataset_csv/raw_data_map.json
+*_dataset_csv/raw_data_*
+custom_dataset*
 
 # IDE related
 *~
