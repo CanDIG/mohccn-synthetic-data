@@ -1,72 +1,72 @@
 is_deceased,cause_of_death,date_of_birth,date_of_death,primary_site,gender,sex_at_birth,lost_to_followup_after_clinical_event_identifier,lost_to_followup_reason,date_alive_after_lost_to_followup,submitter_donor_id,program_id,date_resolution
-False,,{'month_interval': -655},,Brain,Non-binary,Male,,,{'month_interval': 6},DONOR_1,SYNTHETIC-1,month
+False,,{'month_interval': -655},,Brain,Non-binary,Male,,,{'month_interval': 6},DONOR_1,SYNTHETIC-1,
 False,,{'month_interval': -593},,Larynx|Breast|Renal pelvis|Bronchus and lung|Vulva,Man,Other,,,{'month_interval': 44},DONOR_2,SYNTHETIC-1,month
-True,Died of other reasons,,{'month_interval': 6},"Uterus, NOS|Other and ill-defined digestive organs|Gallbladder|Other and ill-defined sites within respiratory system and intrathoracic organs",Non-binary,Female,,,,DONOR_3,SYNTHETIC-1,month
-True,Died of cancer,"{'month_interval': -617, 'day_interval': -18510}","{'month_interval': 2, 'day_interval': 60}",Rectum|Stomach,Non-binary,,,,,DONOR_4,SYNTHETIC-1,day
-True,Unknown,{'month_interval': -759},{'month_interval': 91},"Pancreas|Unknown primary site|Bronchus and lung|Connective, subcutaneous and other soft tissues|Brain",,Other,,,,DONOR_5,SYNTHETIC-1,month
+True,Died of other reasons,,"{'month_interval': 109, 'day_interval': 3270}","Uterus, NOS|Other and ill-defined digestive organs|Gallbladder|Other and ill-defined sites within respiratory system and intrathoracic organs",Non-binary,Female,,,,DONOR_3,SYNTHETIC-1,month
+True,Died of cancer,"{'month_interval': -617, 'day_interval': -18510}","{'month_interval': 109, 'day_interval': 3270}",Rectum|Stomach,Non-binary,,,,,DONOR_4,SYNTHETIC-1,day
+True,Unknown,{'month_interval': -759},{'month_interval': 104},"Pancreas|Unknown primary site|Bronchus and lung|Connective, subcutaneous and other soft tissues|Brain",,Other,,,,DONOR_5,SYNTHETIC-1,month
 False,,{'month_interval': -578},,"Peripheral nerves and autonomic nervous system|Bones, joints and articular cartilage of limbs|Other and ill-defined digestive organs|Gallbladder",Man,Female,,,{'month_interval': 7},DONOR_6,SYNTHETIC-1,month
 ,,{'month_interval': -789},,Gallbladder,Man,Other,,,{'month_interval': 48},DONOR_7,SYNTHETIC-1,month
-True,Died of other reasons,{'month_interval': -714},{'month_interval': 40},,Woman,Female,,,,DONOR_8,SYNTHETIC-1,month
-True,Unknown,{'month_interval': -522},{'month_interval': 54},Retroperitoneum and peritoneum|Pyriform sinus|Rectosigmoid junction,,Female,,,,DONOR_9,SYNTHETIC-1,month
-True,Unknown,{'month_interval': -187},{'month_interval': 35},"Vulva|Bones, joints and articular cartilage of other and unspecified sites|Pancreas",Man,Unknown,,,,DONOR_10,SYNTHETIC-1,month
-True,Died of other reasons,{'month_interval': -350},{'month_interval': 85},"Colon|Testis|Bones, joints and articular cartilage of other and unspecified sites|Breast",Non-binary,Other,,,,DONOR_11,SYNTHETIC-1,month
-True,Unknown,"{'month_interval': -489, 'day_interval': -14670}","{'month_interval': 13, 'day_interval': 390}",Meninges,Man,,,,,DONOR_12,SYNTHETIC-1,day
+True,Died of other reasons,{'month_interval': -714},{'month_interval': 103},,Woman,Female,,,,DONOR_8,SYNTHETIC-1,
+True,Unknown,{'month_interval': -522},{'month_interval': 103},Retroperitoneum and peritoneum|Pyriform sinus|Rectosigmoid junction,,Female,,,,DONOR_9,SYNTHETIC-1,month
+True,Unknown,{'month_interval': -187},{'month_interval': 102},"Vulva|Bones, joints and articular cartilage of other and unspecified sites|Pancreas",Man,Unknown,,,,DONOR_10,SYNTHETIC-1,month
+True,Died of other reasons,{'month_interval': -350},{'month_interval': 107},"Colon|Testis|Bones, joints and articular cartilage of other and unspecified sites|Breast",Non-binary,Other,,,,DONOR_11,SYNTHETIC-1,month
+True,Unknown,"{'month_interval': -489, 'day_interval': -14670}","{'month_interval': 109, 'day_interval': 3270}",Meninges,Man,,,,,DONOR_12,SYNTHETIC-1,day
 False,,"{'month_interval': -912, 'day_interval': -27360}",,Esophagus|Larynx,,Unknown,,,,DONOR_13,SYNTHETIC-1,day
-True,Died of cancer,{'month_interval': -543},{'month_interval': 1},,,Male,,,,DONOR_14,SYNTHETIC-1,month
+True,Died of cancer,{'month_interval': -543},"{'month_interval': 108, 'day_interval': 3240}",,,Male,,,,DONOR_14,SYNTHETIC-1,month
 False,,{'month_interval': -730},,"Anus and anal canal|Other and unspecified male genital organs|Other and ill-defined sites within respiratory system and intrathoracic organs|Other and ill-defined sites in lip, oral cavity and pharynx|Nasopharynx",Woman,Unknown,,,{'month_interval': 26},DONOR_15,SYNTHETIC-1,month
 False,,{'month_interval': -952},,Peripheral nerves and autonomic nervous system|Thymus|Renal pelvis|Colon|Bladder,Man,,,,,DONOR_16,SYNTHETIC-1,month
 False,,"{'month_interval': -968, 'day_interval': -29040}",,Penis,Non-binary,Other,,,"{'month_interval': 26, 'day_interval': 780}",DONOR_17,SYNTHETIC-1,day
-True,Unknown,,{'month_interval': 59},Corpus uteri|Unknown primary site|Adrenal gland|Rectosigmoid junction|Cervix uteri,Woman,Male,,,,DONOR_18,SYNTHETIC-1,month
-True,Unknown,{'month_interval': -819},{'month_interval': 22},Bronchus and lung|Penis,Man,,,,,DONOR_19,SYNTHETIC-1,month
+True,Unknown,,{'month_interval': 108},Corpus uteri|Unknown primary site|Adrenal gland|Rectosigmoid junction|Cervix uteri,Woman,Male,,,,DONOR_18,SYNTHETIC-1,month
+True,Unknown,{'month_interval': -819},{'month_interval': 106},Bronchus and lung|Penis,Man,,,,,DONOR_19,SYNTHETIC-1,
 ,,{'month_interval': -764},,"Cervix uteri|Bones, joints and articular cartilage of limbs|Other and ill-defined sites|Thymus|Esophagus",,Other,,,,DONOR_20,SYNTHETIC-1,month
 ,,{'month_interval': -638},,Other and unspecified male genital organs|Accessory sinuses,Non-binary,Male,,,{'month_interval': 40},DONOR_21,SYNTHETIC-1,month
-,,{'month_interval': -320},,Adrenal gland|Pancreas|Oropharynx|Nasopharynx|Cervix uteri,Woman,Unknown,,,{'month_interval': 21},DONOR_22,SYNTHETIC-1,month
-True,Died of cancer,{'month_interval': -985},{'month_interval': 44},Meninges|Cervix uteri|Pyriform sinus|Rectum|Thyroid gland,,Male,,,,DONOR_23,SYNTHETIC-1,month
+,,{'month_interval': -320},,Adrenal gland|Pancreas|Oropharynx|Nasopharynx|Cervix uteri,Woman,Unknown,,,{'month_interval': 21},DONOR_22,SYNTHETIC-1,
+True,Died of cancer,{'month_interval': -985},{'month_interval': 104},Meninges|Cervix uteri|Pyriform sinus|Rectum|Thyroid gland,,Male,,,,DONOR_23,SYNTHETIC-1,month
 ,,"{'month_interval': -794, 'day_interval': -23820}",,Colon,Woman,Male,,,"{'month_interval': 23, 'day_interval': 690}",DONOR_24,SYNTHETIC-1,day
 False,,"{'month_interval': -334, 'day_interval': -10020}",,Peripheral nerves and autonomic nervous system|Bronchus and lung,Man,Unknown,,,"{'month_interval': 1, 'day_interval': 30}",DONOR_25,SYNTHETIC-1,day
 ,,,,Ovary|Vulva|Testis|Other endocrine glands and related structures|Other and ill-defined sites within respiratory system and intrathoracic organs,Man,Unknown,,,"{'month_interval': 40, 'day_interval': 1200}",DONOR_26,SYNTHETIC-1,day
-True,Died of cancer,{'month_interval': -959},{'month_interval': 26},Colon|Anus and anal canal|Other and ill-defined digestive organs|Nasal cavity and middle ear|Floor of mouth,Non-binary,Other,,,,DONOR_27,SYNTHETIC-1,month
-True,Died of other reasons,,{'month_interval': 81},Rectosigmoid junction|Corpus uteri|Floor of mouth,Non-binary,Male,,,,DONOR_28,SYNTHETIC-1,month
-False,,{'month_interval': -868},,Nasal cavity and middle ear|Other and unspecified male genital organs|Other and unspecified parts of tongue|Ovary,Man,Other,,,,DONOR_29,SYNTHETIC-1,month
-True,Unknown,{'month_interval': -667},{'month_interval': 81},Unknown primary site|Other and unspecified parts of tongue|Other and ill-defined sites within respiratory system and intrathoracic organs,Man,Unknown,,,,DONOR_30,SYNTHETIC-1,month
-,,{'month_interval': -636},,Other and unspecified parts of mouth|Oropharynx|Anus and anal canal|Rectosigmoid junction,Non-binary,,,,,DONOR_31,SYNTHETIC-1,month
-True,Died of cancer,"{'month_interval': -294, 'day_interval': -8820}","{'month_interval': 26, 'day_interval': 780}",Bronchus and lung|Other and unspecified parts of tongue,Man,Other,,,,DONOR_32,SYNTHETIC-1,day
+True,Died of cancer,{'month_interval': -959},{'month_interval': 104},Colon|Anus and anal canal|Other and ill-defined digestive organs|Nasal cavity and middle ear|Floor of mouth,Non-binary,Other,,,,DONOR_27,SYNTHETIC-1,month
+True,Died of other reasons,,{'month_interval': 110},Rectosigmoid junction|Corpus uteri|Floor of mouth,Non-binary,Male,,,,DONOR_28,SYNTHETIC-1,
+False,,{'month_interval': -868},,Nasal cavity and middle ear|Other and unspecified male genital organs|Other and unspecified parts of tongue|Ovary,Man,Other,,,,DONOR_29,SYNTHETIC-1,
+True,Unknown,{'month_interval': -667},{'month_interval': 110},Unknown primary site|Other and unspecified parts of tongue|Other and ill-defined sites within respiratory system and intrathoracic organs,Man,Unknown,,,,DONOR_30,SYNTHETIC-1,month
+,,{'month_interval': -636},,Other and unspecified parts of mouth|Oropharynx|Anus and anal canal|Rectosigmoid junction,Non-binary,,,,,DONOR_31,SYNTHETIC-1,
+True,Died of cancer,"{'month_interval': -294, 'day_interval': -8820}","{'month_interval': 110, 'day_interval': 3300}",Bronchus and lung|Other and unspecified parts of tongue,Man,Other,,,,DONOR_32,SYNTHETIC-1,day
 False,,{'month_interval': -194},,"Uterus, NOS|Oropharynx|Placenta|Spinal cord, cranial nerves, and other parts of central nervous system|Accessory sinuses",Non-binary,Female,,,{'month_interval': 32},DONOR_33,SYNTHETIC-1,month
-True,Died of cancer,{'month_interval': -956},{'month_interval': 53},Other and unspecified parts of biliary tract|Skin,Man,Other,,,,DONOR_34,SYNTHETIC-1,month
-True,Unknown,"{'month_interval': -302, 'day_interval': -9060}","{'month_interval': 23, 'day_interval': 690}","Connective, subcutaneous and other soft tissues|Thymus|Rectosigmoid junction|Other and ill-defined digestive organs|Placenta",Woman,Female,,,,DONOR_35,SYNTHETIC-1,day
-True,Unknown,"{'month_interval': -164, 'day_interval': -4920}","{'month_interval': 56, 'day_interval': 1680}",,,Other,,,,DONOR_36,SYNTHETIC-1,day
+True,Died of cancer,{'month_interval': -956},{'month_interval': 101},Other and unspecified parts of biliary tract|Skin,Man,Other,,,,DONOR_34,SYNTHETIC-1,month
+True,Unknown,"{'month_interval': -302, 'day_interval': -9060}","{'month_interval': 104, 'day_interval': 3120}","Connective, subcutaneous and other soft tissues|Thymus|Rectosigmoid junction|Other and ill-defined digestive organs|Placenta",Woman,Female,,,,DONOR_35,SYNTHETIC-1,day
+True,Unknown,"{'month_interval': -164, 'day_interval': -4920}","{'month_interval': 109, 'day_interval': 3270}",,,Other,,,,DONOR_36,SYNTHETIC-1,day
 ,,"{'month_interval': -978, 'day_interval': -29340}",,Bladder|Larynx|Bronchus and lung|Prostate gland,,Unknown,,,"{'month_interval': 31, 'day_interval': 930}",DONOR_37,SYNTHETIC-1,day
 ,,"{'month_interval': -711, 'day_interval': -21330}",,"Lip|Other and unspecified urinary organs|Bones, joints and articular cartilage of limbs|Gum|Renal pelvis",Non-binary,Unknown,,,"{'month_interval': 15, 'day_interval': 450}",DONOR_38,SYNTHETIC-1,day
-True,Died of other reasons,{'month_interval': -270},{'month_interval': 46},Stomach,,,,,,DONOR_39,SYNTHETIC-1,month
-True,Died of other reasons,,{'month_interval': 88},Penis,Man,Male,,,,DONOR_40,SYNTHETIC-1,month
-False,,{'month_interval': -825},,"Bones, joints and articular cartilage of other and unspecified sites|Other and unspecified urinary organs|Thymus|Other and unspecified male genital organs|Retroperitoneum and peritoneum",Non-binary,Unknown,,,,DONOR_41,SYNTHETIC-2,month
+True,Died of other reasons,{'month_interval': -270},{'month_interval': 110},Stomach,,,,,,DONOR_39,SYNTHETIC-1,month
+True,Died of other reasons,,{'month_interval': 110},Penis,Man,Male,,,,DONOR_40,SYNTHETIC-1,month
+False,,{'month_interval': -825},,"Bones, joints and articular cartilage of other and unspecified sites|Other and unspecified urinary organs|Thymus|Other and unspecified male genital organs|Retroperitoneum and peritoneum",Non-binary,Unknown,,,,DONOR_41,SYNTHETIC-2,
 ,,{'month_interval': -929},,"Ureter|Other and unspecified major salivary glands|Liver and intrahepatic bile ducts|Other and ill-defined sites in lip, oral cavity and pharynx|Trachea",Man,Male,,,{'month_interval': 1},DONOR_42,SYNTHETIC-2,month
-True,Unknown,"{'month_interval': -267, 'day_interval': -8010}","{'month_interval': 13, 'day_interval': 390}","Small intestine|Adrenal gland|Other and ill-defined sites in lip, oral cavity and pharynx|Other and unspecified parts of mouth",Non-binary,Unknown,,,,DONOR_43,SYNTHETIC-2,day
-True,Unknown,{'month_interval': -626},{'month_interval': 85},Other and unspecified female genital organs|Oropharynx,,,,,,DONOR_44,SYNTHETIC-2,month
-True,Died of cancer,{'month_interval': -972},,Other and ill-defined sites|Nasal cavity and middle ear|Penis,Woman,Female,,,,DONOR_45,SYNTHETIC-2,month
-True,Died of cancer,"{'month_interval': -278, 'day_interval': -8340}","{'month_interval': 92, 'day_interval': 2760}",Vagina|Gallbladder|Other and ill-defined sites within respiratory system and intrathoracic organs|Floor of mouth,Man,,,,,DONOR_46,SYNTHETIC-2,day
-True,Died of cancer,{'month_interval': -848},{'month_interval': 19},Thymus|Other and unspecified parts of tongue|Peripheral nerves and autonomic nervous system,Non-binary,Unknown,,,,DONOR_47,SYNTHETIC-2,month
+True,Unknown,"{'month_interval': -267, 'day_interval': -8010}","{'month_interval': 106, 'day_interval': 3180}","Small intestine|Adrenal gland|Other and ill-defined sites in lip, oral cavity and pharynx|Other and unspecified parts of mouth",Non-binary,Unknown,,,,DONOR_43,SYNTHETIC-2,day
+True,Unknown,{'month_interval': -626},{'month_interval': 103},Other and unspecified female genital organs|Oropharynx,,,,,,DONOR_44,SYNTHETIC-2,month
+True,Died of cancer,{'month_interval': -972},,Other and ill-defined sites|Nasal cavity and middle ear|Penis,Woman,Female,,,,DONOR_45,SYNTHETIC-2,
+True,Died of cancer,"{'month_interval': -278, 'day_interval': -8340}","{'month_interval': 106, 'day_interval': 3180}",Vagina|Gallbladder|Other and ill-defined sites within respiratory system and intrathoracic organs|Floor of mouth,Man,,,,,DONOR_46,SYNTHETIC-2,day
+True,Died of cancer,{'month_interval': -848},{'month_interval': 99},Thymus|Other and unspecified parts of tongue|Peripheral nerves and autonomic nervous system,Non-binary,Unknown,,,,DONOR_47,SYNTHETIC-2,month
 False,,"{'month_interval': -465, 'day_interval': -13950}",,Other and unspecified major salivary glands|Vulva|Adrenal gland,,,,,,DONOR_48,SYNTHETIC-2,day
 False,,{'month_interval': -807},,Kidney|Oropharynx|Testis|Prostate gland,Non-binary,Unknown,,,{'month_interval': 5},DONOR_49,SYNTHETIC-2,month
-True,Unknown,{'month_interval': -409},{'month_interval': 8},,Non-binary,Other,,,,DONOR_50,SYNTHETIC-2,month
-,,{'month_interval': -967},,Other and unspecified major salivary glands|Vagina|Brain,Non-binary,Other,,,,DONOR_51,SYNTHETIC-2,month
+True,Unknown,{'month_interval': -409},"{'month_interval': 105, 'day_interval': 3150}",,Non-binary,Other,,,,DONOR_50,SYNTHETIC-2,month
+,,{'month_interval': -967},,Other and unspecified major salivary glands|Vagina|Brain,Non-binary,Other,,,,DONOR_51,SYNTHETIC-2,
 False,,"{'month_interval': -636, 'day_interval': -19080}",,Accessory sinuses,Woman,Male,,,"{'month_interval': 5, 'day_interval': 150}",DONOR_52,SYNTHETIC-2,day
-True,Died of cancer,{'month_interval': -758},{'month_interval': 48},"Brain|Bones, joints and articular cartilage of other and unspecified sites",Non-binary,Male,,,,DONOR_53,SYNTHETIC-2,month
+True,Died of cancer,{'month_interval': -758},{'month_interval': 96},"Brain|Bones, joints and articular cartilage of other and unspecified sites",Non-binary,Male,,,,DONOR_53,SYNTHETIC-2,month
 False,,"{'month_interval': -344, 'day_interval': -10320}",,Other and unspecified female genital organs|Floor of mouth|Gallbladder|Brain,Woman,Male,,,"{'month_interval': 32, 'day_interval': 960}",DONOR_54,SYNTHETIC-2,day
 False,,"{'month_interval': -320, 'day_interval': -9600}",,Stomach|Other and unspecified major salivary glands,,Male,,,"{'month_interval': 13, 'day_interval': 390}",DONOR_55,SYNTHETIC-2,day
-True,Died of other reasons,"{'month_interval': -800, 'day_interval': -24000}","{'month_interval': 81, 'day_interval': 2430}","Other endocrine glands and related structures|Connective, subcutaneous and other soft tissues|Vagina|Other and unspecified parts of tongue",Non-binary,Male,,,,DONOR_56,SYNTHETIC-2,day
+True,Died of other reasons,"{'month_interval': -800, 'day_interval': -24000}","{'month_interval': 110, 'day_interval': 3300}","Other endocrine glands and related structures|Connective, subcutaneous and other soft tissues|Vagina|Other and unspecified parts of tongue",Non-binary,Male,,,,DONOR_56,SYNTHETIC-2,day
 False,,"{'month_interval': -694, 'day_interval': -20820}",,Skin|Other and unspecified female genital organs|Hematopoietic and reticuloendothelial systems|Ovary|Ureter,Non-binary,Other,,,"{'month_interval': 36, 'day_interval': 1080}",DONOR_57,SYNTHETIC-2,day
 False,,{'month_interval': -923},,,Non-binary,Other,,,{'month_interval': 28},DONOR_58,SYNTHETIC-2,month
 False,,{'month_interval': -722},,Esophagus|Lip,Man,Unknown,,,{'month_interval': 44},DONOR_59,SYNTHETIC-2,month
-True,Died of other reasons,{'month_interval': -379},{'month_interval': 78},Skin,Woman,Male,,,,DONOR_60,SYNTHETIC-2,month
-True,Died of other reasons,"{'month_interval': -937, 'day_interval': -28110}","{'month_interval': 47, 'day_interval': 1410}","Other endocrine glands and related structures|Spinal cord, cranial nerves, and other parts of central nervous system|Renal pelvis",Man,Male,,,,DONOR_61,SYNTHETIC-2,day
-True,Unknown,,{'month_interval': 84},Bladder|Larynx,Woman,Male,,,,DONOR_62,SYNTHETIC-2,month
-True,Died of other reasons,{'month_interval': -567},{'month_interval': 70},"Palate|Thymus|Bones, joints and articular cartilage of other and unspecified sites|Hypopharynx|Breast",Woman,,,,,DONOR_63,SYNTHETIC-2,month
+True,Died of other reasons,{'month_interval': -379},{'month_interval': 104},Skin,Woman,Male,,,,DONOR_60,SYNTHETIC-2,
+True,Died of other reasons,"{'month_interval': -937, 'day_interval': -28110}","{'month_interval': 88, 'day_interval': 2640}","Other endocrine glands and related structures|Spinal cord, cranial nerves, and other parts of central nervous system|Renal pelvis",Man,Male,,,,DONOR_61,SYNTHETIC-2,day
+True,Unknown,,{'month_interval': 110},Bladder|Larynx,Woman,Male,,,,DONOR_62,SYNTHETIC-2,month
+True,Died of other reasons,{'month_interval': -567},{'month_interval': 105},"Palate|Thymus|Bones, joints and articular cartilage of other and unspecified sites|Hypopharynx|Breast",Woman,,,,,DONOR_63,SYNTHETIC-2,month
 False,,"{'month_interval': -464, 'day_interval': -13920}",,Bladder|Other and unspecified major salivary glands,Woman,Male,,,,DONOR_64,SYNTHETIC-2,day
 False,,"{'month_interval': -187, 'day_interval': -5610}",,"Bronchus and lung|Prostate gland|Colon|Bones, joints and articular cartilage of other and unspecified sites",Woman,Female,,,"{'month_interval': 10, 'day_interval': 300}",DONOR_65,SYNTHETIC-2,day
 False,,{'month_interval': -209},,"Retroperitoneum and peritoneum|Connective, subcutaneous and other soft tissues|Pyriform sinus",Woman,Other,,,{'month_interval': 26},DONOR_66,SYNTHETIC-2,month
-True,Unknown,,"{'month_interval': 27, 'day_interval': 810}",,Woman,,,,,DONOR_67,SYNTHETIC-2,day
-True,Unknown,{'month_interval': -200},{'month_interval': 23},Pyriform sinus|Tonsil,Non-binary,Unknown,,,,DONOR_68,SYNTHETIC-2,month
+True,Unknown,,"{'month_interval': 108, 'day_interval': 3240}",,Woman,,,,,DONOR_67,SYNTHETIC-2,day
+True,Unknown,{'month_interval': -200},{'month_interval': 101},Pyriform sinus|Tonsil,Non-binary,Unknown,,,,DONOR_68,SYNTHETIC-2,month
 True,Died of cancer,{'month_interval': -827},,Hematopoietic and reticuloendothelial systems|Other and unspecified major salivary glands,Man,Male,,,,DONOR_69,SYNTHETIC-2,month
 True,Unknown,{'month_interval': -464},,Oropharynx|Corpus uteri|Other and ill-defined sites within respiratory system and intrathoracic organs|Lymph nodes,Non-binary,Male,,,,DONOR_70,SYNTHETIC-2,month
 False,,"{'month_interval': -505, 'day_interval': -15150}",,"Bones, joints and articular cartilage of limbs|Adrenal gland|Corpus uteri",Non-binary,Other,,,"{'month_interval': 25, 'day_interval': 750}",DONOR_71,SYNTHETIC-3,day
@@ -77,28 +77,28 @@ True,Died of cancer,"{'month_interval': -168, 'day_interval': -5040}",,Other and
 False,,{'month_interval': -945},,Other and unspecified parts of biliary tract|Other and unspecified urinary organs|Rectum,Man,Other,,,,DONOR_76,SYNTHETIC-3,month
 False,,,,"Spinal cord, cranial nerves, and other parts of central nervous system",Man,Unknown,,,{'month_interval': 49},DONOR_77,SYNTHETIC-3,month
 True,Died of cancer,"{'month_interval': -771, 'day_interval': -23130}",,"Other and unspecified male genital organs|Vulva|Thyroid gland|Heart, mediastinum, and pleura",Non-binary,Other,,,,DONOR_78,SYNTHETIC-3,day
-True,Unknown,"{'month_interval': -859, 'day_interval': -25770}","{'month_interval': 4, 'day_interval': 120}",Unknown primary site|Bladder,Woman,Male,,,,DONOR_79,SYNTHETIC-3,day
-True,Died of other reasons,{'month_interval': -865},{'month_interval': 77},Retroperitoneum and peritoneum|Placenta,Woman,Unknown,,,,DONOR_80,SYNTHETIC-3,month
+True,Unknown,"{'month_interval': -859, 'day_interval': -25770}","{'month_interval': 75, 'day_interval': 2250}",Unknown primary site|Bladder,Woman,Male,,,,DONOR_79,SYNTHETIC-3,day
+True,Died of other reasons,{'month_interval': -865},{'month_interval': 105},Retroperitoneum and peritoneum|Placenta,Woman,Unknown,,,,DONOR_80,SYNTHETIC-3,month
 False,,{'month_interval': -542},,"Penis|Connective, subcutaneous and other soft tissues|Esophagus",Man,,,,{'month_interval': 19},DONOR_81,SYNTHETIC-3,month
 False,,,,Other and unspecified urinary organs|Pyriform sinus,Woman,Unknown,,,{'month_interval': 45},DONOR_82,SYNTHETIC-3,month
 ,,{'month_interval': -829},,Other and unspecified male genital organs|Anus and anal canal,Non-binary,Male,,,{'month_interval': 32},DONOR_83,SYNTHETIC-3,month
 False,,"{'month_interval': -623, 'day_interval': -18690}",,"Lip|Bones, joints and articular cartilage of other and unspecified sites|Other and ill-defined sites|Eye and adnexa|Bronchus and lung",Woman,Unknown,,,"{'month_interval': 13, 'day_interval': 390}",DONOR_84,SYNTHETIC-3,day
-True,Died of cancer,{'month_interval': -976},,"Bones, joints and articular cartilage of other and unspecified sites|Adrenal gland|Other and unspecified parts of biliary tract|Other and unspecified parts of mouth",Woman,Other,,,,DONOR_85,SYNTHETIC-3,month
+True,Died of cancer,{'month_interval': -976},,"Bones, joints and articular cartilage of other and unspecified sites|Adrenal gland|Other and unspecified parts of biliary tract|Other and unspecified parts of mouth",Woman,Other,,,,DONOR_85,SYNTHETIC-3,
 True,Died of other reasons,"{'month_interval': -348, 'day_interval': -10440}",,,Man,Female,,,,DONOR_86,SYNTHETIC-3,day
 False,,"{'month_interval': -526, 'day_interval': -15780}",,Small intestine|Placenta|Peripheral nerves and autonomic nervous system,Woman,Unknown,,,"{'month_interval': 20, 'day_interval': 600}",DONOR_87,SYNTHETIC-3,day
-True,Died of other reasons,{'month_interval': -790},{'month_interval': 30},"Peripheral nerves and autonomic nervous system|Skin|Connective, subcutaneous and other soft tissues|Thyroid gland",Man,Female,,,,DONOR_88,SYNTHETIC-3,month
+True,Died of other reasons,{'month_interval': -790},{'month_interval': 90},"Peripheral nerves and autonomic nervous system|Skin|Connective, subcutaneous and other soft tissues|Thyroid gland",Man,Female,,,,DONOR_88,SYNTHETIC-3,month
 ,,"{'month_interval': -582, 'day_interval': -17460}",,Gallbladder|Anus and anal canal,Man,Other,,,"{'month_interval': 44, 'day_interval': 1320}",DONOR_89,SYNTHETIC-3,day
 False,,,,Oropharynx|Testis,Woman,Female,,,"{'month_interval': 27, 'day_interval': 810}",DONOR_90,SYNTHETIC-3,day
 False,,"{'month_interval': -665, 'day_interval': -19950}",,Renal pelvis|Skin|Other endocrine glands and related structures|Breast,Non-binary,Unknown,,,"{'month_interval': 24, 'day_interval': 720}",DONOR_91,SYNTHETIC-4,day
 False,,{'month_interval': -502},,Other and ill-defined digestive organs|Nasal cavity and middle ear,,Unknown,,,{'month_interval': 13},DONOR_92,SYNTHETIC-4,month
-True,Died of cancer,"{'month_interval': -834, 'day_interval': -25020}","{'month_interval': 20, 'day_interval': 600}",Parotid gland|Penis|Liver and intrahepatic bile ducts|Bronchus and lung|Other and ill-defined sites within respiratory system and intrathoracic organs,Non-binary,Female,,,,DONOR_93,SYNTHETIC-4,day
+True,Died of cancer,"{'month_interval': -834, 'day_interval': -25020}","{'month_interval': 63, 'day_interval': 1890}",Parotid gland|Penis|Liver and intrahepatic bile ducts|Bronchus and lung|Other and ill-defined sites within respiratory system and intrathoracic organs,Non-binary,Female,,,,DONOR_93,SYNTHETIC-4,day
 False,,"{'month_interval': -588, 'day_interval': -17640}",,,Non-binary,Other,,,"{'month_interval': 30, 'day_interval': 900}",DONOR_94,SYNTHETIC-4,day
 False,,"{'month_interval': -959, 'day_interval': -28770}",,Lymph nodes|Vagina|Rectum|Ureter|Prostate gland,Man,Female,,,"{'month_interval': 20, 'day_interval': 600}",DONOR_95,SYNTHETIC-4,day
 False,,"{'month_interval': -706, 'day_interval': -21180}",,Cervix uteri|Pancreas|Other and unspecified parts of biliary tract,Woman,Unknown,,,,DONOR_96,SYNTHETIC-4,day
 True,Died of cancer,"{'month_interval': -210, 'day_interval': -6300}","{'month_interval': 78, 'day_interval': 2340}","Cervix uteri|Floor of mouth|Heart, mediastinum, and pleura",Woman,Unknown,,,,DONOR_97,SYNTHETIC-4,day
-True,Died of other reasons,"{'month_interval': -623, 'day_interval': -18690}","{'month_interval': 34, 'day_interval': 1020}",,Non-binary,Female,,,,DONOR_98,SYNTHETIC-4,day
+True,Died of other reasons,"{'month_interval': -623, 'day_interval': -18690}","{'month_interval': 62, 'day_interval': 1860}",,Non-binary,Female,,,,DONOR_98,SYNTHETIC-4,day
 False,,{'month_interval': -875},,,Man,Female,,,{'month_interval': 39},DONOR_99,SYNTHETIC-4,month
 ,,,,Esophagus,Man,Female,,,{'month_interval': 14},DONOR_100,SYNTHETIC-4,month
-True,Unknown,"{'month_interval': -700, 'day_interval': -21292}","{'month_interval': 120, 'day_interval': 3653}",Floor of mouth|Other and unspecified parts of mouth,Woman,Other,,,,DONOR_ALL_02,SYNTHETIC-2,day
-False,,"{'month_interval': -700, 'day_interval': -21292}",,Floor of mouth|Other and unspecified parts of mouth,Woman,Other,TREATMENT_0033,Withdrew from study,"{'month_interval': 90, 'day_interval': 2700}",DONOR_ALL_01,SYNTHETIC-2,day
-,,,,,,,,,,DONOR_NULL,SYNTHETIC-2,month
+True,Unknown,"{'month_interval': -700, 'day_interval': -21292}","{'month_interval': 120, 'day_interval': 3653}",Floor of mouth|Other and unspecified parts of mouth,Woman,Other,,,,DONOR_ALL_02,SYNTHETIC-2,month
+False,,"{'month_interval': -700, 'day_interval': -21292}",,Floor of mouth|Other and unspecified parts of mouth,Woman,Other,TREATMENT_0033,Withdrew from study,"{'month_interval': 90, 'day_interval': 2700}",DONOR_ALL_01,SYNTHETIC-2,month
+,,,,,,,,,,DONOR_NULL,SYNTHETIC-2,
