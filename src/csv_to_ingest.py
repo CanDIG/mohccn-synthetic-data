@@ -99,7 +99,7 @@ def _add_prefix_json(prefix: str, object_json: dict, output_dir):
             sample['genomic_file_sample_id'] = f"{prefix}-{sample['genomic_file_sample_id']}"
             sample['submitter_sample_id'] = f"{prefix}-{sample['submitter_sample_id']}"
     with open(f'{output_dir}/genomic.json', 'w+') as f:
-        json.dump(object_json, f)
+        json.dump(object_json, f, indent=4)
 
 
 def replace_identifiers(prefix: str, input_folder: str):
@@ -167,8 +167,8 @@ def main():
         donors_per_program = int(args.sample / 10)
         extra_donors = args.sample - (donors_per_program * 10)
         dataset_path = Path(subsample_csv(donors_per_program=donors_per_program,
-                                     number_of_programs=10, extra_donors=extra_donors,
-                                     prefix=args.prefix))
+                                          number_of_programs=10, extra_donors=extra_donors,
+                                          prefix=args.prefix))
         size = size_mapping['l']
         manifest_path = f"{repo_dir}/{size}_dataset_csv/"
         if args.prefix:
@@ -180,8 +180,8 @@ def main():
         size = size_mapping['l']
         manifest_path = f"{repo_dir}/{size}_dataset_csv/"
         dataset_path = Path(subsample_csv(donors_per_program=args.donors_per_program,
-                                     number_of_programs=args.number_of_programs,
-                                     prefix=args.prefix))
+                                          number_of_programs=args.number_of_programs,
+                                          prefix=args.prefix))
         if args.prefix:
             with open(f"{repo_dir}/{size}_dataset_csv/genomic.json") as f:
                 genomic_json = json.load(f)
