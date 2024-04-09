@@ -5,6 +5,7 @@ from clinical_etl.schema import ValidationError
 from pathlib import Path
 import pandas as pd
 import sys
+import json
 pd.options.mode.chained_assignment = None
 
 
@@ -77,7 +78,7 @@ def parse_args():
     return args
 
 
-def add_prefix(prefix: str, object_df: pd.DataFrame):
+def add_prefix_df(prefix: str, object_df: pd.DataFrame):
     """ Prepend all identifiers in a df with the specified prefix """
     object_df.loc[:, object_df.columns.str.startswith('submitter_')] = (object_df.filter(regex="^submitter").
                                                                         apply(lambda x: prefix + "-" + x))
@@ -90,6 +91,17 @@ def add_prefix(prefix: str, object_df: pd.DataFrame):
     return object_df
 
 
+def _add_prefix_json(prefix: str, object_json: dict, output_dir):
+    for file_set in object_json:
+        file_set['program_id'] = f"{prefix}-{file_set['program_id']}"
+        file_set['genomic_file_id'] = f"{prefix}-{file_set['genomic_file_id']}"
+        for sample in file_set['samples']:
+            sample['genomic_file_sample_id'] = f"{prefix}-{sample['genomic_file_sample_id']}"
+            sample['submitter_sample_id'] = f"{prefix}-{sample['submitter_sample_id']}"
+    with open(f'{output_dir}/genomic.json', 'w+') as f:
+        json.dump(object_json, f)
+
+
 def replace_identifiers(prefix: str, input_folder: str):
     """ Iterate through all files in the input folder and prepend the prefix"""
     file_list = list(os.listdir(input_folder))
@@ -99,7 +111,7 @@ def replace_identifiers(prefix: str, input_folder: str):
     Path(output_folder).mkdir(parents=True, exist_ok=True)
     for file in file_list:
         csv_df = pd.read_csv(f"{input_folder}/{file}")
-        csv_df = add_prefix(prefix, csv_df)
+        csv_df = add_prefix_df(prefix, csv_df)
         csv_df.to_csv(f"{output_folder}/{file}")
     print(f"All identifiers prepended with {prefix}-.")
 
@@ -128,7 +140,7 @@ def subsample_csv(donors_per_program: int, number_of_programs: int, extra_donors
     subsampled_donor_df = pd.concat([subsampled_donor_df, extra_donors_df]).drop(columns="donor_index")
     donor_list = list(subsampled_donor_df['submitter_donor_id'])
     if prefix:
-        subsampled_donor_df = add_prefix(prefix, subsampled_donor_df)
+        subsampled_donor_df = add_prefix_df(prefix, subsampled_donor_df)
         subsampled_donor_df.to_csv(f"{csv_output_folder}/Donor.csv", index=False)
     else:
         subsampled_donor_df.to_csv(f"{csv_output_folder}/Donor.csv", index=False)
@@ -139,7 +151,7 @@ def subsample_csv(donors_per_program: int, number_of_programs: int, extra_donors
             csv_df = pd.read_csv(f"{csv_input_folder}/{file}")
             subsampled_csv = csv_df.loc[csv_df.submitter_donor_id.isin(donor_list)]
             if prefix:
-                subsampled_csv = add_prefix(prefix, subsampled_csv)
+                subsampled_csv = add_prefix_df(prefix, subsampled_csv)
                 subsampled_csv.to_csv(f"{csv_output_folder}/{file}", index=False)
             else:
                 subsampled_csv.to_csv(f"{csv_output_folder}/{file}", index=False)
@@ -154,27 +166,42 @@ def main():
     if args.sample:
         donors_per_program = int(args.sample / 10)
         extra_donors = args.sample - (donors_per_program * 10)
-        dataset_path = subsample_csv(donors_per_program=donors_per_program,
+        dataset_path = Path(subsample_csv(donors_per_program=donors_per_program,
                                      number_of_programs=10, extra_donors=extra_donors,
-                                     prefix=args.prefix)
+                                     prefix=args.prefix))
         size = size_mapping['l']
         manifest_path = f"{repo_dir}/{size}_dataset_csv/"
+        if args.prefix:
+            with open(f"{repo_dir}/{size}_dataset_csv/genomic.json") as f:
+                genomic_json = json.load(f)
+            output_dir = dataset_path.parent.absolute()
+            _add_prefix_json(args.prefix, genomic_json, output_dir)
     elif args.donors_per_program:
         size = size_mapping['l']
         manifest_path = f"{repo_dir}/{size}_dataset_csv/"
-        dataset_path = subsample_csv(donors_per_program=args.donors_per_program,
+        dataset_path = Path(subsample_csv(donors_per_program=args.donors_per_program,
                                      number_of_programs=args.number_of_programs,
-                                     prefix=args.prefix)
+                                     prefix=args.prefix))
+        if args.prefix:
+            with open(f"{repo_dir}/{size}_dataset_csv/genomic.json") as f:
+                genomic_json = json.load(f)
+            output_dir = dataset_path.parent.absolute()
+            _add_prefix_json(args.prefix, genomic_json, output_dir)
     else:
         size = size_mapping[args.size]
         manifest_path = f"{repo_dir}/{size}_dataset_csv/"
         dataset_path = f"{manifest_path}raw_data"
         if args.prefix:
             replace_identifiers(args.prefix, dataset_path)
-            dataset_path = f"{repo_dir}/custom_dataset_csv-{args.prefix}/raw_data"
+            dataset_path = Path(f"{repo_dir}/custom_dataset_csv-{args.prefix}/raw_data")
+            with open(f"{repo_dir}/{size}_dataset_csv/genomic.json") as f:
+                genomic_json = json.load(f)
+            output_dir = dataset_path.parent.absolute()
+            _add_prefix_json(args.prefix, genomic_json, output_dir)
 
     packets, errors = CSVConvert.csv_convert(input_path=dataset_path, manifest_file=f"{manifest_path}/manifest.yml",
                                              minify=True, index_output=False)
+
     if errors:
         raise ValidationError("Validation failed, errors must be corrected before ingest.")
 
