@@ -63,7 +63,14 @@ Script uses the config files in the given folder to run `CSVConvert` from `clini
 
 Specifying the `--sample` argument will sample the specified number of donors, divided approximately equally amongst the 10 programs in the large_dataset. The maximum number for this argument is 4999, as there are 5000 total donors in this dataset.
 
-Output csvs and from the clinical_etl tranformation will be saved in a folder named `custom_dataset_csv-{sample}`.
+Output csvs and from the clinical_etl transformation will be saved in a folder named `custom_dataset_csv-{sample}`.
+
+Example:
+```commandline
+python src/csv_to_ingest.py --sample 387
+```
+
+Will create a dataset with 387 donors from the 10 programs in the large dataset, plus the three custom donors [`DONOR_ALL_01`, `DONOR_ALL_02`, `DONOR_NULL`] and save the results to `custom_dataset_csv-387/`. 
 
 ##### `--donor-number` and `--number-of-programs`
 
@@ -71,10 +78,26 @@ These two arguments must be specified together. `--donors-per-program` specifies
 
 All outputs are saved into a folder called: `custom_dataset_csv-{total_donors}`
 
+Example:
+```commandline
+python src/csv_to_ingest.py --donor-number 20 --number-of-programs 4
+```
+
+Will create a dataset with 80 donors from 4 programs in the large dataset, plus the three custom donors [`DONOR_ALL_01`, `DONOR_ALL_02`, `DONOR_NULL`] and save the results to `custom_dataset_csv-80/`. 
+
+You can also specify a prefix alongside these arguments, e.g.
+
+```commandline
+python src/csv_to_ingest.py --donor-number 20 --number-of-programs 4 --prefix CAN
+```
+
+Will create the same sized dataset as the previous example, saved in the same directory, but all identifiers are prepended with the `CAN-` prefix.
 
 #### Specifying a prefix with `--prefix`
 
-The `--prefix` argument can be used to prepend the specified prefix to all csvs in the dataset. When this argument is used, a new folder is created `custom_dataset_csv-{prefix}`, the edited csvs are saved in this folder and the manifest from the source dataset is used for clinical_etl conversion. The outputs from clinical_etl are also saved in this folder.
+The `--prefix` argument can be used to prepend the specified prefix to all csvs in the dataset. When this argument is used, a new folder is created `custom_dataset_csv-{prefix}`, the edited csvs are saved in this folder and the manifest from the source dataset is used for clinical_etl conversion. The outputs from clinical_etl are also saved in this folder. 
+
+If the `--prefix` argument is used along with the `--sample` or `--donors-per-program`+`number-of-programs` arguments, the script saves the outputs in a directory called `custom_dataset_csv-{total_donors}`, but all identifiers are prepended with the given prefix.
 
 ## How to generate genomic json files
 
