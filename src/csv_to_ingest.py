@@ -91,15 +91,14 @@ def add_prefix_df(prefix: str, object_df: pd.DataFrame):
     return object_df
 
 
-def _add_prefix_json(prefix: str, object_json: dict, output_dir):
+def add_prefix_json(prefix: str, object_json: list):
     for file_set in object_json:
         file_set['program_id'] = f"{prefix}-{file_set['program_id']}"
         file_set['genomic_file_id'] = f"{prefix}-{file_set['genomic_file_id']}"
         for sample in file_set['samples']:
             sample['genomic_file_sample_id'] = f"{prefix}-{sample['genomic_file_sample_id']}"
             sample['submitter_sample_id'] = f"{prefix}-{sample['submitter_sample_id']}"
-    with open(f'{output_dir}/genomic.json', 'w+') as f:
-        json.dump(object_json, f, indent=4)
+    return object_json
 
 
 def replace_identifiers(prefix: str, input_folder: str):
@@ -128,7 +127,9 @@ def subsample_csv(donors_per_program: int, number_of_programs: int, extra_donors
     print(f"Subsampling csv files from {csv_input_folder}...")
     file_list = list(os.listdir(csv_input_folder))
     donor_df = pd.read_csv(f"{csv_input_folder}/Donor.csv")
-    program_list = list(set(donor_df.program_id))[:number_of_programs]
+    program_list = list(set(donor_df.program_id))
+    program_list.sort()
+    program_list = program_list[:number_of_programs]
     custom_donors = ['DONOR_ALL_01', 'DONOR_ALL_02', 'DONOR_NULL']
     donor_df['donor_index'] = donor_df.groupby(['program_id']).cumcount()
     subsampled_donor_df = donor_df.loc[donor_df.program_id.isin(program_list)]
@@ -155,7 +156,7 @@ def subsample_csv(donors_per_program: int, number_of_programs: int, extra_donors
                 subsampled_csv.to_csv(f"{csv_output_folder}/{file}", index=False)
             else:
                 subsampled_csv.to_csv(f"{csv_output_folder}/{file}", index=False)
-    return csv_output_folder
+    return csv_output_folder, program_list
 
 
 def main():
@@ -166,27 +167,35 @@ def main():
     if args.sample:
         donors_per_program = int(args.sample / 10)
         extra_donors = args.sample - (donors_per_program * 10)
-        dataset_path = Path(subsample_csv(donors_per_program=donors_per_program,
-                                          number_of_programs=10, extra_donors=extra_donors,
-                                          prefix=args.prefix))
+        sample_result = subsample_csv(donors_per_program=donors_per_program,
+                                                        number_of_programs=10, extra_donors=extra_donors,
+                                                        prefix=args.prefix)
+        dataset_path = Path(sample_result[0])
         size = size_mapping['l']
         manifest_path = f"{repo_dir}/{size}_dataset_csv/"
         if args.prefix:
             with open(f"{repo_dir}/{size}_dataset_csv/genomic.json") as f:
                 genomic_json = json.load(f)
             output_dir = dataset_path.parent.absolute()
-            _add_prefix_json(args.prefix, genomic_json, output_dir)
+            genomic_json = add_prefix_json(args.prefix, genomic_json)
+            with open(f'{output_dir}/genomic.json', 'w+') as f:
+                json.dump(genomic_json, f, indent=4)
     elif args.donors_per_program:
         size = size_mapping['l']
         manifest_path = f"{repo_dir}/{size}_dataset_csv/"
-        dataset_path = Path(subsample_csv(donors_per_program=args.donors_per_program,
-                                          number_of_programs=args.number_of_programs,
-                                          prefix=args.prefix))
+        sample_result = subsample_csv(donors_per_program=args.donors_per_program,
+                                      number_of_programs=args.number_of_programs,
+                                      prefix=args.prefix)
+        dataset_path = Path(sample_result[0])
+        with open(f"{repo_dir}/{size}_dataset_csv/genomic.json") as f:
+            genomic_json = json.load(f)
+        output_dir = dataset_path.parent.absolute()
+        genomic_json = [x for x in genomic_json if x['program_id'] in sample_result[1]]
         if args.prefix:
-            with open(f"{repo_dir}/{size}_dataset_csv/genomic.json") as f:
-                genomic_json = json.load(f)
-            output_dir = dataset_path.parent.absolute()
-            _add_prefix_json(args.prefix, genomic_json, output_dir)
+            genomic_json = add_prefix_json(args.prefix, genomic_json)
+        with open(f'{output_dir}/genomic.json', 'w+') as f:
+            json.dump(genomic_json, f, indent=4)
+
     else:
         size = size_mapping[args.size]
         manifest_path = f"{repo_dir}/{size}_dataset_csv/"
@@ -197,7 +206,9 @@ def main():
             with open(f"{repo_dir}/{size}_dataset_csv/genomic.json") as f:
                 genomic_json = json.load(f)
             output_dir = dataset_path.parent.absolute()
-            _add_prefix_json(args.prefix, genomic_json, output_dir)
+            genomic_json = add_prefix_json(args.prefix, genomic_json)
+            with open(f'{output_dir}/genomic.json', 'w+') as f:
+                json.dump(genomic_json, f, indent=4)
 
     packets, errors = CSVConvert.csv_convert(input_path=dataset_path, manifest_file=f"{manifest_path}/manifest.yml",
                                              minify=True, index_output=False)
