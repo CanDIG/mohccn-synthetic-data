@@ -67,8 +67,8 @@ def add_pds():
             "clinical_tumour_staging_system": "AJCC 8th edition",
             "clinical_stage_group": "Stage II",
             "date_of_diagnosis": {
-                "month_interval": 69,
-                "day_interval": 2070
+                "month_interval": 0,
+                "day_interval": 0
             },
             "laterality": "Right",
             "lymph_nodes_examined_method": "Imaging",
@@ -88,8 +88,8 @@ def add_pds():
             "clinical_tumour_staging_system": "AJCC 8th edition",
             "clinical_stage_group": "Stage II",
             "date_of_diagnosis": {
-                "month_interval": 69,
-                "day_interval": 2070
+                "month_interval": 0,
+                "day_interval": 0
             },
             "laterality": "Right",
             "lymph_nodes_examined_method": "Imaging",
