@@ -170,7 +170,7 @@
     },
     {
         "program_id": "SYNTHETIC-2",
-        "genomic_file_id": "NA18537.vcf.gz",
+        "genomic_file_id": "NA18537-vcf",
         "main": {
             "access_method": "file:////app/htsget_server/data/files/NA18537.vcf.gz",
             "name": "NA18537.vcf.gz"
