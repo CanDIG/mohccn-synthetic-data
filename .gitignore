@@ -1,7 +1,8 @@
+
 *_dataset_csv/raw_data_*
 custom_dataset*
 prefix*
-
+*_dataset_csv/raw_data*.json
 # IDE related
 *~
 .idea
