@@ -51,8 +51,8 @@ def parse_args():
         '--size',
         type=str,
         default='s',
-        choices=['s', 'm', 'l'],
-        help="Size of the synthetic dataset to convert, options: 's' for small, 'm' for medium, 'l' for large (default:"
+        choices=['xs', 's', 'm', 'l'],
+        help="Size of the synthetic dataset to convert, options: 'xs' for extra small, 's' for small, 'm' for medium, 'l' for large (default:"
              " small)"
     )
     parser.add_argument('--sample',
@@ -161,7 +161,7 @@ def subsample_csv(donors_per_program: int, number_of_programs: int, extra_donors
 
 def main():
     args = parse_args()
-    size_mapping = {'s': 'small', 'm': 'medium', 'l': 'large'}
+    size_mapping = {'xs': 'extra_small', 's': 'small', 'm': 'medium', 'l': 'large'}
     repo_dir = os.path.dirname(os.path.dirname(__file__))
 
     if args.sample:

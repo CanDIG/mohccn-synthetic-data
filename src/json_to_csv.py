@@ -14,7 +14,7 @@ from pathlib import Path
 def sort_key(file_name):
     """Sorting key to ensure jsons are processed in the correct order."""
     sort_key = {'Donor.json': 0, 'PrimaryDiagnosis.json': 1, 'Treatment.json': 2, 'Specimen.json': 3,
-                'SampleRegistration.json': 4, 'Followup.json': 5, 'SystemicTherapy.json': 6,
+                'SampleRegistration.json': 4, 'Followup.json': 5, 'FollowUp.json': 5, 'SystemicTherapy.json': 6,
                 'Surgery.json': 7, 'Radiation.json': 8, 'Biomarker.json': 9,
                 'Comorbidity.json': 10, 'Exposure.json': 11, 'Program.json': 12}
     return sort_key[file_name]
@@ -54,8 +54,8 @@ def parse_args():
         '--size',
         type=str,
         default='s',
-        choices=['s', 'm', 'l'],
-        help="Size of the synthetic dataset to convert, options: 's' for small, 'm' for medium, 'l' for large (default: small)"
+        choices=['xs', 's', 'm', 'l'],
+        help="Size of the synthetic dataset to convert, options: 'xs' for extra-small, 's' for small, 'm' for medium, 'l' for large (default: small)"
     )
     parser.add_argument(
         '--input',
@@ -69,7 +69,7 @@ def parse_args():
 
 def main():
     args = parse_args()
-    size_mapping = {'s': 'small', 'm': 'medium', 'l': 'large'}
+    size_mapping = {'xs': 'extra_small', 's': 'small', 'm': 'medium', 'l': 'large'}
     convert_to_csv(size_mapping[args.size], f"{args.input}/{size_mapping[args.size]}_dataset/synthetic_data")
 
 

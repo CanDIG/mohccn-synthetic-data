@@ -1,0 +1,49 @@
+program_id,submitter_donor_id,submitter_treatment_id,systemic_therapy_type,days_per_cycle,number_of_cycles,start_date,end_date,drug_reference_database,drug_name,drug_reference_identifier,drug_dose_units,prescribed_cumulative_drug_dose,actual_cumulative_drug_dose
+SYNTH_01,DONOR_0001,TREATMENT_0001,Chemotherapy,16,7,"{'day_interval': 346, 'month_interval': 11}","{'day_interval': 383, 'month_interval': 12}",RxNorm,Fludarabine,24698,mg/m2,,
+SYNTH_01,DONOR_0001,TREATMENT_0001,Chemotherapy,30,9,"{'day_interval': 364, 'month_interval': 11}","{'day_interval': 392, 'month_interval': 12}",NCI Thesaurus,Idarubicin,C562,cells/kg,,
+SYNTH_01,DONOR_0001,TREATMENT_0002,Hormone therapy,26,6,"{'day_interval': 31, 'month_interval': 1}","{'day_interval': 141, 'month_interval': 4}",PubChem,gucqzupplPqk,wstlyjXQBOvDNVdqBMStethVUN,mg/m2,25.2,56.6
+SYNTH_01,DONOR_0001,TREATMENT_0002,Hormone therapy,21,10,"{'day_interval': 72, 'month_interval': 2}","{'day_interval': 78, 'month_interval': 2}",PubChem,Fluoxymesterone,6446,IU/m2,,
+SYNTH_01,DONOR_0002,TREATMENT_0003,Immunotherapy,12,7,"{'day_interval': 287, 'month_interval': 9}","{'day_interval': 396, 'month_interval': 13}",RxNorm,,UURQYYwlrGFlzdRinkvE,mg/kg,,
+SYNTH_01,DONOR_0002,TREATMENT_0003,Immunotherapy,21,4,,,NCI Thesaurus,,BXjokOAcmhGRgfYswCeoYpswBxa,mg/kg,,
+SYNTH_01,DONOR_0002,TREATMENT_0004,Chemotherapy,18,9,"{'day_interval': 269, 'month_interval': 8}","{'day_interval': 284, 'month_interval': 9}",NCI Thesaurus,Idarubicin,C562,,,
+SYNTH_01,DONOR_0002,TREATMENT_0004,Hormone therapy,3,3,"{'day_interval': 364, 'month_interval': 11}","{'day_interval': 367, 'month_interval': 12}",RxNorm,Tamoxifen,10324,g/m2,,
+SYNTH_01,DONOR_0003,TREATMENT_0005,Hormone therapy,5,1,"{'day_interval': 259, 'month_interval': 8}","{'day_interval': 260, 'month_interval': 8}",NCI Thesaurus,QpumWvQMgDSrAFppnVBPwwTlCCr,WlFdYCwPtxFBQsOUydJniuKthy,mg/kg,,
+SYNTH_01,DONOR_0003,TREATMENT_0005,Immunotherapy,23,9,"{'day_interval': 212, 'month_interval': 6}","{'day_interval': 232, 'month_interval': 7}",NCI Thesaurus,Pembrolizumab,C106432,IU/m2,,
+SYNTH_01,DONOR_0003,TREATMENT_0006,Hormone therapy,2,2,{'day_interval': 191},"{'day_interval': 242, 'month_interval': 7}",PubChem,Degarelix,16136245,mg/m2,38.4,67.9
+SYNTH_01,DONOR_0003,TREATMENT_0006,Hormone therapy,26,1,{'day_interval': 250},"{'day_interval': 253, 'month_interval': 8}",NCI Thesaurus,Buserelin,C320,,28.3,56.9
+SYNTH_01,DONOR_0004,TREATMENT_0007,Hormone therapy,18,4,"{'day_interval': 111, 'month_interval': 3}","{'day_interval': 122, 'month_interval': 4}",PubChem,Tamoxifen,2733526,cells/kg,,
+SYNTH_01,DONOR_0004,TREATMENT_0007,Hormone therapy,12,2,"{'day_interval': 96, 'month_interval': 3}","{'day_interval': 132, 'month_interval': 4}",NCI Thesaurus,,TpoFihwunCVITIwanhmqhVLQOqV,cells/kg,,
+SYNTH_01,DONOR_0004,TREATMENT_0008,Immunotherapy,19,6,,,NCI Thesaurus,Nivolumab,C68814,,,
+SYNTH_01,DONOR_0004,TREATMENT_0008,Chemotherapy,21,5,"{'day_interval': 155, 'month_interval': 5}","{'day_interval': 158, 'month_interval': 5}",NCI Thesaurus,,soTsFiKmfMpnKAZBvQJnBDynYxP,ug/m2,,
+SYNTH_01,DONOR_0005,TREATMENT_0009,Hormone therapy,22,6,"{'day_interval': 112, 'month_interval': 3}","{'day_interval': 130, 'month_interval': 4}",NCI Thesaurus,Degarelix,C48385,,47.0,60.9
+SYNTH_01,DONOR_0005,TREATMENT_0009,Hormone therapy,5,9,"{'day_interval': 122, 'month_interval': 4}","{'day_interval': 128, 'month_interval': 4}",RxNorm,Fluoxymesterone,4494,g/m2,,
+SYNTH_01,DONOR_0005,TREATMENT_0010,Immunotherapy,10,3,{'day_interval': 92},"{'day_interval': 182, 'month_interval': 5}",PubChem,Nivolumab,469753496,,,
+SYNTH_01,DONOR_0005,TREATMENT_0010,Chemotherapy,4,1,{'day_interval': 88},"{'day_interval': 161, 'month_interval': 5}",NCI Thesaurus,Methotrexate,C642,,48.4,80.2
+SYNTH_02,DONOR_0006,TREATMENT_0011,Immunotherapy,30,6,"{'day_interval': 186, 'month_interval': 6}","{'day_interval': 190, 'month_interval': 6}",PubChem,Durvalumab,481101604,IU/kg,,
+SYNTH_02,DONOR_0006,TREATMENT_0011,Chemotherapy,30,1,"{'day_interval': 201, 'month_interval': 6}","{'day_interval': 212, 'month_interval': 6}",PubChem,Idarubicin,42890,IU/m2,,
+SYNTH_02,DONOR_0006,TREATMENT_0012,Immunotherapy,23,3,"{'day_interval': 290, 'month_interval': 9}","{'day_interval': 317, 'month_interval': 10}",NCI Thesaurus,Atezolizumab,C106250,cells/kg,,
+SYNTH_02,DONOR_0006,TREATMENT_0012,Immunotherapy,12,9,"{'day_interval': 241, 'month_interval': 7}","{'day_interval': 262, 'month_interval': 8}",NCI Thesaurus,Nivolumab,C68814,,,
+SYNTH_02,DONOR_0007,TREATMENT_0013,Hormone therapy,8,7,"{'day_interval': 86, 'month_interval': 2}","{'day_interval': 195, 'month_interval': 6}",PubChem,Tamoxifen,2733526,ug/m2,,
+SYNTH_02,DONOR_0007,TREATMENT_0013,Chemotherapy,5,5,"{'day_interval': 78, 'month_interval': 2}","{'day_interval': 100, 'month_interval': 3}",NCI Thesaurus,,MlvnxNoObtlzSiyAjpRIFlIE,ug/m2,,
+SYNTH_02,DONOR_0007,TREATMENT_0014,Chemotherapy,7,5,"{'day_interval': 34, 'month_interval': 1}","{'day_interval': 93, 'month_interval': 3}",RxNorm,Carboplatin,40048,cells/kg,,
+SYNTH_02,DONOR_0007,TREATMENT_0014,Chemotherapy,20,7,"{'day_interval': 32, 'month_interval': 1}","{'day_interval': 78, 'month_interval': 2}",NCI Thesaurus,Methotrexate,C642,IU/kg,,
+SYNTH_02,DONOR_0008,TREATMENT_0015,Immunotherapy,15,5,{'day_interval': 173},"{'day_interval': 207, 'month_interval': 6}",PubChem,hgbsWMugupQKBbPXOfoURKzGp,OcRpoDPRuTVieKEcYwrACtCrH,IU/kg,,
+SYNTH_02,DONOR_0008,TREATMENT_0015,Immunotherapy,14,9,{'day_interval': 220},"{'day_interval': 317, 'month_interval': 10}",NCI Thesaurus,Ipilimumab,C2654,ug/m2,39.3,96.9
+SYNTH_02,DONOR_0008,TREATMENT_0016,Immunotherapy,14,6,"{'day_interval': 51, 'month_interval': 1}","{'day_interval': 51, 'month_interval': 1}",RxNorm,Durvalumab,1919503,IU/kg,,
+SYNTH_02,DONOR_0008,TREATMENT_0016,Hormone therapy,20,7,"{'day_interval': 30, 'month_interval': 0}","{'day_interval': 104, 'month_interval': 3}",RxNorm,Degarelix,475230,IU/m2,,
+SYNTH_02,DONOR_0009,TREATMENT_0017,Hormone therapy,13,6,"{'day_interval': 260, 'month_interval': 8}","{'day_interval': 266, 'month_interval': 8}",RxNorm,Diethylstilbestrol,3390,IU/kg,,
+SYNTH_02,DONOR_0009,TREATMENT_0017,Chemotherapy,4,7,"{'day_interval': 238, 'month_interval': 7}","{'day_interval': 273, 'month_interval': 8}",PubChem,Paclitaxel,36314,mg/m2,,
+SYNTH_02,DONOR_0009,TREATMENT_0018,Immunotherapy,9,9,,,RxNorm,vfALZgycinzfG,eNWgWFVurVpJQre,mg/kg,,
+SYNTH_02,DONOR_0009,TREATMENT_0018,Hormone therapy,4,6,{'day_interval': 156},"{'day_interval': 256, 'month_interval': 8}",RxNorm,Diethylstilbestrol,3390,cells/kg,,
+SYNTH_02,DONOR_0010,TREATMENT_0019,Chemotherapy,8,4,"{'day_interval': 95, 'month_interval': 3}","{'day_interval': 129, 'month_interval': 4}",PubChem,Paclitaxel,36314,,,
+SYNTH_02,DONOR_0010,TREATMENT_0019,Immunotherapy,1,4,"{'day_interval': 113, 'month_interval': 3}","{'day_interval': 194, 'month_interval': 6}",RxNorm,XaeqHjYtbbatN,cEbotwPoqYHUBQCpogIJj,IU/kg,,
+SYNTH_02,DONOR_0010,TREATMENT_0020,Hormone therapy,30,8,"{'day_interval': 319, 'month_interval': 10}","{'day_interval': 323, 'month_interval': 10}",NCI Thesaurus,Buserelin,C320,mg/m2,20.8,83.2
+SYNTH_02,DONOR_0010,TREATMENT_0020,Immunotherapy,24,9,"{'day_interval': 274, 'month_interval': 9}","{'day_interval': 286, 'month_interval': 9}",RxNorm,UMYJMewICQPSntoRfVSsNH,PRQqIHaxIBxAgOQxSlA,mg/kg,,
+SYNTH_01,DONOR_NULL_0001,TREATMENT_NULL_0001,Hormone therapy,2,7,,,PubChem,XYuccDUBWyzWaIRvRz,jwcHYTnfaB,,,
+SYNTH_01,DONOR_NULL_0001,TREATMENT_NULL_0001,Hormone therapy,10,9,,,RxNorm,kCjoWCQREBuWSKrHNUoBsZ,KNxsuSfkSCvV,,,
+SYNTH_01,DONOR_NULL_0001,TREATMENT_NULL_0002,Chemotherapy,2,7,,,NCI Thesaurus,sCAiSWAJPrvOLVoZlVloDHOdMCRW,lQsrzIovnPArJlBYzfGAgupKtCdWQ,,,
+SYNTH_01,DONOR_NULL_0001,TREATMENT_NULL_0002,Chemotherapy,5,4,,,RxNorm,AXrhawErxDmcwfsLPvQXr,NbYvsEPNtVjSBGSpgrmZp,,,
+SYNTH_01,DONOR_ALL_0001,TREATMENT_ALL_0001,Chemotherapy,14,9,"{'day_interval': 152, 'month_interval': 4}","{'day_interval': 156, 'month_interval': 5}",NCI Thesaurus,Fludarabine,C1094,cells/kg,21.3,89.4
+SYNTH_01,DONOR_ALL_0001,TREATMENT_ALL_0001,Hormone therapy,13,1,"{'day_interval': 143, 'month_interval': 4}","{'day_interval': 160, 'month_interval': 5}",PubChem,Diethylstilbestrol,448537,mg/kg,44.6,96.0
+SYNTH_01,DONOR_ALL_0001,TREATMENT_ALL_0002,Hormone therapy,22,10,"{'day_interval': 181, 'month_interval': 5}","{'day_interval': 224, 'month_interval': 7}",PubChem,Fluoxymesterone,6446,mg/kg,33.6,61.5
+SYNTH_01,DONOR_ALL_0001,TREATMENT_ALL_0002,Hormone therapy,4,9,"{'day_interval': 142, 'month_interval': 4}","{'day_interval': 242, 'month_interval': 7}",RxNorm,Fluoxymesterone,4494,IU/m2,45.6,96.1

@@ -1,0 +1,6 @@
+program_id,submitter_donor_id,tobacco_smoking_status,tobacco_type,pack_years_smoked
+SYNTH_01,DONOR_0003,Current reformed smoker for > 15 years,Electronic cigarettes|Chewing Tobacco,60.0
+SYNTH_01,DONOR_0004,,,
+SYNTH_02,DONOR_0008,Current reformed smoker for > 15 years,Unknown,18.0
+SYNTH_02,DONOR_0009,"Current reformed smoker, duration not specified",Roll-ups|Cigarettes,
+SYNTH_01,DONOR_ALL_0001,Current smoker,Pipe,45.0

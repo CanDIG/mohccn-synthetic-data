@@ -1,0 +1,9 @@
+program_id,submitter_donor_id,submitter_specimen_id,submitter_primary_diagnosis_id,submitter_treatment_id,submitter_follow_up_id,test_date,psa_level,ca125,cea,er_status,er_percent_positive,pr_status,pr_percent_positive,her2_ihc_status,her2_ish_status,hpv_ihc_status,hpv_pcr_status,hpv_strain
+SYNTH_01,DONOR_0001,,,,,"{'day_interval': 10801, 'month_interval': 354}",57.0,78.0,13.0,Cannot be determined,,Unknown,,Equivocal,,,Negative,HPV52
+SYNTH_01,DONOR_0002,SPECIMEN_0002,,,,"{'day_interval': -3897, 'month_interval': -129}",26.0,6.0,63.0,Negative,,Cannot be determined,,,Equivocal,Unknown,,HPV18
+SYNTH_01,DONOR_0003,,DIAG_0003,,,"{'day_interval': 15864, 'month_interval': 521}",51.0,31.0,100.0,Unknown,,Unknown,,Positive,Not applicable,Cannot be determined,Negative,
+SYNTH_02,DONOR_0006,,,TREATMENT_0011,,"{'day_interval': -7702, 'month_interval': -254}",42.0,19.0,30.0,Not applicable,,,26.48,,Negative,Negative,Unknown,HPV31
+SYNTH_02,DONOR_0007,,,,FOLLOW_UP_0005,"{'day_interval': 7974, 'month_interval': 261}",63.0,90.0,61.0,Not applicable,,Positive,72.06,,Not applicable,Negative,Cannot be determined,
+SYNTH_02,DONOR_0008,,,,,"{'day_interval': 22179, 'month_interval': 728}",49.0,12.0,91.0,Unknown,,Negative,,Negative,Unknown,Positive,Not applicable,HPV33
+SYNTH_01,DONOR_NULL_0001,,,,,"{'month_interval': 554, 'day_interval': 1951}",,,,,,,,,,,,
+SYNTH_01,DONOR_ALL_0001,,,,,"{'day_interval': 6437, 'month_interval': 211}",70.0,44.0,2.0,Negative,,Negative,,,Negative,Positive,,HPV18

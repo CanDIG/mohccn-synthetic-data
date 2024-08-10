@@ -1,0 +1,9 @@
+submitter_follow_up_id,program_id,submitter_donor_id,submitter_primary_diagnosis_id,submitter_treatment_id,date_of_followup,disease_status_at_followup,relapse_type,date_of_relapse,method_of_progression_status,anatomic_site_progression_or_recurrence
+FOLLOW_UP_0001,SYNTH_01,DONOR_0001,DIAG_0001,,,Complete remission,Progression (liquid tumours),,Assessment of symptom control (procedure)|Imaging (procedure),
+FOLLOW_UP_0002,SYNTH_01,DONOR_0002,,TREATMENT_0003,"{'day_interval': 585, 'month_interval': 19}",Relapse or recurrence,Progression (liquid tumours),,Tumor marker measurement (procedure)|Physical examination procedure (procedure),
+FOLLOW_UP_0003,SYNTH_01,DONOR_0003,,,"{'day_interval': 10385, 'month_interval': 341}",Progression not otherwise specified,Local recurrence and distant metastasis,,Histopathology test (procedure)|Imaging (procedure)|Laboratory data interpretation (procedure),
+FOLLOW_UP_0004,SYNTH_02,DONOR_0006,DIAG_0006,,,,Progression (liquid tumours),,Tumor marker measurement (procedure)|Assessment of symptom control (procedure),
+FOLLOW_UP_0005,SYNTH_02,DONOR_0007,,TREATMENT_0013,"{'day_interval': 757, 'month_interval': 24}",Progression not otherwise specified,Local recurrence and distant metastasis,"{'day_interval': 237, 'month_interval': 7}",Physical examination procedure (procedure)|Imaging (procedure),
+FOLLOW_UP_0006,SYNTH_02,DONOR_0008,,,,,Distant recurrence/metastasis,,Histopathology test (procedure),
+FOLLOW_UP_NULL_0001,SYNTH_01,DONOR_NULL_0001,DIAG_NULL_0001,,,,,,,
+FOLLOW_UP_ALL_0001,SYNTH_01,DONOR_ALL_0001,DIAG_ALL_0001,,"{'day_interval': 11724, 'month_interval': 385}",Progression not otherwise specified,Progression (liquid tumours),"{'day_interval': 22003, 'month_interval': 722}",Imaging (procedure)|Laboratory data interpretation (procedure)|Histopathology test (procedure),

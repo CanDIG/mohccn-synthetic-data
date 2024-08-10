@@ -1,0 +1,13 @@
+program_id,submitter_donor_id,submitter_treatment_id,radiation_therapy_modality,radiation_therapy_type,radiation_therapy_fractions,radiation_therapy_dosage,anatomical_site_irradiated,radiation_boost,reference_radiation_treatment_id
+SYNTH_01,DONOR_0001,TREATMENT_0002,,Internal,,,Left Knee,False,
+SYNTH_01,DONOR_0002,TREATMENT_0004,,,,,Whole Abdomen,False,
+SYNTH_01,DONOR_0003,TREATMENT_0006,,External,,,Right Ear,False,
+SYNTH_01,DONOR_0004,TREATMENT_0008,Brachytherapy (procedure),External,,,Right Orbit,False,
+SYNTH_01,DONOR_0005,TREATMENT_0010,Radiopharmaceutical,External,,,,False,
+SYNTH_02,DONOR_0006,TREATMENT_0012,Brachytherapy (procedure),External,,,Upper Left Leg,False,
+SYNTH_02,DONOR_0007,TREATMENT_0014,Other,,,,Upper Right Leg,False,
+SYNTH_02,DONOR_0008,TREATMENT_0016,Teleradiotherapy using electrons (procedure),,,,Outer Canthus,False,
+SYNTH_02,DONOR_0009,TREATMENT_0018,Teleradiotherapy using electrons (procedure),,,,Tongue,False,
+SYNTH_02,DONOR_0010,TREATMENT_0020,Radiopharmaceutical,Internal,,,Right Heel,False,
+SYNTH_01,DONOR_NULL_0001,TREATMENT_NULL_0002,,,,,,,medical
+SYNTH_01,DONOR_ALL_0001,TREATMENT_ALL_0002,,External,,,Bilateral Clavicle,False,

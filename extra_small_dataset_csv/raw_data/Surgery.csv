@@ -1,0 +1,13 @@
+program_id,submitter_donor_id,submitter_treatment_id,surgery_type,surgery_site,surgery_location,tumour_length,tumour_width,greatest_dimension_tumour,tumour_focality,residual_tumour_classification,margin_types_involved,margin_types_not_involved,margin_types_not_assessed,lymphovascular_invasion,perineural_invasion,surgery_reference_database,surgery_reference_identifier
+SYNTH_01,DONOR_0001,TREATMENT_0001,Total gastrectomy,C49.2,Metastatic,,,,Unifocal,Not applicable,Proximal margin,,Proximal margin|Common bile duct margin,Absent,Absent,NCIt,C185240
+SYNTH_01,DONOR_0002,TREATMENT_0003,Exploratory laparotomy,C01.9,Metastatic,,,,Multifocal,,Circumferential resection margin,Proximal margin,Distal margin|Proximal margin,Lymphatic and small vessel invasion only,Absent,NCIt,C51779
+SYNTH_01,DONOR_0003,TREATMENT_0005,dLyQwaFVGFnylwjbGjorRHgNNNjagQekpwyrftBexTOxOgk,C32.8,Metastatic,,,,,R2,Circumferential resection margin,Proximal margin,Unknown,Both lymphatic and small vessel and venous (large vessel) invasion,Present,Immunotherapy,
+SYNTH_01,DONOR_0004,TREATMENT_0007,Bypass Gastrojejunostomy,C72.2,Primary,,,,Unifocal,Not applicable,Common bile duct margin,Unknown,Circumferential resection margin|Unknown,Lymphatic and small vessel invasion only,Unknown,NCIt,C51758
+SYNTH_01,DONOR_0005,TREATMENT_0009,Total gastrectomy,C54.0,Local recurrence,,,,Not applicable,,Unknown,Not applicable,Unknown|Circumferential resection margin,Not applicable,Not applicable,UMLS,C1304782
+SYNTH_02,DONOR_0006,TREATMENT_0011,Radical prostatectomy,C08.1,Primary,3.0,4.0,7.0,Unknown,R1,Not applicable,Distal margin,Not applicable|Unknown,,,,
+SYNTH_02,DONOR_0007,TREATMENT_0013,,C75.3,Primary,3.0,6.0,3.0,Cannot be assessed,R1,Common bile duct margin,Not applicable,Proximal margin|Distal margin,Lymphatic and small vessel invasion only,Present,Chemotherapy,
+SYNTH_02,DONOR_0008,TREATMENT_0015,,C34.3,Metastatic,,,,Multifocal,,Not applicable,Not applicable,Not applicable|Distal margin,Not applicable,Not applicable,Hormone therapy,
+SYNTH_02,DONOR_0009,TREATMENT_0017,Exploratory laparotomy,C49.6,,,,,Unifocal,Not applicable,Unknown,,Unknown,Both lymphatic and small vessel and venous (large vessel) invasion,,UMLS,C0085704
+SYNTH_02,DONOR_0010,TREATMENT_0019,Exploratory laparotomy,C51.2,Metastatic,,,,Cannot be assessed,R2,,Common bile duct margin,Unknown,Present,Cannot be assessed,SNOMED,74770008
+SYNTH_01,DONOR_NULL_0001,TREATMENT_NULL_0001,CQbvNHYmOcpyvzukrVsxVwcFgxohWPOK,,,,,,,,,,,,,Hormone therapy,
+SYNTH_01,DONOR_ALL_0001,TREATMENT_ALL_0001,Total gastrectomy,C77.2,,7.0,9.0,9.0,Unifocal,,Proximal margin,Circumferential resection margin,Proximal margin,,Present,SNOMED,26452005
