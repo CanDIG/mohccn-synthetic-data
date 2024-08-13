@@ -1,85 +1,85 @@
 submitter_donor_id,program_id,gender,sex_at_birth,is_deceased,lost_to_followup_after_clinical_event_identifier,lost_to_followup_reason,date_alive_after_lost_to_followup,cause_of_death,date_of_birth,date_of_death,date_resolution
-DONOR_0001,SYNTH_01,Non-binary,Unknown,False,DIAG_0001,Lost contact,"{'day_interval': 10775, 'month_interval': 354}",,"{'day_interval': -19824, 'month_interval': -652}",,day
-DONOR_0002,SYNTH_01,Non-binary,Female,False,DIAG_0002,Discharged to palliative care,"{'day_interval': 9803, 'month_interval': 322}",,"{'day_interval': -18423, 'month_interval': -606}",,day
-DONOR_0003,SYNTH_01,Non-binary,Other,True,,,,Died of other reasons,"{'day_interval': -21522, 'month_interval': -708}","{'day_interval': 4348, 'month_interval': 142}",day
-DONOR_0004,SYNTH_01,Man,Male,True,,,,Died of cancer,"{'day_interval': -21080, 'month_interval': -693}","{'day_interval': 6716, 'month_interval': 220}",day
-DONOR_0005,SYNTH_01,Non-binary,Female,True,,,,Unknown,"{'day_interval': -21639, 'month_interval': -711}","{'day_interval': 5760, 'month_interval': 189}",day
-DONOR_0006,SYNTH_01,Non-binary,Other,False,DIAG_0006,Completed study,"{'day_interval': 10324, 'month_interval': 339}",,"{'day_interval': -19582, 'month_interval': -644}",,day
-DONOR_0007,SYNTH_01,,Female,True,,,,Died of other reasons,"{'day_interval': -21294, 'month_interval': -700}","{'day_interval': 12763, 'month_interval': 419}",day
-DONOR_0008,SYNTH_01,,Female,False,DIAG_0008,Lost contact,"{'day_interval': 10177, 'month_interval': 334}",,"{'day_interval': -19807, 'month_interval': -651}",,day
-DONOR_0009,SYNTH_01,Woman,Male,True,,,,Died of cancer,"{'day_interval': -21543, 'month_interval': -708}","{'day_interval': 13735, 'month_interval': 451}",day
-DONOR_0010,SYNTH_01,,Other,True,,,,Died of other reasons,"{'day_interval': -19469, 'month_interval': -640}","{'day_interval': 8345, 'month_interval': 274}",day
-DONOR_0011,SYNTH_01,Woman,Other,False,DIAG_0011,Lost contact,"{'day_interval': 10081, 'month_interval': 331}",,"{'day_interval': -19154, 'month_interval': -630}",,day
-DONOR_0012,SYNTH_01,Woman,Male,True,,,,Died of other reasons,,"{'day_interval': 15683, 'month_interval': 515}",day
-DONOR_0013,SYNTH_01,Man,,True,,,,Died of cancer,"{'day_interval': -18586, 'month_interval': -611}","{'day_interval': 5055, 'month_interval': 166}",day
-DONOR_0014,SYNTH_01,Man,Unknown,False,,,,,"{'day_interval': -19421, 'month_interval': -639}",,day
-DONOR_0015,SYNTH_01,Non-binary,Female,True,,,,Died of cancer,"{'day_interval': -18380, 'month_interval': -604}","{'day_interval': 7583, 'month_interval': 249}",day
-DONOR_0016,SYNTH_01,Non-binary,Female,True,,,,Died of other reasons,"{'day_interval': -19780, 'month_interval': -650}","{'day_interval': 11615, 'month_interval': 381}",day
-DONOR_0017,SYNTH_01,Woman,Male,True,,,,Died of cancer,,"{'day_interval': 7687, 'month_interval': 252}",day
-DONOR_0018,SYNTH_01,Man,Unknown,False,DIAG_0018,Discharged to palliative care,"{'day_interval': 9709, 'month_interval': 318}",,"{'day_interval': -20023, 'month_interval': -658}",,day
-DONOR_0019,SYNTH_01,Woman,Other,True,,,,Died of other reasons,"{'day_interval': -20143, 'month_interval': -662}","{'day_interval': 15869, 'month_interval': 521}",day
-DONOR_0020,SYNTH_01,Non-binary,Other,True,,,,Died of other reasons,"{'day_interval': -18723, 'month_interval': -616}","{'day_interval': 12571, 'month_interval': 413}",day
-DONOR_0021,SYNTH_02,Woman,Other,True,,,,Died of other reasons,"{'day_interval': -18521, 'month_interval': -609}","{'day_interval': 4418, 'month_interval': 145}",day
-DONOR_0022,SYNTH_02,Man,Male,True,,,,Died of other reasons,,"{'day_interval': 7657, 'month_interval': 251}",day
-DONOR_0023,SYNTH_02,Non-binary,Female,False,DIAG_0023,Withdrew from study,"{'day_interval': 9777, 'month_interval': 321}",,"{'day_interval': -18611, 'month_interval': -612}",,day
-DONOR_0024,SYNTH_02,Woman,Female,False,DIAG_0024,Lost contact,"{'day_interval': 9819, 'month_interval': 322}",,,,day
-DONOR_0025,SYNTH_02,Woman,Unknown,True,,,,Died of cancer,"{'day_interval': -20705, 'month_interval': -681}","{'day_interval': 14668, 'month_interval': 481}",day
-DONOR_0026,SYNTH_02,Non-binary,,True,,,,Unknown,"{'day_interval': -18817, 'month_interval': -619}","{'day_interval': 7942, 'month_interval': 260}",day
-DONOR_0027,SYNTH_02,Non-binary,Female,True,,,,Unknown,,"{'day_interval': 14591, 'month_interval': 479}",day
-DONOR_0028,SYNTH_02,Non-binary,Unknown,False,,,,,"{'day_interval': -19003, 'month_interval': -625}",,day
-DONOR_0029,SYNTH_02,Woman,,True,,,,Died of other reasons,"{'day_interval': -18412, 'month_interval': -605}","{'day_interval': 8718, 'month_interval': 286}",day
-DONOR_0030,SYNTH_02,Man,Female,True,,,,Died of other reasons,,"{'day_interval': 16380, 'month_interval': 538}",day
-DONOR_0031,SYNTH_02,Woman,Other,True,,,,Unknown,"{'day_interval': -20712, 'month_interval': -681}","{'day_interval': 7402, 'month_interval': 243}",day
-DONOR_0032,SYNTH_02,Non-binary,,True,,,,Died of cancer,"{'day_interval': -20569, 'month_interval': -676}","{'day_interval': 14747, 'month_interval': 484}",day
-DONOR_0033,SYNTH_02,Man,Female,False,DIAG_0033,Unknown,"{'day_interval': 10865, 'month_interval': 356}",,"{'day_interval': -19576, 'month_interval': -644}",,day
-DONOR_0034,SYNTH_02,Woman,Unknown,True,,,,Unknown,"{'day_interval': -19172, 'month_interval': -630}","{'day_interval': 8498, 'month_interval': 279}",day
-DONOR_0035,SYNTH_02,,Unknown,True,,,,Died of cancer,"{'day_interval': -21314, 'month_interval': -701}","{'day_interval': 4578, 'month_interval': 150}",day
-DONOR_0036,SYNTH_02,Man,,False,DIAG_0036,Lost contact,"{'day_interval': 9894, 'month_interval': 325}",,"{'day_interval': -20456, 'month_interval': -673}",,day
-DONOR_0037,SYNTH_02,Non-binary,Male,False,DIAG_0037,Lost contact,"{'day_interval': 10597, 'month_interval': 348}",,,,day
-DONOR_0038,SYNTH_02,Woman,Female,False,,,,,"{'day_interval': -20171, 'month_interval': -663}",,day
-DONOR_0039,SYNTH_02,Man,,True,,,,Died of other reasons,"{'day_interval': -18647, 'month_interval': -613}","{'day_interval': 7279, 'month_interval': 239}",day
-DONOR_0040,SYNTH_02,Woman,Male,True,,,,Unknown,"{'day_interval': -19316, 'month_interval': -635}","{'day_interval': 7550, 'month_interval': 248}",day
-DONOR_0041,SYNTH_03,,Unknown,False,,,,,"{'day_interval': -19331, 'month_interval': -636}",,day
-DONOR_0042,SYNTH_03,,Male,False,DIAG_0042,Lost contact,"{'day_interval': 9296, 'month_interval': 305}",,,,day
-DONOR_0043,SYNTH_03,Non-binary,Other,False,DIAG_0043,Lost contact,"{'day_interval': 9782, 'month_interval': 321}",,,,day
-DONOR_0044,SYNTH_03,Non-binary,Unknown,False,DIAG_0044,Completed study,"{'day_interval': 9895, 'month_interval': 325}",,"{'day_interval': -20099, 'month_interval': -661}",,day
-DONOR_0045,SYNTH_03,Woman,Unknown,False,DIAG_0045,Unknown,"{'day_interval': 9360, 'month_interval': 307}",,"{'day_interval': -18641, 'month_interval': -613}",,day
-DONOR_0046,SYNTH_03,Man,Male,True,,,,Died of cancer,,"{'day_interval': 6260, 'month_interval': 205}",day
-DONOR_0047,SYNTH_03,Man,Female,True,,,,Died of other reasons,"{'day_interval': -19162, 'month_interval': -630}","{'day_interval': 13176, 'month_interval': 432}",day
-DONOR_0048,SYNTH_03,Man,Female,False,DIAG_0048,Withdrew from study,"{'day_interval': 10825, 'month_interval': 355}",,"{'day_interval': -19122, 'month_interval': -629}",,day
-DONOR_0049,SYNTH_03,,Male,False,DIAG_0049,Lost contact,"{'day_interval': 9242, 'month_interval': 303}",,"{'day_interval': -19482, 'month_interval': -641}",,day
-DONOR_0050,SYNTH_03,Non-binary,,True,,,,Died of other reasons,"{'day_interval': -20331, 'month_interval': -668}","{'day_interval': 11105, 'month_interval': 364}",day
-DONOR_0051,SYNTH_03,,,False,DIAG_0051,Unknown,"{'day_interval': 9771, 'month_interval': 321}",,"{'day_interval': -18928, 'month_interval': -622}",,day
-DONOR_0052,SYNTH_03,Woman,Female,True,,,,Died of cancer,"{'day_interval': -19963, 'month_interval': -656}","{'day_interval': 13319, 'month_interval': 437}",day
-DONOR_0053,SYNTH_03,Man,Female,False,DIAG_0053,Discharged to palliative care,"{'day_interval': 10174, 'month_interval': 334}",,"{'day_interval': -21152, 'month_interval': -695}",,day
-DONOR_0054,SYNTH_03,,Other,True,,,,Died of cancer,"{'day_interval': -21489, 'month_interval': -707}","{'day_interval': 14202, 'month_interval': 466}",day
-DONOR_0055,SYNTH_03,,Male,False,DIAG_0055,Unknown,"{'day_interval': 10826, 'month_interval': 355}",,"{'day_interval': -21458, 'month_interval': -706}",,day
-DONOR_0056,SYNTH_03,Woman,Male,False,DIAG_0056,Lost contact,"{'day_interval': 9757, 'month_interval': 320}",,"{'day_interval': -19199, 'month_interval': -631}",,day
-DONOR_0057,SYNTH_03,Man,Unknown,False,DIAG_0057,Completed study,"{'day_interval': 10509, 'month_interval': 345}",,"{'day_interval': -21690, 'month_interval': -713}",,day
-DONOR_0058,SYNTH_03,Woman,Other,True,,,,Unknown,"{'day_interval': -21867, 'month_interval': -719}","{'day_interval': 9816, 'month_interval': 322}",day
-DONOR_0059,SYNTH_03,Non-binary,Male,False,DIAG_0059,Not applicable,"{'day_interval': 10888, 'month_interval': 357}",,"{'day_interval': -21258, 'month_interval': -699}",,day
-DONOR_0060,SYNTH_03,Non-binary,Other,True,,,,Died of other reasons,"{'day_interval': -19324, 'month_interval': -635}","{'day_interval': 4026, 'month_interval': 132}",day
-DONOR_0061,SYNTH_04,Woman,Male,False,DIAG_0061,Not applicable,"{'day_interval': 10111, 'month_interval': 332}",,"{'day_interval': -18435, 'month_interval': -606}",,day
-DONOR_0062,SYNTH_04,,,False,DIAG_0062,Not applicable,"{'day_interval': 10558, 'month_interval': 346}",,"{'day_interval': -18816, 'month_interval': -619}",,day
-DONOR_0063,SYNTH_04,Man,Female,True,,,,Died of cancer,"{'day_interval': -20523, 'month_interval': -675}","{'day_interval': 3893, 'month_interval': 127}",day
-DONOR_0064,SYNTH_04,Woman,Male,True,,,,Died of cancer,,"{'day_interval': 12520, 'month_interval': 411}",day
-DONOR_0065,SYNTH_04,Woman,,True,,,,Unknown,"{'day_interval': -20886, 'month_interval': -687}","{'day_interval': 6897, 'month_interval': 226}",day
-DONOR_0066,SYNTH_04,Man,Unknown,False,DIAG_0066,Not applicable,"{'day_interval': 9712, 'month_interval': 319}",,"{'day_interval': -18725, 'month_interval': -616}",,day
-DONOR_0067,SYNTH_04,Non-binary,Female,False,DIAG_0067,Not applicable,"{'day_interval': 10367, 'month_interval': 340}",,,,day
-DONOR_0068,SYNTH_04,Man,,False,DIAG_0068,Completed study,"{'day_interval': 10612, 'month_interval': 348}",,"{'day_interval': -21801, 'month_interval': -717}",,day
-DONOR_0069,SYNTH_04,,Female,True,,,,Died of other reasons,"{'day_interval': -20195, 'month_interval': -664}","{'day_interval': 5544, 'month_interval': 182}",day
-DONOR_0070,SYNTH_04,,Other,False,DIAG_0070,Unknown,"{'day_interval': 10929, 'month_interval': 359}",,,,day
-DONOR_0071,SYNTH_04,Woman,Unknown,False,DIAG_0071,Not applicable,"{'day_interval': 10815, 'month_interval': 355}",,"{'day_interval': -21655, 'month_interval': -712}",,day
-DONOR_0072,SYNTH_04,Non-binary,,False,DIAG_0072,Not applicable,"{'day_interval': 10241, 'month_interval': 336}",,"{'day_interval': -21044, 'month_interval': -692}",,day
-DONOR_0073,SYNTH_04,Non-binary,Male,False,DIAG_0073,Unknown,"{'day_interval': 9559, 'month_interval': 314}",,"{'day_interval': -18915, 'month_interval': -622}",,day
-DONOR_0074,SYNTH_04,Man,,True,,,,Died of other reasons,,"{'day_interval': 12582, 'month_interval': 413}",day
-DONOR_0075,SYNTH_04,,,False,DIAG_0075,Lost contact,"{'day_interval': 10197, 'month_interval': 335}",,"{'day_interval': -20543, 'month_interval': -675}",,day
-DONOR_0076,SYNTH_04,,,False,DIAG_0076,Unknown,"{'day_interval': 9142, 'month_interval': 300}",,"{'day_interval': -19280, 'month_interval': -634}",,day
-DONOR_0077,SYNTH_04,Non-binary,Unknown,True,,,,Died of cancer,"{'day_interval': -20807, 'month_interval': -684}","{'day_interval': 15045, 'month_interval': 494}",day
-DONOR_0078,SYNTH_04,Woman,Female,False,DIAG_0078,Completed study,"{'day_interval': 10298, 'month_interval': 338}",,"{'day_interval': -21374, 'month_interval': -703}",,day
-DONOR_0079,SYNTH_04,Man,Other,True,,,,Died of cancer,"{'day_interval': -21039, 'month_interval': -692}","{'day_interval': 6724, 'month_interval': 220}",day
-DONOR_0080,SYNTH_04,Man,Other,True,,,,Unknown,"{'day_interval': -18852, 'month_interval': -620}","{'day_interval': 7063, 'month_interval': 232}",day
+DONOR_0001,SYNTH_01,Non-binary,Unknown,False,DIAG_0001,Lost contact,"{'day_interval': 9798, 'month_interval': 321}",,"{'day_interval': -19036, 'month_interval': -626}",,day
+DONOR_0002,SYNTH_01,Non-binary,Female,False,,,,,"{'day_interval': -21334, 'month_interval': -701}",,day
+DONOR_0003,SYNTH_01,Non-binary,Other,True,,,,Died of other reasons,"{'day_interval': -20343, 'month_interval': -669}","{'day_interval': 5169, 'month_interval': 169}",day
+DONOR_0004,SYNTH_01,Man,Male,True,,,,Died of cancer,"{'day_interval': -19400, 'month_interval': -638}","{'day_interval': 8555, 'month_interval': 281}",day
+DONOR_0005,SYNTH_01,Non-binary,Female,True,,,,Unknown,"{'day_interval': -20635, 'month_interval': -678}","{'day_interval': 3705, 'month_interval': 121}",day
+DONOR_0006,SYNTH_01,Non-binary,Other,False,DIAG_0006,Discharged to palliative care,"{'day_interval': 10596, 'month_interval': 348}",,"{'day_interval': -21686, 'month_interval': -713}",,day
+DONOR_0007,SYNTH_01,,Female,True,,,,Died of other reasons,"{'day_interval': -21730, 'month_interval': -714}","{'day_interval': 15913, 'month_interval': 522}",day
+DONOR_0008,SYNTH_01,,Female,False,DIAG_0008,Withdrew from study,"{'day_interval': 10423, 'month_interval': 342}",,"{'day_interval': -21836, 'month_interval': -718}",,day
+DONOR_0009,SYNTH_01,Woman,Male,True,,,,Died of cancer,"{'day_interval': -18534, 'month_interval': -609}","{'day_interval': 7015, 'month_interval': 230}",day
+DONOR_0010,SYNTH_01,,Other,True,,,,Died of other reasons,"{'day_interval': -21354, 'month_interval': -702}","{'day_interval': 15816, 'month_interval': 519}",day
+DONOR_0011,SYNTH_01,Woman,Other,False,DIAG_0011,Unknown,"{'day_interval': 10099, 'month_interval': 331}",,"{'day_interval': -21576, 'month_interval': -709}",,day
+DONOR_0012,SYNTH_01,Woman,Male,True,,,,Died of other reasons,,"{'day_interval': 15095, 'month_interval': 495}",day
+DONOR_0013,SYNTH_01,Man,,True,,,,Died of cancer,"{'day_interval': -18521, 'month_interval': -609}","{'day_interval': 11992, 'month_interval': 393}",day
+DONOR_0014,SYNTH_01,Man,Unknown,False,DIAG_0014,Withdrew from study,"{'day_interval': 10055, 'month_interval': 330}",,"{'day_interval': -21623, 'month_interval': -711}",,day
+DONOR_0015,SYNTH_01,Non-binary,Female,True,,,,Died of cancer,"{'day_interval': -21352, 'month_interval': -702}","{'day_interval': 14979, 'month_interval': 492}",day
+DONOR_0016,SYNTH_01,Non-binary,Female,True,,,,Died of other reasons,"{'day_interval': -19785, 'month_interval': -651}","{'day_interval': 7791, 'month_interval': 255}",day
+DONOR_0017,SYNTH_01,Woman,Male,True,,,,Died of cancer,,"{'day_interval': 8019, 'month_interval': 263}",day
+DONOR_0018,SYNTH_01,Man,Unknown,False,,,,,"{'day_interval': -21683, 'month_interval': -713}",,day
+DONOR_0019,SYNTH_01,Woman,Other,True,,,,Died of other reasons,"{'day_interval': -21669, 'month_interval': -712}","{'day_interval': 16139, 'month_interval': 530}",day
+DONOR_0020,SYNTH_01,Non-binary,Other,True,,,,Died of other reasons,"{'day_interval': -21813, 'month_interval': -717}","{'day_interval': 12834, 'month_interval': 421}",day
+DONOR_0021,SYNTH_02,Woman,Other,False,DIAG_0021,Completed study,"{'day_interval': 9333, 'month_interval': 306}",,"{'day_interval': -18399, 'month_interval': -605}",,day
+DONOR_0022,SYNTH_02,Non-binary,Male,True,,,,Died of other reasons,"{'day_interval': -21154, 'month_interval': -696}","{'day_interval': 12801, 'month_interval': 420}",day
+DONOR_0023,SYNTH_02,Man,Other,False,DIAG_0023,Discharged to palliative care,"{'day_interval': 9833, 'month_interval': 323}",,"{'day_interval': -19545, 'month_interval': -643}",,day
+DONOR_0024,SYNTH_02,,Unknown,False,DIAG_0024,Completed study,"{'day_interval': 9411, 'month_interval': 309}",,"{'day_interval': -20709, 'month_interval': -681}",,day
+DONOR_0025,SYNTH_02,Non-binary,Male,True,,,,Died of cancer,,"{'day_interval': 4836, 'month_interval': 158}",day
+DONOR_0026,SYNTH_02,Non-binary,,False,DIAG_0026,Discharged to palliative care,"{'day_interval': 9614, 'month_interval': 315}",,"{'day_interval': -18728, 'month_interval': -616}",,day
+DONOR_0027,SYNTH_02,Man,,True,,,,Unknown,"{'day_interval': -19974, 'month_interval': -657}","{'day_interval': 9276, 'month_interval': 304}",day
+DONOR_0028,SYNTH_02,,Unknown,False,DIAG_0028,Unknown,"{'day_interval': 9400, 'month_interval': 308}",,"{'day_interval': -20028, 'month_interval': -659}",,day
+DONOR_0029,SYNTH_02,Woman,Unknown,False,DIAG_0029,Discharged to palliative care,"{'day_interval': 9723, 'month_interval': 319}",,"{'day_interval': -20726, 'month_interval': -681}",,day
+DONOR_0030,SYNTH_02,Non-binary,Male,False,DIAG_0030,Not applicable,"{'day_interval': 9594, 'month_interval': 315}",,"{'day_interval': -18953, 'month_interval': -623}",,day
+DONOR_0031,SYNTH_02,Non-binary,,False,DIAG_0031,Completed study,"{'day_interval': 9852, 'month_interval': 323}",,"{'day_interval': -18276, 'month_interval': -601}",,day
+DONOR_0032,SYNTH_02,,,False,DIAG_0032,Not applicable,"{'day_interval': 10201, 'month_interval': 335}",,,,day
+DONOR_0033,SYNTH_02,,Male,False,DIAG_0033,Unknown,"{'day_interval': 9396, 'month_interval': 308}",,"{'day_interval': -19992, 'month_interval': -657}",,day
+DONOR_0034,SYNTH_02,Woman,Male,False,DIAG_0034,Lost contact,"{'day_interval': 9555, 'month_interval': 313}",,"{'day_interval': -18457, 'month_interval': -607}",,day
+DONOR_0035,SYNTH_02,Woman,Male,False,DIAG_0035,Not applicable,"{'day_interval': 10701, 'month_interval': 351}",,"{'day_interval': -21600, 'month_interval': -710}",,day
+DONOR_0036,SYNTH_02,Man,Female,True,,,,Died of other reasons,"{'day_interval': -19628, 'month_interval': -645}","{'day_interval': 16302, 'month_interval': 535}",day
+DONOR_0037,SYNTH_02,Man,,False,DIAG_0037,Completed study,"{'day_interval': 9166, 'month_interval': 301}",,"{'day_interval': -20064, 'month_interval': -660}",,day
+DONOR_0038,SYNTH_02,Woman,Male,False,DIAG_0038,Unknown,"{'day_interval': 10616, 'month_interval': 348}",,,,day
+DONOR_0039,SYNTH_02,Man,,False,DIAG_0039,Not applicable,"{'day_interval': 10438, 'month_interval': 342}",,"{'day_interval': -21555, 'month_interval': -709}",,day
+DONOR_0040,SYNTH_02,Non-binary,Other,True,,,,Died of other reasons,"{'day_interval': -19795, 'month_interval': -651}","{'day_interval': 5932, 'month_interval': 194}",day
+DONOR_0041,SYNTH_03,Non-binary,,True,,,,Died of other reasons,"{'day_interval': -18393, 'month_interval': -605}","{'day_interval': 15964, 'month_interval': 524}",day
+DONOR_0042,SYNTH_03,,Male,False,DIAG_0042,Withdrew from study,"{'day_interval': 10705, 'month_interval': 351}",,"{'day_interval': -20500, 'month_interval': -674}",,day
+DONOR_0043,SYNTH_03,Non-binary,Other,True,,,,Died of other reasons,"{'day_interval': -21042, 'month_interval': -692}","{'day_interval': 14576, 'month_interval': 478}",day
+DONOR_0044,SYNTH_03,Non-binary,Unknown,False,DIAG_0044,Completed study,"{'day_interval': 9734, 'month_interval': 319}",,"{'day_interval': -19704, 'month_interval': -648}",,day
+DONOR_0045,SYNTH_03,,Female,False,DIAG_0045,Not applicable,"{'day_interval': 9483, 'month_interval': 311}",,"{'day_interval': -21708, 'month_interval': -714}",,day
+DONOR_0046,SYNTH_03,,Male,False,DIAG_0046,Discharged to palliative care,"{'day_interval': 9812, 'month_interval': 322}",,,,day
+DONOR_0047,SYNTH_03,Non-binary,Female,True,,,,Died of other reasons,"{'day_interval': -18475, 'month_interval': -607}","{'day_interval': 6122, 'month_interval': 201}",day
+DONOR_0048,SYNTH_03,Woman,Male,False,DIAG_0048,Lost contact,"{'day_interval': 9992, 'month_interval': 328}",,"{'day_interval': -19246, 'month_interval': -633}",,day
+DONOR_0049,SYNTH_03,Man,Other,True,,,,Unknown,"{'day_interval': -19889, 'month_interval': -654}","{'day_interval': 10690, 'month_interval': 351}",day
+DONOR_0050,SYNTH_03,Non-binary,Female,False,DIAG_0050,Completed study,"{'day_interval': 10341, 'month_interval': 339}",,"{'day_interval': -18651, 'month_interval': -613}",,day
+DONOR_0051,SYNTH_03,Man,Female,True,,,,Died of other reasons,,"{'day_interval': 15265, 'month_interval': 501}",day
+DONOR_0052,SYNTH_03,,Female,False,DIAG_0052,Not applicable,"{'day_interval': 10645, 'month_interval': 349}",,"{'day_interval': -20009, 'month_interval': -658}",,day
+DONOR_0053,SYNTH_03,,Male,True,,,,Died of cancer,,"{'day_interval': 10079, 'month_interval': 331}",day
+DONOR_0054,SYNTH_03,Woman,Female,False,,,,,"{'day_interval': -20452, 'month_interval': -672}",,day
+DONOR_0055,SYNTH_03,Man,,False,,,,,,,day
+DONOR_0056,SYNTH_03,,,True,,,,Unknown,"{'day_interval': -18491, 'month_interval': -608}","{'day_interval': 7807, 'month_interval': 256}",day
+DONOR_0057,SYNTH_03,Woman,,True,,,,Died of cancer,,"{'day_interval': 6928, 'month_interval': 227}",day
+DONOR_0058,SYNTH_03,,Female,False,,,,,"{'day_interval': -20592, 'month_interval': -677}",,day
+DONOR_0059,SYNTH_03,,Female,False,DIAG_0059,Not applicable,"{'day_interval': 10100, 'month_interval': 331}",,"{'day_interval': -20439, 'month_interval': -672}",,day
+DONOR_0060,SYNTH_03,,Male,True,,,,Died of cancer,"{'day_interval': -21205, 'month_interval': -697}","{'day_interval': 11333, 'month_interval': 372}",day
+DONOR_0061,SYNTH_04,Non-binary,Male,True,,,,Died of other reasons,"{'day_interval': -19960, 'month_interval': -656}","{'day_interval': 8176, 'month_interval': 268}",day
+DONOR_0062,SYNTH_04,Man,Other,True,,,,Died of cancer,,"{'day_interval': 7271, 'month_interval': 238}",day
+DONOR_0063,SYNTH_04,Man,Male,True,,,,Died of other reasons,"{'day_interval': -19068, 'month_interval': -627}","{'day_interval': 11752, 'month_interval': 386}",day
+DONOR_0064,SYNTH_04,Man,Male,False,DIAG_0064,Withdrew from study,"{'day_interval': 10579, 'month_interval': 347}",,"{'day_interval': -18342, 'month_interval': -603}",,day
+DONOR_0065,SYNTH_04,Man,,True,,,,Died of cancer,"{'day_interval': -19770, 'month_interval': -650}","{'day_interval': 9156, 'month_interval': 300}",day
+DONOR_0066,SYNTH_04,Non-binary,Female,True,,,,Died of other reasons,,"{'day_interval': 15561, 'month_interval': 511}",day
+DONOR_0067,SYNTH_04,,Unknown,True,,,,Died of cancer,"{'day_interval': -20922, 'month_interval': -688}","{'day_interval': 5441, 'month_interval': 178}",day
+DONOR_0068,SYNTH_04,Non-binary,Male,False,DIAG_0068,Completed study,"{'day_interval': 10834, 'month_interval': 355}",,,,day
+DONOR_0069,SYNTH_04,Non-binary,,True,,,,Died of cancer,"{'day_interval': -21066, 'month_interval': -693}","{'day_interval': 5226, 'month_interval': 171}",day
+DONOR_0070,SYNTH_04,Woman,Female,True,,,,Died of cancer,"{'day_interval': -19982, 'month_interval': -657}","{'day_interval': 5063, 'month_interval': 166}",day
+DONOR_0071,SYNTH_04,Woman,,True,,,,Died of cancer,,"{'day_interval': 9172, 'month_interval': 301}",day
+DONOR_0072,SYNTH_04,Man,,False,DIAG_0072,Withdrew from study,"{'day_interval': 10392, 'month_interval': 341}",,"{'day_interval': -20244, 'month_interval': -666}",,day
+DONOR_0073,SYNTH_04,Man,,True,,,,Unknown,"{'day_interval': -18684, 'month_interval': -614}","{'day_interval': 16325, 'month_interval': 536}",day
+DONOR_0074,SYNTH_04,Non-binary,Female,False,DIAG_0074,Lost contact,"{'day_interval': 9243, 'month_interval': 303}",,"{'day_interval': -21061, 'month_interval': -692}",,day
+DONOR_0075,SYNTH_04,Man,Female,True,,,,Died of other reasons,,"{'day_interval': 5484, 'month_interval': 180}",day
+DONOR_0076,SYNTH_04,Non-binary,Male,False,DIAG_0076,Not applicable,"{'day_interval': 10687, 'month_interval': 351}",,"{'day_interval': -18777, 'month_interval': -617}",,day
+DONOR_0077,SYNTH_04,Woman,Unknown,True,,,,Died of cancer,"{'day_interval': -20578, 'month_interval': -677}","{'day_interval': 5988, 'month_interval': 196}",day
+DONOR_0078,SYNTH_04,Non-binary,,False,DIAG_0078,Not applicable,"{'day_interval': 10905, 'month_interval': 358}",,"{'day_interval': -21118, 'month_interval': -694}",,day
+DONOR_0079,SYNTH_04,Man,,False,DIAG_0079,Lost contact,"{'day_interval': 9273, 'month_interval': 304}",,"{'day_interval': -18951, 'month_interval': -623}",,day
+DONOR_0080,SYNTH_04,Non-binary,Male,False,DIAG_0080,Not applicable,"{'day_interval': 9420, 'month_interval': 309}",,"{'day_interval': -19825, 'month_interval': -652}",,day
 DONOR_NULL_0001,SYNTH_01,,,,,,,,,,day
 DONOR_NULL_0002,SYNTH_01,,,,,,,,,,day
-DONOR_ALL_0001,SYNTH_01,Man,Female,True,,,,Died of other reasons,"{'day_interval': -18233, 'month_interval': -600}","{'day_interval': 6304, 'month_interval': 207}",day
-DONOR_ALL_0002,SYNTH_01,Non-binary,Unknown,False,DIAG_ALL_0002,Completed study,"{'day_interval': 31700, 'month_interval': 1041}",,"{'day_interval': -19619, 'month_interval': -645}",,day
+DONOR_ALL_0001,SYNTH_01,Man,Other,True,,,,Unknown,"{'day_interval': -20914, 'month_interval': -688}","{'day_interval': 13858, 'month_interval': 455}",day
+DONOR_ALL_0002,SYNTH_01,Woman,,False,DIAG_ALL_0002,Unknown,"{'day_interval': 27613, 'month_interval': 907}",,"{'day_interval': -18755, 'month_interval': -617}",,day

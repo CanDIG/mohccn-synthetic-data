@@ -1,41 +1,41 @@
 program_id,submitter_donor_id,prior_malignancy,laterality_of_prior_malignancy,age_at_comorbidity_diagnosis,comorbidity_type_code,comorbidity_treatment_status,comorbidity_treatment
-SYNTH_01,DONOR_0011,,,36,I20,No,process
-SYNTH_01,DONOR_0012,Yes,Midline,43,,No,next
-SYNTH_01,DONOR_0013,Yes,,29,C85,Unknown,trip
-SYNTH_01,DONOR_0014,Yes,Left,50,C71,No,suddenly
-SYNTH_01,DONOR_0015,Yes,Bilateral,32,C43,Yes,Hormone therapy
-SYNTH_01,DONOR_0016,Yes,,48,C51,,right
-SYNTH_01,DONOR_0017,Yes,"Unilateral, Side not specified",26,C42,No,deal
-SYNTH_01,DONOR_0018,No,,41,D77,,she
-SYNTH_01,DONOR_0019,Yes,,32,I03,Yes,else
-SYNTH_01,DONOR_0020,Yes,,26,I50,Unknown,power
-SYNTH_02,DONOR_0031,No,,23,I07,Yes,else
-SYNTH_02,DONOR_0032,Yes,,52,I55,No,foot
-SYNTH_02,DONOR_0033,Yes,,53,I20,No,garden
-SYNTH_02,DONOR_0034,Unknown,,18,I25,Yes,environment
-SYNTH_02,DONOR_0035,Unknown,,45,D71,,research
-SYNTH_02,DONOR_0036,No,,30,I48,No,although
-SYNTH_02,DONOR_0037,Yes,Left,53,C29,Unknown,material
-SYNTH_02,DONOR_0038,Yes,"Unilateral, Side not specified",52,D07,No,create
-SYNTH_02,DONOR_0039,Yes,Midline,25,C82,Yes,Hormone therapy
-SYNTH_02,DONOR_0040,Yes,,39,C30,Yes,Hormone therapy
-SYNTH_03,DONOR_0051,Yes,"Unilateral, Side not specified",28,C68,Unknown,hope
-SYNTH_03,DONOR_0052,Yes,"Unilateral, Side not specified",25,C10,Unknown,if
-SYNTH_03,DONOR_0053,Yes,Left,54,C31,Unknown,answer
-SYNTH_03,DONOR_0054,Yes,Right,49,C89,Yes,Immunotherapy
-SYNTH_03,DONOR_0055,,,16,I12,Yes,kitchen
-SYNTH_03,DONOR_0056,Yes,Unknown,45,D05,Yes,Chemotherapy
-SYNTH_03,DONOR_0057,Unknown,,40,I47,,pass
-SYNTH_03,DONOR_0058,Yes,,37,,No,cold
-SYNTH_03,DONOR_0059,,,57,I80,Yes,station
-SYNTH_03,DONOR_0060,Yes,,24,C42,No,method
-SYNTH_04,DONOR_0071,Yes,,10,C24,Yes,Radiation
-SYNTH_04,DONOR_0072,,,41,I42,No,run
-SYNTH_04,DONOR_0073,Yes,"Unilateral, Side not specified",20,C63,Yes,Immunotherapy
-SYNTH_04,DONOR_0074,No,,49,I43,,report
-SYNTH_04,DONOR_0075,Yes,Left,28,C19,,at
-SYNTH_04,DONOR_0076,No,,50,I93,Unknown,unit
-SYNTH_04,DONOR_0077,Yes,Left,14,,Unknown,raise
-SYNTH_04,DONOR_0078,No,,33,I96,No,born
-SYNTH_04,DONOR_0079,Yes,,34,,Yes,Radiation
-SYNTH_04,DONOR_0080,Yes,Bilateral,23,,Unknown,because
+SYNTH_01,DONOR_0011,Yes,,55,C36,No,ball
+SYNTH_01,DONOR_0012,Unknown,,24,I76,Yes,value
+SYNTH_01,DONOR_0013,Yes,Not applicable,34,,No,bag
+SYNTH_01,DONOR_0014,No,,16,I94,Yes,hour
+SYNTH_01,DONOR_0015,No,,37,D51,Unknown,view
+SYNTH_01,DONOR_0016,Yes,Not applicable,36,D40,Unknown,figure
+SYNTH_01,DONOR_0017,,,76,D70,,watch
+SYNTH_01,DONOR_0018,Yes,Not applicable,35,,Unknown,professional
+SYNTH_01,DONOR_0019,,,58,I88,Yes,hold
+SYNTH_01,DONOR_0020,Yes,Not applicable,22,C82,,analysis
+SYNTH_02,DONOR_0031,Yes,Bilateral,47,D03,No,decision
+SYNTH_02,DONOR_0032,,,62,I78,Unknown,bed
+SYNTH_02,DONOR_0033,Yes,Not applicable,27,,No,several
+SYNTH_02,DONOR_0034,Yes,Left,11,C20,Yes,Radiation
+SYNTH_02,DONOR_0035,Yes,Bilateral,15,C02,,possible
+SYNTH_02,DONOR_0036,Yes,Bilateral,49,,Unknown,fast
+SYNTH_02,DONOR_0037,Yes,,21,,No,artist
+SYNTH_02,DONOR_0038,Yes,,51,,,husband
+SYNTH_02,DONOR_0039,Unknown,,54,I96,,ready
+SYNTH_02,DONOR_0040,Yes,"Unilateral, Side not specified",48,,No,price
+SYNTH_03,DONOR_0051,,,47,D56,Unknown,room
+SYNTH_03,DONOR_0052,Yes,"Unilateral, Side not specified",36,,No,and
+SYNTH_03,DONOR_0053,Yes,Bilateral,77,,,south
+SYNTH_03,DONOR_0054,Yes,Left,45,C11,Unknown,business
+SYNTH_03,DONOR_0055,Unknown,,62,I20,Yes,nothing
+SYNTH_03,DONOR_0056,Unknown,,32,I74,No,deal
+SYNTH_03,DONOR_0057,Yes,Bilateral,47,C22,Unknown,southern
+SYNTH_03,DONOR_0058,Yes,Left,33,C49,,most
+SYNTH_03,DONOR_0059,Yes,,38,C42,Unknown,method
+SYNTH_03,DONOR_0060,Yes,Right,22,C39,No,argue
+SYNTH_04,DONOR_0071,Yes,,38,C53,Yes,Hormone therapy
+SYNTH_04,DONOR_0072,Yes,,35,D52,No,close
+SYNTH_04,DONOR_0073,No,,10,I63,,clearly
+SYNTH_04,DONOR_0074,Yes,Unknown,55,,No,fly
+SYNTH_04,DONOR_0075,Yes,Unknown,27,C48,Unknown,simply
+SYNTH_04,DONOR_0076,Unknown,,41,D66,Yes,entire
+SYNTH_04,DONOR_0077,Yes,Bilateral,12,,,executive
+SYNTH_04,DONOR_0078,Yes,,39,C55,Unknown,building
+SYNTH_04,DONOR_0079,Yes,Midline,27,D45,Unknown,guess
+SYNTH_04,DONOR_0080,,,20,I10,Yes,laugh
