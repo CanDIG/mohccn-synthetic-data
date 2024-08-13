@@ -1,45 +1,45 @@
 program_id,submitter_donor_id,submitter_specimen_id,submitter_primary_diagnosis_id,submitter_treatment_id,submitter_follow_up_id,test_date,psa_level,ca125,cea,er_status,er_percent_positive,pr_status,pr_percent_positive,her2_ihc_status,her2_ish_status,hpv_ihc_status,hpv_pcr_status,hpv_strain
-SYNTH_01,DONOR_0001,,,,,"{'day_interval': 7231, 'month_interval': 237}",53.0,24.0,51.0,,44.07,Unknown,,,Unknown,Cannot be determined,Negative,HPV58|HPV66|HPV73|HPV68|HPV39
-SYNTH_01,DONOR_0002,SPECIMEN_0002,,,,"{'day_interval': 2402, 'month_interval': 78}",4.0,12.0,35.0,Positive,78.54,Not applicable,,Not applicable,,Negative,Cannot be determined,HPV73|HPV59|HPV68|HPV51|HPV58
-SYNTH_01,DONOR_0003,,DIAG_0003,,,"{'day_interval': -10434, 'month_interval': -343}",23.0,31.0,81.0,Positive,32.22,Positive,84.86,Unknown,Equivocal,Negative,Negative,
-SYNTH_01,DONOR_0004,,,TREATMENT_0007,,"{'day_interval': 3116, 'month_interval': 102}",92.0,68.0,12.0,Not applicable,,Negative,,Positive,Not applicable,Cannot be determined,Cannot be determined,HPV33|HPV66|HPV35|HPV58|HPV56
-SYNTH_01,DONOR_0005,,,,FOLLOW_UP_0005,"{'day_interval': -2879, 'month_interval': -95}",31.0,84.0,36.0,Positive,63.77,Unknown,,Cannot be determined,,Not applicable,Unknown,HPV56|HPV45|HPV58|HPV39|HPV52
-SYNTH_01,DONOR_0006,,,,,"{'day_interval': -5653, 'month_interval': -186}",68.0,86.0,97.0,Cannot be determined,,Unknown,,Negative,,Cannot be determined,Positive,HPV66|HPV56|HPV45|HPV73|HPV52
-SYNTH_01,DONOR_0007,SPECIMEN_0007,,,,"{'day_interval': 14621, 'month_interval': 480}",28.0,21.0,56.0,Unknown,,Negative,,Positive,Positive,Not applicable,Negative,HPV18|HPV16|HPV31|HPV45|HPV58
-SYNTH_01,DONOR_0008,,DIAG_0008,,,,81.0,12.0,23.0,Cannot be determined,,Cannot be determined,,,Unknown,Cannot be determined,Negative,HPV35|HPV51|HPV58|HPV31|HPV56
-SYNTH_01,DONOR_0009,,,TREATMENT_0017,,,40.0,49.0,53.0,Cannot be determined,,Unknown,,Cannot be determined,Positive,,,
-SYNTH_01,DONOR_0010,,,,FOLLOW_UP_0010,,16.0,86.0,44.0,Cannot be determined,,,6.05,,Positive,Not applicable,Unknown,HPV33|HPV18|HPV58|HPV52|HPV35
-SYNTH_02,DONOR_0021,,,,,,38.0,97.0,7.0,Cannot be determined,,Not applicable,,,Negative,Not applicable,Not applicable,HPV56|HPV39|HPV35|HPV68|HPV52
-SYNTH_02,DONOR_0022,SPECIMEN_0022,,,,"{'day_interval': -10782, 'month_interval': -355}",51.0,89.0,65.0,Positive,34.66,Not applicable,,,Cannot be determined,Negative,Positive,HPV16|HPV56|HPV39|HPV68|HPV66
-SYNTH_02,DONOR_0023,,DIAG_0023,,,"{'day_interval': 8385, 'month_interval': 275}",56.0,88.0,0.0,Cannot be determined,,,6.77,,Negative,,Negative,
-SYNTH_02,DONOR_0024,,,TREATMENT_0047,,"{'day_interval': -6267, 'month_interval': -206}",64.0,55.0,30.0,,55.35,Not applicable,,,Negative,Cannot be determined,Positive,HPV73|HPV16|HPV52|HPV58|HPV51
-SYNTH_02,DONOR_0025,,,,FOLLOW_UP_0015,"{'day_interval': 10369, 'month_interval': 340}",22.0,55.0,6.0,Not applicable,,Unknown,,Equivocal,Positive,,,
-SYNTH_02,DONOR_0026,,,,,"{'day_interval': -15805, 'month_interval': -520}",33.0,36.0,57.0,Negative,,Unknown,,Cannot be determined,Unknown,Negative,Negative,HPV45|HPV35|HPV51|HPV58|HPV59
-SYNTH_02,DONOR_0027,SPECIMEN_0027,,,,"{'day_interval': -15197, 'month_interval': -500}",76.0,90.0,69.0,,55.99,Not applicable,,Unknown,Negative,Not applicable,Unknown,HPV39|HPV33|HPV56|HPV58|HPV35
-SYNTH_02,DONOR_0028,,DIAG_0028,,,"{'day_interval': -15131, 'month_interval': -498}",81.0,71.0,40.0,Negative,,Unknown,,,Unknown,Positive,Not applicable,HPV73|HPV45|HPV31|HPV18|HPV52
-SYNTH_02,DONOR_0029,,,TREATMENT_0057,,"{'day_interval': -7811, 'month_interval': -257}",57.0,29.0,54.0,Unknown,,Cannot be determined,,Positive,Positive,Negative,Negative,HPV35|HPV39|HPV59|HPV16|HPV51
-SYNTH_02,DONOR_0030,,,,FOLLOW_UP_0020,"{'day_interval': 431, 'month_interval': 14}",50.0,45.0,40.0,Positive,2.61,Not applicable,,,,Not applicable,Negative,HPV52|HPV35|HPV45|HPV39|HPV68
-SYNTH_03,DONOR_0041,,,,,"{'day_interval': -9118, 'month_interval': -300}",100.0,72.0,20.0,Unknown,,Not applicable,,Unknown,Positive,Unknown,Negative,HPV51|HPV56|HPV33|HPV35|HPV31
-SYNTH_03,DONOR_0042,SPECIMEN_0042,,,,"{'day_interval': -19295, 'month_interval': -634}",96.0,45.0,7.0,,5.41,,0.51,,Unknown,Not applicable,,
-SYNTH_03,DONOR_0043,,DIAG_0043,,,"{'day_interval': 13220, 'month_interval': 434}",77.0,47.0,66.0,,13.47,Not applicable,,,Negative,Positive,Not applicable,
-SYNTH_03,DONOR_0044,,,TREATMENT_0087,,"{'day_interval': -589, 'month_interval': -20}",38.0,56.0,1.0,Not applicable,,,93.1,Negative,Not applicable,Negative,Cannot be determined,HPV51|HPV39|HPV73|HPV45|HPV66
-SYNTH_03,DONOR_0045,,,,FOLLOW_UP_0025,"{'day_interval': -4705, 'month_interval': -155}",65.0,62.0,10.0,,86.72,Not applicable,,Not applicable,Equivocal,Not applicable,,HPV66|HPV56|HPV58|HPV33|HPV59
-SYNTH_03,DONOR_0046,,,,,"{'day_interval': 8243, 'month_interval': 270}",18.0,64.0,2.0,,71.74,,82.3,Negative,Cannot be determined,Positive,,
-SYNTH_03,DONOR_0047,SPECIMEN_0047,,,,"{'day_interval': -2291, 'month_interval': -76}",29.0,43.0,45.0,Positive,68.8,Unknown,,Cannot be determined,Cannot be determined,Cannot be determined,Positive,HPV33|HPV59|HPV51|HPV18|HPV35
-SYNTH_03,DONOR_0048,,DIAG_0048,,,"{'day_interval': -5927, 'month_interval': -195}",64.0,13.0,2.0,Cannot be determined,,Not applicable,,Not applicable,Unknown,Negative,,HPV45|HPV31|HPV56|HPV39|HPV66
-SYNTH_03,DONOR_0049,,,TREATMENT_0097,,"{'day_interval': -4593, 'month_interval': -151}",57.0,48.0,65.0,Positive,91.59,Not applicable,,Unknown,Positive,Unknown,Unknown,HPV73|HPV58|HPV31|HPV33|HPV59
-SYNTH_03,DONOR_0050,,,,FOLLOW_UP_0030,"{'day_interval': -12612, 'month_interval': -415}",47.0,49.0,81.0,Unknown,,Cannot be determined,,Negative,Not applicable,Negative,Unknown,HPV73|HPV52|HPV68|HPV16|HPV35
-SYNTH_04,DONOR_0061,,,,,,83.0,84.0,67.0,Unknown,,Cannot be determined,,Not applicable,,,Unknown,HPV18|HPV16|HPV31|HPV68|HPV66
-SYNTH_04,DONOR_0062,SPECIMEN_0062,,,,"{'day_interval': 8690, 'month_interval': 285}",47.0,91.0,43.0,Unknown,,Cannot be determined,,,,Unknown,Positive,HPV66|HPV52|HPV59|HPV45|HPV16
-SYNTH_04,DONOR_0063,,DIAG_0063,,,"{'day_interval': 10252, 'month_interval': 336}",66.0,67.0,50.0,Positive,16.56,Not applicable,,Positive,Equivocal,Negative,Not applicable,
-SYNTH_04,DONOR_0064,,,TREATMENT_0127,,"{'day_interval': -989, 'month_interval': -33}",0.0,69.0,28.0,Negative,,Not applicable,,Unknown,,Unknown,Negative,HPV66|HPV52|HPV68|HPV16|HPV73
-SYNTH_04,DONOR_0065,,,,FOLLOW_UP_0035,"{'day_interval': -19085, 'month_interval': -628}",90.0,46.0,7.0,Cannot be determined,,,85.43,Not applicable,Unknown,Cannot be determined,Not applicable,
-SYNTH_04,DONOR_0066,,,,,,27.0,26.0,22.0,Negative,,,95.64,,Positive,Negative,Positive,HPV51|HPV68|HPV56|HPV73|HPV18
-SYNTH_04,DONOR_0067,SPECIMEN_0067,,,,"{'day_interval': 517, 'month_interval': 16}",78.0,41.0,23.0,Positive,51.72,Cannot be determined,,Negative,Negative,Not applicable,,HPV51|HPV66|HPV52|HPV56|HPV16
-SYNTH_04,DONOR_0068,,DIAG_0068,,,"{'day_interval': 8296, 'month_interval': 272}",82.0,38.0,10.0,Positive,11.62,,43.76,Not applicable,Negative,Positive,,HPV56|HPV59|HPV31|HPV66|HPV51
-SYNTH_04,DONOR_0069,,,TREATMENT_0137,,"{'day_interval': 4081, 'month_interval': 134}",20.0,20.0,51.0,Unknown,,,97.37,Positive,Equivocal,Negative,Negative,
-SYNTH_04,DONOR_0070,,,,FOLLOW_UP_0040,"{'day_interval': -14774, 'month_interval': -486}",65.0,74.0,80.0,Not applicable,,Positive,42.62,Not applicable,Negative,Not applicable,,HPV56|HPV58|HPV35|HPV52|HPV39
-SYNTH_01,DONOR_NULL_0001,,,,,"{'month_interval': 897, 'day_interval': 1540}",,,,,,,,,,,,
-SYNTH_01,DONOR_NULL_0002,SPECIMEN_NULL_0002,,,,"{'month_interval': 762, 'day_interval': 1033}",,,,,,,,,,,,
-SYNTH_01,DONOR_ALL_0001,,DIAG_ALL_0001,,,"{'day_interval': -5997, 'month_interval': -198}",27.0,89.0,58.0,Negative,,Cannot be determined,,Positive,Not applicable,Not applicable,Cannot be determined,HPV18|HPV52|HPV35|HPV56|HPV73
-SYNTH_01,DONOR_ALL_0002,,,TREATMENT_ALL_0003,,"{'day_interval': -8528, 'month_interval': -281}",33.0,12.0,11.0,,45.96,Not applicable,,Positive,Not applicable,Negative,Unknown,HPV59|HPV58|HPV68|HPV35|HPV51
+SYNTH_01,DONOR_0001,,,,,"{'day_interval': -11673, 'month_interval': -384}",83.0,36.0,53.0,Negative,,Cannot be determined,,,,Unknown,,HPV73
+SYNTH_01,DONOR_0002,SPECIMEN_0002,,,,"{'day_interval': -15101, 'month_interval': -497}",62.0,11.0,96.0,,58.64,Cannot be determined,,,Negative,Not applicable,Not applicable,HPV66
+SYNTH_01,DONOR_0003,,DIAG_0003,,,"{'day_interval': 3339, 'month_interval': 109}",17.0,23.0,31.0,,1.95,Positive,68.71,Unknown,Unknown,,Cannot be determined,
+SYNTH_01,DONOR_0004,,,TREATMENT_0007,,"{'day_interval': -413, 'month_interval': -14}",96.0,61.0,21.0,Unknown,,Positive,3.69,Not applicable,Unknown,Cannot be determined,Positive,HPV45
+SYNTH_01,DONOR_0005,,,,FOLLOW_UP_0005,"{'day_interval': -16962, 'month_interval': -558}",68.0,94.0,100.0,,70.03,,25.69,Equivocal,Equivocal,Positive,,HPV52
+SYNTH_01,DONOR_0006,,,,,"{'day_interval': -18180, 'month_interval': -598}",87.0,19.0,14.0,Cannot be determined,,Unknown,,Not applicable,Equivocal,Not applicable,Unknown,HPV18
+SYNTH_01,DONOR_0007,SPECIMEN_0007,,,,"{'day_interval': -10288, 'month_interval': -339}",93.0,79.0,26.0,Unknown,,Negative,,,Unknown,Positive,Positive,
+SYNTH_01,DONOR_0008,,DIAG_0008,,,,75.0,84.0,74.0,Positive,23.84,Cannot be determined,,Cannot be determined,Unknown,Cannot be determined,Positive,
+SYNTH_01,DONOR_0009,,,TREATMENT_0017,,"{'day_interval': -4980, 'month_interval': -164}",2.0,42.0,9.0,Negative,,Negative,,Cannot be determined,Cannot be determined,Cannot be determined,Negative,HPV16
+SYNTH_01,DONOR_0010,,,,FOLLOW_UP_0010,"{'day_interval': -1634, 'month_interval': -54}",82.0,84.0,35.0,,84.12,Not applicable,,Unknown,Negative,,,HPV33
+SYNTH_02,DONOR_0021,,,,,"{'day_interval': -8785, 'month_interval': -289}",38.0,83.0,16.0,,93.89,Not applicable,,Equivocal,,Negative,Negative,HPV56
+SYNTH_02,DONOR_0022,SPECIMEN_0022,,,,,49.0,79.0,93.0,Negative,,Negative,,Negative,Unknown,Negative,Not applicable,HPV51
+SYNTH_02,DONOR_0023,,DIAG_0023,,,"{'day_interval': -18494, 'month_interval': -608}",28.0,76.0,75.0,Cannot be determined,,Negative,,Negative,Equivocal,Cannot be determined,Not applicable,HPV39
+SYNTH_02,DONOR_0024,,,TREATMENT_0047,,"{'day_interval': 480, 'month_interval': 15}",44.0,38.0,71.0,,8.26,Not applicable,,Positive,Cannot be determined,,,
+SYNTH_02,DONOR_0025,,,,FOLLOW_UP_0015,"{'day_interval': -2786, 'month_interval': -92}",68.0,13.0,37.0,Positive,70.46,Negative,,Positive,,Not applicable,Positive,HPV45
+SYNTH_02,DONOR_0026,,,,,"{'day_interval': -10088, 'month_interval': -332}",35.0,34.0,2.0,Negative,,Positive,92.92,,,Cannot be determined,Positive,HPV31
+SYNTH_02,DONOR_0027,SPECIMEN_0027,,,,"{'day_interval': -2094, 'month_interval': -69}",56.0,6.0,7.0,Not applicable,,Negative,,Not applicable,Positive,Positive,,HPV73
+SYNTH_02,DONOR_0028,,DIAG_0028,,,"{'day_interval': -16861, 'month_interval': -554}",5.0,34.0,23.0,Cannot be determined,,Positive,21.93,,Not applicable,Positive,,
+SYNTH_02,DONOR_0029,,,TREATMENT_0057,,,54.0,99.0,24.0,Negative,,Negative,,,Equivocal,Not applicable,Not applicable,HPV18
+SYNTH_02,DONOR_0030,,,,FOLLOW_UP_0020,,10.0,16.0,82.0,Cannot be determined,,Not applicable,,Not applicable,Equivocal,,Cannot be determined,HPV66
+SYNTH_03,DONOR_0041,,,,,,40.0,10.0,5.0,Unknown,,Positive,56.65,Equivocal,Not applicable,,Cannot be determined,HPV66
+SYNTH_03,DONOR_0042,SPECIMEN_0042,,,,"{'day_interval': -12172, 'month_interval': -400}",43.0,20.0,53.0,Not applicable,,Positive,65.07,,Equivocal,Unknown,Negative,HPV56
+SYNTH_03,DONOR_0043,,DIAG_0043,,,"{'day_interval': -4166, 'month_interval': -137}",35.0,92.0,15.0,Positive,11.07,Positive,88.46,Not applicable,Cannot be determined,Negative,Negative,HPV18
+SYNTH_03,DONOR_0044,,,TREATMENT_0087,,"{'day_interval': -13383, 'month_interval': -440}",77.0,83.0,56.0,Positive,39.36,Not applicable,,Not applicable,,Negative,Positive,HPV33
+SYNTH_03,DONOR_0045,,,,FOLLOW_UP_0025,"{'day_interval': -8640, 'month_interval': -284}",37.0,100.0,61.0,Positive,91.73,Negative,,Not applicable,Positive,,Negative,HPV35
+SYNTH_03,DONOR_0046,,,,,"{'day_interval': -7266, 'month_interval': -239}",67.0,86.0,79.0,Positive,71.03,Negative,,Not applicable,Not applicable,Negative,,HPV68
+SYNTH_03,DONOR_0047,SPECIMEN_0047,,,,"{'day_interval': 2112, 'month_interval': 69}",1.0,52.0,77.0,Not applicable,,Unknown,,,Equivocal,Negative,Unknown,HPV16
+SYNTH_03,DONOR_0048,,DIAG_0048,,,"{'day_interval': -6254, 'month_interval': -206}",85.0,91.0,62.0,Positive,20.16,Positive,91.77,,,Positive,Positive,HPV66
+SYNTH_03,DONOR_0049,,,TREATMENT_0097,,,52.0,6.0,29.0,Unknown,,Not applicable,,Cannot be determined,Unknown,Negative,,HPV56
+SYNTH_03,DONOR_0050,,,,FOLLOW_UP_0030,"{'day_interval': 8628, 'month_interval': 283}",73.0,66.0,38.0,Negative,,Negative,,Positive,Equivocal,Unknown,Unknown,HPV18
+SYNTH_04,DONOR_0061,,,,,"{'day_interval': -16042, 'month_interval': -528}",58.0,6.0,38.0,Negative,,Cannot be determined,,Cannot be determined,Not applicable,Positive,Negative,HPV68
+SYNTH_04,DONOR_0062,SPECIMEN_0062,,,,"{'day_interval': -1121, 'month_interval': -37}",94.0,100.0,6.0,Cannot be determined,,Negative,,Positive,,Not applicable,,HPV52
+SYNTH_04,DONOR_0063,,DIAG_0063,,,"{'day_interval': -2789, 'month_interval': -92}",23.0,23.0,95.0,Unknown,,Unknown,,Cannot be determined,Not applicable,Unknown,Not applicable,HPV66
+SYNTH_04,DONOR_0064,,,TREATMENT_0127,,,59.0,69.0,60.0,Unknown,,Cannot be determined,,Unknown,Not applicable,Negative,Negative,HPV16
+SYNTH_04,DONOR_0065,,,,FOLLOW_UP_0035,"{'day_interval': -1708, 'month_interval': -57}",25.0,82.0,44.0,Negative,,Negative,,Unknown,Equivocal,Negative,,HPV66
+SYNTH_04,DONOR_0066,,,,,"{'day_interval': 1608, 'month_interval': 52}",27.0,26.0,55.0,Not applicable,,Positive,18.96,Cannot be determined,Negative,Positive,Not applicable,HPV35
+SYNTH_04,DONOR_0067,SPECIMEN_0067,,,,"{'day_interval': -1230, 'month_interval': -41}",94.0,98.0,60.0,Cannot be determined,,Positive,61.77,Unknown,Negative,Negative,,
+SYNTH_04,DONOR_0068,,DIAG_0068,,,"{'day_interval': -11801, 'month_interval': -388}",45.0,66.0,40.0,Unknown,,Unknown,,Equivocal,Unknown,Not applicable,,HPV56
+SYNTH_04,DONOR_0069,,,TREATMENT_0137,,"{'day_interval': 2531, 'month_interval': 83}",58.0,82.0,79.0,Unknown,,,99.95,Equivocal,,,Negative,HPV51
+SYNTH_04,DONOR_0070,,,,FOLLOW_UP_0040,"{'day_interval': -5298, 'month_interval': -175}",7.0,35.0,97.0,Unknown,,Not applicable,,,,Negative,Cannot be determined,HPV73
+SYNTH_01,DONOR_NULL_0001,,,,,"{'month_interval': 660, 'day_interval': 2816}",,,,,,,,,,,,
+SYNTH_01,DONOR_NULL_0002,SPECIMEN_NULL_0002,,,,"{'month_interval': 844, 'day_interval': 2258}",,,,,,,,,,,,
+SYNTH_01,DONOR_ALL_0001,,DIAG_ALL_0001,,,"{'day_interval': 2536, 'month_interval': 83}",61.0,78.0,30.0,Cannot be determined,,Not applicable,,Negative,Equivocal,Unknown,Not applicable,HPV58
+SYNTH_01,DONOR_ALL_0002,,,TREATMENT_ALL_0003,,"{'day_interval': 9918, 'month_interval': 325}",61.0,88.0,16.0,Negative,,Cannot be determined,,Not applicable,,Cannot be determined,Not applicable,HPV58

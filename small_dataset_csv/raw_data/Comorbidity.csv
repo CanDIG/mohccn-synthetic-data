@@ -1,41 +1,41 @@
 program_id,submitter_donor_id,prior_malignancy,laterality_of_prior_malignancy,age_at_comorbidity_diagnosis,comorbidity_type_code,comorbidity_treatment_status,comorbidity_treatment
-SYNTH_01,DONOR_0011,Yes,,55,C36,No,ball
-SYNTH_01,DONOR_0012,Unknown,,24,I76,Yes,value
-SYNTH_01,DONOR_0013,Yes,Not applicable,34,,No,bag
-SYNTH_01,DONOR_0014,No,,16,I94,Yes,hour
-SYNTH_01,DONOR_0015,No,,37,D51,Unknown,view
-SYNTH_01,DONOR_0016,Yes,Not applicable,36,D40,Unknown,figure
-SYNTH_01,DONOR_0017,,,76,D70,,watch
-SYNTH_01,DONOR_0018,Yes,Not applicable,35,,Unknown,professional
-SYNTH_01,DONOR_0019,,,58,I88,Yes,hold
-SYNTH_01,DONOR_0020,Yes,Not applicable,22,C82,,analysis
-SYNTH_02,DONOR_0031,Yes,Bilateral,47,D03,No,decision
-SYNTH_02,DONOR_0032,,,62,I78,Unknown,bed
-SYNTH_02,DONOR_0033,Yes,Not applicable,27,,No,several
-SYNTH_02,DONOR_0034,Yes,Left,11,C20,Yes,Radiation
-SYNTH_02,DONOR_0035,Yes,Bilateral,15,C02,,possible
-SYNTH_02,DONOR_0036,Yes,Bilateral,49,,Unknown,fast
-SYNTH_02,DONOR_0037,Yes,,21,,No,artist
-SYNTH_02,DONOR_0038,Yes,,51,,,husband
-SYNTH_02,DONOR_0039,Unknown,,54,I96,,ready
-SYNTH_02,DONOR_0040,Yes,"Unilateral, Side not specified",48,,No,price
-SYNTH_03,DONOR_0051,,,47,D56,Unknown,room
-SYNTH_03,DONOR_0052,Yes,"Unilateral, Side not specified",36,,No,and
-SYNTH_03,DONOR_0053,Yes,Bilateral,77,,,south
-SYNTH_03,DONOR_0054,Yes,Left,45,C11,Unknown,business
-SYNTH_03,DONOR_0055,Unknown,,62,I20,Yes,nothing
-SYNTH_03,DONOR_0056,Unknown,,32,I74,No,deal
-SYNTH_03,DONOR_0057,Yes,Bilateral,47,C22,Unknown,southern
-SYNTH_03,DONOR_0058,Yes,Left,33,C49,,most
-SYNTH_03,DONOR_0059,Yes,,38,C42,Unknown,method
-SYNTH_03,DONOR_0060,Yes,Right,22,C39,No,argue
-SYNTH_04,DONOR_0071,Yes,,38,C53,Yes,Hormone therapy
-SYNTH_04,DONOR_0072,Yes,,35,D52,No,close
-SYNTH_04,DONOR_0073,No,,10,I63,,clearly
-SYNTH_04,DONOR_0074,Yes,Unknown,55,,No,fly
-SYNTH_04,DONOR_0075,Yes,Unknown,27,C48,Unknown,simply
-SYNTH_04,DONOR_0076,Unknown,,41,D66,Yes,entire
-SYNTH_04,DONOR_0077,Yes,Bilateral,12,,,executive
-SYNTH_04,DONOR_0078,Yes,,39,C55,Unknown,building
-SYNTH_04,DONOR_0079,Yes,Midline,27,D45,Unknown,guess
-SYNTH_04,DONOR_0080,,,20,I10,Yes,laugh
+SYNTH_01,DONOR_0011,Yes,,10,C09,Unknown,recently
+SYNTH_01,DONOR_0012,Yes,,24,D87,Unknown,huge
+SYNTH_01,DONOR_0013,Yes,Right,43,,Unknown,according
+SYNTH_01,DONOR_0014,Yes,,20,I06,Unknown,trip
+SYNTH_01,DONOR_0015,Yes,Midline,46,C09,Unknown,yeah
+SYNTH_01,DONOR_0016,Yes,"Unilateral, Side not specified",45,,,laugh
+SYNTH_01,DONOR_0017,Yes,Not applicable,47,C76,No,manage
+SYNTH_01,DONOR_0018,Unknown,,35,I69,No,improve
+SYNTH_01,DONOR_0019,Yes,"Unilateral, Side not specified",34,C34,,let
+SYNTH_01,DONOR_0020,Unknown,,54,I52,,carry
+SYNTH_02,DONOR_0031,Yes,Unknown,39,C33,,someone
+SYNTH_02,DONOR_0032,Yes,Midline,30,C13,,toward
+SYNTH_02,DONOR_0033,Yes,"Unilateral, Side not specified",15,D01,No,truth
+SYNTH_02,DONOR_0034,,,59,D54,Yes,talk
+SYNTH_02,DONOR_0035,Yes,,23,C20,,this
+SYNTH_02,DONOR_0036,Yes,Not applicable,49,,No,require
+SYNTH_02,DONOR_0037,Yes,,14,C65,,happy
+SYNTH_02,DONOR_0038,Yes,"Unilateral, Side not specified",10,D40,Yes,Hormone therapy
+SYNTH_02,DONOR_0039,Yes,Left,20,,No,husband
+SYNTH_02,DONOR_0040,Unknown,,24,I96,No,ready
+SYNTH_03,DONOR_0051,Yes,Not applicable,26,,,name
+SYNTH_03,DONOR_0052,Yes,Right,26,C34,Unknown,two
+SYNTH_03,DONOR_0053,Yes,Not applicable,40,C42,No,customer
+SYNTH_03,DONOR_0054,Yes,,53,I44,Yes,series
+SYNTH_03,DONOR_0055,Yes,,42,I24,Unknown,material
+SYNTH_03,DONOR_0056,Yes,,16,C88,Unknown,agree
+SYNTH_03,DONOR_0057,Yes,,35,,Yes,Hormone therapy
+SYNTH_03,DONOR_0058,Unknown,,50,I13,Yes,herself
+SYNTH_03,DONOR_0059,Yes,,55,C03,Yes,Hormone therapy
+SYNTH_03,DONOR_0060,Unknown,,24,I32,No,way
+SYNTH_04,DONOR_0071,Yes,Not applicable,56,C52,,physical
+SYNTH_04,DONOR_0072,Yes,Right,68,,No,next
+SYNTH_04,DONOR_0073,Yes,,49,I55,Yes,minute
+SYNTH_04,DONOR_0074,Yes,,28,C91,No,central
+SYNTH_04,DONOR_0075,Yes,,20,D80,No,take
+SYNTH_04,DONOR_0076,,,78,I52,Yes,from
+SYNTH_04,DONOR_0077,Yes,Left,21,C34,Unknown,table
+SYNTH_04,DONOR_0078,Unknown,,43,D51,Unknown,economy
+SYNTH_04,DONOR_0079,No,,51,I59,No,Congress
+SYNTH_04,DONOR_0080,Yes,Midline,15,,,plan
