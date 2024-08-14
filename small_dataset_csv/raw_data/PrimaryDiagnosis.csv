@@ -1,85 +1,85 @@
 program_id,submitter_primary_diagnosis_id,submitter_donor_id,primary_site,date_of_diagnosis,cancer_type_code,basis_of_diagnosis,laterality,clinical_tumour_staging_system,clinical_t_category,clinical_n_category,clinical_m_category,clinical_stage_group,pathological_tumour_staging_system,pathological_t_category,pathological_n_category,pathological_m_category,pathological_stage_group
-SYNTH_01,DIAG_0001,DONOR_0001,Breast,"{'month_interval': 0, 'day_interval': 0}",C66,Histology of a primary tumour,Not a paired site,,,,,Stage 1,Binet staging system,,,,Stage A
-SYNTH_01,DIAG_0002,DONOR_0002,Bronchus and lung,,,Unknown,Not a paired site,Revised International staging system (RISS),,,,Stage IAE,AJCC 6th edition,Tis(DCIS),N0(mol-),MX,Stage IC
-SYNTH_01,DIAG_0003,DONOR_0003,Colon,,C85,Histology of a metastasis,,Durie-Salmon staging system,,,,Stage III,,,,,Stage IIIS
-SYNTH_01,DIAG_0004,DONOR_0004,Skin,"{'month_interval': 0, 'day_interval': 0}",C46,Histology of a metastasis,,Rai staging system,,,,Stage II,St Jude staging system,,,,Stage IV
-SYNTH_01,DIAG_0005,DONOR_0005,,"{'month_interval': 0, 'day_interval': 0}",D46,Specific tumour markers,Unknown,Durie-Salmon staging system,,,,Stage II,AJCC 7th edition,Tis(Paget's),N1b,,Stage IIIA2
-SYNTH_01,DIAG_0006,DONOR_0006,Breast,"{'month_interval': 0, 'day_interval': 0}",C15,Histology of a metastasis,Left,FIGO staging system,,,,Stage IIA,Binet staging system,,,,Stage B
+SYNTH_01,DIAG_0001,DONOR_0001,Breast,"{'month_interval': 0, 'day_interval': 0}",C66,Histology of a primary tumour,Not a paired site,,,,,Stage 1,Binet staging system,,,,Stage C
+SYNTH_01,DIAG_0002,DONOR_0002,Bronchus and lung,,,Unknown,Not a paired site,Revised International staging system (RISS),,,,Stage IAE,AJCC 6th edition,T1d,N0(i+),M1a(1),Stage IC
+SYNTH_01,DIAG_0003,DONOR_0003,Colon,,C85,Histology of a metastasis,,Binet staging system,,,,Stage B,,,,,Stage IIIS
+SYNTH_01,DIAG_0004,DONOR_0004,Skin,"{'month_interval': 0, 'day_interval': 0}",C46,Histology of a metastasis,,Rai staging system,,,,Stage 0,St Jude staging system,,,,Stage I
+SYNTH_01,DIAG_0005,DONOR_0005,,"{'month_interval': 0, 'day_interval': 0}",D46,Specific tumour markers,Unknown,Durie-Salmon staging system,,,,Stage III,AJCC 7th edition,T1mi,,M1e,Stage IIIA2
+SYNTH_01,DIAG_0006,DONOR_0006,Breast,"{'month_interval': 0, 'day_interval': 0}",C15,Histology of a metastasis,Left,FIGO staging system,,,,Stage IAB,Binet staging system,,,,Stage A
 SYNTH_01,DIAG_0007,DONOR_0007,Bronchus and lung,,C55,Unknown,,Binet staging system,,,,Stage B,International Neuroblastoma Staging System,,,,Stage IBS
 SYNTH_01,DIAG_0008,DONOR_0008,Colon,"{'month_interval': 0, 'day_interval': 0}",,Clinical investigation,Bilateral,Ann Arbor staging system,,,,Stage IV,Rai staging system,,,,Stage II
-SYNTH_01,DIAG_0009,DONOR_0009,Skin,"{'month_interval': 0, 'day_interval': 0}",,Histology of a primary tumour,Midline,FIGO staging system,,,,Stage IB1,AJCC 6th edition,T4b(m),N3b,,Stage IIE
-SYNTH_01,DIAG_0010,DONOR_0010,,,D38,Histology of a primary tumour,Not a paired site,International Neuroblastoma Risk Group Staging System,,,,Stage Ms,St Jude staging system,,,,Stage III
-SYNTH_01,DIAG_0011,DONOR_0011,Breast,,C46,,Not a paired site,Binet staging system,,,,Stage C,FIGO staging system,,,,Stage IIIA
-SYNTH_01,DIAG_0012,DONOR_0012,Bronchus and lung,"{'month_interval': 0, 'day_interval': 0}",C71,Clinical investigation,Midline,AJCC 8th edition,Tis,N1c,M1,Stage B,International Neuroblastoma Staging System,,,,Stage IIS
-SYNTH_01,DIAG_0013,DONOR_0013,Colon,"{'month_interval': 0, 'day_interval': 0}",C43,Clinical investigation,Midline,Ann Arbor staging system,,,,Stage IIB,SEER staging system,,,,Stage II
-SYNTH_01,DIAG_0014,DONOR_0014,Skin,,D45,Unknown,Unknown,Durie-Salmon staging system,,,,Stage III,International Neuroblastoma Risk Group Staging System,,,,Stage IIBE
-SYNTH_01,DIAG_0015,DONOR_0015,,"{'month_interval': 0, 'day_interval': 0}",,,Bilateral,Ann Arbor staging system,,,,Stage IE,Durie-Salmon staging system,,,,Stage III
-SYNTH_01,DIAG_0016,DONOR_0016,Breast,"{'month_interval': 0, 'day_interval': 0}",C85,,,Rai staging system,,,,Stage I,AJCC 8th edition,,N4,M0(i+),Stage IVS
-SYNTH_01,DIAG_0017,DONOR_0017,Bronchus and lung,"{'month_interval': 0, 'day_interval': 0}",C31,Specific tumour markers,Not a paired site,,,,,Stage 0,Lugano staging system,,,,Stage IIE
-SYNTH_01,DIAG_0018,DONOR_0018,Colon,,C73,Cytology,Bilateral,AJCC 7th edition,T2c,N1c,M0,Stage IBE,International Neuroblastoma Staging System,,,,Stage M
-SYNTH_01,DIAG_0019,DONOR_0019,Skin,,C62,Death certificate only,,St Jude staging system,,,,Stage III,AJCC 8th edition,,N4,M1b,Occult Carcinoma
-SYNTH_01,DIAG_0020,DONOR_0020,,"{'month_interval': 0, 'day_interval': 0}",C40,Unknown,Midline,Binet staging system,,,,Stage A,,,,,Stage 2B
-SYNTH_02,DIAG_0021,DONOR_0021,Breast,,C11,Specific tumour markers,Left,Durie-Salmon staging system,,,,Stage II,FIGO staging system,,,,Stage IVB
-SYNTH_02,DIAG_0022,DONOR_0022,Bronchus and lung,"{'month_interval': 0, 'day_interval': 0}",C64,Specific tumour markers,Right,AJCC 8th edition,T4c,N3b,M1a(0),Stage IAE,Revised International staging system (RISS),,,,Stage IAB
-SYNTH_02,DIAG_0023,DONOR_0023,Colon,"{'month_interval': 0, 'day_interval': 0}",C86,,Unknown,St Jude staging system,,,,Stage I,Binet staging system,,,,Stage C
-SYNTH_02,DIAG_0024,DONOR_0024,Skin,"{'month_interval': 0, 'day_interval': 0}",C16,Clinical,Midline,Revised International staging system (RISS),,,,Stage IVA2,AJCC 8th edition,T1a,N3b,M1e,Stage IVAE
-SYNTH_02,DIAG_0025,DONOR_0025,,"{'month_interval': 0, 'day_interval': 0}",,Clinical investigation,Unknown,,,,,Stage 4,AJCC 8th edition,T2b,N1a(sn),M1,Stage IES
-SYNTH_02,DIAG_0026,DONOR_0026,Breast,"{'month_interval': 0, 'day_interval': 0}",,Cytology,"Unilateral, side not specified",Ann Arbor staging system,,,,Stage IS,Rai staging system,,,,Stage IV
-SYNTH_02,DIAG_0027,DONOR_0027,Bronchus and lung,"{'month_interval': 0, 'day_interval': 0}",D04,Specific tumour markers,Unknown,AJCC 8th edition,T4e,,M1b,Stage Ms,,,,,Stage IA1
-SYNTH_02,DIAG_0028,DONOR_0028,Colon,,D46,Death certificate only,Left,St Jude staging system,,,,Stage II,AJCC 8th edition,,N3b,M0,Stage IS
-SYNTH_02,DIAG_0029,DONOR_0029,Skin,"{'month_interval': 0, 'day_interval': 0}",C12,Death certificate only,Bilateral,FIGO staging system,,,,Stage IAB,International Neuroblastoma Staging System,,,,Stage IIIBES
-SYNTH_02,DIAG_0030,DONOR_0030,,"{'month_interval': 0, 'day_interval': 0}",C20,,Unknown,SEER staging system,,,,Stage IVAE,Durie-Salmon staging system,,,,Stage II
-SYNTH_02,DIAG_0031,DONOR_0031,Breast,"{'month_interval': 0, 'day_interval': 0}",,Clinical,Not a paired site,Revised International staging system (RISS),,,,,International Neuroblastoma Staging System,,,,Stage IIIA2
-SYNTH_02,DIAG_0032,DONOR_0032,Bronchus and lung,,D37,,"Unilateral, side not specified",AJCC 6th edition,T1mi,N1c,M1b(1),Stage II bulky,Ann Arbor staging system,,,,Stage IIA
-SYNTH_02,DIAG_0033,DONOR_0033,Colon,,C09,Specific tumour markers,"Unilateral, side not specified",,,,,,Ann Arbor staging system,,,,Stage IIIB
-SYNTH_02,DIAG_0034,DONOR_0034,Skin,"{'month_interval': 0, 'day_interval': 0}",C56,Cytology,Left,AJCC 6th edition,T1,N1,M1b(1),Stage IB1,Revised International staging system (RISS),,,,
-SYNTH_02,DIAG_0035,DONOR_0035,,"{'month_interval': 0, 'day_interval': 0}",C74,Histology of a metastasis,Left,SEER staging system,,,,Stage IIIES,International Neuroblastoma Staging System,,,,Stage IIIE
-SYNTH_02,DIAG_0036,DONOR_0036,Breast,"{'month_interval': 0, 'day_interval': 0}",,,Not a paired site,International Neuroblastoma Staging System,,,,Stage IIIBES,,,,,Stage IVA2
-SYNTH_02,DIAG_0037,DONOR_0037,Bronchus and lung,"{'month_interval': 0, 'day_interval': 0}",,Clinical investigation,Unknown,Binet staging system,,,,Stage B,SEER staging system,,,,Stage IVA
-SYNTH_02,DIAG_0038,DONOR_0038,Colon,,C49,,"Unilateral, side not specified",International Neuroblastoma Staging System,,,,Stage IAES,International Neuroblastoma Risk Group Staging System,,,,Stage 0
-SYNTH_02,DIAG_0039,DONOR_0039,Skin,"{'month_interval': 0, 'day_interval': 0}",,Unknown,Right,Lugano staging system,,,,Stage I,Durie-Salmon staging system,,,,Stage II
-SYNTH_02,DIAG_0040,DONOR_0040,,"{'month_interval': 0, 'day_interval': 0}",C56,,Not a paired site,FIGO staging system,,,,Stage IB1,AJCC 7th edition,,,M1c,Stage 4S
-SYNTH_03,DIAG_0041,DONOR_0041,Breast,,,Clinical,Right,Durie-Salmon staging system,,,,Stage II,,,,,
-SYNTH_03,DIAG_0042,DONOR_0042,Bronchus and lung,"{'month_interval': 0, 'day_interval': 0}",C74,Clinical investigation,Right,SEER staging system,,,,Stage IVS,,,,,Stage IAES
-SYNTH_03,DIAG_0043,DONOR_0043,Colon,"{'month_interval': 0, 'day_interval': 0}",C67,Unknown,,FIGO staging system,,,,Stage IB2,International Neuroblastoma Staging System,,,,Stage IVC
-SYNTH_03,DIAG_0044,DONOR_0044,Skin,"{'month_interval': 0, 'day_interval': 0}",C94,Death certificate only,Unknown,AJCC 7th edition,Tis(DCIS),N1b,M1b(0),,AJCC 6th edition,T0,N4,M0(i+),Stage IVE
-SYNTH_03,DIAG_0045,DONOR_0045,,"{'month_interval': 0, 'day_interval': 0}",C87,Specific tumour markers,Left,AJCC 6th edition,T2a2,N0a,M1c(1),Stage IVA2,AJCC 6th edition,T2a1,N0a (biopsy),M1c(1),In situ
-SYNTH_03,DIAG_0046,DONOR_0046,Breast,"{'month_interval': 0, 'day_interval': 0}",,Clinical investigation,Unknown,Ann Arbor staging system,,,,Stage IVS,St Jude staging system,,,,Stage II
-SYNTH_03,DIAG_0047,DONOR_0047,Bronchus and lung,,,Death certificate only,Unknown,AJCC 7th edition,T4a(s),N0(i+),M1c,Stage IIIAE,Ann Arbor staging system,,,,Stage IA
-SYNTH_03,DIAG_0048,DONOR_0048,Colon,"{'month_interval': 0, 'day_interval': 0}",,,Bilateral,International Neuroblastoma Staging System,,,,,AJCC 7th edition,T4d,N2b,M1a,
-SYNTH_03,DIAG_0049,DONOR_0049,Skin,"{'month_interval': 0, 'day_interval': 0}",,,Bilateral,AJCC 7th edition,T3b,N2b,MX,Stage IIEB,International Neuroblastoma Risk Group Staging System,,,,Stage A
-SYNTH_03,DIAG_0050,DONOR_0050,,"{'month_interval': 0, 'day_interval': 0}",C77,,Not a paired site,,,,,Stage IIAS,Ann Arbor staging system,,,,Stage IS
-SYNTH_03,DIAG_0051,DONOR_0051,Breast,"{'month_interval': 0, 'day_interval': 0}",C01,Histology of a primary tumour,"Unilateral, side not specified",St Jude staging system,,,,Stage I,SEER staging system,,,,
-SYNTH_03,DIAG_0052,DONOR_0052,Bronchus and lung,"{'month_interval': 0, 'day_interval': 0}",,,Midline,FIGO staging system,,,,Stage IIA,AJCC 6th edition,T1a,,MX,Stage 0
-SYNTH_03,DIAG_0053,DONOR_0053,Colon,"{'month_interval': 0, 'day_interval': 0}",D41,Specific tumour markers,Left,SEER staging system,,,,Stage 1,AJCC 8th edition,,N3,,Stage IVBS
-SYNTH_03,DIAG_0054,DONOR_0054,Skin,,C38,,Not a paired site,,,,,Stage IB2,AJCC 6th edition,T1a(s),N2b,M0,Stage IVAE
-SYNTH_03,DIAG_0055,DONOR_0055,,"{'month_interval': 0, 'day_interval': 0}",C77,Histology of a primary tumour,,AJCC 8th edition,,N0a,M1d(0),,Durie-Salmon staging system,,,,Stage III
-SYNTH_03,DIAG_0056,DONOR_0056,Breast,"{'month_interval': 0, 'day_interval': 0}",C42,Death certificate only,,International Neuroblastoma Risk Group Staging System,,,,Occult Carcinoma,Rai staging system,,,,Stage 0
-SYNTH_03,DIAG_0057,DONOR_0057,Bronchus and lung,"{'month_interval': 0, 'day_interval': 0}",,Cytology,Bilateral,International Neuroblastoma Staging System,,,,Stage II,FIGO staging system,,,,Stage IIA
-SYNTH_03,DIAG_0058,DONOR_0058,Colon,"{'month_interval': 0, 'day_interval': 0}",,Specific tumour markers,Right,AJCC 7th edition,,N0(i-),,Stage IIIC,Lugano staging system,,,,Stage IB
-SYNTH_03,DIAG_0059,DONOR_0059,Skin,"{'month_interval': 0, 'day_interval': 0}",,Clinical investigation,Right,Rai staging system,,,,Stage II,AJCC 8th edition,T2,,M0(i+),Stage IVA
-SYNTH_03,DIAG_0060,DONOR_0060,,"{'month_interval': 0, 'day_interval': 0}",,Clinical investigation,,SEER staging system,,,,,FIGO staging system,,,,Stage IA2
-SYNTH_04,DIAG_0061,DONOR_0061,Breast,"{'month_interval': 0, 'day_interval': 0}",C55,Histology of a metastasis,Not a paired site,International Neuroblastoma Risk Group Staging System,,,,Stage IA3,Rai staging system,,,,Stage I
-SYNTH_04,DIAG_0062,DONOR_0062,Bronchus and lung,"{'month_interval': 0, 'day_interval': 0}",C00,Clinical,Midline,Rai staging system,,,,Stage II,Rai staging system,,,,Stage III
-SYNTH_04,DIAG_0063,DONOR_0063,Colon,"{'month_interval': 0, 'day_interval': 0}",,Unknown,,Rai staging system,,,,Stage II,,,,,Stage IIA2
-SYNTH_04,DIAG_0064,DONOR_0064,Skin,"{'month_interval': 0, 'day_interval': 0}",C10,Specific tumour markers,Bilateral,International Neuroblastoma Risk Group Staging System,,,,Stage IVE,,,,,
-SYNTH_04,DIAG_0065,DONOR_0065,,"{'month_interval': 0, 'day_interval': 0}",,Clinical,Right,St Jude staging system,,,,Stage I,Ann Arbor staging system,,,,Stage IIIS
-SYNTH_04,DIAG_0066,DONOR_0066,Breast,,C23,Clinical,Right,Binet staging system,,,,Stage C,AJCC 7th edition,,N2b,M1c(1),Stage 2B
-SYNTH_04,DIAG_0067,DONOR_0067,Bronchus and lung,"{'month_interval': 0, 'day_interval': 0}",D44,Unknown,Left,Binet staging system,,,,Stage C,Rai staging system,,,,Stage III
-SYNTH_04,DIAG_0068,DONOR_0068,Colon,,C24,Specific tumour markers,,International Neuroblastoma Risk Group Staging System,,,,Stage IIAE,,,,,
-SYNTH_04,DIAG_0069,DONOR_0069,Skin,"{'month_interval': 0, 'day_interval': 0}",,,Bilateral,AJCC 6th edition,T1d,N0(mol-),M1c,Stage IIAES,SEER staging system,,,,Stage IIIC
-SYNTH_04,DIAG_0070,DONOR_0070,,"{'month_interval': 0, 'day_interval': 0}",C57,Specific tumour markers,Right,AJCC 8th edition,T1b1,N2mi,M1d(1),Stage 3,,,,,Stage 3
-SYNTH_04,DIAG_0071,DONOR_0071,Breast,"{'month_interval': 0, 'day_interval': 0}",D38,Specific tumour markers,Unknown,Lugano staging system,,,,Stage IV,AJCC 6th edition,T1b2,N3a,M1d(0),
-SYNTH_04,DIAG_0072,DONOR_0072,Bronchus and lung,"{'month_interval': 0, 'day_interval': 0}",C13,Death certificate only,,Rai staging system,,,,Stage II,Binet staging system,,,,Stage B
-SYNTH_04,DIAG_0073,DONOR_0073,Colon,"{'month_interval': 0, 'day_interval': 0}",C15,Cytology,,FIGO staging system,,,,Stage IB1,AJCC 7th edition,T4b(m),,M1b,
-SYNTH_04,DIAG_0074,DONOR_0074,Skin,,C36,,Bilateral,Revised International staging system (RISS),,,,Stage IIBS,Revised International staging system (RISS),,,,Stage IA2
-SYNTH_04,DIAG_0075,DONOR_0075,,,C63,,"Unilateral, side not specified",,,,,Stage II,Binet staging system,,,,Stage B
-SYNTH_04,DIAG_0076,DONOR_0076,Breast,"{'month_interval': 0, 'day_interval': 0}",,Cytology,,Ann Arbor staging system,,,,Stage IVE,Ann Arbor staging system,,,,Stage IVE
-SYNTH_04,DIAG_0077,DONOR_0077,Bronchus and lung,"{'month_interval': 0, 'day_interval': 0}",,Specific tumour markers,Left,SEER staging system,,,,Stage IIIBE,Ann Arbor staging system,,,,Stage I
-SYNTH_04,DIAG_0078,DONOR_0078,Colon,"{'month_interval': 0, 'day_interval': 0}",C33,Clinical investigation,Midline,Ann Arbor staging system,,,,Stage IIIE,FIGO staging system,,,,Stage IVA
-SYNTH_04,DIAG_0079,DONOR_0079,Skin,"{'month_interval': 0, 'day_interval': 0}",C21,Histology of a metastasis,,Durie-Salmon staging system,,,,Stage III,Revised International staging system (RISS),,,,Stage IVAES
-SYNTH_04,DIAG_0080,DONOR_0080,,"{'month_interval': 0, 'day_interval': 0}",,Clinical investigation,Not a paired site,AJCC 7th edition,T1b1,N3c,M1b(0),Stage IIE,Ann Arbor staging system,,,,Stage IB
+SYNTH_01,DIAG_0009,DONOR_0009,Skin,"{'month_interval': 0, 'day_interval': 0}",,Histology of a primary tumour,Midline,FIGO staging system,,,,Stage IIIB,AJCC 6th edition,T0,N0(i+),M1c(0),Stage IIE
+SYNTH_01,DIAG_0010,DONOR_0010,,,D38,Histology of a primary tumour,Not a paired site,International Neuroblastoma Risk Group Staging System,,,,Stage Ms,St Jude staging system,,,,Stage I
+SYNTH_01,DIAG_0011,DONOR_0011,Breast,,C46,,Not a paired site,Binet staging system,,,,Stage A,FIGO staging system,,,,Stage IA1
+SYNTH_01,DIAG_0012,DONOR_0012,Bronchus and lung,"{'month_interval': 0, 'day_interval': 0}",C71,Clinical investigation,Midline,AJCC 8th edition,T4a(s),N1a(sn),M1e,Stage B,International Neuroblastoma Staging System,,,,Stage IIS
+SYNTH_01,DIAG_0013,DONOR_0013,Colon,"{'month_interval': 0, 'day_interval': 0}",C43,Clinical investigation,Midline,Ann Arbor staging system,,,,Stage IVB,SEER staging system,,,,Stage II
+SYNTH_01,DIAG_0014,DONOR_0014,Skin,,D45,Unknown,Unknown,Durie-Salmon staging system,,,,Stage I,International Neuroblastoma Risk Group Staging System,,,,Stage IIBE
+SYNTH_01,DIAG_0015,DONOR_0015,,"{'month_interval': 0, 'day_interval': 0}",,,Bilateral,Ann Arbor staging system,,,,Stage IV,Durie-Salmon staging system,,,,Stage III
+SYNTH_01,DIAG_0016,DONOR_0016,Breast,"{'month_interval': 0, 'day_interval': 0}",C85,,,Rai staging system,,,,Stage II,AJCC 8th edition,T4e,N1b,M1,Stage IVS
+SYNTH_01,DIAG_0017,DONOR_0017,Bronchus and lung,"{'month_interval': 0, 'day_interval': 0}",C31,Specific tumour markers,Not a paired site,,,,,Stage 0,Lugano staging system,,,,Stage II bulky
+SYNTH_01,DIAG_0018,DONOR_0018,Colon,,C73,Cytology,Bilateral,AJCC 7th edition,,N4,M1d(1),Stage IBE,International Neuroblastoma Staging System,,,,Stage M
+SYNTH_01,DIAG_0019,DONOR_0019,Skin,,C62,Death certificate only,,St Jude staging system,,,,Stage III,AJCC 8th edition,T3,N0(i+),M1d(0),Occult Carcinoma
+SYNTH_01,DIAG_0020,DONOR_0020,,"{'month_interval': 0, 'day_interval': 0}",C40,Unknown,Midline,Binet staging system,,,,Stage B,,,,,Stage 2B
+SYNTH_02,DIAG_0021,DONOR_0021,Breast,"{'month_interval': 0, 'day_interval': 0}",,Histology of a primary tumour,Bilateral,FIGO staging system,,,,Stage IB2,,,,,Stage Ms
+SYNTH_02,DIAG_0022,DONOR_0022,Bronchus and lung,"{'month_interval': 0, 'day_interval': 0}",D08,Clinical,Right,Ann Arbor staging system,,,,Stage IIIE,SEER staging system,,,,Stage C
+SYNTH_02,DIAG_0023,DONOR_0023,Colon,"{'month_interval': 0, 'day_interval': 0}",,Specific tumour markers,Midline,Rai staging system,,,,Stage II,,,,,Stage IIBES
+SYNTH_02,DIAG_0024,DONOR_0024,Skin,"{'month_interval': 0, 'day_interval': 0}",C00,Cytology,Right,Lugano staging system,,,,Stage IE,FIGO staging system,,,,Stage IB
+SYNTH_02,DIAG_0025,DONOR_0025,,"{'month_interval': 0, 'day_interval': 0}",D42,Cytology,Unknown,FIGO staging system,,,,Stage IA,Durie-Salmon staging system,,,,Stage II
+SYNTH_02,DIAG_0026,DONOR_0026,Breast,"{'month_interval': 0, 'day_interval': 0}",C68,,Not a paired site,Rai staging system,,,,Stage II,International Neuroblastoma Risk Group Staging System,,,,Stage IA
+SYNTH_02,DIAG_0027,DONOR_0027,Bronchus and lung,,,,Right,,,,,,Durie-Salmon staging system,,,,Stage I
+SYNTH_02,DIAG_0028,DONOR_0028,Colon,"{'month_interval': 0, 'day_interval': 0}",C62,,"Unilateral, side not specified",,,,,Stage IVAES,Ann Arbor staging system,,,,Stage IVB
+SYNTH_02,DIAG_0029,DONOR_0029,Skin,"{'month_interval': 0, 'day_interval': 0}",D01,Death certificate only,"Unilateral, side not specified",International Neuroblastoma Risk Group Staging System,,,,Stage 3,FIGO staging system,,,,Stage IA
+SYNTH_02,DIAG_0030,DONOR_0030,,"{'month_interval': 0, 'day_interval': 0}",,Clinical investigation,Not a paired site,FIGO staging system,,,,Stage IB,International Neuroblastoma Risk Group Staging System,,,,Occult Carcinoma
+SYNTH_02,DIAG_0031,DONOR_0031,Breast,"{'month_interval': 0, 'day_interval': 0}",C58,Specific tumour markers,Not a paired site,Rai staging system,,,,Stage I,,,,,Stage A
+SYNTH_02,DIAG_0032,DONOR_0032,Bronchus and lung,"{'month_interval': 0, 'day_interval': 0}",,,Left,,,,,Stage IIIC,AJCC 8th edition,T1mi,N3b,M1d(1),
+SYNTH_02,DIAG_0033,DONOR_0033,Colon,"{'month_interval': 0, 'day_interval': 0}",C07,,Midline,FIGO staging system,,,,Stage IAB,AJCC 6th edition,,N0(i+),M1a(0),Stage 0a
+SYNTH_02,DIAG_0034,DONOR_0034,Skin,"{'month_interval': 0, 'day_interval': 0}",C46,Unknown,Left,FIGO staging system,,,,Stage IA,FIGO staging system,,,,Stage IIIB
+SYNTH_02,DIAG_0035,DONOR_0035,,"{'month_interval': 0, 'day_interval': 0}",,Clinical investigation,Unknown,FIGO staging system,,,,Stage IB1,Revised International staging system (RISS),,,,Stage IIC
+SYNTH_02,DIAG_0036,DONOR_0036,Breast,"{'month_interval': 0, 'day_interval': 0}",,Clinical,Unknown,FIGO staging system,,,,Stage IIIB,AJCC 7th edition,T2a2,,M1c,Stage IIIB
+SYNTH_02,DIAG_0037,DONOR_0037,Bronchus and lung,"{'month_interval': 0, 'day_interval': 0}",C41,Death certificate only,Bilateral,International Neuroblastoma Risk Group Staging System,,,,Stage IIA1,SEER staging system,,,,Stage IIAE
+SYNTH_02,DIAG_0038,DONOR_0038,Colon,"{'month_interval': 0, 'day_interval': 0}",C30,Histology of a primary tumour,Left,AJCC 7th edition,,N0(i+),M1a(1),Stage IIEA,St Jude staging system,,,,Stage II
+SYNTH_02,DIAG_0039,DONOR_0039,Skin,"{'month_interval': 0, 'day_interval': 0}",C37,Histology of a primary tumour,Left,Ann Arbor staging system,,,,Stage IIE,Revised International staging system (RISS),,,,Stage IVA2
+SYNTH_02,DIAG_0040,DONOR_0040,,"{'month_interval': 0, 'day_interval': 0}",,Clinical investigation,,Durie-Salmon staging system,,,,Stage III,AJCC 8th edition,T4,N2a,M1,Stage IVS
+SYNTH_03,DIAG_0041,DONOR_0041,Breast,"{'month_interval': 0, 'day_interval': 0}",,Specific tumour markers,,FIGO staging system,,,,Stage IA,AJCC 7th edition,T2c,N1a,M1a(0),Stage IIIAE
+SYNTH_03,DIAG_0042,DONOR_0042,Bronchus and lung,,C29,Specific tumour markers,Midline,,,,,Distant,AJCC 7th edition,T4b,N2c,M1e,Stage IIAES
+SYNTH_03,DIAG_0043,DONOR_0043,Colon,"{'month_interval': 0, 'day_interval': 0}",C40,Unknown,Bilateral,AJCC 7th edition,T1a(m),N2,M1e,Stage IIEB,International Neuroblastoma Risk Group Staging System,,,,Stage A
+SYNTH_03,DIAG_0044,DONOR_0044,Skin,"{'month_interval': 0, 'day_interval': 0}",C77,,Not a paired site,,,,,Stage IIAS,Ann Arbor staging system,,,,Stage IIB
+SYNTH_03,DIAG_0045,DONOR_0045,,"{'month_interval': 0, 'day_interval': 0}",C01,Histology of a primary tumour,"Unilateral, side not specified",St Jude staging system,,,,Stage II,SEER staging system,,,,
+SYNTH_03,DIAG_0046,DONOR_0046,Breast,"{'month_interval': 0, 'day_interval': 0}",,,Midline,FIGO staging system,,,,Stage IAB,AJCC 6th edition,T2d,NX,,Stage 0
+SYNTH_03,DIAG_0047,DONOR_0047,Bronchus and lung,"{'month_interval': 0, 'day_interval': 0}",D41,Specific tumour markers,Left,SEER staging system,,,,Stage 1,AJCC 8th edition,T3b,N2c,M1b(0),Stage IVBS
+SYNTH_03,DIAG_0048,DONOR_0048,Colon,,C38,,Not a paired site,,,,,Stage IB2,AJCC 6th edition,T3a,N0(mol+),M0,Stage IVAE
+SYNTH_03,DIAG_0049,DONOR_0049,Skin,"{'month_interval': 0, 'day_interval': 0}",C77,Histology of a primary tumour,,AJCC 8th edition,Tis(DCIS),N2c,M1d,,Durie-Salmon staging system,,,,Stage I
+SYNTH_03,DIAG_0050,DONOR_0050,,"{'month_interval': 0, 'day_interval': 0}",C42,Death certificate only,,International Neuroblastoma Risk Group Staging System,,,,Occult Carcinoma,Rai staging system,,,,Stage IV
+SYNTH_03,DIAG_0051,DONOR_0051,Breast,"{'month_interval': 0, 'day_interval': 0}",,Cytology,Bilateral,International Neuroblastoma Staging System,,,,Stage II,FIGO staging system,,,,Stage IIA
+SYNTH_03,DIAG_0052,DONOR_0052,Bronchus and lung,"{'month_interval': 0, 'day_interval': 0}",,Specific tumour markers,Right,AJCC 7th edition,T2(s),N2b,,Stage IIIC,Lugano staging system,,,,Stage IE
+SYNTH_03,DIAG_0053,DONOR_0053,Colon,"{'month_interval': 0, 'day_interval': 0}",,Clinical investigation,Right,Rai staging system,,,,Stage III,AJCC 8th edition,,N0,M1d(0),Stage IVA
+SYNTH_03,DIAG_0054,DONOR_0054,Skin,"{'month_interval': 0, 'day_interval': 0}",,Clinical investigation,,SEER staging system,,,,,FIGO staging system,,,,Stage IVB
+SYNTH_03,DIAG_0055,DONOR_0055,,"{'month_interval': 0, 'day_interval': 0}",C50,Cytology,Left,AJCC 7th edition,T1d,N1b,,Stage L1,International Neuroblastoma Staging System,,,,Stage IVAS
+SYNTH_03,DIAG_0056,DONOR_0056,Breast,"{'month_interval': 0, 'day_interval': 0}",C29,Death certificate only,Not a paired site,Rai staging system,,,,Stage I,AJCC 6th edition,T1a,N1c,M1c(1),Stage IIB
+SYNTH_03,DIAG_0057,DONOR_0057,Bronchus and lung,"{'month_interval': 0, 'day_interval': 0}",,Clinical investigation,"Unilateral, side not specified",,,,,Stage IVES,Durie-Salmon staging system,,,,Stage III
+SYNTH_03,DIAG_0058,DONOR_0058,Colon,,D46,,"Unilateral, side not specified",,,,,Stage IIA1,AJCC 6th edition,T2a1,N3a,M1c(0),Stage IIIBE
+SYNTH_03,DIAG_0059,DONOR_0059,Skin,"{'month_interval': 0, 'day_interval': 0}",C81,Death certificate only,Right,Lugano staging system,,,,Stage I,,,,,Stage IAE
+SYNTH_03,DIAG_0060,DONOR_0060,,,C30,Death certificate only,Unknown,St Jude staging system,,,,Stage III,,,,,Stage IAE
+SYNTH_04,DIAG_0061,DONOR_0061,Breast,"{'month_interval': 0, 'day_interval': 0}",,Cytology,,Rai staging system,,,,Stage I,SEER staging system,,,,Stage IVS
+SYNTH_04,DIAG_0062,DONOR_0062,Bronchus and lung,"{'month_interval': 0, 'day_interval': 0}",C78,Death certificate only,Bilateral,,,,,Stage IEA,Rai staging system,,,,Stage 0
+SYNTH_04,DIAG_0063,DONOR_0063,Colon,"{'month_interval': 0, 'day_interval': 0}",,Histology of a primary tumour,,International Neuroblastoma Risk Group Staging System,,,,Stage 4,,,,,Stage 2A
+SYNTH_04,DIAG_0064,DONOR_0064,Skin,"{'month_interval': 0, 'day_interval': 0}",,Histology of a primary tumour,Unknown,Ann Arbor staging system,,,,Stage IVE,AJCC 8th edition,Tis pd,N1,M1a,Stage IV
+SYNTH_04,DIAG_0065,DONOR_0065,,"{'month_interval': 0, 'day_interval': 0}",C01,,Left,Rai staging system,,,,Stage IV,St Jude staging system,,,,Stage I
+SYNTH_04,DIAG_0066,DONOR_0066,Breast,"{'month_interval': 0, 'day_interval': 0}",C73,,,,,,,Stage IVBE,Lugano staging system,,,,Stage I
+SYNTH_04,DIAG_0067,DONOR_0067,Bronchus and lung,,C85,Specific tumour markers,Not a paired site,Binet staging system,,,,Stage C,International Neuroblastoma Risk Group Staging System,,,,Stage IBES
+SYNTH_04,DIAG_0068,DONOR_0068,Colon,"{'month_interval': 0, 'day_interval': 0}",D04,,Bilateral,Rai staging system,,,,Stage II,Binet staging system,,,,Stage C
+SYNTH_04,DIAG_0069,DONOR_0069,Skin,"{'month_interval': 0, 'day_interval': 0}",C86,Cytology,Unknown,Ann Arbor staging system,,,,Stage IIS,AJCC 6th edition,T4a(s),,M1d(0),Stage M
+SYNTH_04,DIAG_0070,DONOR_0070,,"{'month_interval': 0, 'day_interval': 0}",,Unknown,Unknown,AJCC 7th edition,T3c,NX,,Stage Ms,AJCC 8th edition,T1d,N3b,,Stage IBES
+SYNTH_04,DIAG_0071,DONOR_0071,Breast,"{'month_interval': 0, 'day_interval': 0}",,Clinical,Right,International Neuroblastoma Staging System,,,,Stage IVS,,,,,Stage IA
+SYNTH_04,DIAG_0072,DONOR_0072,Bronchus and lung,"{'month_interval': 0, 'day_interval': 0}",C09,,Right,Revised International staging system (RISS),,,,Stage IIIC1,International Neuroblastoma Staging System,,,,Stage II bulky
+SYNTH_04,DIAG_0073,DONOR_0073,Colon,"{'month_interval': 0, 'day_interval': 0}",C88,Histology of a metastasis,,,,,,Stage IE,Ann Arbor staging system,,,,Stage I
+SYNTH_04,DIAG_0074,DONOR_0074,Skin,"{'month_interval': 0, 'day_interval': 0}",D42,Cytology,Bilateral,Rai staging system,,,,Stage IV,,,,,Stage IVA1
+SYNTH_04,DIAG_0075,DONOR_0075,,"{'month_interval': 0, 'day_interval': 0}",D43,,Left,AJCC 7th edition,T1d,N0b (no biopsy),M1,,,,,,
+SYNTH_04,DIAG_0076,DONOR_0076,Breast,"{'month_interval': 0, 'day_interval': 0}",D01,Death certificate only,Unknown,AJCC 6th edition,,N3b,,,,,,,
+SYNTH_04,DIAG_0077,DONOR_0077,Bronchus and lung,"{'month_interval': 0, 'day_interval': 0}",,Histology of a primary tumour,Midline,Ann Arbor staging system,,,,Stage II,International Neuroblastoma Staging System,,,,In situ
+SYNTH_04,DIAG_0078,DONOR_0078,Colon,"{'month_interval': 0, 'day_interval': 0}",,,Midline,,,,,Stage IV,Lugano staging system,,,,Stage IB
+SYNTH_04,DIAG_0079,DONOR_0079,Skin,,C84,Unknown,"Unilateral, side not specified",International Neuroblastoma Risk Group Staging System,,,,Stage II,Rai staging system,,,,Stage I
+SYNTH_04,DIAG_0080,DONOR_0080,,"{'month_interval': 0, 'day_interval': 0}",C44,,,International Neuroblastoma Staging System,,,,Stage IIAE,,,,,
 SYNTH_01,DIAG_NULL_0001,DONOR_NULL_0001,,,,,,,,,,,,,,,
 SYNTH_01,DIAG_NULL_0002,DONOR_NULL_0002,,,,,,,,,,,,,,,
-SYNTH_01,DIAG_ALL_0001,DONOR_ALL_0001,Floor of mouth,"{'month_interval': 0, 'day_interval': 0}",C06.9,Clinical investigation,Bilateral,AJCC 6th edition,T4b(m),,M1e,Stage IAS,International Neuroblastoma Risk Group Staging System,,N0b,M1a(0),
-SYNTH_01,DIAG_ALL_0002,DONOR_ALL_0002,Floor of mouth,"{'month_interval': 0, 'day_interval': 0}",C06.9,Clinical investigation,Unknown,FIGO staging system,T1c,N2b,M1c,Stage IV,SEER staging system,T3a,N1b,M1d(1),Stage IIIBS
+SYNTH_01,DIAG_ALL_0001,DONOR_ALL_0001,Floor of mouth,"{'month_interval': 0, 'day_interval': 0}",C06.9,Unknown,Unknown,St Jude staging system,T1a2,N0(i+),M1b(1),Stage IIBES,Durie-Salmon staging system,T2b,N1b,M1b(1),Stage IIA1
+SYNTH_01,DIAG_ALL_0002,DONOR_ALL_0002,Floor of mouth,"{'month_interval': 0, 'day_interval': 0}",C06.9,Unknown,Bilateral,AJCC 7th edition,,N3c,M1b(0),,Rai staging system,T4d,N0(mol-),M1a(1),Stage A
