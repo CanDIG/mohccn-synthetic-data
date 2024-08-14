@@ -1,41 +1,41 @@
 program_id,submitter_donor_id,prior_malignancy,laterality_of_prior_malignancy,age_at_comorbidity_diagnosis,comorbidity_type_code,comorbidity_treatment_status,comorbidity_treatment
-SYNTH_01,DONOR_0011,Yes,Not applicable,30,C94,,structure
-SYNTH_01,DONOR_0012,Yes,Not applicable,40,C68,Yes,Hormone therapy
-SYNTH_01,DONOR_0013,Yes,Bilateral,48,C59,No,trip
-SYNTH_01,DONOR_0014,Unknown,,33,D68,Unknown,myself
-SYNTH_01,DONOR_0015,No,,13,D67,No,special
-SYNTH_01,DONOR_0016,No,,31,D51,Yes,view
-SYNTH_01,DONOR_0017,,,33,I78,Unknown,offer
-SYNTH_01,DONOR_0018,Yes,Left,45,D05,,there
-SYNTH_01,DONOR_0019,Yes,Not applicable,30,C30,Yes,Chemotherapy
-SYNTH_01,DONOR_0020,Yes,"Unilateral, Side not specified",13,C10,,stay
-SYNTH_02,DONOR_0031,Unknown,,13,D76,No,specific
-SYNTH_02,DONOR_0032,,,35,I93,Unknown,involve
-SYNTH_02,DONOR_0033,Yes,,15,C77,Unknown,security
-SYNTH_02,DONOR_0034,Unknown,,55,I53,Yes,only
-SYNTH_02,DONOR_0035,Unknown,,28,I11,Unknown,popular
-SYNTH_02,DONOR_0036,No,,32,I55,Unknown,talk
-SYNTH_02,DONOR_0037,No,,39,I40,No,ten
-SYNTH_02,DONOR_0038,Yes,Bilateral,12,C82,Unknown,political
-SYNTH_02,DONOR_0039,Yes,Right,46,C85,Unknown,make
-SYNTH_02,DONOR_0040,,,38,I98,,tend
-SYNTH_03,DONOR_0051,Yes,Unknown,40,C63,Unknown,sit
-SYNTH_03,DONOR_0052,Yes,Left,22,C88,Unknown,image
-SYNTH_03,DONOR_0053,No,,28,I44,,building
-SYNTH_03,DONOR_0054,,,46,I89,No,spring
-SYNTH_03,DONOR_0055,Unknown,,17,I20,Yes,free
-SYNTH_03,DONOR_0056,Yes,Midline,36,C56,,resource
-SYNTH_03,DONOR_0057,Yes,Left,52,C34,Yes,Radiation
-SYNTH_03,DONOR_0058,Yes,Right,12,,,feel
-SYNTH_03,DONOR_0059,,,40,I80,Unknown,station
-SYNTH_03,DONOR_0060,Yes,"Unilateral, Side not specified",29,C06,Unknown,any
-SYNTH_04,DONOR_0071,No,,29,I28,Unknown,college
-SYNTH_04,DONOR_0072,Yes,Bilateral,10,D45,,fire
-SYNTH_04,DONOR_0073,,,13,I94,,exactly
-SYNTH_04,DONOR_0074,Yes,Midline,23,,Unknown,similar
-SYNTH_04,DONOR_0075,Yes,Not applicable,16,D45,Yes,Radiation
-SYNTH_04,DONOR_0076,Yes,Not applicable,35,C80,,father
-SYNTH_04,DONOR_0077,Yes,,17,C41,Unknown,wait
-SYNTH_04,DONOR_0078,,,46,I11,Unknown,small
-SYNTH_04,DONOR_0079,Unknown,,30,D70,Yes,according
-SYNTH_04,DONOR_0080,Yes,,41,D50,Unknown,part
+SYNTH_01,DONOR_0011,Yes,,17,,Unknown,interesting
+SYNTH_01,DONOR_0012,No,,61,I29,No,instead
+SYNTH_01,DONOR_0013,Yes,,28,D73,No,agree
+SYNTH_01,DONOR_0014,,,30,I21,No,right
+SYNTH_01,DONOR_0015,Yes,Midline,25,,No,figure
+SYNTH_01,DONOR_0016,Yes,,40,I50,Unknown,last
+SYNTH_01,DONOR_0017,Unknown,,39,I51,Yes,war
+SYNTH_01,DONOR_0018,Yes,Not applicable,26,,,score
+SYNTH_01,DONOR_0019,Yes,Midline,39,,Yes,Radiation
+SYNTH_01,DONOR_0020,Yes,,34,D68,,early
+SYNTH_02,DONOR_0031,Yes,,26,I06,,at
+SYNTH_02,DONOR_0032,Yes,Right,38,,Unknown,order
+SYNTH_02,DONOR_0033,,,15,D72,Yes,with
+SYNTH_02,DONOR_0034,Yes,Unknown,24,D42,,can
+SYNTH_02,DONOR_0035,,,37,I92,,prevent
+SYNTH_02,DONOR_0036,Yes,"Unilateral, Side not specified",20,,Unknown,determine
+SYNTH_02,DONOR_0037,Yes,"Unilateral, Side not specified",34,C78,,learn
+SYNTH_02,DONOR_0038,No,,37,I16,No,word
+SYNTH_02,DONOR_0039,Yes,Midline,17,D37,Yes,Immunotherapy
+SYNTH_02,DONOR_0040,Yes,Bilateral,24,C54,No,prove
+SYNTH_03,DONOR_0051,Yes,Left,30,C89,No,production
+SYNTH_03,DONOR_0052,Yes,Bilateral,40,C36,Yes,Hormone therapy
+SYNTH_03,DONOR_0053,No,,26,I17,No,side
+SYNTH_03,DONOR_0054,Unknown,,75,I81,No,marriage
+SYNTH_03,DONOR_0055,,,14,I66,Yes,current
+SYNTH_03,DONOR_0056,Yes,Midline,11,C34,No,phone
+SYNTH_03,DONOR_0057,Yes,,13,C73,,throughout
+SYNTH_03,DONOR_0058,Yes,Not applicable,43,C22,No,peace
+SYNTH_03,DONOR_0059,Yes,Midline,37,,No,door
+SYNTH_03,DONOR_0060,,,18,I95,,bag
+SYNTH_04,DONOR_0071,Yes,Right,20,C19,Yes,Hormone therapy
+SYNTH_04,DONOR_0072,Yes,Unknown,17,C74,Unknown,expect
+SYNTH_04,DONOR_0073,Yes,,12,C27,Unknown,will
+SYNTH_04,DONOR_0074,Yes,,53,C20,,exactly
+SYNTH_04,DONOR_0075,Yes,Left,25,,Unknown,Democrat
+SYNTH_04,DONOR_0076,Unknown,,24,I48,Yes,join
+SYNTH_04,DONOR_0077,Yes,Bilateral,17,C73,,practice
+SYNTH_04,DONOR_0078,Yes,Midline,45,C30,Yes,Radiation
+SYNTH_04,DONOR_0079,Unknown,,46,I75,Yes,a
+SYNTH_04,DONOR_0080,No,,20,D77,No,care
