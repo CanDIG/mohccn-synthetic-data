@@ -81,7 +81,7 @@
         ]
     },
     {
-        "program_id": "SYNTH_02",
+        "program_id": "SYNTH_01",
         "genomic_file_id": "HG02102",
         "main": {
             "access_method": "file:////app/htsget_server/data/files/HG02102.vcf.gz",
