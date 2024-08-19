@@ -82,7 +82,7 @@
     },
     {
         "program_id": "SYNTH_01",
-        "genomic_file_id": "HG02102",
+        "genomic_file_id": "HG02102-all",
         "main": {
             "access_method": "file:////app/htsget_server/data/files/HG02102.vcf.gz",
             "name": "HG02102.vcf.gz"
@@ -100,6 +100,52 @@
             {
                 "genomic_file_sample_id": "HG02102",
                 "submitter_sample_id": "SAMPLE_ALL_0002"
+            }
+        ]
+    },
+    {
+        "program_id": "SYNTH_03",
+        "genomic_file_id": "HG02102-03",
+        "main": {
+            "access_method": "file:////app/htsget_server/data/files/HG02102.vcf.gz",
+            "name": "HG02102.vcf.gz"
+        },
+        "index": {
+            "access_method": "file:////app/htsget_server/data/files/HG02102.vcf.gz.tbi",
+            "name": "HG02102.vcf.gz.tbi"
+        },
+        "metadata": {
+            "sequence_type": "wgs",
+            "data_type": "variant",
+            "reference": "hg38"
+        },
+        "samples": [
+            {
+                "genomic_file_sample_id": "HG02102",
+                "submitter_sample_id": "SAMPLE_0190"
+            }
+        ]
+    },
+    {
+        "program_id": "SYNTH_01",
+        "genomic_file_id": "HG02102",
+        "main": {
+            "access_method": "file:////app/htsget_server/data/files/HG02102.vcf.gz",
+            "name": "HG02102.vcf.gz"
+        },
+        "index": {
+            "access_method": "file:////app/htsget_server/data/files/HG02102.vcf.gz.tbi",
+            "name": "HG02102.vcf.gz.tbi"
+        },
+        "metadata": {
+            "sequence_type": "wgs",
+            "data_type": "variant",
+            "reference": "hg38"
+        },
+        "samples": [
+            {
+                "genomic_file_sample_id": "HG02102",
+                "submitter_sample_id": "SAMPLE_0001"
             }
         ]
     },
