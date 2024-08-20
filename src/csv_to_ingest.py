@@ -56,9 +56,9 @@ def parse_args():
              " small)"
     )
     parser.add_argument('--sample',
-                        type=ranged_type(int, 1, 4999),
+                        type=ranged_type(int, 1, 2000),
                         required=False,
-                        help="Subsets the large dataset equally across the 10 programs based on the total number of "
+                        help="Subsets the large dataset equally across the 4 programs based on the total number of "
                              "donors specified. (There will also be the three extra custom donors)")
     parser.add_argument('--donors-per-program', '-dp',
                         type=ranged_type(int, 1, 500),
@@ -66,7 +66,7 @@ def parse_args():
                         help="Subsets the large dataset to the number of donors supplied in the argument. "
                              "--number-of-programs must also be specified.")
     parser.add_argument('--number-of-programs', '-np',
-                        type=ranged_type(int, 1, 10),
+                        type=ranged_type(int, 1, 4),
                         required='--donors-per-program' in sys.argv,
                         help="Subsets the large dataset to the number of programs supplied in the argument. "
                              "--donors-per-program must also be specified.")
