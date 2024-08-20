@@ -1,6 +1,6 @@
 program_id,submitter_donor_id,prior_malignancy,laterality_of_prior_malignancy,age_at_comorbidity_diagnosis,comorbidity_type_code,comorbidity_treatment_status,comorbidity_treatment
-SYNTH_01,DONOR_0004,Unknown,,51,I68,Yes,such
-SYNTH_01,DONOR_0005,No,,25,I03,Yes,would
-SYNTH_02,DONOR_0009,Yes,,18,D38,,seek
-SYNTH_02,DONOR_0010,Unknown,,29,D75,No,herself
-SYNTH_01,DONOR_ALL_0001,Yes,Unknown,42,D41,,me
+SYNTH_01,DONOR_0004,Yes,Not applicable,28,,Yes,Immunotherapy
+SYNTH_01,DONOR_0005,,,35,D60,Yes,attention
+SYNTH_02,DONOR_0009,Yes,Left,57,C27,Unknown,may
+SYNTH_02,DONOR_0010,Unknown,,25,I20,Yes,notice
+SYNTH_01,DONOR_ALL_0001,Yes,,34,D43,Yes,Hormone therapy
