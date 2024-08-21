@@ -51,14 +51,14 @@ def parse_args():
         '--size',
         type=str,
         default='s',
-        choices=['s', 'm', 'l'],
-        help="Size of the synthetic dataset to convert, options: 's' for small, 'm' for medium, 'l' for large (default:"
+        choices=['xs', 's', 'm', 'l'],
+        help="Size of the synthetic dataset to convert, options: 'xs' for extra small, 's' for small, 'm' for medium, 'l' for large (default:"
              " small)"
     )
     parser.add_argument('--sample',
-                        type=ranged_type(int, 1, 4999),
+                        type=ranged_type(int, 1, 1999),
                         required=False,
-                        help="Subsets the large dataset equally across the 10 programs based on the total number of "
+                        help="Subsets the large dataset equally across the 4 programs based on the total number of "
                              "donors specified. (There will also be the three extra custom donors)")
     parser.add_argument('--donors-per-program', '-dp',
                         type=ranged_type(int, 1, 500),
@@ -66,7 +66,7 @@ def parse_args():
                         help="Subsets the large dataset to the number of donors supplied in the argument. "
                              "--number-of-programs must also be specified.")
     parser.add_argument('--number-of-programs', '-np',
-                        type=ranged_type(int, 1, 10),
+                        type=ranged_type(int, 1, 4),
                         required='--donors-per-program' in sys.argv,
                         help="Subsets the large dataset to the number of programs supplied in the argument. "
                              "--donors-per-program must also be specified.")
@@ -77,11 +77,15 @@ def parse_args():
     args = parser.parse_args()
     return args
 
-
-def add_prefix_df(prefix: str, object_df: pd.DataFrame):
+def add_prefix_df(prefix: str, object_df: pd.DataFrame, file_name):
     """ Prepend all identifiers in a df with the specified prefix """
-    object_df.loc[:, object_df.columns.str.startswith('submitter_')] = (object_df.filter(regex="^submitter").
-                                                                        apply(lambda x: prefix + "-" + x))
+    if file_name == "Specimen.csv":
+        submitter_fields = ["submitter_specimen_id", "submitter_donor_id", "submitter_primary_diagnosis_id"]
+        object_df.loc[:, object_df.columns.str.startswith('submitter_')] = (object_df.filter(submitter_fields).
+                                                                            apply(lambda x: prefix + "-" + x))
+    else:
+        object_df.loc[:, object_df.columns.str.startswith('submitter_')] = (object_df.filter(regex="^submitter").
+                                                                            apply(lambda x: prefix + "-" + x))
     object_df.loc[:, object_df.columns.str.startswith('program_')] = (object_df.filter(items=["program_id"]).
                                                                       apply(lambda x: prefix + "-" + x))
     if 'reference_radiation_treatment_id' in object_df.columns:
@@ -109,17 +113,16 @@ def replace_identifiers(prefix: str, input_folder: str):
     output_folder = os.path.join(repo_dir, f"custom_dataset_csv-{prefix}", "raw_data")
     Path(output_folder).mkdir(parents=True, exist_ok=True)
     for file in file_list:
+        print(f"processing {file}")
         csv_df = pd.read_csv(f"{input_folder}/{file}")
-        csv_df = add_prefix_df(prefix, csv_df)
-        csv_df.to_csv(f"{output_folder}/{file}")
+        csv_df = add_prefix_df(prefix, csv_df, file)
+        csv_df.to_csv(f"{output_folder}/{file}", index=False)
     print(f"All identifiers prepended with {prefix}-.")
 
 
-def subsample_csv(donors_per_program: int, number_of_programs: int, extra_donors: int = 0, prefix: str = None):
-    # large dataset is 5000 donors and 10 programs + 3 additional custom donors
-    size = 'large'
+def subsample_csv(donors_per_program: int, number_of_programs: int, prefix: str = None, size: str = 'large'):
     repo_dir = os.path.dirname(os.path.dirname(__file__))
-    total_donors = (donors_per_program * number_of_programs) + extra_donors
+    total_donors = (donors_per_program * number_of_programs)
     csv_output_folder = os.path.join(repo_dir, f"custom_dataset_csv-{total_donors}", "raw_data")
     csv_input_folder = os.path.join(repo_dir, f"{size}_dataset_csv", "raw_data")
     Path(csv_output_folder).mkdir(parents=True, exist_ok=True)
@@ -130,18 +133,12 @@ def subsample_csv(donors_per_program: int, number_of_programs: int, extra_donors
     program_list = list(set(donor_df.program_id))
     program_list.sort()
     program_list = program_list[:number_of_programs]
-    custom_donors = ['DONOR_ALL_01', 'DONOR_ALL_02', 'DONOR_NULL']
     donor_df['donor_index'] = donor_df.groupby(['program_id']).cumcount()
+    donor_df = donor_df.loc[donor_df.donor_index < donors_per_program]
     subsampled_donor_df = donor_df.loc[donor_df.program_id.isin(program_list)]
-    subsampled_donor_df = subsampled_donor_df.loc[subsampled_donor_df.donor_index.isin(range(0, donors_per_program)) |
-                                                  subsampled_donor_df.submitter_donor_id.isin(custom_donors)]
-    extra_donors_df = donor_df.loc[donor_df.program_id.isin([donor_df.program_id[0]]) &
-                                   donor_df.donor_index.isin(range(donors_per_program,
-                                                                   donors_per_program + extra_donors))]
-    subsampled_donor_df = pd.concat([subsampled_donor_df, extra_donors_df]).drop(columns="donor_index")
     donor_list = list(subsampled_donor_df['submitter_donor_id'])
     if prefix:
-        subsampled_donor_df = add_prefix_df(prefix, subsampled_donor_df)
+        subsampled_donor_df = add_prefix_df(prefix, subsampled_donor_df, "Donor.json")
         subsampled_donor_df.to_csv(f"{csv_output_folder}/Donor.csv", index=False)
     else:
         subsampled_donor_df.to_csv(f"{csv_output_folder}/Donor.csv", index=False)
@@ -151,27 +148,34 @@ def subsample_csv(donors_per_program: int, number_of_programs: int, extra_donors
         else:
             csv_df = pd.read_csv(f"{csv_input_folder}/{file}")
             subsampled_csv = csv_df.loc[csv_df.submitter_donor_id.isin(donor_list)]
-            if prefix:
-                subsampled_csv = add_prefix_df(prefix, subsampled_csv)
-                subsampled_csv.to_csv(f"{csv_output_folder}/{file}", index=False)
+            if len(subsampled_csv.index) == 0:
+                continue
             else:
-                subsampled_csv.to_csv(f"{csv_output_folder}/{file}", index=False)
+                if prefix:
+                    subsampled_csv = add_prefix_df(prefix, subsampled_csv, file)
+                    subsampled_csv.to_csv(f"{csv_output_folder}/{file}", index=False)
+                else:
+                    subsampled_csv.to_csv(f"{csv_output_folder}/{file}", index=False)
     return csv_output_folder, program_list
 
 
 def main():
     args = parse_args()
-    size_mapping = {'s': 'small', 'm': 'medium', 'l': 'large'}
+    size_mapping = {'xs': 'extra_small', 's': 'small', 'm': 'medium', 'l': 'large'}
     repo_dir = os.path.dirname(os.path.dirname(__file__))
 
     if args.sample:
-        donors_per_program = int(args.sample / 10)
-        extra_donors = args.sample - (donors_per_program * 10)
+        donors_per_program = int(args.sample / 4)
+        if donors_per_program < 20:
+            size = size_mapping['s']
+        elif donors_per_program < 200:
+            size = size_mapping['m']
+        else:
+            size = size_mapping['l']
         sample_result = subsample_csv(donors_per_program=donors_per_program,
-                                                        number_of_programs=10, extra_donors=extra_donors,
-                                                        prefix=args.prefix)
+                                      number_of_programs=4, prefix=args.prefix,
+                                      size=size)
         dataset_path = Path(sample_result[0])
-        size = size_mapping['l']
         manifest_path = f"{repo_dir}/{size}_dataset_csv/"
         if args.prefix:
             with open(f"{repo_dir}/{size}_dataset_csv/genomic.json") as f:
@@ -181,11 +185,17 @@ def main():
             with open(f'{output_dir}/genomic.json', 'w+') as f:
                 json.dump(genomic_json, f, indent=4)
     elif args.donors_per_program:
-        size = size_mapping['l']
+        if args.donors_per_program < 20:
+            size = size_mapping['s']
+        elif args.donors_per_program < 200:
+            size = size_mapping['m']
+        else:
+            size = size_mapping['l']
+
         manifest_path = f"{repo_dir}/{size}_dataset_csv/"
         sample_result = subsample_csv(donors_per_program=args.donors_per_program,
                                       number_of_programs=args.number_of_programs,
-                                      prefix=args.prefix)
+                                      prefix=args.prefix, size = size)
         dataset_path = Path(sample_result[0])
         with open(f"{repo_dir}/{size}_dataset_csv/genomic.json") as f:
             genomic_json = json.load(f)

@@ -1,1006 +1,601 @@
 program_id,submitter_donor_id,prior_malignancy,laterality_of_prior_malignancy,age_at_comorbidity_diagnosis,comorbidity_type_code,comorbidity_treatment_status,comorbidity_treatment
-SYNTHETIC-1,DONOR_1,No,,37.0,C02.9,Unknown,Endoscopic therapy
-SYNTHETIC-1,DONOR_2,Unknown,,,C03.9,,Hormonal therapy
-SYNTHETIC-1,DONOR_3,Unknown,,56.0,C04.9,Unknown,Other targeting molecular therapy
-SYNTHETIC-1,DONOR_4,,,53.0,,,
-SYNTHETIC-1,DONOR_5,No,,39.0,C02.1,Unknown,Surgery
-SYNTHETIC-1,DONOR_6,Yes,Left,,C02.1,No,Other targeting molecular therapy
-SYNTHETIC-1,DONOR_7,No,,46.0,,,Stem cell transplant
-SYNTHETIC-1,DONOR_8,No,,60.0,C04.9,Yes,
-SYNTHETIC-1,DONOR_9,Unknown,,45.0,C15.9,No,Other targeting molecular therapy
-SYNTHETIC-1,DONOR_10,No,,50.0,C02.1,Yes,
-SYNTHETIC-1,DONOR_11,No,,56.0,C18.9,Unknown,Hormonal therapy
-SYNTHETIC-1,DONOR_12,Unknown,,44.0,C02.9,,Chemotherapy
-SYNTHETIC-1,DONOR_13,No,,35.0,C43.9,Yes,Chemotherapy
-SYNTHETIC-1,DONOR_14,Unknown,,47.0,C06.2,Yes,Hormonal therapy
-SYNTHETIC-1,DONOR_15,Unknown,,52.0,C43.9,No,
-SYNTHETIC-1,DONOR_16,Unknown,,58.0,C04.0,Yes,Chemotherapy
-SYNTHETIC-1,DONOR_17,Unknown,,,C34.9,Yes,Hormonal therapy
-SYNTHETIC-1,DONOR_18,Unknown,,52.0,C02.2,Yes,Ablation
-SYNTHETIC-1,DONOR_19,Yes,Not applicable,55.0,C02.9,Yes,No treatment
-SYNTHETIC-1,DONOR_20,,,37.0,C02.1,Yes,Endoscopic therapy
-SYNTHETIC-1,DONOR_21,No,,,C02.0,Unknown,
-SYNTHETIC-1,DONOR_22,Unknown,,48.0,C67.6,Unknown,Stem cell transplant
-SYNTHETIC-1,DONOR_23,Yes,Right,49.0,,,Other targeting molecular therapy
-SYNTHETIC-1,DONOR_24,Yes,"Unilateral, Side not specified",,C03.9,,
-SYNTHETIC-1,DONOR_25,Yes,Right,47.0,C04.9,No,Other targeting molecular therapy
-SYNTHETIC-1,DONOR_26,Unknown,,60.0,C02.0,,Photodynamic therapy
-SYNTHETIC-1,DONOR_27,Unknown,,50.0,C34.9,Yes,Chemotherapy
-SYNTHETIC-1,DONOR_28,Yes,Right,41.0,C04.9,Unknown,
-SYNTHETIC-1,DONOR_29,No,,,C06.2,Unknown,No treatment
-SYNTHETIC-1,DONOR_30,Yes,Midline,47.0,C04.0,Yes,Immunotherapy
-SYNTHETIC-1,DONOR_31,No,,50.0,C15.9,Unknown,Surgery
-SYNTHETIC-1,DONOR_32,Unknown,,36.0,C02.1,Unknown,Stem cell transplant
-SYNTHETIC-1,DONOR_33,Unknown,,,,No,Hormonal therapy
-SYNTHETIC-1,DONOR_34,Unknown,,35.0,C43.9,Yes,
-SYNTHETIC-1,DONOR_35,Yes,Not applicable,,C02.0,No,Endoscopic therapy
-SYNTHETIC-1,DONOR_36,Yes,Bilateral,52.0,C02.1,Yes,Photodynamic therapy
-SYNTHETIC-1,DONOR_37,Unknown,,47.0,C02.1,Unknown,Surgery
-SYNTHETIC-1,DONOR_38,No,,59.0,C34.9,No,
-SYNTHETIC-1,DONOR_39,No,,59.0,C15.9,No,
-SYNTHETIC-1,DONOR_40,Unknown,,48.0,,Unknown,Endoscopic therapy
-SYNTHETIC-1,DONOR_1,Yes,Bilateral,,C04.9,Unknown,No treatment
-SYNTHETIC-1,DONOR_2,,,57.0,C06.2,No,Endoscopic therapy
-SYNTHETIC-1,DONOR_3,Yes,Midline,41.0,C02.1,Unknown,
-SYNTHETIC-1,DONOR_4,,,58.0,C64.9,Yes,Photodynamic therapy
-SYNTHETIC-1,DONOR_5,No,,,C43.9,Yes,
-SYNTHETIC-1,DONOR_6,Yes,Not applicable,59.0,C02.1,Unknown,No treatment
-SYNTHETIC-1,DONOR_7,No,,56.0,C03.1,No,Photodynamic therapy
-SYNTHETIC-1,DONOR_8,Yes,Midline,49.0,C15.9,Yes,Immunotherapy
-SYNTHETIC-1,DONOR_9,Unknown,,52.0,C02.1,Yes,
-SYNTHETIC-1,DONOR_10,Yes,Left,48.0,C06.9,Unknown,Surgery
-SYNTHETIC-1,DONOR_11,Unknown,,42.0,C67.6,Yes,
-SYNTHETIC-1,DONOR_12,,,43.0,C34.9,No,Hormonal therapy
-SYNTHETIC-1,DONOR_13,Yes,,51.0,C64.9,,Other targeting molecular therapy
-SYNTHETIC-1,DONOR_14,Yes,Right,57.0,C64.9,Yes,Chemotherapy
-SYNTHETIC-1,DONOR_15,No,,59.0,C43.9,No,Photodynamic therapy
-SYNTHETIC-1,DONOR_16,Yes,Midline,60.0,C02.1,Unknown,Surgery
-SYNTHETIC-1,DONOR_17,Yes,Right,38.0,C34.9,Yes,Radiation therapy
-SYNTHETIC-1,DONOR_18,No,,42.0,C43.9,No,Endoscopic therapy
-SYNTHETIC-1,DONOR_19,Yes,,36.0,C34.9,No,Bone marrow transplant
-SYNTHETIC-1,DONOR_20,No,,39.0,C34.9,Yes,Immunotherapy
-SYNTHETIC-1,DONOR_21,No,,38.0,C67.6,Yes,Other targeting molecular therapy
-SYNTHETIC-1,DONOR_22,,,58.0,C64.9,Yes,No treatment
-SYNTHETIC-1,DONOR_23,Yes,Not applicable,39.0,,No,No treatment
-SYNTHETIC-1,DONOR_24,Yes,Midline,55.0,C02.9,No,Hormonal therapy
-SYNTHETIC-1,DONOR_25,Yes,,,C64.9,Yes,Bone marrow transplant
-SYNTHETIC-1,DONOR_26,Unknown,,45.0,C02.1,No,Ablation
-SYNTHETIC-1,DONOR_27,Yes,,55.0,,Yes,
-SYNTHETIC-1,DONOR_28,No,,55.0,C05.1,,No treatment
-SYNTHETIC-1,DONOR_29,,,43.0,C02.1,No,Surgery
-SYNTHETIC-1,DONOR_30,Yes,Not applicable,37.0,C43.9,Unknown,Hormonal therapy
-SYNTHETIC-1,DONOR_31,Yes,"Unilateral, Side not specified",45.0,C02.1,No,
-SYNTHETIC-1,DONOR_32,No,,36.0,C34.9,Unknown,Bone marrow transplant
-SYNTHETIC-1,DONOR_33,Unknown,,36.0,C04.9,No,
-SYNTHETIC-1,DONOR_34,Unknown,,36.0,C43.9,,Other targeting molecular therapy
-SYNTHETIC-1,DONOR_35,Unknown,,54.0,,Unknown,Bone marrow transplant
-SYNTHETIC-1,DONOR_36,Unknown,,53.0,C05.1,Unknown,Surgery
-SYNTHETIC-1,DONOR_37,Unknown,,37.0,C64.9,No,No treatment
-SYNTHETIC-1,DONOR_38,No,,36.0,,Yes,Surgery
-SYNTHETIC-1,DONOR_39,Yes,Midline,40.0,C06.2,No,No treatment
-SYNTHETIC-1,DONOR_40,Unknown,,52.0,C18.9,No,Bone marrow transplant
-SYNTHETIC-1,DONOR_1,No,,54.0,C02.1,No,Photodynamic therapy
-SYNTHETIC-1,DONOR_2,,,54.0,C06.2,No,Chemotherapy
-SYNTHETIC-1,DONOR_3,No,,35.0,C43.1,Yes,Hormonal therapy
-SYNTHETIC-1,DONOR_4,No,,47.0,C43.9,No,Surgery
-SYNTHETIC-1,DONOR_5,Unknown,,58.0,,No,Chemotherapy
-SYNTHETIC-1,DONOR_6,Unknown,,,C02.1,Yes,Stem cell transplant
-SYNTHETIC-1,DONOR_7,Unknown,,44.0,C34.9,Yes,
-SYNTHETIC-1,DONOR_8,Yes,Not applicable,56.0,C02.1,Yes,Immunotherapy
-SYNTHETIC-1,DONOR_9,Unknown,,46.0,,No,
-SYNTHETIC-1,DONOR_10,Unknown,,37.0,C02.2,No,
-SYNTHETIC-1,DONOR_11,Yes,,55.0,C02.1,Yes,Radiation therapy
-SYNTHETIC-1,DONOR_12,No,,53.0,C02.1,No,Immunotherapy
-SYNTHETIC-1,DONOR_13,No,,50.0,C02.0,No,Other targeting molecular therapy
-SYNTHETIC-1,DONOR_14,Unknown,,40.0,C18.9,No,Bone marrow transplant
-SYNTHETIC-1,DONOR_15,Yes,Left,,C43.9,Unknown,
-SYNTHETIC-1,DONOR_16,Yes,Unknown,59.0,C02.1,Yes,Photodynamic therapy
-SYNTHETIC-1,DONOR_17,Yes,"Unilateral, Side not specified",43.0,C43.9,No,
-SYNTHETIC-1,DONOR_18,Yes,"Unilateral, Side not specified",49.0,C02.1,Yes,Ablation
-SYNTHETIC-1,DONOR_19,Unknown,,41.0,C18.9,No,Immunotherapy
-SYNTHETIC-1,DONOR_20,Unknown,,36.0,C02.0,Unknown,Ablation
-SYNTHETIC-1,DONOR_21,No,,60.0,,Unknown,
-SYNTHETIC-1,DONOR_22,Yes,,53.0,C06.9,Yes,
-SYNTHETIC-1,DONOR_23,Unknown,,51.0,C02.9,Unknown,
-SYNTHETIC-1,DONOR_24,No,,49.0,C02.1,Yes,Immunotherapy
-SYNTHETIC-1,DONOR_25,Unknown,,60.0,C43.9,Yes,Surgery
-SYNTHETIC-1,DONOR_26,Yes,Right,60.0,C64.9,,Photodynamic therapy
-SYNTHETIC-1,DONOR_27,Unknown,,58.0,C06.9,Unknown,Chemotherapy
-SYNTHETIC-1,DONOR_28,No,,59.0,C04.0,No,Photodynamic therapy
-SYNTHETIC-1,DONOR_29,Unknown,,47.0,C34.9,Unknown,
-SYNTHETIC-1,DONOR_30,No,,59.0,C43.1,No,
-SYNTHETIC-1,DONOR_31,No,,59.0,C02.1,No,
-SYNTHETIC-1,DONOR_32,No,,45.0,C03.9,No,Hormonal therapy
-SYNTHETIC-1,DONOR_33,Yes,Not applicable,59.0,C43.1,No,No treatment
-SYNTHETIC-1,DONOR_34,Yes,Midline,54.0,C02.2,Yes,No treatment
-SYNTHETIC-1,DONOR_35,Yes,"Unilateral, Side not specified",45.0,C34.9,No,Bone marrow transplant
-SYNTHETIC-1,DONOR_36,No,,40.0,C43.9,Yes,Surgery
-SYNTHETIC-1,DONOR_37,Unknown,,,C02.1,Unknown,Immunotherapy
-SYNTHETIC-1,DONOR_38,Unknown,,57.0,C50.9,Unknown,
-SYNTHETIC-1,DONOR_39,,,35.0,C34.9,Yes,Immunotherapy
-SYNTHETIC-1,DONOR_40,No,,40.0,C02.1,Yes,Stem cell transplant
-SYNTHETIC-1,DONOR_1,No,,56.0,C02.1,Yes,Hormonal therapy
-SYNTHETIC-1,DONOR_2,No,,,,No,Other targeting molecular therapy
-SYNTHETIC-1,DONOR_3,No,,44.0,C43.1,No,Surgery
-SYNTHETIC-1,DONOR_4,No,,56.0,C02.1,Unknown,Chemotherapy
-SYNTHETIC-1,DONOR_5,Unknown,,41.0,C43.1,Yes,Photodynamic therapy
-SYNTHETIC-1,DONOR_6,No,,46.0,C43.9,Unknown,Hormonal therapy
-SYNTHETIC-1,DONOR_7,Unknown,,42.0,C04.9,Yes,Ablation
-SYNTHETIC-1,DONOR_8,,,38.0,C03.1,,Radiation therapy
-SYNTHETIC-1,DONOR_9,No,,36.0,C02.1,No,Endoscopic therapy
-SYNTHETIC-1,DONOR_10,,,44.0,C64.9,Yes,Chemotherapy
-SYNTHETIC-1,DONOR_11,Yes,Left,40.0,C02.1,Unknown,Hormonal therapy
-SYNTHETIC-1,DONOR_12,Unknown,,36.0,,No,
-SYNTHETIC-1,DONOR_13,Unknown,,,C43.9,No,
-SYNTHETIC-1,DONOR_14,No,,52.0,C02.1,No,Endoscopic therapy
-SYNTHETIC-1,DONOR_15,,,37.0,C43.9,Yes,Other targeting molecular therapy
-SYNTHETIC-1,DONOR_16,Unknown,,59.0,C02.0,Unknown,Hormonal therapy
-SYNTHETIC-1,DONOR_17,Unknown,,56.0,C03.9,Unknown,Immunotherapy
-SYNTHETIC-1,DONOR_18,Unknown,,49.0,C43.9,,Bone marrow transplant
-SYNTHETIC-1,DONOR_19,Yes,"Unilateral, Side not specified",57.0,,No,Surgery
-SYNTHETIC-1,DONOR_20,Yes,"Unilateral, Side not specified",35.0,C43.1,Yes,Endoscopic therapy
-SYNTHETIC-1,DONOR_21,Unknown,,46.0,C43.1,No,Chemotherapy
-SYNTHETIC-1,DONOR_22,Yes,Right,44.0,C06.9,Yes,No treatment
-SYNTHETIC-1,DONOR_23,No,,39.0,C67.6,Unknown,Stem cell transplant
-SYNTHETIC-1,DONOR_24,No,,,C34.9,Yes,Immunotherapy
-SYNTHETIC-1,DONOR_25,Yes,"Unilateral, Side not specified",49.0,C02.1,No,Other targeting molecular therapy
-SYNTHETIC-1,DONOR_26,,,54.0,C06.2,Unknown,Photodynamic therapy
-SYNTHETIC-1,DONOR_27,Unknown,,36.0,C43.9,Yes,Immunotherapy
-SYNTHETIC-1,DONOR_28,Yes,Unknown,,C02.1,,Stem cell transplant
-SYNTHETIC-1,DONOR_29,Unknown,,55.0,C02.9,,
-SYNTHETIC-1,DONOR_30,Yes,"Unilateral, Side not specified",55.0,C04.9,Unknown,Bone marrow transplant
-SYNTHETIC-1,DONOR_31,Unknown,,45.0,C43.1,No,Endoscopic therapy
-SYNTHETIC-1,DONOR_32,Yes,Bilateral,47.0,C15.9,Unknown,Other targeting molecular therapy
-SYNTHETIC-1,DONOR_33,No,,37.0,C43.1,,Immunotherapy
-SYNTHETIC-1,DONOR_34,,,57.0,C43.1,No,Other targeting molecular therapy
-SYNTHETIC-1,DONOR_35,Unknown,,52.0,C43.1,Unknown,
-SYNTHETIC-1,DONOR_36,Yes,Right,35.0,C04.0,Unknown,Photodynamic therapy
-SYNTHETIC-1,DONOR_37,Unknown,,51.0,C34.9,No,Chemotherapy
-SYNTHETIC-1,DONOR_38,Yes,Not applicable,58.0,C34.9,Unknown,Other targeting molecular therapy
-SYNTHETIC-1,DONOR_39,No,,,C05.1,Unknown,No treatment
-SYNTHETIC-1,DONOR_40,No,,56.0,C43.9,No,Radiation therapy
-SYNTHETIC-1,DONOR_1,No,,,C06.9,Yes,Bone marrow transplant
-SYNTHETIC-1,DONOR_2,No,,50.0,C64.9,No,
-SYNTHETIC-1,DONOR_3,Yes,,58.0,C15.9,Yes,No treatment
-SYNTHETIC-1,DONOR_4,No,,38.0,C02.1,,Other targeting molecular therapy
-SYNTHETIC-1,DONOR_5,No,,35.0,C02.9,Unknown,
-SYNTHETIC-1,DONOR_6,No,,44.0,C06.2,Unknown,Photodynamic therapy
-SYNTHETIC-1,DONOR_7,Yes,Midline,45.0,C05.1,Yes,Radiation therapy
-SYNTHETIC-1,DONOR_8,No,,60.0,C02.0,No,Ablation
-SYNTHETIC-1,DONOR_9,Yes,Midline,57.0,C03.1,Yes,Other targeting molecular therapy
-SYNTHETIC-1,DONOR_10,Unknown,,56.0,,No,Surgery
-SYNTHETIC-1,DONOR_11,Yes,Bilateral,42.0,C02.9,No,Bone marrow transplant
-SYNTHETIC-1,DONOR_12,No,,39.0,C34.9,Yes,Radiation therapy
-SYNTHETIC-1,DONOR_13,Yes,Bilateral,53.0,C03.1,Yes,No treatment
-SYNTHETIC-1,DONOR_14,No,,54.0,C05.1,No,Photodynamic therapy
-SYNTHETIC-1,DONOR_15,Yes,Not applicable,46.0,C02.1,No,
-SYNTHETIC-1,DONOR_16,No,,58.0,C43.9,Unknown,Photodynamic therapy
-SYNTHETIC-1,DONOR_17,Unknown,,53.0,C04.0,No,Chemotherapy
-SYNTHETIC-1,DONOR_18,Unknown,,42.0,C04.9,Unknown,No treatment
-SYNTHETIC-1,DONOR_19,Yes,Left,50.0,C43.9,No,Immunotherapy
-SYNTHETIC-1,DONOR_20,No,,,C43.9,No,Ablation
-SYNTHETIC-1,DONOR_21,Yes,,36.0,C43.9,Yes,Surgery
-SYNTHETIC-1,DONOR_22,Yes,Right,58.0,C43.9,Yes,Bone marrow transplant
-SYNTHETIC-1,DONOR_23,Yes,"Unilateral, Side not specified",,C67.6,No,Chemotherapy
-SYNTHETIC-1,DONOR_24,No,,38.0,C43.9,Unknown,Chemotherapy
-SYNTHETIC-1,DONOR_25,,,,C03.1,Yes,Photodynamic therapy
-SYNTHETIC-1,DONOR_26,No,,48.0,C67.6,No,No treatment
-SYNTHETIC-1,DONOR_27,No,,40.0,C43.1,Yes,Radiation therapy
-SYNTHETIC-1,DONOR_28,Yes,"Unilateral, Side not specified",51.0,C64.9,Yes,Bone marrow transplant
-SYNTHETIC-1,DONOR_29,Unknown,,49.0,C03.1,Yes,Surgery
-SYNTHETIC-1,DONOR_30,No,,43.0,C02.1,No,Surgery
-SYNTHETIC-1,DONOR_31,Yes,Midline,,C04.0,No,Other targeting molecular therapy
-SYNTHETIC-1,DONOR_32,Unknown,,54.0,,No,Other targeting molecular therapy
-SYNTHETIC-1,DONOR_33,Yes,Right,48.0,C43.9,,Photodynamic therapy
-SYNTHETIC-1,DONOR_34,No,,41.0,C43.9,Unknown,Stem cell transplant
-SYNTHETIC-1,DONOR_35,Unknown,,53.0,C02.9,No,Stem cell transplant
-SYNTHETIC-1,DONOR_36,No,,50.0,C43.9,Unknown,Radiation therapy
-SYNTHETIC-1,DONOR_37,Yes,Not applicable,40.0,C02.2,,
-SYNTHETIC-1,DONOR_38,Yes,Unknown,,C02.1,Yes,Immunotherapy
-SYNTHETIC-1,DONOR_39,Unknown,,55.0,C43.9,Yes,Other targeting molecular therapy
-SYNTHETIC-1,DONOR_40,Unknown,,47.0,,Yes,Immunotherapy
-SYNTHETIC-1,DONOR_1,No,,50.0,C18.9,No,Bone marrow transplant
-SYNTHETIC-1,DONOR_2,No,,44.0,C43.9,No,Endoscopic therapy
-SYNTHETIC-1,DONOR_3,Unknown,,37.0,C64.9,No,No treatment
-SYNTHETIC-1,DONOR_4,Unknown,,45.0,,Unknown,
-SYNTHETIC-1,DONOR_5,Yes,Midline,,C34.9,Unknown,Immunotherapy
-SYNTHETIC-1,DONOR_6,Unknown,,,C43.9,,Chemotherapy
-SYNTHETIC-1,DONOR_7,,,59.0,C43.9,Yes,Other targeting molecular therapy
-SYNTHETIC-1,DONOR_8,Unknown,,56.0,C02.1,Yes,No treatment
-SYNTHETIC-1,DONOR_9,Unknown,,41.0,C04.0,No,Other targeting molecular therapy
-SYNTHETIC-1,DONOR_10,No,,,C67.6,Unknown,Endoscopic therapy
-SYNTHETIC-1,DONOR_11,Yes,Not applicable,,C06.2,Yes,Stem cell transplant
-SYNTHETIC-1,DONOR_12,Unknown,,,C02.1,Unknown,Other targeting molecular therapy
-SYNTHETIC-1,DONOR_13,Unknown,,37.0,C67.6,,Stem cell transplant
-SYNTHETIC-1,DONOR_14,Yes,"Unilateral, Side not specified",57.0,C03.9,,No treatment
-SYNTHETIC-1,DONOR_15,Unknown,,44.0,C43.9,,
-SYNTHETIC-1,DONOR_16,No,,49.0,C02.1,No,Other targeting molecular therapy
-SYNTHETIC-1,DONOR_17,Unknown,,47.0,,Yes,
-SYNTHETIC-1,DONOR_18,No,,43.0,C34.9,,Hormonal therapy
-SYNTHETIC-1,DONOR_19,Yes,"Unilateral, Side not specified",56.0,C06.9,Unknown,Ablation
-SYNTHETIC-1,DONOR_20,,,,C43.9,Unknown,
-SYNTHETIC-1,DONOR_21,Unknown,,56.0,C02.1,,Ablation
-SYNTHETIC-1,DONOR_22,No,,,,Yes,
-SYNTHETIC-1,DONOR_23,Yes,Unknown,55.0,C67.6,Yes,Stem cell transplant
-SYNTHETIC-1,DONOR_24,No,,51.0,C06.2,No,Endoscopic therapy
-SYNTHETIC-1,DONOR_25,Yes,"Unilateral, Side not specified",50.0,C02.1,Yes,Radiation therapy
-SYNTHETIC-1,DONOR_26,Yes,"Unilateral, Side not specified",55.0,C06.9,No,Ablation
-SYNTHETIC-1,DONOR_27,Unknown,,55.0,,Unknown,Radiation therapy
-SYNTHETIC-1,DONOR_28,,,57.0,C43.9,Yes,
-SYNTHETIC-1,DONOR_29,Unknown,,52.0,C02.1,Yes,
-SYNTHETIC-1,DONOR_30,Yes,Left,41.0,,Yes,Bone marrow transplant
-SYNTHETIC-1,DONOR_31,No,,44.0,C50.9,,Hormonal therapy
-SYNTHETIC-1,DONOR_32,,,39.0,,Unknown,Chemotherapy
-SYNTHETIC-1,DONOR_33,Yes,Right,53.0,C02.1,No,Ablation
-SYNTHETIC-1,DONOR_34,Yes,"Unilateral, Side not specified",56.0,C02.1,Yes,Chemotherapy
-SYNTHETIC-1,DONOR_35,Unknown,,,C02.1,Unknown,Other targeting molecular therapy
-SYNTHETIC-1,DONOR_36,Unknown,,45.0,,Unknown,Bone marrow transplant
-SYNTHETIC-1,DONOR_37,No,,36.0,C18.9,Yes,No treatment
-SYNTHETIC-1,DONOR_38,Unknown,,56.0,C43.9,Yes,Stem cell transplant
-SYNTHETIC-1,DONOR_39,Yes,Not applicable,,C06.2,No,Bone marrow transplant
-SYNTHETIC-1,DONOR_40,Unknown,,46.0,,No,Photodynamic therapy
-SYNTHETIC-1,DONOR_1,Yes,Bilateral,,C06.9,Unknown,Photodynamic therapy
-SYNTHETIC-1,DONOR_2,No,,,C02.9,No,
-SYNTHETIC-1,DONOR_3,Unknown,,43.0,C34.9,Unknown,Other targeting molecular therapy
-SYNTHETIC-1,DONOR_4,Unknown,,51.0,C02.1,No,Photodynamic therapy
-SYNTHETIC-1,DONOR_5,Unknown,,40.0,C03.9,Unknown,Ablation
-SYNTHETIC-1,DONOR_6,No,,52.0,C05.1,,Photodynamic therapy
-SYNTHETIC-1,DONOR_7,No,,53.0,C02.1,Yes,Other targeting molecular therapy
-SYNTHETIC-1,DONOR_8,Unknown,,44.0,C02.1,Unknown,No treatment
-SYNTHETIC-1,DONOR_9,Unknown,,45.0,,Yes,Chemotherapy
-SYNTHETIC-1,DONOR_10,Unknown,,43.0,C06.9,Unknown,Endoscopic therapy
-SYNTHETIC-1,DONOR_11,Yes,Unknown,41.0,C67.6,,Photodynamic therapy
-SYNTHETIC-1,DONOR_12,Unknown,,50.0,,Yes,Hormonal therapy
-SYNTHETIC-1,DONOR_13,,,47.0,C02.1,Unknown,Endoscopic therapy
-SYNTHETIC-1,DONOR_14,Unknown,,57.0,C04.9,Yes,Surgery
-SYNTHETIC-1,DONOR_15,,,50.0,,Unknown,Surgery
-SYNTHETIC-1,DONOR_16,No,,47.0,C02.1,Unknown,Hormonal therapy
-SYNTHETIC-1,DONOR_17,Yes,,48.0,C04.9,Unknown,Surgery
-SYNTHETIC-1,DONOR_18,No,,42.0,C02.9,Unknown,Hormonal therapy
-SYNTHETIC-1,DONOR_19,No,,55.0,,Yes,Radiation therapy
-SYNTHETIC-1,DONOR_20,Unknown,,41.0,,No,
-SYNTHETIC-1,DONOR_21,Yes,Not applicable,46.0,C43.9,,Immunotherapy
-SYNTHETIC-1,DONOR_22,Yes,Left,50.0,C02.9,No,Endoscopic therapy
-SYNTHETIC-1,DONOR_23,No,,56.0,C43.9,Yes,Chemotherapy
-SYNTHETIC-1,DONOR_24,No,,37.0,C64.9,No,Bone marrow transplant
-SYNTHETIC-1,DONOR_25,,,50.0,C43.9,Unknown,
-SYNTHETIC-1,DONOR_26,Yes,"Unilateral, Side not specified",46.0,C34.9,No,Hormonal therapy
-SYNTHETIC-1,DONOR_27,Unknown,,49.0,C34.9,Unknown,Other targeting molecular therapy
-SYNTHETIC-1,DONOR_28,No,,54.0,C34.9,Yes,Bone marrow transplant
-SYNTHETIC-1,DONOR_29,Yes,Unknown,,C02.9,Unknown,Chemotherapy
-SYNTHETIC-1,DONOR_30,No,,46.0,C03.9,No,Immunotherapy
-SYNTHETIC-1,DONOR_31,Unknown,,44.0,C03.9,Unknown,Ablation
-SYNTHETIC-1,DONOR_32,,,49.0,C43.9,No,Other targeting molecular therapy
-SYNTHETIC-1,DONOR_33,Yes,Not applicable,57.0,C43.9,No,Other targeting molecular therapy
-SYNTHETIC-1,DONOR_34,Unknown,,51.0,C34.9,Yes,Bone marrow transplant
-SYNTHETIC-1,DONOR_35,Unknown,,35.0,C05.1,,Other targeting molecular therapy
-SYNTHETIC-1,DONOR_36,No,,45.0,C02.1,Unknown,Chemotherapy
-SYNTHETIC-1,DONOR_37,Unknown,,51.0,C03.1,Unknown,Endoscopic therapy
-SYNTHETIC-1,DONOR_38,Yes,Unknown,,,Yes,Surgery
-SYNTHETIC-1,DONOR_39,No,,44.0,C43.9,Unknown,No treatment
-SYNTHETIC-1,DONOR_40,Unknown,,52.0,C02.9,Unknown,
-SYNTHETIC-1,DONOR_1,Yes,Not applicable,55.0,,No,Stem cell transplant
-SYNTHETIC-1,DONOR_2,Unknown,,40.0,C02.1,Yes,Photodynamic therapy
-SYNTHETIC-1,DONOR_3,Unknown,,46.0,C02.1,,Photodynamic therapy
-SYNTHETIC-1,DONOR_4,No,,53.0,C05.1,Yes,Surgery
-SYNTHETIC-1,DONOR_5,Unknown,,35.0,C05.1,,Surgery
-SYNTHETIC-1,DONOR_6,Yes,Left,41.0,C02.1,Yes,
-SYNTHETIC-1,DONOR_7,,,56.0,,,Other targeting molecular therapy
-SYNTHETIC-1,DONOR_8,Unknown,,,C06.2,No,
-SYNTHETIC-1,DONOR_9,Unknown,,38.0,C64.9,Unknown,Radiation therapy
-SYNTHETIC-1,DONOR_10,,,48.0,C34.9,Yes,Endoscopic therapy
-SYNTHETIC-1,DONOR_11,Yes,Unknown,54.0,C04.9,No,Surgery
-SYNTHETIC-1,DONOR_12,,,60.0,C43.9,Yes,Other targeting molecular therapy
-SYNTHETIC-1,DONOR_13,No,,50.0,C43.9,Unknown,Immunotherapy
-SYNTHETIC-1,DONOR_14,No,,45.0,C06.2,Unknown,No treatment
-SYNTHETIC-1,DONOR_15,Unknown,,50.0,C64.9,,Surgery
-SYNTHETIC-1,DONOR_16,,,,C64.9,No,
-SYNTHETIC-1,DONOR_17,,,51.0,,,Photodynamic therapy
-SYNTHETIC-1,DONOR_18,Yes,Unknown,50.0,C02.0,Unknown,
-SYNTHETIC-1,DONOR_19,Yes,Unknown,42.0,C05.1,Yes,
-SYNTHETIC-1,DONOR_20,Yes,Not applicable,41.0,,Yes,Photodynamic therapy
-SYNTHETIC-1,DONOR_21,No,,,C05.1,Unknown,Chemotherapy
-SYNTHETIC-1,DONOR_22,Unknown,,52.0,C43.9,,Photodynamic therapy
-SYNTHETIC-1,DONOR_23,Unknown,,,C43.9,Yes,Hormonal therapy
-SYNTHETIC-1,DONOR_24,,,41.0,,Unknown,
-SYNTHETIC-1,DONOR_25,Unknown,,40.0,C43.9,,Photodynamic therapy
-SYNTHETIC-1,DONOR_26,Unknown,,60.0,C18.9,Yes,
-SYNTHETIC-1,DONOR_27,Unknown,,,C67.6,No,Radiation therapy
-SYNTHETIC-1,DONOR_28,Unknown,,45.0,C43.9,No,
-SYNTHETIC-1,DONOR_29,Yes,"Unilateral, Side not specified",37.0,C43.9,Yes,Hormonal therapy
-SYNTHETIC-1,DONOR_30,Unknown,,59.0,C02.1,No,Radiation therapy
-SYNTHETIC-1,DONOR_31,Yes,Right,45.0,C02.1,Unknown,Surgery
-SYNTHETIC-1,DONOR_32,Yes,Unknown,56.0,C67.6,,Immunotherapy
-SYNTHETIC-1,DONOR_33,No,,60.0,,Yes,Endoscopic therapy
-SYNTHETIC-1,DONOR_34,Unknown,,55.0,C03.9,Yes,Hormonal therapy
-SYNTHETIC-1,DONOR_35,Unknown,,54.0,,No,Photodynamic therapy
-SYNTHETIC-1,DONOR_36,Yes,Unknown,59.0,,Yes,Ablation
-SYNTHETIC-1,DONOR_37,No,,42.0,C43.9,Unknown,Ablation
-SYNTHETIC-1,DONOR_38,No,,,C34.9,No,
-SYNTHETIC-1,DONOR_39,,,47.0,C04.9,Unknown,Other targeting molecular therapy
-SYNTHETIC-1,DONOR_40,,,42.0,,,No treatment
-SYNTHETIC-1,DONOR_1,No,,57.0,C02.1,Unknown,
-SYNTHETIC-1,DONOR_2,Yes,Left,37.0,C05.1,,
-SYNTHETIC-1,DONOR_3,Unknown,,,C50.9,Yes,Other targeting molecular therapy
-SYNTHETIC-1,DONOR_4,Unknown,,40.0,C43.9,No,Chemotherapy
-SYNTHETIC-1,DONOR_5,Unknown,,39.0,C64.9,No,Chemotherapy
-SYNTHETIC-1,DONOR_6,No,,42.0,,No,Endoscopic therapy
-SYNTHETIC-1,DONOR_7,No,,57.0,,,Endoscopic therapy
-SYNTHETIC-1,DONOR_8,,,58.0,C02.9,Unknown,Hormonal therapy
-SYNTHETIC-1,DONOR_9,Unknown,,47.0,C43.9,Yes,Surgery
-SYNTHETIC-1,DONOR_10,Unknown,,39.0,C02.1,Yes,Photodynamic therapy
-SYNTHETIC-1,DONOR_11,Yes,Midline,58.0,C02.1,Unknown,Radiation therapy
-SYNTHETIC-1,DONOR_12,No,,40.0,C04.9,Unknown,
-SYNTHETIC-1,DONOR_13,No,,40.0,,Unknown,Bone marrow transplant
-SYNTHETIC-1,DONOR_14,Yes,"Unilateral, Side not specified",,C64.9,,Endoscopic therapy
-SYNTHETIC-1,DONOR_15,Yes,Midline,42.0,C64.9,Unknown,Ablation
-SYNTHETIC-1,DONOR_16,No,,43.0,C02.0,Unknown,Immunotherapy
-SYNTHETIC-1,DONOR_17,Yes,Not applicable,51.0,,Yes,Ablation
-SYNTHETIC-1,DONOR_18,Yes,Left,44.0,C43.9,Yes,Immunotherapy
-SYNTHETIC-1,DONOR_19,Yes,Midline,46.0,C03.1,Yes,Endoscopic therapy
-SYNTHETIC-1,DONOR_20,Unknown,,54.0,C43.9,Yes,Hormonal therapy
-SYNTHETIC-1,DONOR_21,Yes,Midline,38.0,C02.0,Unknown,Ablation
-SYNTHETIC-1,DONOR_22,Unknown,,60.0,C18.9,No,Radiation therapy
-SYNTHETIC-1,DONOR_23,No,,38.0,C05.1,Yes,Ablation
-SYNTHETIC-1,DONOR_24,Yes,Midline,50.0,C02.1,No,Immunotherapy
-SYNTHETIC-1,DONOR_25,Yes,Midline,35.0,C02.1,Unknown,Ablation
-SYNTHETIC-1,DONOR_26,No,,50.0,C04.9,No,Stem cell transplant
-SYNTHETIC-1,DONOR_27,Unknown,,39.0,C34.9,Unknown,Bone marrow transplant
-SYNTHETIC-1,DONOR_28,No,,40.0,C02.1,No,
-SYNTHETIC-1,DONOR_29,Unknown,,46.0,C04.0,Unknown,Photodynamic therapy
-SYNTHETIC-1,DONOR_30,Unknown,,49.0,C43.9,No,Hormonal therapy
-SYNTHETIC-1,DONOR_31,Yes,Right,38.0,,,Immunotherapy
-SYNTHETIC-1,DONOR_32,Unknown,,,C06.9,Unknown,Stem cell transplant
-SYNTHETIC-1,DONOR_33,No,,38.0,C67.6,No,No treatment
-SYNTHETIC-1,DONOR_34,Unknown,,60.0,,,Ablation
-SYNTHETIC-1,DONOR_35,No,,47.0,C43.9,Yes,Photodynamic therapy
-SYNTHETIC-1,DONOR_36,Unknown,,56.0,C15.9,Unknown,Radiation therapy
-SYNTHETIC-1,DONOR_37,Yes,"Unilateral, Side not specified",60.0,C02.1,Yes,
-SYNTHETIC-1,DONOR_38,No,,48.0,C04.9,No,Chemotherapy
-SYNTHETIC-1,DONOR_39,Yes,Not applicable,46.0,,Unknown,No treatment
-SYNTHETIC-1,DONOR_40,No,,,C34.9,No,Immunotherapy
-SYNTHETIC-1,DONOR_1,Unknown,,57.0,C04.9,No,
-SYNTHETIC-1,DONOR_2,,,37.0,C02.0,No,Photodynamic therapy
-SYNTHETIC-1,DONOR_3,Unknown,,53.0,C02.1,Yes,Bone marrow transplant
-SYNTHETIC-1,DONOR_4,Unknown,,52.0,C04.9,Unknown,Surgery
-SYNTHETIC-1,DONOR_5,Yes,Bilateral,48.0,C34.9,No,Photodynamic therapy
-SYNTHETIC-1,DONOR_6,Unknown,,37.0,C04.9,Unknown,No treatment
-SYNTHETIC-1,DONOR_7,Unknown,,43.0,C43.9,Unknown,
-SYNTHETIC-1,DONOR_8,Yes,Not applicable,39.0,C02.9,,Chemotherapy
-SYNTHETIC-1,DONOR_9,No,,40.0,C67.6,,Bone marrow transplant
-SYNTHETIC-1,DONOR_10,No,,59.0,C04.0,,
-SYNTHETIC-1,DONOR_11,Yes,Bilateral,59.0,C04.9,Unknown,
-SYNTHETIC-1,DONOR_12,No,,51.0,C43.1,Unknown,Ablation
-SYNTHETIC-1,DONOR_13,Unknown,,,C03.9,Unknown,No treatment
-SYNTHETIC-1,DONOR_14,Unknown,,41.0,C02.2,,
-SYNTHETIC-1,DONOR_15,Unknown,,38.0,C43.9,No,Radiation therapy
-SYNTHETIC-1,DONOR_16,Unknown,,60.0,,Unknown,Endoscopic therapy
-SYNTHETIC-1,DONOR_17,Yes,"Unilateral, Side not specified",35.0,C02.1,No,Immunotherapy
-SYNTHETIC-1,DONOR_18,No,,48.0,C43.9,Unknown,Endoscopic therapy
-SYNTHETIC-1,DONOR_19,Unknown,,41.0,C03.9,Unknown,
-SYNTHETIC-1,DONOR_20,Yes,Left,,C02.1,Yes,No treatment
-SYNTHETIC-1,DONOR_21,Yes,Bilateral,,C02.1,Yes,Hormonal therapy
-SYNTHETIC-1,DONOR_22,Unknown,,58.0,C02.0,,Endoscopic therapy
-SYNTHETIC-1,DONOR_23,No,,41.0,C43.9,Yes,Surgery
-SYNTHETIC-1,DONOR_24,No,,57.0,C34.9,No,Endoscopic therapy
-SYNTHETIC-1,DONOR_25,,,51.0,,,Photodynamic therapy
-SYNTHETIC-1,DONOR_26,No,,,,No,Surgery
-SYNTHETIC-1,DONOR_27,Unknown,,37.0,C43.9,Unknown,Chemotherapy
-SYNTHETIC-1,DONOR_28,Unknown,,50.0,C43.9,Unknown,Radiation therapy
-SYNTHETIC-1,DONOR_29,Yes,Bilateral,48.0,C02.0,Unknown,Ablation
-SYNTHETIC-1,DONOR_30,Yes,Midline,51.0,C02.1,No,Stem cell transplant
-SYNTHETIC-1,DONOR_31,Yes,Unknown,59.0,C34.9,No,Photodynamic therapy
-SYNTHETIC-1,DONOR_32,Unknown,,,C67.6,Yes,
-SYNTHETIC-1,DONOR_33,Yes,Not applicable,47.0,C05.1,No,Bone marrow transplant
-SYNTHETIC-1,DONOR_34,No,,39.0,C05.1,No,Stem cell transplant
-SYNTHETIC-1,DONOR_35,Yes,Midline,55.0,C34.9,No,Chemotherapy
-SYNTHETIC-1,DONOR_36,Unknown,,35.0,C34.9,Yes,Chemotherapy
-SYNTHETIC-1,DONOR_37,,,58.0,C43.1,Unknown,Radiation therapy
-SYNTHETIC-1,DONOR_38,Yes,"Unilateral, Side not specified",,C02.1,,Chemotherapy
-SYNTHETIC-1,DONOR_39,Unknown,,47.0,C03.1,No,Bone marrow transplant
-SYNTHETIC-1,DONOR_40,Unknown,,60.0,C04.0,Yes,Stem cell transplant
-SYNTHETIC-1,DONOR_1,No,,52.0,C67.6,Yes,Ablation
-SYNTHETIC-1,DONOR_2,No,,47.0,C04.0,,No treatment
-SYNTHETIC-1,DONOR_3,,,54.0,C04.0,Unknown,Endoscopic therapy
-SYNTHETIC-1,DONOR_4,No,,42.0,C43.9,Yes,Stem cell transplant
-SYNTHETIC-1,DONOR_5,,,37.0,C43.1,Unknown,Ablation
-SYNTHETIC-1,DONOR_6,No,,56.0,,,Radiation therapy
-SYNTHETIC-1,DONOR_7,No,,,C04.0,Yes,Other targeting molecular therapy
-SYNTHETIC-1,DONOR_8,Unknown,,46.0,C02.1,No,Surgery
-SYNTHETIC-1,DONOR_9,Unknown,,,C02.1,,Radiation therapy
-SYNTHETIC-1,DONOR_10,Yes,Not applicable,36.0,,Unknown,Ablation
-SYNTHETIC-1,DONOR_11,No,,,C15.9,No,
-SYNTHETIC-1,DONOR_12,Unknown,,36.0,C02.1,Yes,Endoscopic therapy
-SYNTHETIC-1,DONOR_13,No,,52.0,C03.1,Unknown,Chemotherapy
-SYNTHETIC-1,DONOR_14,Yes,Not applicable,51.0,C04.0,No,Chemotherapy
-SYNTHETIC-1,DONOR_15,Unknown,,39.0,C04.9,No,No treatment
-SYNTHETIC-1,DONOR_16,Unknown,,41.0,C02.1,Yes,
-SYNTHETIC-1,DONOR_17,No,,53.0,C67.6,Yes,
-SYNTHETIC-1,DONOR_18,Yes,Left,40.0,C43.9,Unknown,Photodynamic therapy
-SYNTHETIC-1,DONOR_19,No,,58.0,C06.2,Unknown,Stem cell transplant
-SYNTHETIC-1,DONOR_20,Unknown,,,C02.1,No,Stem cell transplant
-SYNTHETIC-1,DONOR_21,No,,47.0,C34.9,Yes,Other targeting molecular therapy
-SYNTHETIC-1,DONOR_22,Yes,Unknown,56.0,C02.2,Yes,Endoscopic therapy
-SYNTHETIC-1,DONOR_23,Unknown,,43.0,C06.9,Yes,Immunotherapy
-SYNTHETIC-1,DONOR_24,Yes,,46.0,C04.9,Yes,No treatment
-SYNTHETIC-1,DONOR_25,Unknown,,51.0,C04.0,Unknown,Chemotherapy
-SYNTHETIC-1,DONOR_26,Unknown,,49.0,C02.9,No,Bone marrow transplant
-SYNTHETIC-1,DONOR_27,Yes,,43.0,C02.1,No,Endoscopic therapy
-SYNTHETIC-1,DONOR_28,No,,46.0,C64.9,No,Stem cell transplant
-SYNTHETIC-1,DONOR_29,No,,35.0,C02.0,Unknown,Stem cell transplant
-SYNTHETIC-1,DONOR_30,Unknown,,51.0,,Unknown,
-SYNTHETIC-1,DONOR_31,Yes,,42.0,C18.9,No,Immunotherapy
-SYNTHETIC-1,DONOR_32,No,,53.0,C67.6,Yes,Photodynamic therapy
-SYNTHETIC-1,DONOR_33,Unknown,,59.0,C43.9,Yes,Stem cell transplant
-SYNTHETIC-1,DONOR_34,Unknown,,48.0,C03.1,No,Endoscopic therapy
-SYNTHETIC-1,DONOR_35,No,,55.0,C04.0,Unknown,No treatment
-SYNTHETIC-1,DONOR_36,Yes,Unknown,45.0,C43.1,No,Endoscopic therapy
-SYNTHETIC-1,DONOR_37,Unknown,,55.0,C02.9,Unknown,Photodynamic therapy
-SYNTHETIC-1,DONOR_38,Yes,Right,55.0,C67.6,Yes,
-SYNTHETIC-1,DONOR_39,No,,60.0,C02.2,Unknown,Radiation therapy
-SYNTHETIC-1,DONOR_40,Unknown,,50.0,C02.1,No,
-SYNTHETIC-1,DONOR_1,No,,35.0,C50.9,Yes,
-SYNTHETIC-1,DONOR_2,,,38.0,C02.2,No,
-SYNTHETIC-1,DONOR_3,Yes,,44.0,C43.9,Unknown,Hormonal therapy
-SYNTHETIC-1,DONOR_4,Unknown,,51.0,,Yes,Chemotherapy
-SYNTHETIC-1,DONOR_5,No,,42.0,C43.1,,Bone marrow transplant
-SYNTHETIC-1,DONOR_6,Unknown,,42.0,C15.9,Yes,Endoscopic therapy
-SYNTHETIC-1,DONOR_7,No,,,C02.0,Unknown,Radiation therapy
-SYNTHETIC-1,DONOR_8,Yes,Right,49.0,C02.9,Yes,Other targeting molecular therapy
-SYNTHETIC-1,DONOR_9,No,,60.0,C02.9,,Ablation
-SYNTHETIC-1,DONOR_10,Yes,Right,,C43.9,,Stem cell transplant
-SYNTHETIC-1,DONOR_11,Yes,Not applicable,50.0,C02.1,Yes,
-SYNTHETIC-1,DONOR_12,Unknown,,48.0,C34.9,Unknown,Surgery
-SYNTHETIC-1,DONOR_13,Unknown,,46.0,C18.9,Unknown,Hormonal therapy
-SYNTHETIC-1,DONOR_14,,,58.0,C04.9,Yes,Surgery
-SYNTHETIC-1,DONOR_15,Unknown,,57.0,,Unknown,Ablation
-SYNTHETIC-1,DONOR_16,Yes,Midline,41.0,C43.9,Yes,Endoscopic therapy
-SYNTHETIC-1,DONOR_17,No,,45.0,C18.9,No,Endoscopic therapy
-SYNTHETIC-1,DONOR_18,Unknown,,54.0,C34.9,No,Immunotherapy
-SYNTHETIC-1,DONOR_19,No,,36.0,C15.9,Yes,Ablation
-SYNTHETIC-1,DONOR_20,Yes,Left,53.0,C02.0,Yes,
-SYNTHETIC-1,DONOR_21,Unknown,,57.0,C18.9,Yes,Endoscopic therapy
-SYNTHETIC-1,DONOR_22,No,,56.0,,Unknown,Ablation
-SYNTHETIC-1,DONOR_23,Yes,Left,47.0,C02.1,No,Immunotherapy
-SYNTHETIC-1,DONOR_24,Unknown,,36.0,C02.0,Unknown,
-SYNTHETIC-1,DONOR_25,Yes,Midline,38.0,C34.9,,Ablation
-SYNTHETIC-1,DONOR_26,Unknown,,49.0,C04.9,No,Endoscopic therapy
-SYNTHETIC-1,DONOR_27,Unknown,,60.0,C43.9,Yes,Immunotherapy
-SYNTHETIC-1,DONOR_28,Unknown,,41.0,C03.9,Yes,
-SYNTHETIC-1,DONOR_29,No,,47.0,C02.9,Yes,Endoscopic therapy
-SYNTHETIC-1,DONOR_30,No,,56.0,C05.1,Unknown,Radiation therapy
-SYNTHETIC-1,DONOR_31,Unknown,,48.0,C02.1,No,Bone marrow transplant
-SYNTHETIC-1,DONOR_32,Unknown,,42.0,C03.9,Unknown,Bone marrow transplant
-SYNTHETIC-1,DONOR_33,,,49.0,,,Chemotherapy
-SYNTHETIC-1,DONOR_34,No,,58.0,C05.1,Yes,Chemotherapy
-SYNTHETIC-1,DONOR_35,No,,36.0,C43.9,No,Radiation therapy
-SYNTHETIC-1,DONOR_36,No,,36.0,C18.9,Unknown,Ablation
-SYNTHETIC-1,DONOR_37,Yes,Left,38.0,C43.1,No,Chemotherapy
-SYNTHETIC-1,DONOR_38,,,59.0,C02.9,,Photodynamic therapy
-SYNTHETIC-1,DONOR_39,No,,35.0,C43.9,Yes,
-SYNTHETIC-1,DONOR_40,Unknown,,42.0,C04.0,No,Stem cell transplant
-SYNTHETIC-1,DONOR_1,Yes,Not applicable,49.0,C43.9,Yes,Ablation
-SYNTHETIC-1,DONOR_2,,,45.0,C50.9,Unknown,Bone marrow transplant
-SYNTHETIC-1,DONOR_3,No,,,C04.0,No,Chemotherapy
-SYNTHETIC-1,DONOR_4,No,,55.0,C34.9,No,Photodynamic therapy
-SYNTHETIC-1,DONOR_5,No,,42.0,,No,Stem cell transplant
-SYNTHETIC-1,DONOR_6,Unknown,,59.0,C43.9,Unknown,Endoscopic therapy
-SYNTHETIC-1,DONOR_7,No,,46.0,C15.9,Unknown,Stem cell transplant
-SYNTHETIC-1,DONOR_8,,,45.0,C04.0,Yes,Bone marrow transplant
-SYNTHETIC-1,DONOR_9,Yes,Midline,,C02.1,Yes,Bone marrow transplant
-SYNTHETIC-1,DONOR_10,Yes,Midline,56.0,C03.1,No,Other targeting molecular therapy
-SYNTHETIC-1,DONOR_11,Yes,Right,53.0,C43.9,Unknown,Bone marrow transplant
-SYNTHETIC-1,DONOR_12,No,,59.0,,Unknown,Photodynamic therapy
-SYNTHETIC-1,DONOR_13,No,,40.0,C03.9,Unknown,Photodynamic therapy
-SYNTHETIC-1,DONOR_14,,,51.0,,,Chemotherapy
-SYNTHETIC-1,DONOR_15,No,,55.0,C43.9,Yes,Endoscopic therapy
-SYNTHETIC-1,DONOR_16,Yes,Left,57.0,C06.9,Unknown,Immunotherapy
-SYNTHETIC-1,DONOR_17,Unknown,,58.0,,No,Stem cell transplant
-SYNTHETIC-1,DONOR_18,,,42.0,C06.9,No,Stem cell transplant
-SYNTHETIC-1,DONOR_19,Yes,Bilateral,39.0,C34.9,,Ablation
-SYNTHETIC-1,DONOR_20,Unknown,,37.0,,Unknown,Hormonal therapy
-SYNTHETIC-1,DONOR_21,No,,40.0,C67.6,No,Surgery
-SYNTHETIC-1,DONOR_22,No,,60.0,C43.1,Unknown,Hormonal therapy
-SYNTHETIC-1,DONOR_23,No,,49.0,C04.0,Yes,Immunotherapy
-SYNTHETIC-1,DONOR_24,Unknown,,43.0,C34.9,Unknown,Immunotherapy
-SYNTHETIC-1,DONOR_25,,,,,Unknown,Stem cell transplant
-SYNTHETIC-1,DONOR_26,Unknown,,47.0,C34.9,No,
-SYNTHETIC-1,DONOR_27,Unknown,,51.0,C34.9,,Bone marrow transplant
-SYNTHETIC-1,DONOR_28,Yes,Not applicable,54.0,C50.9,Yes,Endoscopic therapy
-SYNTHETIC-1,DONOR_29,Unknown,,44.0,C67.6,,No treatment
-SYNTHETIC-1,DONOR_30,Yes,Not applicable,35.0,,No,Endoscopic therapy
-SYNTHETIC-1,DONOR_31,No,,51.0,C15.9,No,Surgery
-SYNTHETIC-1,DONOR_32,Yes,,54.0,C02.1,Unknown,Immunotherapy
-SYNTHETIC-1,DONOR_33,,,35.0,C43.9,,Immunotherapy
-SYNTHETIC-1,DONOR_34,Unknown,,36.0,C43.1,Unknown,Chemotherapy
-SYNTHETIC-1,DONOR_35,Yes,Right,51.0,C02.1,Unknown,
-SYNTHETIC-1,DONOR_36,,,60.0,,Yes,Endoscopic therapy
-SYNTHETIC-1,DONOR_37,Yes,Left,43.0,C02.1,No,Hormonal therapy
-SYNTHETIC-1,DONOR_38,Yes,Midline,58.0,C02.1,Yes,Surgery
-SYNTHETIC-1,DONOR_39,,,,C34.9,No,Hormonal therapy
-SYNTHETIC-1,DONOR_40,Unknown,,54.0,C03.9,Unknown,
-SYNTHETIC-1,DONOR_1,No,,39.0,C06.9,Unknown,
-SYNTHETIC-1,DONOR_2,Unknown,,37.0,C06.9,No,Stem cell transplant
-SYNTHETIC-1,DONOR_3,,,53.0,C03.1,Unknown,Photodynamic therapy
-SYNTHETIC-1,DONOR_4,Yes,Midline,58.0,,Unknown,No treatment
-SYNTHETIC-1,DONOR_5,Unknown,,54.0,C67.6,,Ablation
-SYNTHETIC-1,DONOR_6,,,35.0,C43.1,Yes,Stem cell transplant
-SYNTHETIC-1,DONOR_7,Yes,Unknown,38.0,C43.9,Unknown,Surgery
-SYNTHETIC-1,DONOR_8,Unknown,,57.0,C43.9,Yes,Photodynamic therapy
-SYNTHETIC-1,DONOR_9,,,44.0,C02.1,No,No treatment
-SYNTHETIC-1,DONOR_10,Unknown,,60.0,C05.1,No,Surgery
-SYNTHETIC-1,DONOR_11,No,,57.0,C02.1,,Immunotherapy
-SYNTHETIC-1,DONOR_12,Unknown,,58.0,C05.1,Yes,
-SYNTHETIC-1,DONOR_13,,,49.0,C03.1,,Photodynamic therapy
-SYNTHETIC-1,DONOR_14,,,59.0,C04.0,,Hormonal therapy
-SYNTHETIC-1,DONOR_15,Yes,,52.0,C34.9,Unknown,Ablation
-SYNTHETIC-1,DONOR_16,No,,52.0,C67.6,No,No treatment
-SYNTHETIC-1,DONOR_17,No,,57.0,C04.9,No,Immunotherapy
-SYNTHETIC-1,DONOR_18,No,,36.0,C50.9,,Hormonal therapy
-SYNTHETIC-1,DONOR_19,Unknown,,43.0,C02.1,Unknown,Ablation
-SYNTHETIC-1,DONOR_20,Yes,Not applicable,37.0,C15.9,No,Surgery
-SYNTHETIC-1,DONOR_21,Unknown,,57.0,C34.9,No,
-SYNTHETIC-1,DONOR_22,Unknown,,58.0,C02.9,No,Hormonal therapy
-SYNTHETIC-1,DONOR_23,No,,53.0,C03.1,No,Chemotherapy
-SYNTHETIC-1,DONOR_24,Yes,,55.0,C18.9,Yes,No treatment
-SYNTHETIC-1,DONOR_25,Yes,Unknown,55.0,C02.0,Yes,Surgery
-SYNTHETIC-1,DONOR_26,Unknown,,47.0,C02.1,No,Ablation
-SYNTHETIC-1,DONOR_27,,,53.0,C15.9,No,Immunotherapy
-SYNTHETIC-1,DONOR_28,Yes,"Unilateral, Side not specified",36.0,C43.1,No,Surgery
-SYNTHETIC-1,DONOR_29,,,59.0,,No,Surgery
-SYNTHETIC-1,DONOR_30,Yes,"Unilateral, Side not specified",58.0,C43.9,No,Photodynamic therapy
-SYNTHETIC-1,DONOR_31,Yes,Left,56.0,C02.9,Unknown,Stem cell transplant
-SYNTHETIC-1,DONOR_32,Unknown,,44.0,C02.0,Unknown,Immunotherapy
-SYNTHETIC-1,DONOR_33,Yes,Right,37.0,C02.1,Unknown,
-SYNTHETIC-1,DONOR_34,Unknown,,40.0,C02.1,Unknown,No treatment
-SYNTHETIC-1,DONOR_35,Yes,,51.0,C02.1,No,Endoscopic therapy
-SYNTHETIC-1,DONOR_36,Yes,Midline,46.0,C03.9,Yes,
-SYNTHETIC-1,DONOR_37,Unknown,,44.0,C43.9,No,Photodynamic therapy
-SYNTHETIC-1,DONOR_38,No,,60.0,C02.1,No,Chemotherapy
-SYNTHETIC-1,DONOR_39,No,,58.0,C64.9,Yes,Immunotherapy
-SYNTHETIC-1,DONOR_40,Unknown,,41.0,C04.0,Unknown,Radiation therapy
-SYNTHETIC-1,DONOR_1,No,,38.0,,Yes,Bone marrow transplant
-SYNTHETIC-1,DONOR_2,Unknown,,58.0,C18.9,Unknown,Radiation therapy
-SYNTHETIC-1,DONOR_3,No,,39.0,C03.9,Yes,Endoscopic therapy
-SYNTHETIC-1,DONOR_4,No,,54.0,C05.1,Yes,Hormonal therapy
-SYNTHETIC-1,DONOR_5,Unknown,,55.0,C05.1,Yes,Hormonal therapy
-SYNTHETIC-1,DONOR_6,No,,57.0,C50.9,Unknown,
-SYNTHETIC-1,DONOR_7,Unknown,,38.0,C34.9,No,Ablation
-SYNTHETIC-1,DONOR_8,Unknown,,37.0,C02.0,Yes,Chemotherapy
-SYNTHETIC-1,DONOR_9,Unknown,,39.0,C06.9,Unknown,Photodynamic therapy
-SYNTHETIC-1,DONOR_10,No,,53.0,C06.2,,Other targeting molecular therapy
-SYNTHETIC-1,DONOR_11,,,39.0,C02.1,Yes,Immunotherapy
-SYNTHETIC-1,DONOR_12,Yes,Unknown,46.0,C02.9,,Bone marrow transplant
-SYNTHETIC-1,DONOR_13,Unknown,,53.0,C04.9,,No treatment
-SYNTHETIC-1,DONOR_14,Yes,"Unilateral, Side not specified",39.0,C02.2,Yes,Ablation
-SYNTHETIC-1,DONOR_15,No,,,,Unknown,Photodynamic therapy
-SYNTHETIC-1,DONOR_16,Unknown,,56.0,C18.9,Unknown,Immunotherapy
-SYNTHETIC-1,DONOR_17,,,56.0,C02.1,Yes,Chemotherapy
-SYNTHETIC-1,DONOR_18,Yes,Bilateral,,C06.9,Yes,Bone marrow transplant
-SYNTHETIC-1,DONOR_19,,,40.0,C64.9,Unknown,Stem cell transplant
-SYNTHETIC-1,DONOR_20,Unknown,,41.0,,No,Immunotherapy
-SYNTHETIC-1,DONOR_21,No,,48.0,C50.9,Unknown,Immunotherapy
-SYNTHETIC-1,DONOR_22,Yes,Unknown,,C18.9,Yes,Hormonal therapy
-SYNTHETIC-1,DONOR_23,Unknown,,60.0,C43.9,Yes,Hormonal therapy
-SYNTHETIC-1,DONOR_24,Unknown,,45.0,C34.9,No,Other targeting molecular therapy
-SYNTHETIC-1,DONOR_25,Yes,Bilateral,39.0,C02.1,Unknown,Ablation
-SYNTHETIC-1,DONOR_26,Yes,Bilateral,37.0,,Yes,Bone marrow transplant
-SYNTHETIC-1,DONOR_27,Yes,"Unilateral, Side not specified",44.0,C34.9,No,Endoscopic therapy
-SYNTHETIC-1,DONOR_28,No,,56.0,C15.9,Yes,Photodynamic therapy
-SYNTHETIC-1,DONOR_29,Yes,Bilateral,,C43.9,Yes,
-SYNTHETIC-1,DONOR_30,Unknown,,47.0,C04.9,Yes,Radiation therapy
-SYNTHETIC-1,DONOR_31,Unknown,,40.0,C34.9,Yes,
-SYNTHETIC-1,DONOR_32,No,,50.0,C18.9,Yes,Endoscopic therapy
-SYNTHETIC-1,DONOR_33,Yes,Not applicable,54.0,C02.1,Unknown,Hormonal therapy
-SYNTHETIC-1,DONOR_34,Yes,Left,39.0,C02.1,,Photodynamic therapy
-SYNTHETIC-1,DONOR_35,Yes,Right,,C43.9,Unknown,Immunotherapy
-SYNTHETIC-1,DONOR_36,No,,40.0,C02.1,No,
-SYNTHETIC-1,DONOR_37,Unknown,,44.0,C03.1,Yes,
-SYNTHETIC-1,DONOR_38,Yes,Not applicable,36.0,C15.9,Yes,Bone marrow transplant
-SYNTHETIC-1,DONOR_39,Yes,,46.0,C04.9,No,Immunotherapy
-SYNTHETIC-1,DONOR_40,Unknown,,60.0,C02.1,,Hormonal therapy
-SYNTHETIC-2,DONOR_41,No,,55.0,C67.6,Yes,Chemotherapy
-SYNTHETIC-2,DONOR_42,No,,58.0,C02.2,,Chemotherapy
-SYNTHETIC-2,DONOR_43,No,,46.0,C67.6,Yes,
-SYNTHETIC-2,DONOR_44,,,45.0,C15.9,,
-SYNTHETIC-2,DONOR_45,No,,58.0,C05.1,Unknown,
-SYNTHETIC-2,DONOR_46,Yes,Bilateral,40.0,,Unknown,Surgery
-SYNTHETIC-2,DONOR_47,No,,51.0,,Unknown,Radiation therapy
-SYNTHETIC-2,DONOR_48,Yes,Right,,C02.1,Yes,
-SYNTHETIC-2,DONOR_49,Yes,"Unilateral, Side not specified",60.0,C34.9,Unknown,Hormonal therapy
-SYNTHETIC-2,DONOR_50,Unknown,,55.0,C02.1,No,Photodynamic therapy
-SYNTHETIC-2,DONOR_51,Unknown,,,C04.0,No,Endoscopic therapy
-SYNTHETIC-2,DONOR_52,,,,C02.9,Unknown,Hormonal therapy
-SYNTHETIC-2,DONOR_53,Yes,Not applicable,48.0,C43.9,,Other targeting molecular therapy
-SYNTHETIC-2,DONOR_54,Unknown,,38.0,C02.0,Yes,No treatment
-SYNTHETIC-2,DONOR_55,No,,55.0,C43.9,Yes,Other targeting molecular therapy
-SYNTHETIC-2,DONOR_56,,,57.0,C06.2,,
-SYNTHETIC-2,DONOR_57,Unknown,,35.0,C02.1,No,Radiation therapy
-SYNTHETIC-2,DONOR_58,No,,,C04.0,,Other targeting molecular therapy
-SYNTHETIC-2,DONOR_59,Yes,Midline,50.0,,No,Endoscopic therapy
-SYNTHETIC-2,DONOR_60,No,,47.0,C03.9,,Stem cell transplant
-SYNTHETIC-2,DONOR_61,Yes,Unknown,,C64.9,Unknown,Surgery
-SYNTHETIC-2,DONOR_62,Yes,Unknown,40.0,C02.1,Unknown,No treatment
-SYNTHETIC-2,DONOR_63,,,59.0,C02.1,Yes,Hormonal therapy
-SYNTHETIC-2,DONOR_64,,,38.0,C02.1,Yes,Other targeting molecular therapy
-SYNTHETIC-2,DONOR_65,Yes,Not applicable,44.0,C34.9,Yes,Ablation
-SYNTHETIC-2,DONOR_66,,,,C43.9,No,Hormonal therapy
-SYNTHETIC-2,DONOR_67,Yes,Not applicable,47.0,C04.0,Unknown,Chemotherapy
-SYNTHETIC-2,DONOR_68,Unknown,,49.0,C43.9,Unknown,No treatment
-SYNTHETIC-2,DONOR_69,Yes,Midline,59.0,C02.1,No,Photodynamic therapy
-SYNTHETIC-2,DONOR_70,No,,39.0,C43.9,No,
-SYNTHETIC-2,DONOR_41,Yes,"Unilateral, Side not specified",57.0,C43.1,Unknown,Surgery
-SYNTHETIC-2,DONOR_42,Unknown,,43.0,C43.9,Yes,Other targeting molecular therapy
-SYNTHETIC-2,DONOR_43,Yes,Right,60.0,C34.9,Yes,Radiation therapy
-SYNTHETIC-2,DONOR_44,No,,,C06.9,No,Chemotherapy
-SYNTHETIC-2,DONOR_45,Yes,,43.0,C04.0,Yes,Surgery
-SYNTHETIC-2,DONOR_46,Unknown,,42.0,C04.0,,Hormonal therapy
-SYNTHETIC-2,DONOR_47,,,60.0,C02.2,,
-SYNTHETIC-2,DONOR_48,Unknown,,59.0,C02.9,Unknown,Bone marrow transplant
-SYNTHETIC-2,DONOR_49,Yes,Unknown,56.0,C02.9,Yes,Bone marrow transplant
-SYNTHETIC-2,DONOR_50,Unknown,,51.0,,No,Surgery
-SYNTHETIC-2,DONOR_51,Yes,Right,37.0,C02.2,No,No treatment
-SYNTHETIC-2,DONOR_52,No,,52.0,C67.6,No,Surgery
-SYNTHETIC-2,DONOR_53,Unknown,,45.0,C02.1,Yes,Ablation
-SYNTHETIC-2,DONOR_54,No,,42.0,C06.9,Yes,Immunotherapy
-SYNTHETIC-2,DONOR_55,Unknown,,41.0,C67.6,,Stem cell transplant
-SYNTHETIC-2,DONOR_56,Unknown,,,C64.9,No,Other targeting molecular therapy
-SYNTHETIC-2,DONOR_57,No,,41.0,C02.1,No,Radiation therapy
-SYNTHETIC-2,DONOR_58,Yes,Midline,60.0,,No,Stem cell transplant
-SYNTHETIC-2,DONOR_59,Yes,Left,41.0,C02.1,,
-SYNTHETIC-2,DONOR_60,Yes,Midline,,C02.2,No,
-SYNTHETIC-2,DONOR_61,No,,48.0,C43.9,,
-SYNTHETIC-2,DONOR_62,No,,44.0,C02.1,No,Bone marrow transplant
-SYNTHETIC-2,DONOR_63,Unknown,,51.0,C02.2,,
-SYNTHETIC-2,DONOR_64,Unknown,,,C43.9,Yes,Chemotherapy
-SYNTHETIC-2,DONOR_65,No,,51.0,C02.9,Yes,Radiation therapy
-SYNTHETIC-2,DONOR_66,,,54.0,C02.1,Unknown,Chemotherapy
-SYNTHETIC-2,DONOR_67,No,,,C02.2,Unknown,Surgery
-SYNTHETIC-2,DONOR_68,Unknown,,58.0,C02.1,Unknown,Ablation
-SYNTHETIC-2,DONOR_69,Unknown,,,C02.1,,Surgery
-SYNTHETIC-2,DONOR_70,No,,46.0,C43.9,Yes,Immunotherapy
-SYNTHETIC-2,DONOR_41,Yes,,44.0,C43.9,,Immunotherapy
-SYNTHETIC-2,DONOR_42,Unknown,,38.0,C02.1,No,No treatment
-SYNTHETIC-2,DONOR_43,Yes,"Unilateral, Side not specified",45.0,C02.9,,No treatment
-SYNTHETIC-2,DONOR_44,No,,59.0,C02.1,Unknown,Endoscopic therapy
-SYNTHETIC-2,DONOR_45,Yes,"Unilateral, Side not specified",46.0,C64.9,Unknown,Endoscopic therapy
-SYNTHETIC-2,DONOR_46,Unknown,,47.0,C02.9,Unknown,
-SYNTHETIC-2,DONOR_47,,,60.0,C05.1,,Radiation therapy
-SYNTHETIC-2,DONOR_48,Yes,Right,56.0,C34.9,,Endoscopic therapy
-SYNTHETIC-2,DONOR_49,No,,56.0,C50.9,Unknown,Ablation
-SYNTHETIC-2,DONOR_50,Unknown,,48.0,C43.9,Unknown,Radiation therapy
-SYNTHETIC-2,DONOR_51,Yes,"Unilateral, Side not specified",48.0,C04.0,Unknown,Surgery
-SYNTHETIC-2,DONOR_52,Unknown,,,C43.9,No,Hormonal therapy
-SYNTHETIC-2,DONOR_53,Yes,Not applicable,46.0,,Unknown,Endoscopic therapy
-SYNTHETIC-2,DONOR_54,Yes,Right,,C18.9,Unknown,Photodynamic therapy
-SYNTHETIC-2,DONOR_55,Unknown,,,C67.6,Yes,Bone marrow transplant
-SYNTHETIC-2,DONOR_56,Yes,,41.0,C43.9,Yes,Bone marrow transplant
-SYNTHETIC-2,DONOR_57,Unknown,,51.0,,Yes,Ablation
-SYNTHETIC-2,DONOR_58,,,38.0,C02.2,,Ablation
-SYNTHETIC-2,DONOR_59,Yes,"Unilateral, Side not specified",38.0,C34.9,,Other targeting molecular therapy
-SYNTHETIC-2,DONOR_60,Yes,"Unilateral, Side not specified",54.0,C02.0,No,
-SYNTHETIC-2,DONOR_61,Unknown,,56.0,C43.9,No,Radiation therapy
-SYNTHETIC-2,DONOR_62,No,,39.0,C15.9,Unknown,No treatment
-SYNTHETIC-2,DONOR_63,Unknown,,58.0,,Unknown,Bone marrow transplant
-SYNTHETIC-2,DONOR_64,Yes,"Unilateral, Side not specified",54.0,,Unknown,Bone marrow transplant
-SYNTHETIC-2,DONOR_65,Yes,Left,41.0,,,
-SYNTHETIC-2,DONOR_66,Yes,,59.0,C04.0,,Photodynamic therapy
-SYNTHETIC-2,DONOR_67,Unknown,,45.0,C64.9,No,Surgery
-SYNTHETIC-2,DONOR_68,Yes,Not applicable,37.0,C34.9,Unknown,
-SYNTHETIC-2,DONOR_69,No,,53.0,C15.9,Unknown,Ablation
-SYNTHETIC-2,DONOR_70,Unknown,,36.0,C02.1,Unknown,Endoscopic therapy
-SYNTHETIC-2,DONOR_41,Yes,Left,39.0,C02.9,No,Hormonal therapy
-SYNTHETIC-2,DONOR_42,,,40.0,C02.9,No,
-SYNTHETIC-2,DONOR_43,Unknown,,36.0,C02.2,Yes,
-SYNTHETIC-2,DONOR_44,No,,47.0,C43.9,,Bone marrow transplant
-SYNTHETIC-2,DONOR_45,Unknown,,,C64.9,,Other targeting molecular therapy
-SYNTHETIC-2,DONOR_46,No,,60.0,C02.9,No,Stem cell transplant
-SYNTHETIC-2,DONOR_47,No,,54.0,,No,
-SYNTHETIC-2,DONOR_48,No,,53.0,C04.9,Unknown,Bone marrow transplant
-SYNTHETIC-2,DONOR_49,Unknown,,,C03.1,No,No treatment
-SYNTHETIC-2,DONOR_50,No,,56.0,C05.1,Yes,Ablation
-SYNTHETIC-2,DONOR_51,Unknown,,,C06.9,No,Immunotherapy
-SYNTHETIC-2,DONOR_52,Yes,"Unilateral, Side not specified",39.0,,No,Radiation therapy
-SYNTHETIC-2,DONOR_53,Unknown,,60.0,C04.0,No,Immunotherapy
-SYNTHETIC-2,DONOR_54,Unknown,,59.0,C64.9,Unknown,Stem cell transplant
-SYNTHETIC-2,DONOR_55,Unknown,,44.0,C04.9,Unknown,Bone marrow transplant
-SYNTHETIC-2,DONOR_56,,,59.0,C34.9,No,Hormonal therapy
-SYNTHETIC-2,DONOR_57,No,,45.0,C04.9,Yes,Immunotherapy
-SYNTHETIC-2,DONOR_58,Yes,Left,48.0,C02.1,Yes,Ablation
-SYNTHETIC-2,DONOR_59,Unknown,,38.0,C34.9,Unknown,No treatment
-SYNTHETIC-2,DONOR_60,Yes,Unknown,58.0,C06.9,Unknown,
-SYNTHETIC-2,DONOR_61,,,57.0,C43.9,No,Endoscopic therapy
-SYNTHETIC-2,DONOR_62,Yes,Bilateral,47.0,C18.9,No,Ablation
-SYNTHETIC-2,DONOR_63,Unknown,,54.0,C34.9,Yes,Surgery
-SYNTHETIC-2,DONOR_64,Unknown,,,C18.9,No,Ablation
-SYNTHETIC-2,DONOR_65,Unknown,,50.0,,,Endoscopic therapy
-SYNTHETIC-2,DONOR_66,Yes,Right,49.0,C64.9,Yes,Other targeting molecular therapy
-SYNTHETIC-2,DONOR_67,No,,39.0,C02.1,No,Bone marrow transplant
-SYNTHETIC-2,DONOR_68,Unknown,,38.0,C43.9,Yes,Stem cell transplant
-SYNTHETIC-2,DONOR_69,,,45.0,C43.9,,Ablation
-SYNTHETIC-2,DONOR_70,Unknown,,,C43.1,Yes,Ablation
-SYNTHETIC-2,DONOR_41,Unknown,,,,No,Hormonal therapy
-SYNTHETIC-2,DONOR_42,Yes,Midline,41.0,C43.9,Yes,Chemotherapy
-SYNTHETIC-2,DONOR_43,No,,45.0,C06.2,Yes,Other targeting molecular therapy
-SYNTHETIC-2,DONOR_44,No,,,C04.0,,Chemotherapy
-SYNTHETIC-2,DONOR_45,Yes,Right,38.0,C43.1,Unknown,Hormonal therapy
-SYNTHETIC-2,DONOR_46,Yes,Unknown,44.0,C18.9,Unknown,Radiation therapy
-SYNTHETIC-2,DONOR_47,No,,,C34.9,Yes,Other targeting molecular therapy
-SYNTHETIC-2,DONOR_48,No,,60.0,C43.9,,Chemotherapy
-SYNTHETIC-2,DONOR_49,Yes,Bilateral,60.0,C04.9,Yes,Bone marrow transplant
-SYNTHETIC-2,DONOR_50,Yes,,57.0,C02.2,Unknown,Immunotherapy
-SYNTHETIC-2,DONOR_51,Unknown,,37.0,C43.1,No,
-SYNTHETIC-2,DONOR_52,Unknown,,52.0,,No,Hormonal therapy
-SYNTHETIC-2,DONOR_53,Unknown,,,C43.9,Yes,Endoscopic therapy
-SYNTHETIC-2,DONOR_54,Unknown,,38.0,C04.0,No,
-SYNTHETIC-2,DONOR_55,No,,54.0,,Unknown,
-SYNTHETIC-2,DONOR_56,No,,47.0,C02.1,Yes,Bone marrow transplant
-SYNTHETIC-2,DONOR_57,,,50.0,C43.9,Yes,Surgery
-SYNTHETIC-2,DONOR_58,Yes,Right,52.0,C04.0,Yes,Chemotherapy
-SYNTHETIC-2,DONOR_59,Yes,"Unilateral, Side not specified",41.0,C04.0,No,Other targeting molecular therapy
-SYNTHETIC-2,DONOR_60,Unknown,,43.0,,Yes,
-SYNTHETIC-2,DONOR_61,Unknown,,50.0,C64.9,Unknown,Radiation therapy
-SYNTHETIC-2,DONOR_62,Yes,"Unilateral, Side not specified",37.0,C02.1,,Photodynamic therapy
-SYNTHETIC-2,DONOR_63,,,53.0,C02.1,Yes,Radiation therapy
-SYNTHETIC-2,DONOR_64,Unknown,,48.0,C43.9,No,No treatment
-SYNTHETIC-2,DONOR_65,Unknown,,55.0,C02.0,Unknown,Ablation
-SYNTHETIC-2,DONOR_66,Unknown,,50.0,C34.9,Unknown,Ablation
-SYNTHETIC-2,DONOR_67,No,,59.0,C43.1,Yes,Photodynamic therapy
-SYNTHETIC-2,DONOR_68,Unknown,,49.0,C50.9,No,Endoscopic therapy
-SYNTHETIC-2,DONOR_69,Unknown,,43.0,C15.9,Yes,Ablation
-SYNTHETIC-2,DONOR_70,Unknown,,41.0,C02.1,Yes,Immunotherapy
-SYNTHETIC-2,DONOR_41,Unknown,,48.0,C03.1,,Hormonal therapy
-SYNTHETIC-2,DONOR_42,Yes,Not applicable,35.0,C43.9,Unknown,Radiation therapy
-SYNTHETIC-2,DONOR_43,No,,48.0,C67.6,Unknown,Bone marrow transplant
-SYNTHETIC-2,DONOR_44,No,,52.0,C02.9,Yes,Immunotherapy
-SYNTHETIC-2,DONOR_45,No,,43.0,C02.1,Unknown,Other targeting molecular therapy
-SYNTHETIC-2,DONOR_46,Unknown,,55.0,C06.2,Unknown,Other targeting molecular therapy
-SYNTHETIC-2,DONOR_47,Yes,,47.0,C02.2,Yes,Bone marrow transplant
-SYNTHETIC-2,DONOR_48,Unknown,,40.0,C34.9,No,Stem cell transplant
-SYNTHETIC-2,DONOR_49,No,,36.0,C43.9,Yes,No treatment
-SYNTHETIC-2,DONOR_50,Unknown,,60.0,C02.1,No,Photodynamic therapy
-SYNTHETIC-2,DONOR_51,Unknown,,46.0,,No,Photodynamic therapy
-SYNTHETIC-2,DONOR_52,No,,53.0,C34.9,Yes,Hormonal therapy
-SYNTHETIC-2,DONOR_53,Yes,Unknown,47.0,C03.9,Unknown,Hormonal therapy
-SYNTHETIC-2,DONOR_54,Yes,Bilateral,55.0,,Unknown,Ablation
-SYNTHETIC-2,DONOR_55,Yes,"Unilateral, Side not specified",42.0,C04.0,Unknown,Surgery
-SYNTHETIC-2,DONOR_56,Unknown,,56.0,C43.1,Unknown,Ablation
-SYNTHETIC-2,DONOR_57,Yes,,,C15.9,No,Chemotherapy
-SYNTHETIC-2,DONOR_58,Unknown,,43.0,,,Ablation
-SYNTHETIC-2,DONOR_59,Yes,Right,55.0,C02.1,,Endoscopic therapy
-SYNTHETIC-2,DONOR_60,,,38.0,C02.0,No,No treatment
-SYNTHETIC-2,DONOR_61,,,42.0,C02.1,,Chemotherapy
-SYNTHETIC-2,DONOR_62,Unknown,,41.0,C02.9,Yes,Endoscopic therapy
-SYNTHETIC-2,DONOR_63,Yes,Bilateral,52.0,C05.1,,Chemotherapy
-SYNTHETIC-2,DONOR_64,Unknown,,54.0,C04.0,,No treatment
-SYNTHETIC-2,DONOR_65,Unknown,,55.0,C43.1,Unknown,Photodynamic therapy
-SYNTHETIC-2,DONOR_66,Unknown,,,C34.9,,Other targeting molecular therapy
-SYNTHETIC-2,DONOR_67,Yes,Not applicable,40.0,C06.9,No,Radiation therapy
-SYNTHETIC-2,DONOR_68,No,,54.0,C04.0,No,Hormonal therapy
-SYNTHETIC-2,DONOR_69,No,,46.0,,,Immunotherapy
-SYNTHETIC-2,DONOR_70,Unknown,,52.0,C34.9,Yes,
-SYNTHETIC-2,DONOR_41,No,,59.0,C02.1,,Chemotherapy
-SYNTHETIC-2,DONOR_42,Unknown,,60.0,C15.9,,Stem cell transplant
-SYNTHETIC-2,DONOR_43,Unknown,,41.0,C43.9,Unknown,Surgery
-SYNTHETIC-2,DONOR_44,Unknown,,60.0,C06.2,Yes,
-SYNTHETIC-2,DONOR_45,No,,51.0,C50.9,Yes,Hormonal therapy
-SYNTHETIC-2,DONOR_46,Unknown,,,C03.9,Yes,
-SYNTHETIC-2,DONOR_47,Yes,,46.0,C02.1,No,Chemotherapy
-SYNTHETIC-2,DONOR_48,No,,58.0,C04.9,Yes,Chemotherapy
-SYNTHETIC-2,DONOR_49,Yes,Not applicable,52.0,C04.0,No,Surgery
-SYNTHETIC-2,DONOR_50,,,48.0,C02.1,No,Immunotherapy
-SYNTHETIC-2,DONOR_51,Yes,Right,42.0,C34.9,Unknown,Surgery
-SYNTHETIC-2,DONOR_52,Unknown,,48.0,C02.1,Unknown,Ablation
-SYNTHETIC-2,DONOR_53,Yes,Bilateral,38.0,C02.1,No,Hormonal therapy
-SYNTHETIC-2,DONOR_54,No,,52.0,C02.9,,Chemotherapy
-SYNTHETIC-2,DONOR_55,Unknown,,49.0,C02.1,Unknown,Other targeting molecular therapy
-SYNTHETIC-2,DONOR_56,No,,53.0,C34.9,Unknown,
-SYNTHETIC-2,DONOR_57,Yes,Left,36.0,C02.1,No,Endoscopic therapy
-SYNTHETIC-2,DONOR_58,Yes,Right,52.0,C43.9,Unknown,Other targeting molecular therapy
-SYNTHETIC-2,DONOR_59,Yes,"Unilateral, Side not specified",42.0,C43.9,,Bone marrow transplant
-SYNTHETIC-2,DONOR_60,Yes,Unknown,47.0,C02.1,,
-SYNTHETIC-2,DONOR_61,Unknown,,49.0,C06.2,Unknown,Chemotherapy
-SYNTHETIC-2,DONOR_62,Unknown,,,C64.9,No,Chemotherapy
-SYNTHETIC-2,DONOR_63,No,,,,Yes,Bone marrow transplant
-SYNTHETIC-2,DONOR_64,,,36.0,C02.0,Unknown,Endoscopic therapy
-SYNTHETIC-2,DONOR_65,Yes,Not applicable,45.0,C02.9,Unknown,Radiation therapy
-SYNTHETIC-2,DONOR_66,Unknown,,42.0,C06.9,Yes,Endoscopic therapy
-SYNTHETIC-2,DONOR_67,Yes,Left,55.0,C02.9,,Endoscopic therapy
-SYNTHETIC-2,DONOR_68,Yes,Unknown,50.0,C03.1,No,Photodynamic therapy
-SYNTHETIC-2,DONOR_69,Unknown,,56.0,C34.9,Unknown,Other targeting molecular therapy
-SYNTHETIC-2,DONOR_70,Yes,"Unilateral, Side not specified",49.0,C67.6,Unknown,Endoscopic therapy
-SYNTHETIC-2,DONOR_41,No,,52.0,C03.1,Yes,Immunotherapy
-SYNTHETIC-2,DONOR_42,No,,51.0,C18.9,Yes,Radiation therapy
-SYNTHETIC-2,DONOR_43,No,,58.0,C43.9,No,Hormonal therapy
-SYNTHETIC-2,DONOR_44,No,,49.0,,Unknown,Other targeting molecular therapy
-SYNTHETIC-2,DONOR_45,No,,36.0,C18.9,Unknown,
-SYNTHETIC-2,DONOR_46,Unknown,,52.0,,,Bone marrow transplant
-SYNTHETIC-2,DONOR_47,Unknown,,,C34.9,Yes,Chemotherapy
-SYNTHETIC-2,DONOR_48,No,,39.0,C02.9,Yes,No treatment
-SYNTHETIC-2,DONOR_49,Unknown,,50.0,C02.1,Unknown,Chemotherapy
-SYNTHETIC-2,DONOR_50,No,,56.0,C06.2,Yes,
-SYNTHETIC-2,DONOR_51,Unknown,,37.0,C43.9,No,Bone marrow transplant
-SYNTHETIC-2,DONOR_52,Yes,,51.0,C06.9,Unknown,No treatment
-SYNTHETIC-2,DONOR_53,Yes,Left,54.0,C34.9,Unknown,Hormonal therapy
-SYNTHETIC-2,DONOR_54,Unknown,,38.0,C43.9,Yes,Surgery
-SYNTHETIC-2,DONOR_55,Yes,Right,46.0,C04.0,Unknown,Hormonal therapy
-SYNTHETIC-2,DONOR_56,No,,57.0,C04.9,Yes,Other targeting molecular therapy
-SYNTHETIC-2,DONOR_57,Unknown,,40.0,C06.9,,Stem cell transplant
-SYNTHETIC-2,DONOR_58,Unknown,,53.0,,No,Surgery
-SYNTHETIC-2,DONOR_59,No,,57.0,C34.9,Unknown,No treatment
-SYNTHETIC-2,DONOR_60,Unknown,,38.0,C43.9,Unknown,Hormonal therapy
-SYNTHETIC-2,DONOR_61,Yes,Bilateral,49.0,C43.9,No,Ablation
-SYNTHETIC-2,DONOR_62,Yes,,60.0,C43.9,Unknown,Stem cell transplant
-SYNTHETIC-2,DONOR_63,Unknown,,58.0,C64.9,Unknown,Immunotherapy
-SYNTHETIC-2,DONOR_64,No,,48.0,C03.9,Unknown,Endoscopic therapy
-SYNTHETIC-2,DONOR_65,Yes,Bilateral,57.0,C43.9,No,Bone marrow transplant
-SYNTHETIC-2,DONOR_66,Yes,"Unilateral, Side not specified",41.0,C04.0,,Ablation
-SYNTHETIC-2,DONOR_67,Yes,Not applicable,37.0,C02.0,,Endoscopic therapy
-SYNTHETIC-2,DONOR_68,,,59.0,C02.1,Unknown,Stem cell transplant
-SYNTHETIC-2,DONOR_69,No,,41.0,C67.6,Unknown,Ablation
-SYNTHETIC-2,DONOR_70,No,,48.0,C18.9,Yes,Stem cell transplant
-SYNTHETIC-2,DONOR_41,,,48.0,C34.9,No,Chemotherapy
-SYNTHETIC-2,DONOR_42,,,,C02.9,No,
-SYNTHETIC-2,DONOR_43,No,,38.0,C67.6,Yes,No treatment
-SYNTHETIC-2,DONOR_44,Unknown,,51.0,C34.9,No,Other targeting molecular therapy
-SYNTHETIC-2,DONOR_45,Yes,Right,44.0,C64.9,Unknown,Stem cell transplant
-SYNTHETIC-2,DONOR_46,Yes,Unknown,55.0,C64.9,,Bone marrow transplant
-SYNTHETIC-2,DONOR_47,No,,37.0,C04.9,,Ablation
-SYNTHETIC-2,DONOR_48,No,,41.0,C04.0,Unknown,Surgery
-SYNTHETIC-2,DONOR_49,Unknown,,59.0,C15.9,No,Stem cell transplant
-SYNTHETIC-2,DONOR_50,,,60.0,,Yes,Surgery
-SYNTHETIC-2,DONOR_51,No,,39.0,,Yes,Endoscopic therapy
-SYNTHETIC-2,DONOR_52,No,,50.0,C43.9,Yes,
-SYNTHETIC-2,DONOR_53,Unknown,,59.0,C02.2,Unknown,Bone marrow transplant
-SYNTHETIC-2,DONOR_54,No,,36.0,C02.1,Yes,Photodynamic therapy
-SYNTHETIC-2,DONOR_55,No,,59.0,C34.9,,Other targeting molecular therapy
-SYNTHETIC-2,DONOR_56,,,38.0,C34.9,Yes,Ablation
-SYNTHETIC-2,DONOR_57,No,,48.0,C43.1,No,Chemotherapy
-SYNTHETIC-2,DONOR_58,Yes,Midline,57.0,C02.9,Yes,
-SYNTHETIC-2,DONOR_59,Unknown,,56.0,C67.6,Unknown,Hormonal therapy
-SYNTHETIC-2,DONOR_60,No,,35.0,,Unknown,Ablation
-SYNTHETIC-2,DONOR_61,No,,53.0,C04.9,Unknown,Surgery
-SYNTHETIC-2,DONOR_62,No,,42.0,C02.1,Yes,Radiation therapy
-SYNTHETIC-2,DONOR_63,Yes,Bilateral,39.0,C64.9,Unknown,
-SYNTHETIC-2,DONOR_64,Yes,,39.0,C04.0,,Bone marrow transplant
-SYNTHETIC-2,DONOR_65,Unknown,,53.0,C34.9,No,No treatment
-SYNTHETIC-2,DONOR_66,Unknown,,53.0,C04.9,Unknown,Other targeting molecular therapy
-SYNTHETIC-2,DONOR_67,Unknown,,37.0,C04.0,No,
-SYNTHETIC-2,DONOR_68,Unknown,,48.0,C43.9,Yes,Hormonal therapy
-SYNTHETIC-2,DONOR_69,No,,44.0,C03.1,,Surgery
-SYNTHETIC-2,DONOR_70,,,49.0,C06.2,Yes,Endoscopic therapy
-SYNTHETIC-2,DONOR_41,,,40.0,C04.9,,Surgery
-SYNTHETIC-2,DONOR_42,Yes,,,C05.1,No,
-SYNTHETIC-2,DONOR_43,,,38.0,C06.2,No,No treatment
-SYNTHETIC-2,DONOR_44,No,,50.0,C02.1,Unknown,Surgery
-SYNTHETIC-2,DONOR_45,Unknown,,59.0,C64.9,Unknown,No treatment
-SYNTHETIC-2,DONOR_46,,,51.0,C67.6,Unknown,Chemotherapy
-SYNTHETIC-2,DONOR_47,Unknown,,,C34.9,Yes,Other targeting molecular therapy
-SYNTHETIC-2,DONOR_48,,,42.0,C04.9,,
-SYNTHETIC-2,DONOR_49,Unknown,,,,Unknown,Other targeting molecular therapy
-SYNTHETIC-2,DONOR_50,Unknown,,58.0,C02.9,,Other targeting molecular therapy
-SYNTHETIC-2,DONOR_51,Unknown,,46.0,C43.9,Unknown,Stem cell transplant
-SYNTHETIC-2,DONOR_52,No,,43.0,C02.1,No,Other targeting molecular therapy
-SYNTHETIC-2,DONOR_53,Unknown,,47.0,C03.1,No,Hormonal therapy
-SYNTHETIC-2,DONOR_54,Yes,Unknown,43.0,C02.1,,Chemotherapy
-SYNTHETIC-2,DONOR_55,Yes,Bilateral,,C02.1,Yes,
-SYNTHETIC-2,DONOR_56,Unknown,,55.0,C02.2,Unknown,Radiation therapy
-SYNTHETIC-2,DONOR_57,Unknown,,49.0,C02.0,Yes,Other targeting molecular therapy
-SYNTHETIC-2,DONOR_58,Unknown,,,C06.9,Unknown,
-SYNTHETIC-2,DONOR_59,Unknown,,50.0,C02.1,No,Endoscopic therapy
-SYNTHETIC-2,DONOR_60,No,,56.0,C43.9,No,Other targeting molecular therapy
-SYNTHETIC-2,DONOR_61,No,,43.0,C67.6,Yes,Stem cell transplant
-SYNTHETIC-2,DONOR_62,Unknown,,55.0,C43.9,No,Endoscopic therapy
-SYNTHETIC-2,DONOR_63,Unknown,,,C02.1,Yes,Ablation
-SYNTHETIC-2,DONOR_64,Yes,Not applicable,49.0,C02.0,No,
-SYNTHETIC-2,DONOR_65,Yes,Midline,42.0,C06.2,No,Surgery
-SYNTHETIC-2,DONOR_66,Yes,Bilateral,52.0,C06.9,Unknown,Other targeting molecular therapy
-SYNTHETIC-2,DONOR_67,No,,45.0,C64.9,Unknown,Photodynamic therapy
-SYNTHETIC-2,DONOR_68,Unknown,,45.0,C43.9,Unknown,
-SYNTHETIC-2,DONOR_69,No,,60.0,C50.9,Yes,Other targeting molecular therapy
-SYNTHETIC-2,DONOR_70,Yes,Not applicable,56.0,,Yes,Bone marrow transplant
-SYNTHETIC-4,DONOR_91,Unknown,,58.0,C06.9,No,Stem cell transplant
-SYNTHETIC-4,DONOR_92,No,,44.0,C06.2,Unknown,Stem cell transplant
-SYNTHETIC-4,DONOR_93,No,,53.0,C06.9,Unknown,
-SYNTHETIC-4,DONOR_94,No,,60.0,,Unknown,Ablation
-SYNTHETIC-4,DONOR_95,Unknown,,41.0,C06.9,Unknown,Immunotherapy
-SYNTHETIC-4,DONOR_96,Yes,"Unilateral, Side not specified",,C43.9,Yes,Chemotherapy
-SYNTHETIC-4,DONOR_97,,,41.0,C43.9,Yes,Immunotherapy
-SYNTHETIC-4,DONOR_98,Unknown,,49.0,C18.9,Yes,Photodynamic therapy
-SYNTHETIC-4,DONOR_99,Unknown,,53.0,C04.9,,Chemotherapy
-SYNTHETIC-4,DONOR_100,Unknown,,47.0,C43.9,Yes,Hormonal therapy
-SYNTHETIC-4,DONOR_91,Unknown,,35.0,C02.0,No,Ablation
-SYNTHETIC-4,DONOR_92,No,,,C02.1,,Surgery
-SYNTHETIC-4,DONOR_93,No,,58.0,C02.9,Yes,Radiation therapy
-SYNTHETIC-4,DONOR_94,Unknown,,42.0,C34.9,No,Stem cell transplant
-SYNTHETIC-4,DONOR_95,Unknown,,50.0,C43.9,Yes,Endoscopic therapy
-SYNTHETIC-4,DONOR_96,Unknown,,51.0,C04.9,Yes,Stem cell transplant
-SYNTHETIC-4,DONOR_97,No,,42.0,C34.9,Unknown,Endoscopic therapy
-SYNTHETIC-4,DONOR_98,Yes,Not applicable,35.0,C50.9,,Ablation
-SYNTHETIC-4,DONOR_99,Unknown,,50.0,C34.9,,Radiation therapy
-SYNTHETIC-4,DONOR_100,No,,55.0,C43.9,,Radiation therapy
-SYNTHETIC-4,DONOR_91,Yes,Bilateral,40.0,C34.9,Unknown,Bone marrow transplant
-SYNTHETIC-4,DONOR_92,No,,57.0,C67.6,No,Hormonal therapy
-SYNTHETIC-4,DONOR_93,Unknown,,38.0,,Unknown,Radiation therapy
-SYNTHETIC-4,DONOR_94,Yes,Bilateral,44.0,C67.6,Yes,Radiation therapy
-SYNTHETIC-4,DONOR_95,No,,50.0,,Yes,Chemotherapy
-SYNTHETIC-4,DONOR_96,Unknown,,39.0,C67.6,No,Chemotherapy
-SYNTHETIC-4,DONOR_97,No,,57.0,C34.9,No,Photodynamic therapy
-SYNTHETIC-4,DONOR_98,Unknown,,35.0,,No,
-SYNTHETIC-4,DONOR_99,Yes,"Unilateral, Side not specified",45.0,C02.1,Unknown,Ablation
-SYNTHETIC-4,DONOR_100,Unknown,,,C15.9,Yes,Bone marrow transplant
-SYNTHETIC-4,DONOR_91,No,,37.0,,Unknown,Photodynamic therapy
-SYNTHETIC-4,DONOR_92,No,,54.0,C02.1,No,Stem cell transplant
-SYNTHETIC-4,DONOR_93,Unknown,,,C15.9,No,Radiation therapy
-SYNTHETIC-4,DONOR_94,No,,35.0,C02.0,No,Chemotherapy
-SYNTHETIC-4,DONOR_95,No,,40.0,C34.9,Yes,Surgery
-SYNTHETIC-4,DONOR_96,Yes,Right,52.0,C05.1,No,Radiation therapy
-SYNTHETIC-4,DONOR_97,,,58.0,,Yes,Photodynamic therapy
-SYNTHETIC-4,DONOR_98,Yes,Left,,C34.9,Unknown,No treatment
-SYNTHETIC-4,DONOR_99,Yes,Unknown,41.0,C67.6,No,Bone marrow transplant
-SYNTHETIC-4,DONOR_100,No,,50.0,C04.9,Yes,Endoscopic therapy
-SYNTHETIC-4,DONOR_91,Yes,Midline,,,Unknown,
-SYNTHETIC-4,DONOR_92,Yes,"Unilateral, Side not specified",35.0,C03.1,No,Hormonal therapy
-SYNTHETIC-4,DONOR_93,Yes,"Unilateral, Side not specified",47.0,,No,Other targeting molecular therapy
-SYNTHETIC-4,DONOR_94,No,,,C50.9,Yes,Other targeting molecular therapy
-SYNTHETIC-4,DONOR_95,,,48.0,C02.1,No,No treatment
-SYNTHETIC-4,DONOR_96,Yes,Midline,48.0,C02.9,Yes,
-SYNTHETIC-4,DONOR_97,Unknown,,40.0,C43.9,No,
-SYNTHETIC-4,DONOR_98,No,,47.0,C04.0,No,Bone marrow transplant
-SYNTHETIC-4,DONOR_99,Yes,Bilateral,37.0,C67.6,Unknown,Chemotherapy
-SYNTHETIC-4,DONOR_100,Yes,Midline,50.0,C67.6,Unknown,Ablation
-SYNTHETIC-4,DONOR_91,No,,55.0,C06.2,Unknown,
-SYNTHETIC-4,DONOR_92,No,,,C50.9,No,No treatment
-SYNTHETIC-4,DONOR_93,No,,35.0,C06.9,No,Surgery
-SYNTHETIC-4,DONOR_94,No,,39.0,C02.1,Yes,Surgery
-SYNTHETIC-4,DONOR_95,Yes,Bilateral,57.0,C43.1,No,Hormonal therapy
-SYNTHETIC-4,DONOR_96,,,38.0,,No,Ablation
-SYNTHETIC-4,DONOR_97,Unknown,,57.0,C04.9,Unknown,Other targeting molecular therapy
-SYNTHETIC-4,DONOR_98,Unknown,,42.0,C04.9,No,Bone marrow transplant
-SYNTHETIC-4,DONOR_99,Yes,"Unilateral, Side not specified",41.0,C02.0,Yes,Chemotherapy
-SYNTHETIC-4,DONOR_100,,,39.0,,No,Endoscopic therapy
-SYNTHETIC-4,DONOR_91,Yes,,35.0,C02.1,Yes,Bone marrow transplant
-SYNTHETIC-4,DONOR_92,No,,40.0,C02.1,,Surgery
-SYNTHETIC-4,DONOR_93,Unknown,,52.0,,No,Chemotherapy
-SYNTHETIC-4,DONOR_94,Unknown,,52.0,C06.9,Yes,Immunotherapy
-SYNTHETIC-4,DONOR_95,Yes,Unknown,,C43.9,No,Bone marrow transplant
-SYNTHETIC-4,DONOR_96,,,,C34.9,No,Bone marrow transplant
-SYNTHETIC-4,DONOR_97,Unknown,,59.0,C04.9,Yes,Bone marrow transplant
-SYNTHETIC-4,DONOR_98,No,,40.0,,No,Radiation therapy
-SYNTHETIC-4,DONOR_99,No,,55.0,,Unknown,Hormonal therapy
-SYNTHETIC-4,DONOR_100,Yes,Not applicable,45.0,C03.1,Unknown,Other targeting molecular therapy
-SYNTHETIC-4,DONOR_91,No,,,C02.1,Unknown,Surgery
-SYNTHETIC-4,DONOR_92,,,45.0,C43.9,No,Chemotherapy
-SYNTHETIC-4,DONOR_93,,,48.0,C43.9,Unknown,Surgery
-SYNTHETIC-4,DONOR_94,Unknown,,59.0,C02.1,No,Radiation therapy
-SYNTHETIC-4,DONOR_95,Yes,Right,49.0,,,Immunotherapy
-SYNTHETIC-4,DONOR_96,Unknown,,36.0,,No,
-SYNTHETIC-4,DONOR_97,Yes,"Unilateral, Side not specified",56.0,C34.9,Yes,Stem cell transplant
-SYNTHETIC-4,DONOR_98,No,,45.0,C02.1,,Hormonal therapy
-SYNTHETIC-4,DONOR_99,No,,54.0,C43.9,No,Photodynamic therapy
-SYNTHETIC-4,DONOR_100,Yes,Midline,,,Unknown,Bone marrow transplant
-SYNTHETIC-4,DONOR_91,Unknown,,45.0,,Unknown,No treatment
-SYNTHETIC-4,DONOR_92,Unknown,,40.0,C43.9,Unknown,Other targeting molecular therapy
-SYNTHETIC-4,DONOR_93,Yes,"Unilateral, Side not specified",,C64.9,,
-SYNTHETIC-4,DONOR_94,Yes,Midline,52.0,C34.9,Unknown,Stem cell transplant
-SYNTHETIC-4,DONOR_95,No,,55.0,C34.9,Yes,Ablation
-SYNTHETIC-4,DONOR_96,Unknown,,60.0,C64.9,Yes,
-SYNTHETIC-4,DONOR_97,No,,50.0,C02.1,Yes,Ablation
-SYNTHETIC-4,DONOR_98,Unknown,,,C34.9,,Stem cell transplant
-SYNTHETIC-4,DONOR_99,,,60.0,C02.9,Yes,Ablation
-SYNTHETIC-4,DONOR_100,Yes,Midline,43.0,C04.9,Yes,Chemotherapy
-SYNTHETIC-4,DONOR_91,Yes,Not applicable,,C34.9,,Ablation
-SYNTHETIC-4,DONOR_92,No,,60.0,C43.9,No,Hormonal therapy
-SYNTHETIC-4,DONOR_93,Yes,Bilateral,44.0,C02.0,,
-SYNTHETIC-4,DONOR_94,Unknown,,58.0,C43.9,No,Stem cell transplant
-SYNTHETIC-4,DONOR_95,Yes,Midline,49.0,C04.9,No,Surgery
-SYNTHETIC-4,DONOR_96,No,,48.0,,Unknown,Hormonal therapy
-SYNTHETIC-4,DONOR_97,Unknown,,44.0,,Unknown,Hormonal therapy
-SYNTHETIC-4,DONOR_98,Yes,Not applicable,50.0,,,Chemotherapy
-SYNTHETIC-4,DONOR_99,Yes,Unknown,40.0,C06.2,Yes,Stem cell transplant
-SYNTHETIC-4,DONOR_100,Unknown,,,C02.9,Unknown,Other targeting molecular therapy
-SYNTHETIC-2,DONOR_ALL_01,Yes,Right,56.0,C43.9,No,Surgery
-SYNTHETIC-2,DONOR_ALL_02,Yes,Right,56.0,C43.9,No,Surgery
-SYNTHETIC-2,DONOR_NULL,,,56.0,C43.9,,
-SYNTHETIC-2,DONOR_NULL,,,,,,Photodynamic therapy
-SYNTHETIC-2,DONOR_NULL,Yes,,,,,
+SYNTH_01,DONOR_0051,No,,25,I95,No,claim
+SYNTH_01,DONOR_0052,Unknown,,33,I88,Yes,town
+SYNTH_01,DONOR_0053,Yes,,54,I93,,but
+SYNTH_01,DONOR_0054,,,33,I11,,rest
+SYNTH_01,DONOR_0055,Yes,"Unilateral, Side not specified",33,,Yes,Hormone therapy
+SYNTH_01,DONOR_0056,Yes,,34,C71,Yes,Chemotherapy
+SYNTH_01,DONOR_0057,Yes,,42,C74,,who
+SYNTH_01,DONOR_0058,Yes,Bilateral,55,,No,research
+SYNTH_01,DONOR_0059,,,45,I42,,city
+SYNTH_01,DONOR_0060,Yes,Unknown,27,C44,Unknown,more
+SYNTH_01,DONOR_0061,Yes,,34,,No,fight
+SYNTH_01,DONOR_0062,Yes,Bilateral,29,,Unknown,rather
+SYNTH_01,DONOR_0063,No,,43,D70,No,her
+SYNTH_01,DONOR_0064,Yes,Bilateral,12,D37,No,couple
+SYNTH_01,DONOR_0065,No,,11,D74,,along
+SYNTH_01,DONOR_0066,Yes,,17,D47,,defense
+SYNTH_01,DONOR_0067,Yes,"Unilateral, Side not specified",52,D37,No,tree
+SYNTH_01,DONOR_0068,Yes,"Unilateral, Side not specified",38,,No,couple
+SYNTH_01,DONOR_0069,Yes,Not applicable,49,,Yes,Immunotherapy
+SYNTH_01,DONOR_0070,,,15,I23,No,lead
+SYNTH_01,DONOR_0071,Yes,"Unilateral, Side not specified",30,C24,Yes,Chemotherapy
+SYNTH_01,DONOR_0072,Unknown,,54,I87,Unknown,man
+SYNTH_01,DONOR_0073,Yes,Left,20,,Yes,Radiation
+SYNTH_01,DONOR_0074,,,37,I05,Yes,president
+SYNTH_01,DONOR_0075,Yes,,22,D40,No,truth
+SYNTH_01,DONOR_0076,,,29,D83,,everything
+SYNTH_01,DONOR_0077,Yes,,11,,Unknown,early
+SYNTH_01,DONOR_0078,Yes,,42,D88,Unknown,himself
+SYNTH_01,DONOR_0079,,,22,I39,Unknown,indicate
+SYNTH_01,DONOR_0080,Yes,"Unilateral, Side not specified",12,C42,No,ask
+SYNTH_01,DONOR_0081,Yes,Unknown,52,D45,Yes,Chemotherapy
+SYNTH_01,DONOR_0082,Yes,,18,I71,,hot
+SYNTH_01,DONOR_0083,Yes,Midline,39,D41,,thousand
+SYNTH_01,DONOR_0084,Yes,,34,I36,Unknown,lay
+SYNTH_01,DONOR_0085,Yes,,46,,Unknown,sea
+SYNTH_01,DONOR_0086,Unknown,,48,D86,Unknown,know
+SYNTH_01,DONOR_0087,Yes,Bilateral,15,,No,however
+SYNTH_01,DONOR_0088,,,41,I80,,environmental
+SYNTH_01,DONOR_0089,Yes,Bilateral,44,,Unknown,consider
+SYNTH_01,DONOR_0090,Yes,Left,39,C86,No,who
+SYNTH_01,DONOR_0091,No,,46,I79,Unknown,article
+SYNTH_01,DONOR_0092,,,44,I41,Yes,raise
+SYNTH_01,DONOR_0093,Unknown,,17,I29,No,official
+SYNTH_01,DONOR_0094,Yes,,27,D88,No,glass
+SYNTH_01,DONOR_0095,Yes,Not applicable,50,C31,No,throughout
+SYNTH_01,DONOR_0096,Yes,,61,I24,Unknown,wish
+SYNTH_01,DONOR_0097,Yes,,15,I00,Yes,more
+SYNTH_01,DONOR_0098,No,,54,I82,Yes,remain
+SYNTH_01,DONOR_0099,Yes,Not applicable,53,C01,,morning
+SYNTH_01,DONOR_0100,Yes,,37,C09,Yes,Hormone therapy
+SYNTH_01,DONOR_0101,Yes,Unknown,72,C55,,agree
+SYNTH_01,DONOR_0102,No,,32,I65,,someone
+SYNTH_01,DONOR_0103,Yes,Left,12,D07,No,against
+SYNTH_01,DONOR_0104,No,,43,D74,Yes,sister
+SYNTH_01,DONOR_0105,Yes,Right,27,C44,Unknown,learn
+SYNTH_01,DONOR_0106,,,77,I88,Yes,north
+SYNTH_01,DONOR_0107,Yes,Unknown,14,,No,apply
+SYNTH_01,DONOR_0108,Yes,,10,D82,Unknown,thus
+SYNTH_01,DONOR_0109,Unknown,,36,I01,No,task
+SYNTH_01,DONOR_0110,Yes,,25,C08,Unknown,religious
+SYNTH_01,DONOR_0111,Yes,Midline,11,,Unknown,moment
+SYNTH_01,DONOR_0112,Yes,Bilateral,19,,No,past
+SYNTH_01,DONOR_0113,No,,21,I62,No,specific
+SYNTH_01,DONOR_0114,No,,80,I34,,wind
+SYNTH_01,DONOR_0115,Yes,,52,I20,,nothing
+SYNTH_01,DONOR_0116,Yes,,13,C76,Yes,Radiation
+SYNTH_01,DONOR_0117,,,22,I13,Unknown,attack
+SYNTH_01,DONOR_0118,Yes,,41,,No,consumer
+SYNTH_01,DONOR_0119,Yes,Right,35,,No,sort
+SYNTH_01,DONOR_0120,,,23,I90,Yes,thing
+SYNTH_01,DONOR_0121,No,,48,I64,,laugh
+SYNTH_01,DONOR_0122,No,,33,D51,,military
+SYNTH_01,DONOR_0123,Unknown,,42,I43,No,industry
+SYNTH_01,DONOR_0124,Yes,Bilateral,44,D38,No,may
+SYNTH_01,DONOR_0125,Yes,,20,,Unknown,recently
+SYNTH_01,DONOR_0126,Yes,"Unilateral, Side not specified",64,D39,Yes,Radiation
+SYNTH_01,DONOR_0127,Yes,,12,D47,,anything
+SYNTH_01,DONOR_0128,Yes,,32,D54,Unknown,all
+SYNTH_01,DONOR_0129,Yes,,33,D51,Unknown,assume
+SYNTH_01,DONOR_0130,Yes,,30,C24,Unknown,many
+SYNTH_01,DONOR_0131,Yes,,52,D47,Unknown,lay
+SYNTH_01,DONOR_0132,Yes,Left,26,C54,,level
+SYNTH_01,DONOR_0133,Yes,"Unilateral, Side not specified",31,C58,No,much
+SYNTH_01,DONOR_0134,Yes,Right,28,C58,,local
+SYNTH_01,DONOR_0135,Yes,Left,17,C92,,only
+SYNTH_01,DONOR_0136,Yes,"Unilateral, Side not specified",29,C05,Yes,Radiation
+SYNTH_01,DONOR_0137,Yes,Unknown,18,C17,No,its
+SYNTH_01,DONOR_0138,Unknown,,36,I01,Yes,method
+SYNTH_01,DONOR_0139,,,31,D61,Yes,little
+SYNTH_01,DONOR_0140,Yes,,23,,No,this
+SYNTH_01,DONOR_0141,Yes,Left,31,D46,Unknown,thank
+SYNTH_01,DONOR_0142,,,37,D76,No,face
+SYNTH_01,DONOR_0143,Yes,Bilateral,45,D38,Unknown,group
+SYNTH_01,DONOR_0144,Yes,"Unilateral, Side not specified",17,C07,No,election
+SYNTH_01,DONOR_0145,Yes,,46,C22,Unknown,best
+SYNTH_01,DONOR_0146,Yes,,79,I48,No,many
+SYNTH_01,DONOR_0147,Yes,,20,C43,Unknown,economic
+SYNTH_01,DONOR_0148,Yes,Left,69,C90,,break
+SYNTH_01,DONOR_0149,No,,58,D75,Yes,scientist
+SYNTH_01,DONOR_0150,,,61,I41,No,view
+SYNTH_01,DONOR_0151,Yes,Bilateral,45,C19,,forward
+SYNTH_01,DONOR_0152,Yes,,42,I02,,artist
+SYNTH_01,DONOR_0153,Yes,"Unilateral, Side not specified",35,C21,Unknown,side
+SYNTH_01,DONOR_0154,Yes,,44,I82,,page
+SYNTH_01,DONOR_0155,Unknown,,33,D84,No,floor
+SYNTH_01,DONOR_0156,Yes,Right,13,,No,current
+SYNTH_01,DONOR_0157,Yes,Bilateral,11,D02,,outside
+SYNTH_01,DONOR_0158,Yes,Not applicable,47,,No,issue
+SYNTH_01,DONOR_0159,Yes,Midline,36,,Unknown,sure
+SYNTH_01,DONOR_0160,Yes,Bilateral,48,,,organization
+SYNTH_01,DONOR_0161,Yes,Right,33,,No,sure
+SYNTH_01,DONOR_0162,Yes,"Unilateral, Side not specified",10,,No,officer
+SYNTH_01,DONOR_0163,Yes,Bilateral,56,C81,No,drive
+SYNTH_01,DONOR_0164,Yes,Bilateral,49,C58,Yes,Chemotherapy
+SYNTH_01,DONOR_0165,Yes,,45,I30,,maybe
+SYNTH_01,DONOR_0166,Yes,,54,,,way
+SYNTH_01,DONOR_0167,Yes,Unknown,55,C50,,company
+SYNTH_01,DONOR_0168,Yes,"Unilateral, Side not specified",47,C25,Unknown,until
+SYNTH_01,DONOR_0169,Yes,,68,D84,No,simply
+SYNTH_01,DONOR_0170,Yes,,26,I28,Unknown,camera
+SYNTH_01,DONOR_0171,Yes,,37,,Yes,Hormone therapy
+SYNTH_01,DONOR_0172,Yes,Midline,39,,No,a
+SYNTH_01,DONOR_0173,Yes,,20,D43,,soon
+SYNTH_01,DONOR_0174,Yes,"Unilateral, Side not specified",31,D37,Yes,Radiation
+SYNTH_01,DONOR_0175,Unknown,,43,D83,Unknown,understand
+SYNTH_01,DONOR_0176,Yes,Midline,25,C13,No,yet
+SYNTH_01,DONOR_0177,Yes,,14,I79,Unknown,current
+SYNTH_01,DONOR_0178,Yes,Left,49,,,south
+SYNTH_01,DONOR_0179,,,38,I78,,trip
+SYNTH_01,DONOR_0180,Yes,Unknown,63,C58,Unknown,travel
+SYNTH_01,DONOR_0181,,,40,I06,Unknown,eight
+SYNTH_01,DONOR_0182,Yes,Not applicable,24,C48,Unknown,manager
+SYNTH_01,DONOR_0183,Yes,,43,,,now
+SYNTH_01,DONOR_0184,No,,42,I50,,politics
+SYNTH_01,DONOR_0185,Yes,,12,I17,No,land
+SYNTH_01,DONOR_0186,Yes,"Unilateral, Side not specified",23,C64,Unknown,behavior
+SYNTH_01,DONOR_0187,Yes,Not applicable,55,C54,No,account
+SYNTH_01,DONOR_0188,Yes,Left,29,,No,end
+SYNTH_01,DONOR_0189,Yes,,43,I64,Yes,future
+SYNTH_01,DONOR_0190,Unknown,,68,D58,No,ask
+SYNTH_01,DONOR_0191,Yes,Right,32,C76,No,benefit
+SYNTH_01,DONOR_0192,Yes,,27,I59,,church
+SYNTH_01,DONOR_0193,Unknown,,31,I72,Unknown,avoid
+SYNTH_01,DONOR_0194,Yes,Midline,36,C52,,argue
+SYNTH_01,DONOR_0195,Yes,Midline,37,D41,No,book
+SYNTH_01,DONOR_0196,Yes,"Unilateral, Side not specified",38,C35,No,dream
+SYNTH_01,DONOR_0197,,,14,I05,No,management
+SYNTH_01,DONOR_0198,,,31,D64,,window
+SYNTH_01,DONOR_0199,Yes,Left,63,D06,No,per
+SYNTH_01,DONOR_0200,Yes,Bilateral,22,D45,,nearly
+SYNTH_02,DONOR_0251,Yes,Left,36,D08,No,civil
+SYNTH_02,DONOR_0252,No,,33,I74,No,language
+SYNTH_02,DONOR_0253,Yes,Left,11,C59,No,man
+SYNTH_02,DONOR_0254,Yes,Unknown,28,,,nature
+SYNTH_02,DONOR_0255,Unknown,,19,I71,Yes,tax
+SYNTH_02,DONOR_0256,Yes,,45,D74,Unknown,for
+SYNTH_02,DONOR_0257,Yes,Not applicable,10,,,just
+SYNTH_02,DONOR_0258,Yes,,76,D44,,pay
+SYNTH_02,DONOR_0259,Yes,,18,I09,Unknown,soon
+SYNTH_02,DONOR_0260,Yes,,33,I31,Unknown,argue
+SYNTH_02,DONOR_0261,Yes,Right,18,D08,No,onto
+SYNTH_02,DONOR_0262,,,28,D76,No,already
+SYNTH_02,DONOR_0263,Yes,"Unilateral, Side not specified",43,,,baby
+SYNTH_02,DONOR_0264,Unknown,,18,I22,No,member
+SYNTH_02,DONOR_0265,Unknown,,25,I57,No,blue
+SYNTH_02,DONOR_0266,No,,11,I83,,design
+SYNTH_02,DONOR_0267,Yes,Unknown,32,,Yes,Chemotherapy
+SYNTH_02,DONOR_0268,Yes,Not applicable,13,D45,,wear
+SYNTH_02,DONOR_0269,Yes,Right,64,C46,,always
+SYNTH_02,DONOR_0270,,,19,I82,Unknown,exist
+SYNTH_02,DONOR_0271,No,,27,I39,Unknown,sense
+SYNTH_02,DONOR_0272,,,25,D68,Unknown,last
+SYNTH_02,DONOR_0273,Yes,Right,40,D08,,community
+SYNTH_02,DONOR_0274,Yes,Right,49,C09,Unknown,down
+SYNTH_02,DONOR_0275,Yes,Bilateral,15,C25,Unknown,new
+SYNTH_02,DONOR_0276,Unknown,,76,I15,,toward
+SYNTH_02,DONOR_0277,Yes,Not applicable,28,,No,popular
+SYNTH_02,DONOR_0278,Yes,Midline,50,C62,Yes,Immunotherapy
+SYNTH_02,DONOR_0279,Yes,Not applicable,11,D02,Yes,Immunotherapy
+SYNTH_02,DONOR_0280,Unknown,,15,D81,Unknown,why
+SYNTH_02,DONOR_0281,Yes,Not applicable,54,,Unknown,prove
+SYNTH_02,DONOR_0282,Yes,Right,31,C67,,though
+SYNTH_02,DONOR_0283,No,,39,I50,Yes,executive
+SYNTH_02,DONOR_0284,Yes,"Unilateral, Side not specified",27,C63,No,pressure
+SYNTH_02,DONOR_0285,Yes,Not applicable,80,D43,Yes,Chemotherapy
+SYNTH_02,DONOR_0286,Yes,Unknown,11,C74,Yes,Immunotherapy
+SYNTH_02,DONOR_0287,Yes,"Unilateral, Side not specified",54,D03,,new
+SYNTH_02,DONOR_0288,Yes,Right,35,D08,Unknown,strong
+SYNTH_02,DONOR_0289,Unknown,,19,I20,Unknown,already
+SYNTH_02,DONOR_0290,Yes,,67,D46,Yes,Chemotherapy
+SYNTH_02,DONOR_0291,Yes,Midline,55,C50,No,everything
+SYNTH_02,DONOR_0292,Yes,,42,,Unknown,lot
+SYNTH_02,DONOR_0293,Yes,"Unilateral, Side not specified",42,D45,Yes,Hormone therapy
+SYNTH_02,DONOR_0294,No,,15,I31,No,process
+SYNTH_02,DONOR_0295,Yes,"Unilateral, Side not specified",29,C56,No,system
+SYNTH_02,DONOR_0296,Yes,Right,12,C76,Yes,Chemotherapy
+SYNTH_02,DONOR_0297,Yes,,25,D38,Unknown,cause
+SYNTH_02,DONOR_0298,Yes,Right,23,,No,even
+SYNTH_02,DONOR_0299,Yes,"Unilateral, Side not specified",33,C08,,enough
+SYNTH_02,DONOR_0300,Yes,Midline,24,,No,tree
+SYNTH_02,DONOR_0301,Yes,Not applicable,21,D43,Yes,Chemotherapy
+SYNTH_02,DONOR_0302,Yes,Bilateral,61,C04,,but
+SYNTH_02,DONOR_0303,No,,48,D72,Unknown,probably
+SYNTH_02,DONOR_0304,,,42,D78,,side
+SYNTH_02,DONOR_0305,Yes,Midline,14,C33,Unknown,especially
+SYNTH_02,DONOR_0306,Yes,Unknown,14,C21,Unknown,job
+SYNTH_02,DONOR_0307,Yes,,34,I73,No,model
+SYNTH_02,DONOR_0308,Yes,Midline,67,,No,matter
+SYNTH_02,DONOR_0309,Unknown,,17,D81,,business
+SYNTH_02,DONOR_0310,Yes,,27,I42,Unknown,the
+SYNTH_02,DONOR_0311,Yes,,20,,No,base
+SYNTH_02,DONOR_0312,Yes,Left,46,,No,for
+SYNTH_02,DONOR_0313,Yes,Unknown,29,C07,No,second
+SYNTH_02,DONOR_0314,Yes,Bilateral,23,,Unknown,tree
+SYNTH_02,DONOR_0315,,,12,I58,,major
+SYNTH_02,DONOR_0316,Yes,Not applicable,17,,Unknown,investment
+SYNTH_02,DONOR_0317,Yes,"Unilateral, Side not specified",48,C38,No,trouble
+SYNTH_02,DONOR_0318,Unknown,,15,D53,Yes,sometimes
+SYNTH_02,DONOR_0319,Yes,Not applicable,38,,Unknown,adult
+SYNTH_02,DONOR_0320,Yes,Unknown,26,C77,Yes,Immunotherapy
+SYNTH_02,DONOR_0321,No,,35,I11,No,action
+SYNTH_02,DONOR_0322,Yes,Unknown,47,C01,,box
+SYNTH_02,DONOR_0323,Yes,Right,24,D43,Yes,Hormone therapy
+SYNTH_02,DONOR_0324,Yes,,34,C84,Yes,Radiation
+SYNTH_02,DONOR_0325,,,39,I34,Yes,president
+SYNTH_02,DONOR_0326,Yes,Right,24,C18,Yes,Immunotherapy
+SYNTH_02,DONOR_0327,Yes,Left,77,,Unknown,happen
+SYNTH_02,DONOR_0328,,,26,D60,Unknown,media
+SYNTH_02,DONOR_0329,Yes,Not applicable,29,C55,,hard
+SYNTH_02,DONOR_0330,Yes,Unknown,18,D45,,when
+SYNTH_02,DONOR_0331,Yes,,17,,No,call
+SYNTH_02,DONOR_0332,Unknown,,43,I39,Yes,vote
+SYNTH_02,DONOR_0333,Yes,,52,,No,serve
+SYNTH_02,DONOR_0334,No,,13,I01,Yes,probably
+SYNTH_02,DONOR_0335,Yes,"Unilateral, Side not specified",31,,Unknown,stay
+SYNTH_02,DONOR_0336,Yes,,24,D84,Yes,rather
+SYNTH_02,DONOR_0337,Yes,Not applicable,15,,Yes,Radiation
+SYNTH_02,DONOR_0338,,,41,I65,No,size
+SYNTH_02,DONOR_0339,Unknown,,25,D88,Unknown,include
+SYNTH_02,DONOR_0340,Yes,,10,C92,Unknown,for
+SYNTH_02,DONOR_0341,Yes,Bilateral,29,,,late
+SYNTH_02,DONOR_0342,Yes,,19,D78,No,task
+SYNTH_02,DONOR_0343,Yes,Bilateral,37,C90,Yes,Immunotherapy
+SYNTH_02,DONOR_0344,Yes,Midline,14,C76,No,car
+SYNTH_02,DONOR_0345,Yes,,21,I38,Yes,compare
+SYNTH_02,DONOR_0346,,,39,I67,No,majority
+SYNTH_02,DONOR_0347,Yes,Left,14,C73,Unknown,possible
+SYNTH_02,DONOR_0348,Yes,Bilateral,38,D40,No,pull
+SYNTH_02,DONOR_0349,Yes,,63,I16,,draw
+SYNTH_02,DONOR_0350,No,,22,D63,Yes,send
+SYNTH_02,DONOR_0351,Yes,Unknown,37,,Unknown,other
+SYNTH_02,DONOR_0352,Yes,,52,I38,Yes,specific
+SYNTH_02,DONOR_0353,Yes,,45,C63,No,rest
+SYNTH_02,DONOR_0354,Yes,Bilateral,10,,Yes,Immunotherapy
+SYNTH_02,DONOR_0355,Yes,Right,40,C13,No,section
+SYNTH_02,DONOR_0356,Yes,,51,C96,Yes,Hormone therapy
+SYNTH_02,DONOR_0357,Yes,,39,D66,,later
+SYNTH_02,DONOR_0358,Yes,Midline,27,C27,No,memory
+SYNTH_02,DONOR_0359,Yes,"Unilateral, Side not specified",27,C09,No,shake
+SYNTH_02,DONOR_0360,Yes,Not applicable,17,,,other
+SYNTH_02,DONOR_0361,Yes,Right,22,C20,Unknown,these
+SYNTH_02,DONOR_0362,Yes,,18,I57,Yes,your
+SYNTH_02,DONOR_0363,Yes,Bilateral,24,,No,right
+SYNTH_02,DONOR_0364,Yes,,26,D84,No,fill
+SYNTH_02,DONOR_0365,Yes,Bilateral,57,C42,No,show
+SYNTH_02,DONOR_0366,Yes,Left,33,C77,,walk
+SYNTH_02,DONOR_0367,Yes,Right,16,,Yes,Radiation
+SYNTH_02,DONOR_0368,Yes,,35,I50,Unknown,rate
+SYNTH_02,DONOR_0369,,,10,D63,,same
+SYNTH_02,DONOR_0370,Unknown,,39,I32,No,benefit
+SYNTH_02,DONOR_0371,Yes,"Unilateral, Side not specified",26,C92,,light
+SYNTH_02,DONOR_0372,Yes,"Unilateral, Side not specified",42,,Yes,Hormone therapy
+SYNTH_02,DONOR_0373,,,18,I03,Yes,Mr
+SYNTH_02,DONOR_0374,Yes,Right,26,D46,Unknown,when
+SYNTH_02,DONOR_0375,Yes,Bilateral,24,,,fill
+SYNTH_02,DONOR_0376,Yes,Bilateral,24,C46,Yes,Hormone therapy
+SYNTH_02,DONOR_0377,No,,33,I77,No,entire
+SYNTH_02,DONOR_0378,,,28,D81,Unknown,own
+SYNTH_02,DONOR_0379,Yes,,18,I76,Yes,will
+SYNTH_02,DONOR_0380,Yes,,43,I58,,travel
+SYNTH_02,DONOR_0381,Yes,Left,34,C69,No,at
+SYNTH_02,DONOR_0382,Unknown,,40,I54,Yes,choose
+SYNTH_02,DONOR_0383,No,,46,D55,,doctor
+SYNTH_02,DONOR_0384,Unknown,,48,I40,Yes,admit
+SYNTH_02,DONOR_0385,,,22,I37,Unknown,human
+SYNTH_02,DONOR_0386,Yes,Midline,37,D39,Unknown,tree
+SYNTH_02,DONOR_0387,Yes,,19,C23,Unknown,type
+SYNTH_02,DONOR_0388,No,,27,I66,,relate
+SYNTH_02,DONOR_0389,Yes,Unknown,54,,Unknown,father
+SYNTH_02,DONOR_0390,Unknown,,38,I44,,opportunity
+SYNTH_02,DONOR_0391,Unknown,,15,I48,Unknown,someone
+SYNTH_02,DONOR_0392,Yes,,46,C06,Yes,Immunotherapy
+SYNTH_02,DONOR_0393,Yes,,22,I38,,pick
+SYNTH_02,DONOR_0394,Yes,,20,I44,Yes,watch
+SYNTH_02,DONOR_0395,,,17,D68,Unknown,special
+SYNTH_02,DONOR_0396,,,15,D66,No,cultural
+SYNTH_02,DONOR_0397,Yes,Right,23,D41,Yes,Hormone therapy
+SYNTH_02,DONOR_0398,Yes,Midline,10,,No,at
+SYNTH_02,DONOR_0399,Unknown,,21,I30,,cell
+SYNTH_02,DONOR_0400,Yes,Not applicable,37,C50,No,middle
+SYNTH_03,DONOR_0451,Yes,Right,40,D02,Unknown,dream
+SYNTH_03,DONOR_0452,Yes,,59,I53,No,what
+SYNTH_03,DONOR_0453,Yes,,38,,,federal
+SYNTH_03,DONOR_0454,Yes,,25,D41,No,this
+SYNTH_03,DONOR_0455,Yes,Right,46,C47,Yes,Chemotherapy
+SYNTH_03,DONOR_0456,No,,46,D69,No,another
+SYNTH_03,DONOR_0457,No,,23,D52,No,yet
+SYNTH_03,DONOR_0458,Yes,Right,21,C24,Unknown,process
+SYNTH_03,DONOR_0459,Yes,Unknown,44,,Unknown,management
+SYNTH_03,DONOR_0460,Yes,Right,36,,,throw
+SYNTH_03,DONOR_0461,Yes,Bilateral,18,C39,No,air
+SYNTH_03,DONOR_0462,Yes,Not applicable,24,,No,authority
+SYNTH_03,DONOR_0463,,,17,D56,No,event
+SYNTH_03,DONOR_0464,Yes,Unknown,42,C53,Yes,Hormone therapy
+SYNTH_03,DONOR_0465,Unknown,,29,D85,Unknown,once
+SYNTH_03,DONOR_0466,Yes,Unknown,24,,No,safe
+SYNTH_03,DONOR_0467,Yes,Bilateral,15,C04,Unknown,affect
+SYNTH_03,DONOR_0468,Yes,,20,I01,No,eight
+SYNTH_03,DONOR_0469,Unknown,,71,D60,,though
+SYNTH_03,DONOR_0470,Yes,Unknown,19,D06,Unknown,fact
+SYNTH_03,DONOR_0471,Yes,Not applicable,46,,No,with
+SYNTH_03,DONOR_0472,Yes,Not applicable,30,,,our
+SYNTH_03,DONOR_0473,No,,12,D70,Yes,discuss
+SYNTH_03,DONOR_0474,Yes,Left,33,,Unknown,attack
+SYNTH_03,DONOR_0475,Yes,,37,C01,,safe
+SYNTH_03,DONOR_0476,Yes,Unknown,19,C48,,south
+SYNTH_03,DONOR_0477,Yes,Midline,22,C18,Unknown,audience
+SYNTH_03,DONOR_0478,Yes,Not applicable,18,C65,Unknown,current
+SYNTH_03,DONOR_0479,No,,17,D58,Unknown,experience
+SYNTH_03,DONOR_0480,Yes,Unknown,53,C70,No,career
+SYNTH_03,DONOR_0481,Yes,Right,39,C17,No,gun
+SYNTH_03,DONOR_0482,Yes,,29,I67,Yes,party
+SYNTH_03,DONOR_0483,Yes,Unknown,28,C71,,push
+SYNTH_03,DONOR_0484,Yes,"Unilateral, Side not specified",10,C07,,national
+SYNTH_03,DONOR_0485,,,36,D74,No,west
+SYNTH_03,DONOR_0486,Yes,Right,22,C37,Unknown,past
+SYNTH_03,DONOR_0487,Yes,Left,35,D47,Yes,Radiation
+SYNTH_03,DONOR_0488,Yes,Midline,62,D01,,our
+SYNTH_03,DONOR_0489,Yes,Midline,37,,Unknown,share
+SYNTH_03,DONOR_0490,Unknown,,24,I30,Unknown,company
+SYNTH_03,DONOR_0491,Yes,,15,I32,,employee
+SYNTH_03,DONOR_0492,,,27,D64,No,side
+SYNTH_03,DONOR_0493,Yes,,23,,No,increase
+SYNTH_03,DONOR_0494,No,,53,D84,,any
+SYNTH_03,DONOR_0495,Yes,Left,38,C81,Yes,Chemotherapy
+SYNTH_03,DONOR_0496,Unknown,,43,I77,Yes,culture
+SYNTH_03,DONOR_0497,Yes,Unknown,20,C76,,term
+SYNTH_03,DONOR_0498,,,15,D79,Unknown,character
+SYNTH_03,DONOR_0499,Yes,Unknown,21,,Yes,Immunotherapy
+SYNTH_03,DONOR_0500,Unknown,,21,I86,No,thing
+SYNTH_03,DONOR_0501,Yes,,20,I60,Unknown,various
+SYNTH_03,DONOR_0502,Yes,"Unilateral, Side not specified",51,C61,Yes,Chemotherapy
+SYNTH_03,DONOR_0503,Yes,,25,D04,No,human
+SYNTH_03,DONOR_0504,Yes,,37,I40,No,much
+SYNTH_03,DONOR_0505,Yes,,23,D51,Yes,carry
+SYNTH_03,DONOR_0506,Unknown,,34,D77,No,because
+SYNTH_03,DONOR_0507,Yes,Bilateral,16,D44,Yes,Immunotherapy
+SYNTH_03,DONOR_0508,Yes,,44,C51,Yes,Radiation
+SYNTH_03,DONOR_0509,,,52,D76,,from
+SYNTH_03,DONOR_0510,Unknown,,16,I65,No,town
+SYNTH_03,DONOR_0511,No,,59,I15,No,series
+SYNTH_03,DONOR_0512,Unknown,,26,D64,,itself
+SYNTH_03,DONOR_0513,Yes,,11,C15,No,a
+SYNTH_03,DONOR_0514,Yes,,27,C96,,beautiful
+SYNTH_03,DONOR_0515,No,,21,I19,Unknown,term
+SYNTH_03,DONOR_0516,Yes,,26,,Unknown,read
+SYNTH_03,DONOR_0517,No,,20,I23,Yes,popular
+SYNTH_03,DONOR_0518,Yes,,46,C00,,serious
+SYNTH_03,DONOR_0519,No,,13,D57,No,decade
+SYNTH_03,DONOR_0520,,,22,I35,No,give
+SYNTH_03,DONOR_0521,Yes,,30,,Yes,Radiation
+SYNTH_03,DONOR_0522,Unknown,,34,I16,No,never
+SYNTH_03,DONOR_0523,Yes,,24,I60,Unknown,drop
+SYNTH_03,DONOR_0524,Yes,Not applicable,55,,No,spend
+SYNTH_03,DONOR_0525,Yes,,15,D75,No,need
+SYNTH_03,DONOR_0526,,,52,I16,No,know
+SYNTH_03,DONOR_0527,Yes,,21,I44,Yes,church
+SYNTH_03,DONOR_0528,Yes,,45,C25,Yes,Immunotherapy
+SYNTH_03,DONOR_0529,Yes,"Unilateral, Side not specified",23,,Unknown,democratic
+SYNTH_03,DONOR_0530,Yes,,30,C32,Unknown,exist
+SYNTH_03,DONOR_0531,Yes,,53,I14,Unknown,car
+SYNTH_03,DONOR_0532,,,20,I55,,value
+SYNTH_03,DONOR_0533,Yes,Right,30,,Yes,Hormone therapy
+SYNTH_03,DONOR_0534,Yes,"Unilateral, Side not specified",38,C11,Yes,Radiation
+SYNTH_03,DONOR_0535,,,46,D59,No,source
+SYNTH_03,DONOR_0536,Unknown,,67,I28,Yes,address
+SYNTH_03,DONOR_0537,Yes,Unknown,12,C29,Unknown,prepare
+SYNTH_03,DONOR_0538,Yes,,37,D70,Yes,study
+SYNTH_03,DONOR_0539,Yes,"Unilateral, Side not specified",56,,Unknown,audience
+SYNTH_03,DONOR_0540,Yes,,40,C44,No,such
+SYNTH_03,DONOR_0541,Yes,Right,15,,,city
+SYNTH_03,DONOR_0542,Yes,Right,48,,Unknown,performance
+SYNTH_03,DONOR_0543,Yes,,22,C07,Unknown,million
+SYNTH_03,DONOR_0544,No,,56,D83,,always
+SYNTH_03,DONOR_0545,Yes,Unknown,17,C14,,son
+SYNTH_03,DONOR_0546,Yes,,29,,Yes,Immunotherapy
+SYNTH_03,DONOR_0547,No,,13,I53,No,season
+SYNTH_03,DONOR_0548,Yes,,59,I82,No,simple
+SYNTH_03,DONOR_0549,Yes,"Unilateral, Side not specified",10,C22,Unknown,professional
+SYNTH_03,DONOR_0550,No,,32,I59,No,western
+SYNTH_03,DONOR_0551,Yes,Not applicable,13,C70,Yes,Chemotherapy
+SYNTH_03,DONOR_0552,Yes,Midline,43,C47,No,then
+SYNTH_03,DONOR_0553,Yes,Midline,30,C15,No,care
+SYNTH_03,DONOR_0554,Yes,Right,20,C62,,continue
+SYNTH_03,DONOR_0555,Yes,"Unilateral, Side not specified",28,,Yes,Radiation
+SYNTH_03,DONOR_0556,Yes,,22,C63,No,true
+SYNTH_03,DONOR_0557,No,,35,I89,Unknown,describe
+SYNTH_03,DONOR_0558,Yes,Bilateral,34,,No,run
+SYNTH_03,DONOR_0559,Yes,Unknown,38,C79,Yes,Immunotherapy
+SYNTH_03,DONOR_0560,Yes,Right,37,D42,No,civil
+SYNTH_03,DONOR_0561,Unknown,,26,I33,No,customer
+SYNTH_03,DONOR_0562,No,,18,I47,,it
+SYNTH_03,DONOR_0563,Yes,Right,30,D07,,north
+SYNTH_03,DONOR_0564,,,22,I14,Unknown,wish
+SYNTH_03,DONOR_0565,,,38,I41,No,stock
+SYNTH_03,DONOR_0566,No,,28,I07,No,pass
+SYNTH_03,DONOR_0567,,,35,I22,Yes,kitchen
+SYNTH_03,DONOR_0568,Yes,,14,I95,Unknown,itself
+SYNTH_03,DONOR_0569,Yes,Bilateral,22,C56,Yes,Hormone therapy
+SYNTH_03,DONOR_0570,Yes,"Unilateral, Side not specified",10,,,election
+SYNTH_03,DONOR_0571,Yes,,38,C71,No,win
+SYNTH_03,DONOR_0572,Unknown,,12,I38,,need
+SYNTH_03,DONOR_0573,Yes,Unknown,47,C34,Yes,Immunotherapy
+SYNTH_03,DONOR_0574,Yes,,24,C21,Yes,Chemotherapy
+SYNTH_03,DONOR_0575,Yes,,16,I09,Yes,who
+SYNTH_03,DONOR_0576,Yes,Unknown,49,C30,,successful
+SYNTH_03,DONOR_0577,Yes,Unknown,44,C38,Yes,Hormone therapy
+SYNTH_03,DONOR_0578,No,,33,I20,Unknown,effort
+SYNTH_03,DONOR_0579,Yes,,21,I11,,box
+SYNTH_03,DONOR_0580,Yes,Left,54,C14,Unknown,during
+SYNTH_03,DONOR_0581,Yes,,27,I06,,card
+SYNTH_03,DONOR_0582,Yes,,10,I43,Unknown,him
+SYNTH_03,DONOR_0583,,,63,I37,No,phone
+SYNTH_03,DONOR_0584,Yes,Right,60,C35,,key
+SYNTH_03,DONOR_0585,Yes,Midline,42,C95,Unknown,far
+SYNTH_03,DONOR_0586,Unknown,,51,I84,,care
+SYNTH_03,DONOR_0587,Yes,"Unilateral, Side not specified",43,C04,Yes,Hormone therapy
+SYNTH_03,DONOR_0588,No,,29,I63,No,magazine
+SYNTH_03,DONOR_0589,Unknown,,25,I49,,role
+SYNTH_03,DONOR_0590,Yes,Midline,48,D05,No,message
+SYNTH_03,DONOR_0591,Yes,Not applicable,12,D05,Unknown,million
+SYNTH_03,DONOR_0592,Yes,Midline,23,C26,Yes,Chemotherapy
+SYNTH_03,DONOR_0593,Yes,Not applicable,50,,,know
+SYNTH_03,DONOR_0594,Yes,Unknown,49,,,pull
+SYNTH_03,DONOR_0595,Yes,,30,C12,Unknown,country
+SYNTH_03,DONOR_0596,Yes,Left,23,D39,Unknown,economy
+SYNTH_03,DONOR_0597,Unknown,,31,I94,No,hope
+SYNTH_03,DONOR_0598,Yes,,48,I89,Yes,set
+SYNTH_03,DONOR_0599,Yes,Unknown,50,C85,Yes,Chemotherapy
+SYNTH_03,DONOR_0600,Yes,,12,I71,No,article
+SYNTH_04,DONOR_0651,Yes,,50,,,finally
+SYNTH_04,DONOR_0652,Yes,Midline,20,C37,Yes,Immunotherapy
+SYNTH_04,DONOR_0653,Yes,Unknown,24,C32,Unknown,far
+SYNTH_04,DONOR_0654,Yes,Not applicable,33,D46,Yes,Radiation
+SYNTH_04,DONOR_0655,Yes,Unknown,23,C22,No,size
+SYNTH_04,DONOR_0656,Yes,Unknown,31,,Yes,Chemotherapy
+SYNTH_04,DONOR_0657,Yes,,15,I46,Unknown,call
+SYNTH_04,DONOR_0658,Yes,,31,D72,,possible
+SYNTH_04,DONOR_0659,Yes,Unknown,13,D45,Unknown,today
+SYNTH_04,DONOR_0660,Unknown,,46,I95,No,however
+SYNTH_04,DONOR_0661,No,,49,I00,Yes,issue
+SYNTH_04,DONOR_0662,No,,33,D57,Yes,their
+SYNTH_04,DONOR_0663,,,22,I68,,family
+SYNTH_04,DONOR_0664,Unknown,,12,I38,,recently
+SYNTH_04,DONOR_0665,,,43,D60,Unknown,page
+SYNTH_04,DONOR_0666,Yes,Not applicable,46,C33,Unknown,dinner
+SYNTH_04,DONOR_0667,Yes,Midline,10,C73,,job
+SYNTH_04,DONOR_0668,Yes,"Unilateral, Side not specified",40,C55,Unknown,book
+SYNTH_04,DONOR_0669,Yes,,33,C14,Yes,Radiation
+SYNTH_04,DONOR_0670,Yes,Right,30,C90,No,spring
+SYNTH_04,DONOR_0671,Unknown,,35,I58,Yes,toward
+SYNTH_04,DONOR_0672,Yes,,24,I07,Yes,choice
+SYNTH_04,DONOR_0673,Yes,,29,D51,Yes,change
+SYNTH_04,DONOR_0674,Yes,Left,17,,,inside
+SYNTH_04,DONOR_0675,Unknown,,44,I98,Unknown,loss
+SYNTH_04,DONOR_0676,,,20,I95,,artist
+SYNTH_04,DONOR_0677,Unknown,,41,I41,Unknown,any
+SYNTH_04,DONOR_0678,Yes,,41,C18,Unknown,hold
+SYNTH_04,DONOR_0679,Yes,"Unilateral, Side not specified",35,C61,,article
+SYNTH_04,DONOR_0680,Yes,Right,22,C85,Unknown,nothing
+SYNTH_04,DONOR_0681,Yes,,22,I91,No,least
+SYNTH_04,DONOR_0682,Yes,,34,C38,Unknown,tough
+SYNTH_04,DONOR_0683,No,,47,D55,No,population
+SYNTH_04,DONOR_0684,Yes,Unknown,40,D03,No,Mrs
+SYNTH_04,DONOR_0685,,,15,D79,Yes,bed
+SYNTH_04,DONOR_0686,Yes,Right,48,C55,,watch
+SYNTH_04,DONOR_0687,Yes,Midline,35,D42,Unknown,day
+SYNTH_04,DONOR_0688,Yes,Left,27,D37,Unknown,responsibility
+SYNTH_04,DONOR_0689,Yes,Not applicable,12,D47,No,about
+SYNTH_04,DONOR_0690,Unknown,,23,D50,,contain
+SYNTH_04,DONOR_0691,Yes,"Unilateral, Side not specified",22,C70,,get
+SYNTH_04,DONOR_0692,Yes,,21,C29,Yes,Hormone therapy
+SYNTH_04,DONOR_0693,,,14,D81,No,doctor
+SYNTH_04,DONOR_0694,Yes,Midline,40,C31,,check
+SYNTH_04,DONOR_0695,Yes,,15,C58,No,compare
+SYNTH_04,DONOR_0696,Yes,Left,51,,Yes,Immunotherapy
+SYNTH_04,DONOR_0697,Yes,,23,C19,No,face
+SYNTH_04,DONOR_0698,Yes,,19,I70,Unknown,what
+SYNTH_04,DONOR_0699,,,44,D87,No,put
+SYNTH_04,DONOR_0700,Yes,,57,C54,Yes,Chemotherapy
+SYNTH_04,DONOR_0701,Yes,,40,C55,No,race
+SYNTH_04,DONOR_0702,Yes,Unknown,31,,Unknown,senior
+SYNTH_04,DONOR_0703,Yes,,24,C64,Yes,Hormone therapy
+SYNTH_04,DONOR_0704,Unknown,,12,I38,Unknown,lose
+SYNTH_04,DONOR_0705,Unknown,,26,I89,Unknown,skin
+SYNTH_04,DONOR_0706,Yes,Bilateral,35,C35,Unknown,trial
+SYNTH_04,DONOR_0707,Yes,Left,31,,Unknown,worker
+SYNTH_04,DONOR_0708,No,,31,D56,Yes,much
+SYNTH_04,DONOR_0709,,,30,I69,,race
+SYNTH_04,DONOR_0710,Yes,Midline,28,,No,new
+SYNTH_04,DONOR_0711,,,73,D50,No,base
+SYNTH_04,DONOR_0712,Yes,Bilateral,50,C78,No,say
+SYNTH_04,DONOR_0713,Yes,,49,C02,,which
+SYNTH_04,DONOR_0714,Yes,Unknown,38,C69,,stage
+SYNTH_04,DONOR_0715,Yes,"Unilateral, Side not specified",62,D42,Unknown,south
+SYNTH_04,DONOR_0716,Yes,Not applicable,14,C57,No,base
+SYNTH_04,DONOR_0717,No,,12,D81,Unknown,number
+SYNTH_04,DONOR_0718,Yes,Left,32,D01,No,west
+SYNTH_04,DONOR_0719,Yes,,38,D86,No,structure
+SYNTH_04,DONOR_0720,Yes,"Unilateral, Side not specified",36,C59,No,major
+SYNTH_04,DONOR_0721,,,11,D59,,between
+SYNTH_04,DONOR_0722,Yes,Right,16,,,us
+SYNTH_04,DONOR_0723,Yes,Left,47,C94,Unknown,age
+SYNTH_04,DONOR_0724,Yes,"Unilateral, Side not specified",29,,Yes,Radiation
+SYNTH_04,DONOR_0725,Yes,,51,C32,Yes,Hormone therapy
+SYNTH_04,DONOR_0726,,,45,I07,No,strategy
+SYNTH_04,DONOR_0727,Yes,Unknown,65,C40,Unknown,author
+SYNTH_04,DONOR_0728,Yes,Not applicable,25,C77,,summer
+SYNTH_04,DONOR_0729,Yes,Bilateral,36,C28,,fear
+SYNTH_04,DONOR_0730,Yes,Not applicable,35,,,lose
+SYNTH_04,DONOR_0731,Yes,Right,21,,,enough
+SYNTH_04,DONOR_0732,Yes,Left,34,D39,No,stuff
+SYNTH_04,DONOR_0733,Yes,Midline,30,C62,,happy
+SYNTH_04,DONOR_0734,Yes,Unknown,23,C43,Unknown,your
+SYNTH_04,DONOR_0735,Unknown,,27,I05,Unknown,sound
+SYNTH_04,DONOR_0736,Yes,,38,I17,,and
+SYNTH_04,DONOR_0737,Yes,Right,22,,Unknown,modern
+SYNTH_04,DONOR_0738,Yes,Left,33,,Unknown,walk
+SYNTH_04,DONOR_0739,Yes,Not applicable,54,,Unknown,go
+SYNTH_04,DONOR_0740,Yes,,58,D44,,line
+SYNTH_04,DONOR_0741,Yes,,25,I61,Unknown,compare
+SYNTH_04,DONOR_0742,Yes,Left,56,C80,Unknown,majority
+SYNTH_04,DONOR_0743,Yes,Right,32,D38,Yes,Radiation
+SYNTH_04,DONOR_0744,No,,36,D65,Unknown,speak
+SYNTH_04,DONOR_0745,No,,29,D68,No,free
+SYNTH_04,DONOR_0746,Yes,Right,20,C67,Yes,Immunotherapy
+SYNTH_04,DONOR_0747,Yes,,21,I03,Yes,trip
+SYNTH_04,DONOR_0748,Yes,Right,21,,,product
+SYNTH_04,DONOR_0749,Yes,Unknown,20,C50,Unknown,method
+SYNTH_04,DONOR_0750,Yes,,15,C73,No,think
+SYNTH_04,DONOR_0751,Yes,,20,C05,No,list
+SYNTH_04,DONOR_0752,Yes,,41,C34,Unknown,soon
+SYNTH_04,DONOR_0753,,,17,I13,Yes,including
+SYNTH_04,DONOR_0754,No,,15,I90,No,father
+SYNTH_04,DONOR_0755,Yes,Right,52,C55,Unknown,share
+SYNTH_04,DONOR_0756,,,37,I08,Yes,style
+SYNTH_04,DONOR_0757,Yes,,46,C89,Yes,Hormone therapy
+SYNTH_04,DONOR_0758,Yes,Unknown,19,,Unknown,education
+SYNTH_04,DONOR_0759,,,45,D50,,rather
+SYNTH_04,DONOR_0760,,,27,I88,No,chance
+SYNTH_04,DONOR_0761,Unknown,,34,I44,No,name
+SYNTH_04,DONOR_0762,Yes,Midline,51,C88,Yes,Hormone therapy
+SYNTH_04,DONOR_0763,Yes,Not applicable,23,D46,Yes,Chemotherapy
+SYNTH_04,DONOR_0764,Yes,,16,,Yes,Hormone therapy
+SYNTH_04,DONOR_0765,Yes,,38,,No,send
+SYNTH_04,DONOR_0766,Yes,,46,C72,,pick
+SYNTH_04,DONOR_0767,Yes,Left,23,C58,,magazine
+SYNTH_04,DONOR_0768,,,34,D66,Unknown,sea
+SYNTH_04,DONOR_0769,Yes,Bilateral,25,C30,Yes,Chemotherapy
+SYNTH_04,DONOR_0770,,,53,I12,No,wear
+SYNTH_04,DONOR_0771,Yes,,30,C05,Unknown,but
+SYNTH_04,DONOR_0772,Yes,Unknown,37,C50,No,operation
+SYNTH_04,DONOR_0773,No,,23,I43,Yes,continue
+SYNTH_04,DONOR_0774,Yes,"Unilateral, Side not specified",18,,,but
+SYNTH_04,DONOR_0775,Yes,,28,,Yes,Chemotherapy
+SYNTH_04,DONOR_0776,Yes,,20,C70,Yes,Immunotherapy
+SYNTH_04,DONOR_0777,Yes,,26,I21,Yes,give
+SYNTH_04,DONOR_0778,,,53,I59,No,cultural
+SYNTH_04,DONOR_0779,Yes,Midline,23,C39,Unknown,floor
+SYNTH_04,DONOR_0780,,,58,I84,,why
+SYNTH_04,DONOR_0781,,,12,I25,Unknown,him
+SYNTH_04,DONOR_0782,No,,49,D83,Yes,face
+SYNTH_04,DONOR_0783,Unknown,,17,D82,No,life
+SYNTH_04,DONOR_0784,Yes,Not applicable,18,C57,Yes,Immunotherapy
+SYNTH_04,DONOR_0785,Yes,Bilateral,48,C19,,available
+SYNTH_04,DONOR_0786,Yes,,12,I93,Unknown,cut
+SYNTH_04,DONOR_0787,Yes,,27,C35,Unknown,TV
+SYNTH_04,DONOR_0788,Yes,Not applicable,28,C41,Yes,Hormone therapy
+SYNTH_04,DONOR_0789,Yes,,25,D47,Unknown,first
+SYNTH_04,DONOR_0790,Yes,Bilateral,52,C16,No,enough
+SYNTH_04,DONOR_0791,Yes,Bilateral,23,C61,Unknown,husband
+SYNTH_04,DONOR_0792,,,29,I69,Yes,woman
+SYNTH_04,DONOR_0793,Yes,Bilateral,47,,Unknown,business
+SYNTH_04,DONOR_0794,Yes,Right,43,,No,him
+SYNTH_04,DONOR_0795,Yes,Unknown,30,C24,Yes,Immunotherapy
+SYNTH_04,DONOR_0796,No,,20,I18,Yes,business
+SYNTH_04,DONOR_0797,Yes,,37,I21,,present
+SYNTH_04,DONOR_0798,Yes,Not applicable,19,,,house
+SYNTH_04,DONOR_0799,Yes,,30,D79,Unknown,talk
+SYNTH_04,DONOR_0800,Yes,Right,49,C54,,travel

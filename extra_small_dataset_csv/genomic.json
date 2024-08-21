@@ -45,11 +45,11 @@
         "samples": [
             {
                 "genomic_file_sample_id": "TUMOR",
-                "submitter_sample_id": "SAMPLE_0062"
+                "submitter_sample_id": "SAMPLE_0019"
             },
             {
                 "genomic_file_sample_id": "NORMAL",
-                "submitter_sample_id": "SAMPLE_0061"
+                "submitter_sample_id": "SAMPLE_0020"
             }
         ]
     },
@@ -168,7 +168,7 @@
         "samples": [
             {
                 "genomic_file_sample_id": "HG00100",
-                "submitter_sample_id": "SAMPLE_0072"
+                "submitter_sample_id": "SAMPLE_0022"
             }
         ]
     },
@@ -191,7 +191,7 @@
         "samples": [
             {
                 "genomic_file_sample_id": "HG00100",
-                "submitter_sample_id": "SAMPLE_0083"
+                "submitter_sample_id": "SAMPLE_0023"
             }
         ]
     },
@@ -214,7 +214,7 @@
         "samples": [
             {
                 "genomic_file_sample_id": "NA18537",
-                "submitter_sample_id": "SAMPLE_0090"
+                "submitter_sample_id": "SAMPLE_0024"
             }
         ]
     }

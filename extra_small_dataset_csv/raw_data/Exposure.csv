@@ -1,0 +1,6 @@
+program_id,submitter_donor_id,tobacco_smoking_status,tobacco_type,pack_years_smoked
+SYNTH_01,DONOR_0003,,,
+SYNTH_01,DONOR_0004,Current reformed smoker for <= 15 years,Cigarettes,36.0
+SYNTH_02,DONOR_0008,,,
+SYNTH_02,DONOR_0009,"Current reformed smoker, duration not specified",Unknown,
+SYNTH_01,DONOR_ALL_0001,Smoking history not documented,,

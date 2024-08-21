@@ -1,6 +1,6 @@
 [
     {
-        "program_id": "SYNTHETIC-1",
+        "program_id": "SYNTH_01",
         "genomic_file_id": "HG02102",
         "main": {
             "access_method": "file:////app/htsget_server/data/files/HG02102.vcf.gz",
@@ -18,12 +18,12 @@
         "samples": [
             {
                 "genomic_file_sample_id": "HG02102",
-                "submitter_sample_id": "SAMPLE_REGISTRATION_1"
+                "submitter_sample_id": "SAMPLE_0001"
             }
         ]
     },
     {
-        "program_id": "SYNTHETIC-1",
+        "program_id": "SYNTH_01",
         "genomic_file_id": "NA02102",
         "main": {
             "access_method": "file:////app/htsget_server/data/files/NA02102.bam",
@@ -41,12 +41,12 @@
         "samples": [
             {
                 "genomic_file_sample_id": "NA02102",
-                "submitter_sample_id": "SAMPLE_REGISTRATION_2"
+                "submitter_sample_id": "SAMPLE_0002"
             }
         ]
     },
     {
-        "program_id": "SYNTHETIC-1",
+        "program_id": "SYNTH_01",
         "genomic_file_id": "NA02102",
         "main": {
             "access_method": "file:////app/htsget_server/data/files/NA02102.chr1.cram",
@@ -64,12 +64,12 @@
         "samples": [
             {
                 "genomic_file_sample_id": "NA02102",
-                "submitter_sample_id": "SAMPLE_REGISTRATION_3"
+                "submitter_sample_id": "SAMPLE_0003"
             }
         ]
     },
     {
-        "program_id": "SYNTHETIC-2",
+        "program_id": "SYNTH_02",
         "genomic_file_id": "HG02102",
         "main": {
             "access_method": "file:////app/htsget_server/data/files/HG02102.vcf.gz",
@@ -87,12 +87,12 @@
         "samples": [
             {
                 "genomic_file_sample_id": "HG02102",
-                "submitter_sample_id": "SAMPLE_REGISTRATION_1004"
+                "submitter_sample_id": "SAMPLE_1504"
             }
         ]
     },
     {
-        "program_id": "SYNTHETIC-2",
+        "program_id": "SYNTH_02",
         "genomic_file_id": "NA02102",
         "main": {
             "access_method": "file:////app/htsget_server/data/files/NA02102.bam",
@@ -110,12 +110,12 @@
         "samples": [
             {
                 "genomic_file_sample_id": "NA02102",
-				"submitter_sample_id": "SAMPLE_REGISTRATION_1005"
+				"submitter_sample_id": "SAMPLE_1505"
 			}
         ]
     },
     {
-        "program_id": "SYNTHETIC-2",
+        "program_id": "SYNTH_02",
         "genomic_file_id": "NA02102",
         "main": {
             "access_method": "file:////app/htsget_server/data/files/NA02102.chr1.cram",
@@ -133,12 +133,12 @@
         "samples": [
             {
                 "genomic_file_sample_id": "NA02102",
-                "submitter_sample_id": "SAMPLE_REGISTRATION_1006"
+                "submitter_sample_id": "SAMPLE_1506"
             }
         ]
     },
     {
-        "program_id": "SYNTHETIC-3",
+        "program_id": "SYNTH_03",
         "genomic_file_id": "HG02102",
         "main": {
             "access_method": "file:////app/htsget_server/data/files/HG02102.vcf.gz",
@@ -156,12 +156,12 @@
         "samples": [
             {
                 "genomic_file_sample_id": "HG02102",
-                "submitter_sample_id": "SAMPLE_REGISTRATION_2185"
+                "submitter_sample_id": "SAMPLE_3185"
             }
         ]
     },
     {
-        "program_id": "SYNTHETIC-3",
+        "program_id": "SYNTH_03",
         "genomic_file_id": "NA02102",
         "main": {
             "access_method": "file:////app/htsget_server/data/files/NA02102.bam",
@@ -179,12 +179,12 @@
         "samples": [
             {
                 "genomic_file_sample_id": "NA02102",
-				"submitter_sample_id": "SAMPLE_REGISTRATION_2186"
+				"submitter_sample_id": "SAMPLE_3186"
 			}
         ]
     },
     {
-        "program_id": "SYNTHETIC-3",
+        "program_id": "SYNTH_03",
         "genomic_file_id": "NA02102",
         "main": {
             "access_method": "file:////app/htsget_server/data/files/NA02102.chr1.cram",
@@ -207,7 +207,7 @@
         ]
     },
     {
-        "program_id": "SYNTHETIC-4",
+        "program_id": "SYNTH_04",
         "genomic_file_id": "HG02102",
         "main": {
             "access_method": "file:////app/htsget_server/data/files/HG02102.vcf.gz",
@@ -230,7 +230,7 @@
         ]
     },
     {
-        "program_id": "SYNTHETIC-4",
+        "program_id": "SYNTH_04",
         "genomic_file_id": "NA02102",
         "main": {
             "access_method": "file:////app/htsget_server/data/files/NA02102.bam",
@@ -253,7 +253,7 @@
         ]
     },
     {
-        "program_id": "SYNTHETIC-4",
+        "program_id": "SYNTH_04",
         "genomic_file_id": "NA02102",
         "main": {
             "access_method": "file:////app/htsget_server/data/files/NA02102.chr1.cram",
@@ -276,7 +276,7 @@
         ]
     },
     {
-        "program_id": "SYNTHETIC-5",
+        "program_id": "SYNTH_04",
         "genomic_file_id": "HG02102",
         "main": {
             "access_method": "file:////app/htsget_server/data/files/HG02102.vcf.gz",
@@ -299,7 +299,7 @@
         ]
     },
     {
-        "program_id": "SYNTHETIC-5",
+        "program_id": "SYNTH_04",
         "genomic_file_id": "NA02102",
         "main": {
             "access_method": "file:////app/htsget_server/data/files/NA02102.bam",
@@ -322,7 +322,7 @@
         ]
     },
     {
-        "program_id": "SYNTHETIC-5",
+        "program_id": "SYNTH_04",
         "genomic_file_id": "NA02102",
         "main": {
             "access_method": "file:////app/htsget_server/data/files/NA02102.chr1.cram",
@@ -345,7 +345,7 @@
         ]
     },
     {
-        "program_id": "SYNTHETIC-6",
+        "program_id": "SYNTH_01",
         "genomic_file_id": "HG02102",
         "main": {
             "access_method": "file:////app/htsget_server/data/files/HG02102.vcf.gz",
@@ -368,7 +368,7 @@
         ]
     },
     {
-        "program_id": "SYNTHETIC-6",
+        "program_id": "SYNTH_01",
         "genomic_file_id": "NA02102",
         "main": {
             "access_method": "file:////app/htsget_server/data/files/NA02102.bam",
@@ -391,7 +391,7 @@
         ]
     },
     {
-        "program_id": "SYNTHETIC-6",
+        "program_id": "SYNTH_01",
         "genomic_file_id": "NA02102",
         "main": {
             "access_method": "file:////app/htsget_server/data/files/NA02102.chr1.cram",
@@ -414,7 +414,7 @@
         ]
     },
     {
-        "program_id": "SYNTHETIC-7",
+        "program_id": "SYNTH_02",
         "genomic_file_id": "HG02102",
         "main": {
             "access_method": "file:////app/htsget_server/data/files/HG02102.vcf.gz",
@@ -437,7 +437,7 @@
         ]
     },
     {
-        "program_id": "SYNTHETIC-7",
+        "program_id": "SYNTH_02",
         "genomic_file_id": "NA02102",
         "main": {
             "access_method": "file:////app/htsget_server/data/files/NA02102.bam",
@@ -460,7 +460,7 @@
         ]
     },
     {
-        "program_id": "SYNTHETIC-7",
+        "program_id": "SYNTH_02",
         "genomic_file_id": "NA02102",
         "main": {
             "access_method": "file:////app/htsget_server/data/files/NA02102.chr1.cram",
@@ -483,7 +483,7 @@
         ]
     },
     {
-        "program_id": "SYNTHETIC-8",
+        "program_id": "SYNTH_03",
         "genomic_file_id": "HG02102",
         "main": {
             "access_method": "file:////app/htsget_server/data/files/HG02102.vcf.gz",
@@ -506,7 +506,7 @@
         ]
     },
     {
-        "program_id": "SYNTHETIC-8",
+        "program_id": "SYNTH_03",
         "genomic_file_id": "NA02102",
         "main": {
             "access_method": "file:////app/htsget_server/data/files/NA02102.bam",
@@ -529,7 +529,7 @@
         ]
     },
     {
-        "program_id": "SYNTHETIC-8",
+        "program_id": "SYNTH_03",
         "genomic_file_id": "NA02102",
         "main": {
             "access_method": "file:////app/htsget_server/data/files/NA02102.chr1.cram",
@@ -552,7 +552,7 @@
         ]
     },
     {
-        "program_id": "SYNTHETIC-9",
+        "program_id": "SYNTH_04",
         "genomic_file_id": "HG02102",
         "main": {
             "access_method": "file:////app/htsget_server/data/files/HG02102.vcf.gz",
@@ -575,7 +575,7 @@
         ]
     },
     {
-        "program_id": "SYNTHETIC-9",
+        "program_id": "SYNTH_04",
         "genomic_file_id": "NA02102",
         "main": {
             "access_method": "file:////app/htsget_server/data/files/NA02102.bam",
@@ -598,7 +598,7 @@
         ]
     },
     {
-        "program_id": "SYNTHETIC-9",
+        "program_id": "SYNTH_04",
         "genomic_file_id": "NA02102",
         "main": {
             "access_method": "file:////app/htsget_server/data/files/NA02102.chr1.cram",
@@ -621,7 +621,7 @@
         ]
     },
     {
-        "program_id": "SYNTHETIC-10",
+        "program_id": "SYNTH_010",
         "genomic_file_id": "HG02102",
         "main": {
             "access_method": "file:////app/htsget_server/data/files/HG02102.vcf.gz",
@@ -644,7 +644,7 @@
         ]
     },
     {
-        "program_id": "SYNTHETIC-10",
+        "program_id": "SYNTH_010",
         "genomic_file_id": "NA02102",
         "main": {
             "access_method": "file:////app/htsget_server/data/files/NA02102.bam",
@@ -667,7 +667,7 @@
         ]
     },
     {
-        "program_id": "SYNTHETIC-10",
+        "program_id": "SYNTH_010",
         "genomic_file_id": "NA02102",
         "main": {
             "access_method": "file:////app/htsget_server/data/files/NA02102.chr1.cram",
