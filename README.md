@@ -7,19 +7,18 @@ This repository includes three datasets (large, medium, small) in `.csv` format 
   - [`large_dataset_csv`](large_dataset_csv)
   - [`medium_dataset_csv`](medium_dataset_csv)
   - [`small_dataset_csv`](small_dataset_csv)
+  - [`extra_small_dataset_csv`](small_dataset_csv)
 
 - **Scripts:**
 [/src](/src)
   - `json_to_csv.py`: Used to convert the original synthetic data in Katsu to CSV files.
-    - `extra_donors.py`: Adds extra donors to all datasets to test specific scenarios. Imported by `json_to_csv.py`.
-    - `post_processing.py`: Edits data to ensure it meets conditional requirements of the model. Imported by `json_to_csv.py`.
   - `csv_to_ingest.py`: Script for running clinical_etl on a particular dataset to convert into ingestable jsons.
 
 ## How to generate synthetic data using Mockaroo
 
 See synthetic data folder in katsu: [katsu/chord_metadata_service/mohpackets/data](https://github.com/CanDIG/katsu/tree/develop/chord_metadata_service/mohpackets/data)
 
-## How to convert mockaroo jsons to csv files
+## How to convert factory boy jsons to csv files
 
 Setup a python virtual environment and run:
 
@@ -29,7 +28,7 @@ pip install -r requirements.txt
 
 Clone the katsu repo and note the path it is cloned to
 
-Run the `json_to_csv.py` script. Can be run with s, m or l specified for small, medium or large dataset conversion. By default, uses the small dataset.
+Run the `json_to_csv.py` script. Can be run with xs, s, m or l specified for extra-small, small, medium or large dataset conversion. By default, uses the small dataset.
 
 ```commandline
 python src/json_to_csv.py --size m --input /path/to/katsu/chord_metadata_service/mohpackets/data
@@ -61,7 +60,7 @@ Script uses the config files in the given folder to run `CSVConvert` from `clini
 
 ##### `--sample`
 
-Specifying the `--sample` argument will sample the specified number of donors, divided approximately equally amongst the 10 programs in the large_dataset. The maximum number for this argument is 4999, as there are 5000 total donors in this dataset.
+Specifying the `--sample` argument will sample the specified number of donors, divided approximately equally amongst the 4 programs in the large_dataset. The maximum number for this argument is 1999, as there are 2000 total donors in this dataset.
 
 Output csvs and from the clinical_etl transformation will be saved in a folder named `custom_dataset_csv-{sample}`.
 
@@ -70,11 +69,11 @@ Example:
 python src/csv_to_ingest.py --sample 387
 ```
 
-Will create a dataset with 387 donors from the 10 programs in the large dataset, plus the three custom donors [`DONOR_ALL_01`, `DONOR_ALL_02`, `DONOR_NULL`] and save the results to `custom_dataset_csv-387/`. 
+Will create a dataset with 387 donors from the 4 programs in the large dataset, and save the results to `custom_dataset_csv-387/`. 
 
 ##### `--donor-number` and `--number-of-programs`
 
-These two arguments must be specified together. `--donors-per-program` specifies the number of donors to choose per program, and `--number-of-programs` determines how many programs to sample from. So the total number of donors in the dataset will be `--donors-per-program` x `--number-of-programs`. The donors are sampled from the large dataset so the maximum for `--donors-per-program` is 500 and the maximum for `--number-of-programs` is 10.
+These two arguments must be specified together. `--donors-per-program` specifies the number of donors to choose per program, and `--number-of-programs` determines how many programs to sample from. So the total number of donors in the dataset will be `--donors-per-program` x `--number-of-programs`. The donors are sampled from the large dataset so the maximum for `--donors-per-program` is 500 and the maximum for `--number-of-programs` is 4.
 
 All outputs are saved into a folder called: `custom_dataset_csv-{total_donors}`
 
@@ -83,7 +82,7 @@ Example:
 python src/csv_to_ingest.py --donor-number 20 --number-of-programs 4
 ```
 
-Will create a dataset with 80 donors from 4 programs in the large dataset, plus the three custom donors [`DONOR_ALL_01`, `DONOR_ALL_02`, `DONOR_NULL`] and save the results to `custom_dataset_csv-80/`. 
+Will create a dataset with 80 donors from 4 programs in the large dataset, and save the results to `custom_dataset_csv-80/`. 
 
 You can also specify a prefix alongside these arguments, e.g.
 

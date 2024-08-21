@@ -56,7 +56,7 @@ def parse_args():
              " small)"
     )
     parser.add_argument('--sample',
-                        type=ranged_type(int, 1, 2000),
+                        type=ranged_type(int, 1, 1999),
                         required=False,
                         help="Subsets the large dataset equally across the 4 programs based on the total number of "
                              "donors specified. (There will also be the three extra custom donors)")
