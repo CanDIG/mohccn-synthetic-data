@@ -6,6 +6,9 @@ from pathlib import Path
 import pandas as pd
 import sys
 import json
+import requests
+import re
+import random
 pd.options.mode.chained_assignment = None
 
 
@@ -159,6 +162,103 @@ def subsample_csv(donors_per_program: int, number_of_programs: int, prefix: str 
     return csv_output_folder, program_list
 
 
+def get_file_list():
+    response = requests.get("https://api.github.com/repos/CanDIG/htsget_app/git/trees/develop?recursive=1")
+    response_json = response.json()
+    paths = [x['path'] for x in response_json['tree']]
+    data_files = [x for x in paths if re.match("^data/files/.*\\.(vcf\\.gz$|cram$|bam$)", x)]
+    data_files = [x.split('/')[2] for x in data_files]
+    return data_files
+
+
+def get_index_file(file_name):
+    if file_name.endswith("vcf.gz"):
+        return file_name + ".tbi"
+    if file_name.endswith("bam"):
+        return file_name + ".bai"
+    if file_name.endswith("cram"):
+        return file_name + ".crai"
+
+
+def get_sequence_type(file_name):
+    if file_name.endswith("vcf.gz"):
+        return "wgs"
+    if file_name.endswith("bam"):
+        return random.choice(["wgs", "wts"])
+    if file_name.endswith("cram"):
+        return random.choice(["wgs", "wts"])
+
+
+def get_data_type(file_name):
+    if file_name.endswith("vcf.gz"):
+        return "variant"
+    if file_name.endswith("bam"):
+        return "read"
+    if file_name.endswith("cram"):
+        return "read"
+
+
+def create_genomic_json(samples_df):
+    files = get_file_list()
+    with open("htsget_variant_sample_matching.json") as f:
+        variant_samples = json.load(f)
+    linkages = []
+    with open("htsget_variant_sample_matching.json", "r") as f:
+        vcf_samples = json.load(f)
+    samples_dict = samples_df.to_dict('records')
+    id_index = 0
+    file_index = 0
+    for sample in samples_dict:
+        file_to_link = files[file_index]
+        index_file = get_index_file(file_to_link)
+        linkage = {
+            "program_id": sample["program_id"],
+            "genomic_file_id": file_to_link.split(".")[0] + "-" + str(id_index),
+            "main": {
+                "access_method": f"file:////app/htsget_server/data/files/{file_to_link}",
+                "name": file_to_link
+            },
+            "index": {
+                "access_method": f"file:////app/htsget_server/data/files/{index_file}",
+                "name": index_file
+            },
+            "metadata": {
+                "sequence_type": get_sequence_type(file_to_link),
+                "data_type": get_data_type(file_to_link),
+                "reference": "hg38"
+            }
+        }
+        if file_to_link in variant_samples.keys():
+            file_samples = [{
+                "genomic_file_sample_id": variant_samples[file_to_link][0],
+                "submitter_sample_id": sample["submitter_sample_id"]
+            }]
+            if len(variant_samples[file_to_link]) > 1:
+                sample_name = sample["submitter_sample_id"].split("_")[:-1]
+                if len(sample_name) > 1:
+                    sample_name = sample_name[0] + "_" + sample_name[1]
+                else:
+                    sample_name = sample_name[0]
+                sample_num = int(sample["submitter_sample_id"].split("_")[-1])
+                sample_num -= 1
+                file_samples.append({
+                "genomic_file_sample_id": variant_samples[file_to_link][1],
+                "submitter_sample_id": sample_name + "_" + str(sample_num).zfill(4)
+                })
+            linkage["samples"] = file_samples
+        else:
+            linkage["samples"] = [{"genomic_file_sample_id": file_to_link.split(".")[0],
+                                   "submitter_sample_id": sample["submitter_sample_id"]}]
+        linkages.append(linkage)
+        id_index += 1
+        if file_index < len(files) - 1:
+            file_index += 1
+        else:
+            file_index = 0
+
+    return linkages
+
+
 def main():
     args = parse_args()
     size_mapping = {'xs': 'extra_small', 's': 'small', 'm': 'medium', 'l': 'large'}
@@ -209,16 +309,16 @@ def main():
     else:
         size = size_mapping[args.size]
         manifest_path = f"{repo_dir}/{size}_dataset_csv/"
-        dataset_path = f"{manifest_path}raw_data"
+        dataset_path = Path(f"{manifest_path}raw_data")
         if args.prefix:
             replace_identifiers(args.prefix, dataset_path)
             dataset_path = Path(f"{repo_dir}/custom_dataset_csv-{args.prefix}/raw_data")
-            with open(f"{repo_dir}/{size}_dataset_csv/genomic.json") as f:
-                genomic_json = json.load(f)
-            output_dir = dataset_path.parent.absolute()
-            genomic_json = add_prefix_json(args.prefix, genomic_json)
-            with open(f'{output_dir}/genomic.json', 'w+') as f:
-                json.dump(genomic_json, f, indent=4)
+        with open(f"{dataset_path}/SampleRegistration.csv") as f:
+            samples_csv = pd.read_csv(f)
+        output_dir = dataset_path.parent.absolute()
+        genomic_json = create_genomic_json(samples_csv)
+        with open(f'{output_dir}/genomic-test.json', 'w+') as f:
+            json.dump(genomic_json, f, indent=4)
 
     packets, errors = CSVConvert.csv_convert(input_path=dataset_path, manifest_file=f"{manifest_path}/manifest.yml",
                                              minify=True, index_output=False)

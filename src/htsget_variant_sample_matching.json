@@ -1,0 +1,9 @@
+{
+  "test.vcf.gz": ["sample_normal", "sample_tumour"],
+  "HG02102.vcf.gz": ["HG02102"],
+  "NA18537.vcf.gz": ["NA18537"],
+  "NA20787.vcf.gz": ["NA20787"],
+  "multisample_1.vcf.gz": ["NORMAL", "TUMOR"],
+  "multisample_2.vcf.gz": ["NORMAL", "TUMOR"],
+  "sample.compressed.vcf.gz": ["NA00001", "NA00002", "NA00003"]
+}
