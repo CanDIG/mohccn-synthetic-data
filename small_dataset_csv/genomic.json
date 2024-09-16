@@ -98,7 +98,7 @@
         },
         "samples": [
             {
-                "genomic_file_sample_id": "sample.compressed",
+                "genomic_file_sample_id": "NA00002",
                 "submitter_sample_id": "SAMPLE_ALL_0002"
             }
         ]
