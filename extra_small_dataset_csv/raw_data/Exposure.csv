@@ -1,6 +1,6 @@
-program_id,submitter_donor_id,tobacco_smoking_status,tobacco_type,pack_years_smoked
-SYNTH_01,DONOR_0003,,,
-SYNTH_01,DONOR_0004,Current reformed smoker for <= 15 years,Cigarettes,36.0
-SYNTH_02,DONOR_0008,,,
-SYNTH_02,DONOR_0009,"Current reformed smoker, duration not specified",Unknown,
-SYNTH_01,DONOR_ALL_0001,Smoking history not documented,,
+program_id,submitter_donor_id,tobacco_smoking_status,tobacco_type,pack_years_smoked,pack_years_smoked_not_available
+SYNTH_01,DONOR_0003,Lifelong non-smoker (<100 cigarettes smoked in lifetime),,,False
+SYNTH_01,DONOR_0004,Not available,,,False
+SYNTH_02,DONOR_0008,"Current reformed smoker, duration not specified",Not available|Waterpipe|Electronic cigarettes,,False
+SYNTH_02,DONOR_0009,Current reformed smoker for > 15 years,Chewing Tobacco,,True
+SYNTH_01,DONOR_ALL_0001,Current reformed smoker for <= 15 years,Chewing Tobacco|Waterpipe|Cigarettes,6.0,False

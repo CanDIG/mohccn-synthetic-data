@@ -1,85 +1,85 @@
 submitter_specimen_id,program_id,submitter_donor_id,submitter_primary_diagnosis_id,submitter_treatment_id,specimen_collection_date,specimen_storage,specimen_processing,tumour_histological_type,specimen_anatomic_location,specimen_laterality,reference_pathology_confirmed_diagnosis,reference_pathology_confirmed_tumour_presence,tumour_grading_system,tumour_grade,percent_tumour_cells_range,percent_tumour_cells_measurement_method
-SPECIMEN_0001,SYNTH_01,DONOR_0001,DIAG_0001,,"{'day_interval': 30, 'month_interval': 0}",,Formalin fixed - unbuffered,8117/3,C37.9,Right,Unknown,Yes,Nuclear grading system for DCIS,Grade 3,20-50%,Genomics
-SPECIMEN_0002,SYNTH_01,DONOR_0002,DIAG_0002,,"{'day_interval': 47, 'month_interval': 1}",Paraffin block,Cryopreservation in dry ice (dead tissue),8399/3,C02.8,Left,Yes,,WHO grading system for CNS tumours,G4,0-19%,
-SPECIMEN_0003,SYNTH_01,DONOR_0003,DIAG_0003,,"{'day_interval': 46, 'month_interval': 1}",Frozen in vapour phase,Unknown,8637/3,C47.6,Left,,Unknown,Nuclear grading system for DCIS,Grade III,0-19%,Unknown
-SPECIMEN_0004,SYNTH_01,DONOR_0004,DIAG_0004,,"{'day_interval': 37, 'month_interval': 1}",Other,Formalin fixed - buffered,,C31.1,Left,Unknown,No,,Grade 1,51-100%,Genomics
-SPECIMEN_0005,SYNTH_01,DONOR_0005,DIAG_0005,,"{'day_interval': 13, 'month_interval': 0}",Cut slide,,9633/3,C53.1,Unknown,Yes,Not done,Scarff-Bloom-Richardson grading system,Grade Group 4,20-50%,
-SPECIMEN_0006,SYNTH_01,DONOR_0006,DIAG_0006,,,Unknown,Formalin fixed - unbuffered,8798/3,C41.9,Right,No,,,Grade Group 2,51-100%,Pathology estimate by percent nuclei
-SPECIMEN_0007,SYNTH_01,DONOR_0007,DIAG_0007,,"{'day_interval': 57, 'month_interval': 1}",Cut slide,Cryopreservation of live cells in liquid nitrogen,8946/3,C69.2,Unknown,Yes,Yes,Three-tier grading system,Grade III,20-50%,Pathology estimate by percent nuclei
-SPECIMEN_0008,SYNTH_01,DONOR_0008,DIAG_0008,,,Frozen in liquid nitrogen,Unknown,8149/3,C38.3,Unknown,Not done,,FNCLCC grading system,Grade Group 5,51-100%,Genomics
-SPECIMEN_0009,SYNTH_01,DONOR_0009,DIAG_0009,,,,Unknown,8267/3,C77.9,Left,Yes,,,High,51-100%,Image analysis
-SPECIMEN_0010,SYNTH_01,DONOR_0010,DIAG_0010,,"{'day_interval': 85, 'month_interval': 2}",Unknown,Unknown,9928/3,C41.0,,,,Gleason grade group system,Grade 4,51-100%,Pathology estimate by percent nuclei
-SPECIMEN_0011,SYNTH_01,DONOR_0011,DIAG_0011,,"{'day_interval': 33, 'month_interval': 1}",RNA later frozen,Cryopreservation in dry ice (dead tissue),9439/3,C14.8,Unknown,Yes,Yes,Scarff-Bloom-Richardson grading system,G1,,Unknown
-SPECIMEN_0012,SYNTH_01,DONOR_0012,DIAG_0012,,"{'day_interval': 82, 'month_interval': 2}",Not Applicable,Formalin fixed - buffered,8995/3,C39.9,Not applicable,Unknown,Not done,Grading system for GISTs,G4,20-50%,
-SPECIMEN_0013,SYNTH_01,DONOR_0013,DIAG_0013,,"{'day_interval': 12, 'month_interval': 0}",Paraffin block,,9898/3,C48.0,Unknown,No,Unknown,,Grade 2,20-50%,Image analysis
-SPECIMEN_0014,SYNTH_01,DONOR_0014,DIAG_0014,,"{'day_interval': 55, 'month_interval': 1}",Paraffin block,Other,8411/3,C41.4,Unknown,Not done,,Four-tier grading system,GX,51-100%,
-SPECIMEN_0015,SYNTH_01,DONOR_0015,DIAG_0015,,"{'day_interval': 16, 'month_interval': 0}",Not Applicable,,8486/3,C07.9,Unknown,Yes,Unknown,WHO grading system for CNS tumours,G2,,
-SPECIMEN_0016,SYNTH_01,DONOR_0016,DIAG_0016,,,Paraffin block,Unknown,9350/3,C00.2,Not applicable,No,Yes,,High,51-100%,Pathology estimate by percent nuclei
-SPECIMEN_0017,SYNTH_01,DONOR_0017,DIAG_0017,,"{'day_interval': 15, 'month_interval': 0}",Other,Cryopreservation of live cells in liquid nitrogen,8840/3,C74.1,Not applicable,Unknown,Unknown,IASLC grading system,Grade III,0-19%,Unknown
-SPECIMEN_0018,SYNTH_01,DONOR_0018,DIAG_0018,,"{'day_interval': 46, 'month_interval': 1}",,Formalin fixed & paraffin embedded,,C15.4,Unknown,Not done,Not done,Nottingham grading system,Grade I,51-100%,Image analysis
-SPECIMEN_0019,SYNTH_01,DONOR_0019,DIAG_0019,,"{'day_interval': 84, 'month_interval': 2}",,Formalin fixed - buffered,9094/3,C63.2,Right,No,Not done,Gleason grade group system,,0-19%,Unknown
-SPECIMEN_0020,SYNTH_01,DONOR_0020,DIAG_0020,,"{'day_interval': 86, 'month_interval': 2}",Frozen in liquid nitrogen,,9120/3,C11.2,Not applicable,No,,Grading system for GISTs,G3,20-50%,
-SPECIMEN_0021,SYNTH_02,DONOR_0021,DIAG_0021,,"{'day_interval': 25, 'month_interval': 0}",Unknown,,8581/3,C68.8,Right,Not done,Unknown,FNCLCC grading system,G4,0-19%,Genomics
-SPECIMEN_0022,SYNTH_02,DONOR_0022,DIAG_0022,,"{'day_interval': 85, 'month_interval': 2}",Frozen in -70 freezer,Formalin fixed & paraffin embedded,8929/3,C68.9,Right,No,Unknown,Grading system for GISTs,,20-50%,Pathology estimate by percent nuclei
-SPECIMEN_0023,SYNTH_02,DONOR_0023,DIAG_0023,,"{'day_interval': 57, 'month_interval': 1}",Not Applicable,Other,,C47.8,Right,,Unknown,Nuclear grading system for DCIS,,51-100%,Image analysis
-SPECIMEN_0024,SYNTH_02,DONOR_0024,DIAG_0024,,"{'day_interval': 90, 'month_interval': 2}",Unknown,Other,,C77.1,Unknown,Yes,Yes,Grading system for GISTs,Grade 4,51-100%,Unknown
-SPECIMEN_0025,SYNTH_02,DONOR_0025,DIAG_0025,,"{'day_interval': 46, 'month_interval': 1}",RNA later frozen,,8820/3,C41.2,,Not done,Yes,WHO grading system for CNS tumours,High grade,0-19%,Image analysis
-SPECIMEN_0026,SYNTH_02,DONOR_0026,DIAG_0026,,"{'day_interval': 90, 'month_interval': 2}",RNA later frozen,Cryopreservation in dry ice (dead tissue),8101/3,C57.7,Not applicable,Not done,Unknown,Nuclear grading system for DCIS,Grade I,20-50%,
-SPECIMEN_0027,SYNTH_02,DONOR_0027,DIAG_0027,,"{'day_interval': 67, 'month_interval': 2}",Not Applicable,Cryopreservation of live cells in liquid nitrogen,9454/3,C44.2,Left,Yes,,Scarff-Bloom-Richardson grading system,G3,20-50%,Genomics
-SPECIMEN_0028,SYNTH_02,DONOR_0028,DIAG_0028,,"{'day_interval': 77, 'month_interval': 2}",Other,Formalin fixed - buffered,9213/3,C25.3,Not applicable,Yes,No,Grading system for GISTs,G2,0-19%,Unknown
-SPECIMEN_0029,SYNTH_02,DONOR_0029,DIAG_0029,,"{'day_interval': 79, 'month_interval': 2}",RNA later frozen,,8126/3,C70.1,,Yes,Yes,Two-tier grading system,Grade 1,0-19%,Image analysis
-SPECIMEN_0030,SYNTH_02,DONOR_0030,DIAG_0030,,"{'day_interval': 65, 'month_interval': 2}",Unknown,Cryopreservation in dry ice (dead tissue),8730/3,C03.0,,Unknown,,Grading system for GNETs,High grade,51-100%,Pathology estimate by percent nuclei
-SPECIMEN_0031,SYNTH_02,DONOR_0031,DIAG_0031,,"{'day_interval': 18, 'month_interval': 0}",Not Applicable,,9038/3,C11.8,Not applicable,Unknown,,Grading system for GNETs,Low grade,0-19%,Genomics
-SPECIMEN_0032,SYNTH_02,DONOR_0032,DIAG_0032,,"{'day_interval': 5, 'month_interval': 0}",Unknown,Unknown,9167/3,C54.2,Left,Yes,Yes,FNCLCC grading system,,0-19%,Genomics
-SPECIMEN_0033,SYNTH_02,DONOR_0033,DIAG_0033,,"{'day_interval': 17, 'month_interval': 0}",Paraffin block,Other,,C13.2,,Yes,Unknown,IASLC grading system,GX,51-100%,Unknown
-SPECIMEN_0034,SYNTH_02,DONOR_0034,DIAG_0034,,"{'day_interval': 37, 'month_interval': 1}",Frozen in -70 freezer,Formalin fixed - unbuffered,8913/3,C40.3,Not applicable,Yes,Yes,Scarff-Bloom-Richardson grading system,G4,0-19%,Image analysis
-SPECIMEN_0035,SYNTH_02,DONOR_0035,DIAG_0035,,"{'day_interval': 31, 'month_interval': 1}",Frozen in vapour phase,Cryopreservation - other,9391/3,C34.2,Left,Not done,Yes,Two-tier grading system,Grade I,20-50%,
-SPECIMEN_0036,SYNTH_02,DONOR_0036,DIAG_0036,,"{'day_interval': 2, 'month_interval': 0}",,Formalin fixed - buffered,9397/3,C17.3,Not applicable,,No,Gleason grade group system,,51-100%,Unknown
-SPECIMEN_0037,SYNTH_02,DONOR_0037,DIAG_0037,,"{'day_interval': 51, 'month_interval': 1}",,Formalin fixed - unbuffered,,C72.0,,Yes,No,,G2,,Pathology estimate by percent nuclei
-SPECIMEN_0038,SYNTH_02,DONOR_0038,DIAG_0038,,"{'day_interval': 13, 'month_interval': 0}",Cut slide,Formalin fixed - unbuffered,9060/3,C09.0,Not applicable,Unknown,,Gleason grade group system,Grade III,51-100%,Genomics
-SPECIMEN_0039,SYNTH_02,DONOR_0039,DIAG_0039,,"{'day_interval': 77, 'month_interval': 2}",Frozen in liquid nitrogen,Cryopreservation in dry ice (dead tissue),8812/3,C57.2,Not applicable,Not done,Unknown,,G1,51-100%,Pathology estimate by percent nuclei
-SPECIMEN_0040,SYNTH_02,DONOR_0040,DIAG_0040,,"{'day_interval': 53, 'month_interval': 1}",,Formalin fixed - buffered,9514/3,C75.0,Unknown,,Yes,ISUP grading system,Low,0-19%,Genomics
-SPECIMEN_0041,SYNTH_03,DONOR_0041,DIAG_0041,,"{'day_interval': 64, 'month_interval': 2}",Not Applicable,,8922/3,C00.4,,Not done,,Four-tier grading system,G1,51-100%,
-SPECIMEN_0042,SYNTH_03,DONOR_0042,DIAG_0042,,"{'day_interval': 88, 'month_interval': 2}",Paraffin block,,9924/3,C24.9,,Not done,No,Four-tier grading system,GX,0-19%,Unknown
-SPECIMEN_0043,SYNTH_03,DONOR_0043,DIAG_0043,,"{'day_interval': 87, 'month_interval': 2}",Frozen in -70 freezer,Cryopreservation in liquid nitrogen (dead tissue),8499/3,C40.8,Right,,Unknown,,Low,0-19%,Pathology estimate by percent nuclei
-SPECIMEN_0044,SYNTH_03,DONOR_0044,DIAG_0044,,"{'day_interval': 56, 'month_interval': 1}",Frozen in vapour phase,Other,9492/3,C54.2,Not applicable,No,Unknown,Two-tier grading system,Grade I,51-100%,Image analysis
-SPECIMEN_0045,SYNTH_03,DONOR_0045,DIAG_0045,,"{'day_interval': 28, 'month_interval': 0}",Frozen in liquid nitrogen,Cryopreservation in liquid nitrogen (dead tissue),9353/3,C17.2,Unknown,,Unknown,FNCLCC grading system,,51-100%,
-SPECIMEN_0046,SYNTH_03,DONOR_0046,DIAG_0046,,"{'day_interval': 65, 'month_interval': 2}",Unknown,Cryopreservation of live cells in liquid nitrogen,8220/3,C44.1,Not applicable,Not done,,Nuclear grading system for DCIS,Grade Group 4,0-19%,
-SPECIMEN_0047,SYNTH_03,DONOR_0047,DIAG_0047,,,RNA later frozen,,9860/3,C08.8,Not applicable,,No,IASLC grading system,,0-19%,Image analysis
-SPECIMEN_0048,SYNTH_03,DONOR_0048,DIAG_0048,,"{'day_interval': 76, 'month_interval': 2}",Frozen in liquid nitrogen,,8281/3,C09.1,Left,Not done,Yes,,Grade 3,0-19%,Pathology estimate by percent nuclei
-SPECIMEN_0049,SYNTH_03,DONOR_0049,DIAG_0049,,"{'day_interval': 42, 'month_interval': 1}",Frozen in liquid nitrogen,Cryopreservation in dry ice (dead tissue),,C53.9,Right,Yes,No,Nuclear grading system for DCIS,,,Pathology estimate by percent nuclei
-SPECIMEN_0050,SYNTH_03,DONOR_0050,DIAG_0050,,"{'day_interval': 5, 'month_interval': 0}",Unknown,Fresh,8941/3,C20.9,Left,Yes,,Scarff-Bloom-Richardson grading system,,,Image analysis
-SPECIMEN_0051,SYNTH_03,DONOR_0051,DIAG_0051,,"{'day_interval': 59, 'month_interval': 1}",Other,Fresh,8622/3,C07.9,Not applicable,No,,Grading system for GNETs,G1,0-19%,Image analysis
-SPECIMEN_0052,SYNTH_03,DONOR_0052,DIAG_0052,,,Frozen in liquid nitrogen,,,C69.3,Right,Not done,,Gleason grade group system,Grade 4,51-100%,
-SPECIMEN_0053,SYNTH_03,DONOR_0053,DIAG_0053,,"{'day_interval': 37, 'month_interval': 1}",Not Applicable,Formalin fixed & paraffin embedded,9451/3,C71.9,Right,,Not done,Grading system for GISTs,,,Genomics
-SPECIMEN_0054,SYNTH_03,DONOR_0054,DIAG_0054,,"{'day_interval': 34, 'month_interval': 1}",Not Applicable,Formalin fixed & paraffin embedded,9982/3,C44.6,Left,Not done,Yes,ISUP grading system,Grade 4,,
-SPECIMEN_0055,SYNTH_03,DONOR_0055,DIAG_0055,,"{'day_interval': 65, 'month_interval': 2}",Paraffin block,Cryopreservation of live cells in liquid nitrogen,8261/3,C53.0,Left,Not done,Yes,Nottingham grading system,G2,20-50%,
-SPECIMEN_0056,SYNTH_03,DONOR_0056,DIAG_0056,,"{'day_interval': 44, 'month_interval': 1}",Frozen in vapour phase,Formalin fixed & paraffin embedded,9196/3,C67.4,,Not done,,,Grade 3,,
-SPECIMEN_0057,SYNTH_03,DONOR_0057,DIAG_0057,,"{'day_interval': 27, 'month_interval': 0}",Frozen in -70 freezer,,9099/3,C80.9,,Not done,Yes,Nottingham grading system,Grade Group 3,0-19%,Image analysis
-SPECIMEN_0058,SYNTH_03,DONOR_0058,DIAG_0058,,"{'day_interval': 22, 'month_interval': 0}",Frozen in -70 freezer,Other,9185/3,C06.1,Unknown,,Yes,WHO grading system for CNS tumours,Grade II,20-50%,Genomics
-SPECIMEN_0059,SYNTH_03,DONOR_0059,DIAG_0059,,,,Formalin fixed - buffered,9053/3,C67.6,Not applicable,Yes,Unknown,ISUP grading system,G1,20-50%,Unknown
-SPECIMEN_0060,SYNTH_03,DONOR_0060,DIAG_0060,,"{'day_interval': 12, 'month_interval': 0}",,Formalin fixed & paraffin embedded,9514/3,C77.2,Right,,Yes,,Grade III,20-50%,Pathology estimate by percent nuclei
-SPECIMEN_0061,SYNTH_04,DONOR_0061,DIAG_0061,,"{'day_interval': 42, 'month_interval': 1}",Other,Other,9689/3,C72.4,Unknown,Yes,Yes,Grading system for GISTs,High grade,51-100%,Pathology estimate by percent nuclei
-SPECIMEN_0062,SYNTH_04,DONOR_0062,DIAG_0062,,"{'day_interval': 56, 'month_interval': 1}",Frozen in -70 freezer,Cryopreservation in liquid nitrogen (dead tissue),9178/3,C50.0,Left,Not done,,WHO grading system for CNS tumours,G1,0-19%,Image analysis
-SPECIMEN_0063,SYNTH_04,DONOR_0063,DIAG_0063,,"{'day_interval': 5, 'month_interval': 0}",Other,Unknown,,C34.3,Not applicable,Unknown,Unknown,ISUP grading system,Low grade,51-100%,Image analysis
-SPECIMEN_0064,SYNTH_04,DONOR_0064,DIAG_0064,,,Paraffin block,Unknown,,C53.9,Unknown,Yes,,FNCLCC grading system,Grade Group 2,0-19%,
-SPECIMEN_0065,SYNTH_04,DONOR_0065,DIAG_0065,,,Other,Cryopreservation - other,9524/3,C08.1,,Yes,Unknown,,Grade 1,,Genomics
-SPECIMEN_0066,SYNTH_04,DONOR_0066,DIAG_0066,,"{'day_interval': 88, 'month_interval': 2}",Cut slide,Cryopreservation - other,9754/3,C76.1,Unknown,Yes,Not done,Nuclear grading system for DCIS,G4,20-50%,Pathology estimate by percent nuclei
-SPECIMEN_0067,SYNTH_04,DONOR_0067,DIAG_0067,,"{'day_interval': 40, 'month_interval': 1}",Frozen in vapour phase,Cryopreservation - other,8637/3,C26.9,Right,No,No,Two-tier grading system,GX,20-50%,Unknown
-SPECIMEN_0068,SYNTH_04,DONOR_0068,DIAG_0068,,"{'day_interval': 74, 'month_interval': 2}",Frozen in -70 freezer,,9520/3,C09.0,,Not done,Yes,WHO grading system for CNS tumours,GX,,Unknown
-SPECIMEN_0069,SYNTH_04,DONOR_0069,DIAG_0069,,"{'day_interval': 2, 'month_interval': 0}",Paraffin block,,9424/3,C15.0,Left,No,No,ISUP grading system,Grade Group 4,0-19%,Unknown
-SPECIMEN_0070,SYNTH_04,DONOR_0070,DIAG_0070,,"{'day_interval': 29, 'month_interval': 0}",Frozen in liquid nitrogen,Unknown,,C69.8,Not applicable,,Yes,,High,51-100%,Genomics
-SPECIMEN_0071,SYNTH_04,DONOR_0071,DIAG_0071,,"{'day_interval': 89, 'month_interval': 2}",Other,Unknown,,C11.2,Left,Yes,Unknown,FNCLCC grading system,,,Genomics
-SPECIMEN_0072,SYNTH_04,DONOR_0072,DIAG_0072,,"{'day_interval': 18, 'month_interval': 0}",Frozen in liquid nitrogen,Formalin fixed - unbuffered,9175/3,C05.1,Right,Yes,Unknown,Scarff-Bloom-Richardson grading system,G1,20-50%,Image analysis
-SPECIMEN_0073,SYNTH_04,DONOR_0073,DIAG_0073,,"{'day_interval': 62, 'month_interval': 2}",Frozen in -70 freezer,,9738/3,C15.3,Unknown,Not done,Yes,Nuclear grading system for DCIS,,51-100%,Pathology estimate by percent nuclei
-SPECIMEN_0074,SYNTH_04,DONOR_0074,DIAG_0074,,"{'day_interval': 49, 'month_interval': 1}",Frozen in liquid nitrogen,Cryopreservation - other,8869/3,C00.5,Left,,Unknown,,Low grade,51-100%,Genomics
-SPECIMEN_0075,SYNTH_04,DONOR_0075,DIAG_0075,,,Cut slide,Fresh,,C02.0,Left,,Not done,,G3,,Unknown
-SPECIMEN_0076,SYNTH_04,DONOR_0076,DIAG_0076,,"{'day_interval': 78, 'month_interval': 2}",Unknown,,8695/3,C10.2,Right,,Not done,,G4,20-50%,Genomics
-SPECIMEN_0077,SYNTH_04,DONOR_0077,DIAG_0077,,"{'day_interval': 46, 'month_interval': 1}",Cut slide,Other,8813/3,C67.9,Not applicable,Unknown,Yes,Grading system for GNETs,Grade Group 4,20-50%,Genomics
-SPECIMEN_0078,SYNTH_04,DONOR_0078,DIAG_0078,,"{'day_interval': 20, 'month_interval': 0}",Cut slide,Cryopreservation - other,8557/3,C63.9,,Yes,,IASLC grading system,Grade III,,Pathology estimate by percent nuclei
-SPECIMEN_0079,SYNTH_04,DONOR_0079,DIAG_0079,,"{'day_interval': 18, 'month_interval': 0}",,Cryopreservation - other,8406/3,C16.6,,No,,ISUP grading system,,20-50%,Pathology estimate by percent nuclei
-SPECIMEN_0080,SYNTH_04,DONOR_0080,DIAG_0080,,,Other,,9269/3,C54.3,Right,Yes,Unknown,ISUP grading system,Grade 4,51-100%,Pathology estimate by percent nuclei
+SPECIMEN_0001,SYNTH_01,DONOR_0001,DIAG_0001,,"{'day_interval': 33, 'month_interval': 1}",Not available,Cryopreservation of live cells in liquid nitrogen,9658/3,C63.2,Not applicable,No,,,Not available,Not available,
+SPECIMEN_0002,SYNTH_01,DONOR_0002,DIAG_0002,,,Not Applicable,,9109/3,C47.3,Not available,Yes,Not done,Two-tier grading system,,,Image analysis
+SPECIMEN_0003,SYNTH_01,DONOR_0003,DIAG_0003,,"{'day_interval': 43, 'month_interval': 1}",Frozen in -70 freezer,Formalin fixed - unbuffered,8030/3,C11.9,Left,Yes,Yes,,Grade 4,20-50%,Not available
+SPECIMEN_0004,SYNTH_01,DONOR_0004,DIAG_0004,,"{'day_interval': 80, 'month_interval': 2}",RNA later frozen,Cryopreservation in dry ice (dead tissue),9201/3,C68.9,Not applicable,,Not done,Grading system for GISTs,Grade Group 1,Not available,
+SPECIMEN_0005,SYNTH_01,DONOR_0005,DIAG_0005,,"{'day_interval': 16, 'month_interval': 0}",RNA later frozen,Formalin fixed & paraffin embedded,9807/3,C63.7,Left,Not available,Not done,Two-tier grading system,,20-50%,Genomics
+SPECIMEN_0006,SYNTH_01,DONOR_0006,DIAG_0006,,,Paraffin block,Cryopreservation of live cells in liquid nitrogen,8637/3,C72.3,Not available,Not done,Not done,FNCLCC grading system,High grade,Not available,Other
+SPECIMEN_0007,SYNTH_01,DONOR_0007,DIAG_0007,,"{'day_interval': 68, 'month_interval': 2}",Cut slide,Formalin fixed - buffered,8235/3,C41.1,Not applicable,,,WHO grading system for CNS tumours,Grade 2,51-100%,Image analysis
+SPECIMEN_0008,SYNTH_01,DONOR_0008,DIAG_0008,,"{'day_interval': 40, 'month_interval': 1}",RNA later frozen,Not available,9099/3,C54.9,,Not done,Not done,FNCLCC grading system,G3,,Other
+SPECIMEN_0009,SYNTH_01,DONOR_0009,DIAG_0009,,"{'day_interval': 89, 'month_interval': 2}",Frozen in -70 freezer,Cryopreservation in dry ice (dead tissue),9898/3,C44.4,Not available,No,Not done,Grading system for GNETs,Grade Group 2,51-100%,Other
+SPECIMEN_0010,SYNTH_01,DONOR_0010,DIAG_0010,,"{'day_interval': 27, 'month_interval': 0}",,Formalin fixed - buffered,8524/3,C76.8,Left,,Not done,Gleason grade group system,Grade Group 4,,
+SPECIMEN_0011,SYNTH_01,DONOR_0011,DIAG_0011,,"{'day_interval': 12, 'month_interval': 0}",Cut slide,Cryopreservation in liquid nitrogen (dead tissue),8884/3,C77.4,Not available,Not done,Not done,Grading system for GNETs,Grade IV,,Pathology estimate by percent nuclei
+SPECIMEN_0012,SYNTH_01,DONOR_0012,DIAG_0012,,"{'day_interval': 14, 'month_interval': 0}",Not available,,9026/3,C69.1,,Yes,Not available,Nuclear grading system for DCIS,,51-100%,Other
+SPECIMEN_0013,SYNTH_01,DONOR_0013,DIAG_0013,,,Frozen in -70 freezer,Cryopreservation in dry ice (dead tissue),9711/3,C50.8,Left,Yes,Not done,Grading system for GISTs,Grade III,Not available,
+SPECIMEN_0014,SYNTH_01,DONOR_0014,DIAG_0014,,"{'day_interval': 12, 'month_interval': 0}",Not Applicable,Formalin fixed - buffered,8389/3,C39.9,Not applicable,Not available,Not done,Grading system for GISTs,G4,20-50%,Not available
+SPECIMEN_0015,SYNTH_01,DONOR_0015,DIAG_0015,,"{'day_interval': 5, 'month_interval': 0}",Other,,8434/3,C48.0,Not available,No,Not available,,Grade 2,20-50%,Image analysis
+SPECIMEN_0016,SYNTH_01,DONOR_0016,DIAG_0016,,"{'day_interval': 6, 'month_interval': 0}",Other,Other,8441/3,C41.4,Not available,Not done,,Four-tier grading system,GX,51-100%,Not available
+SPECIMEN_0017,SYNTH_01,DONOR_0017,DIAG_0017,,"{'day_interval': 11, 'month_interval': 0}",Not Applicable,,9298/3,C07.9,Not available,Yes,Not available,WHO grading system for CNS tumours,,20-50%,Other
+SPECIMEN_0018,SYNTH_01,DONOR_0018,DIAG_0018,,,Not available,Formalin fixed - unbuffered,,C76.3,Left,No,No,Gleason grade group system,Grade I,51-100%,
+SPECIMEN_0019,SYNTH_01,DONOR_0019,DIAG_0019,,"{'day_interval': 64, 'month_interval': 2}",Not available,Formalin fixed - buffered,9274/3,C44.2,Right,No,,ISUP grading system,Grade 4,Not available,Image analysis
+SPECIMEN_0020,SYNTH_01,DONOR_0020,DIAG_0020,,"{'day_interval': 65, 'month_interval': 2}",Paraffin block,Cryopreservation in liquid nitrogen (dead tissue),9342/3,C55.9,Right,No,Not available,Nuclear grading system for DCIS,Grade 1,20-50%,Other
+SPECIMEN_0021,SYNTH_02,DONOR_0021,DIAG_0021,,,Not Applicable,Cryopreservation in liquid nitrogen (dead tissue),,C77.8,Right,,Yes,Grading system for GISTs,Grade I,Not available,Genomics
+SPECIMEN_0022,SYNTH_02,DONOR_0022,DIAG_0022,,"{'day_interval': 76, 'month_interval': 2}",RNA later frozen,Formalin fixed - buffered,9484/3,C18.4,Not applicable,Not available,No,Four-tier grading system,G3,Not available,Pathology estimate by percent nuclei
+SPECIMEN_0023,SYNTH_02,DONOR_0023,DIAG_0023,,"{'day_interval': 31, 'month_interval': 1}",RNA later frozen,Fresh,9543/3,C11.2,Not applicable,Yes,No,Gleason grade group system,Grade I,0-19%,Genomics
+SPECIMEN_0024,SYNTH_02,DONOR_0024,DIAG_0024,,"{'day_interval': 10, 'month_interval': 0}",Frozen in vapour phase,,9538/3,C76.4,,Not available,,Three-tier grading system,Low grade,20-50%,Pathology estimate by percent nuclei
+SPECIMEN_0025,SYNTH_02,DONOR_0025,DIAG_0025,,"{'day_interval': 27, 'month_interval': 0}",Paraffin block,,8488/3,C16.3,,Not done,Not done,Gleason grade group system,G4,51-100%,Other
+SPECIMEN_0026,SYNTH_02,DONOR_0026,DIAG_0026,,"{'day_interval': 70, 'month_interval': 2}",Frozen in -70 freezer,,9219/3,C47.3,Right,Not done,No,FNCLCC grading system,Low grade,0-19%,Pathology estimate by percent nuclei
+SPECIMEN_0027,SYNTH_02,DONOR_0027,DIAG_0027,,"{'day_interval': 81, 'month_interval': 2}",Frozen in liquid nitrogen,Not available,8713/3,C49.1,Not available,Yes,Not available,,G2,Not available,Genomics
+SPECIMEN_0028,SYNTH_02,DONOR_0028,DIAG_0028,,"{'day_interval': 23, 'month_interval': 0}",Not Applicable,Fresh,9336/3,C31.3,,,Not done,Nuclear grading system for DCIS,Grade Group 4,Not available,Not available
+SPECIMEN_0029,SYNTH_02,DONOR_0029,DIAG_0029,,"{'day_interval': 62, 'month_interval': 2}",Cut slide,Cryopreservation - other,9533/3,C13.8,Left,Yes,Not done,,Grade 3,20-50%,Other
+SPECIMEN_0030,SYNTH_02,DONOR_0030,DIAG_0030,,,Frozen in -70 freezer,,9949/3,C25.1,Right,Not done,,Two-tier grading system,Grade 3,,Other
+SPECIMEN_0031,SYNTH_02,DONOR_0031,DIAG_0031,,"{'day_interval': 87, 'month_interval': 2}",Not available,Formalin fixed & paraffin embedded,8574/3,C42.3,Not applicable,,,WHO grading system for CNS tumours,G1,0-19%,Genomics
+SPECIMEN_0032,SYNTH_02,DONOR_0032,DIAG_0032,,"{'day_interval': 56, 'month_interval': 1}",Other,Other,8497/3,C41.3,Not available,Not available,Not done,Three-tier grading system,,0-19%,Other
+SPECIMEN_0033,SYNTH_02,DONOR_0033,DIAG_0033,,"{'day_interval': 81, 'month_interval': 2}",Cut slide,Cryopreservation in dry ice (dead tissue),9576/3,C18.4,Not available,Yes,Not available,ISUP grading system,High,Not available,Not available
+SPECIMEN_0034,SYNTH_02,DONOR_0034,DIAG_0034,,"{'day_interval': 23, 'month_interval': 0}",Not Applicable,Formalin fixed - unbuffered,9297/3,C24.0,,Not done,No,Three-tier grading system,Low grade,0-19%,Not available
+SPECIMEN_0035,SYNTH_02,DONOR_0035,DIAG_0035,,"{'day_interval': 47, 'month_interval': 1}",,,9828/3,C40.1,Not applicable,No,Yes,Three-tier grading system,Grade 2,20-50%,Image analysis
+SPECIMEN_0036,SYNTH_02,DONOR_0036,DIAG_0036,,"{'day_interval': 40, 'month_interval': 1}",Frozen in -70 freezer,Cryopreservation - other,,C11.0,Not applicable,Yes,Not available,,Not available,,Not available
+SPECIMEN_0037,SYNTH_02,DONOR_0037,DIAG_0037,,"{'day_interval': 61, 'month_interval': 2}",Cut slide,Cryopreservation in dry ice (dead tissue),9570/3,C47.1,Right,Yes,No,,GX,0-19%,
+SPECIMEN_0038,SYNTH_02,DONOR_0038,DIAG_0038,,"{'day_interval': 22, 'month_interval': 0}",Not available,Fresh,8691/3,C72.5,Not applicable,Yes,Not done,Three-tier grading system,Grade 1,0-19%,Image analysis
+SPECIMEN_0039,SYNTH_02,DONOR_0039,DIAG_0039,,"{'day_interval': 67, 'month_interval': 2}",,Formalin fixed - unbuffered,8715/3,C71.5,Not applicable,Yes,,,Grade Group 5,0-19%,
+SPECIMEN_0040,SYNTH_02,DONOR_0040,DIAG_0040,,"{'day_interval': 29, 'month_interval': 0}",Frozen in -70 freezer,Other,8542/3,C74.1,Not available,Yes,Yes,Grading system for GISTs,Not available,0-19%,Genomics
+SPECIMEN_0041,SYNTH_03,DONOR_0041,DIAG_0041,,"{'day_interval': 35, 'month_interval': 1}",OCT embedded,Other,8715/3,C49.9,Not available,No,Yes,Two-tier grading system,Low,,Other
+SPECIMEN_0042,SYNTH_03,DONOR_0042,DIAG_0042,,"{'day_interval': 46, 'month_interval': 1}",Frozen in vapour phase,Cryopreservation of live cells in liquid nitrogen,9781/3,C54.9,Right,Not available,Not done,IASLC grading system,G3,0-19%,Image analysis
+SPECIMEN_0043,SYNTH_03,DONOR_0043,DIAG_0043,,"{'day_interval': 10, 'month_interval': 0}",Other,Not available,,C51.2,Left,Not done,,Grading system for GNETs,Grade 2,20-50%,Pathology estimate by percent nuclei
+SPECIMEN_0044,SYNTH_03,DONOR_0044,DIAG_0044,,"{'day_interval': 64, 'month_interval': 2}",Not available,Formalin fixed & paraffin embedded,8948/3,C75.8,,Yes,,,Not available,0-19%,
+SPECIMEN_0045,SYNTH_03,DONOR_0045,DIAG_0045,,"{'day_interval': 25, 'month_interval': 0}",,,9645/3,C16.3,,No,No,Grading system for GISTs,G3,20-50%,
+SPECIMEN_0046,SYNTH_03,DONOR_0046,DIAG_0046,,"{'day_interval': 54, 'month_interval': 1}",Frozen in -70 freezer,,8943/3,C00.2,Right,Yes,Not available,Two-tier grading system,Low grade,51-100%,Image analysis
+SPECIMEN_0047,SYNTH_03,DONOR_0047,DIAG_0047,,"{'day_interval': 14, 'month_interval': 0}",Frozen in -70 freezer,,9549/3,C53.9,Right,Yes,No,Nuclear grading system for DCIS,,Not available,Pathology estimate by percent nuclei
+SPECIMEN_0048,SYNTH_03,DONOR_0048,DIAG_0048,,"{'day_interval': 44, 'month_interval': 1}",,Other,9849/3,C67.4,Not applicable,Yes,Yes,Scarff-Bloom-Richardson grading system,,Not available,
+SPECIMEN_0049,SYNTH_03,DONOR_0049,DIAG_0049,,"{'day_interval': 76, 'month_interval': 2}",Frozen in liquid nitrogen,Formalin fixed - buffered,9818/3,C63.7,Left,No,No,,G2,0-19%,Genomics
+SPECIMEN_0050,SYNTH_03,DONOR_0050,DIAG_0050,,"{'day_interval': 36, 'month_interval': 1}",Frozen in liquid nitrogen,Cryopreservation of live cells in liquid nitrogen,8625/3,C69.3,Right,Not done,,Gleason grade group system,Grade 4,,Pathology estimate by percent nuclei
+SPECIMEN_0051,SYNTH_03,DONOR_0051,DIAG_0051,,"{'day_interval': 79, 'month_interval': 2}",RNA later frozen,,9368/3,C39.9,Right,,Not done,Three-tier grading system,G1,Not available,Genomics
+SPECIMEN_0052,SYNTH_03,DONOR_0052,DIAG_0052,,"{'day_interval': 46, 'month_interval': 1}",Not Applicable,Formalin fixed & paraffin embedded,8337/3,C44.6,Left,Not done,Yes,ISUP grading system,Grade 4,,Other
+SPECIMEN_0053,SYNTH_03,DONOR_0053,DIAG_0053,,"{'day_interval': 35, 'month_interval': 1}",,Not available,8205/3,C54.8,Not applicable,Not available,Yes,Nuclear grading system for DCIS,Low grade,20-50%,Image analysis
+SPECIMEN_0054,SYNTH_03,DONOR_0054,DIAG_0054,,"{'day_interval': 80, 'month_interval': 2}",Frozen in liquid nitrogen,Not available,9402/3,C25.4,Right,Not available,,Two-tier grading system,,,
+SPECIMEN_0055,SYNTH_03,DONOR_0055,DIAG_0055,,"{'day_interval': 12, 'month_interval': 0}",Paraffin block,Formalin fixed - buffered,9460/3,C54.8,,Yes,,Scarff-Bloom-Richardson grading system,GX,20-50%,Not available
+SPECIMEN_0056,SYNTH_03,DONOR_0056,DIAG_0056,,"{'day_interval': 21, 'month_interval': 0}",Cut slide,Cryopreservation of live cells in liquid nitrogen,9626/3,C10.4,,Yes,Not available,FNCLCC grading system,Grade Group 3,Not available,Other
+SPECIMEN_0057,SYNTH_03,DONOR_0057,DIAG_0057,,"{'day_interval': 14, 'month_interval': 0}",Frozen in vapour phase,Cryopreservation in dry ice (dead tissue),8440/3,C76.5,Right,,No,Four-tier grading system,Grade II,20-50%,Genomics
+SPECIMEN_0058,SYNTH_03,DONOR_0058,DIAG_0058,,"{'day_interval': 54, 'month_interval': 1}",,Other,8695/3,C71.1,Not applicable,Not available,,Scarff-Bloom-Richardson grading system,,,Pathology estimate by percent nuclei
+SPECIMEN_0059,SYNTH_03,DONOR_0059,DIAG_0059,,"{'day_interval': 70, 'month_interval': 2}",RNA later frozen,Cryopreservation in dry ice (dead tissue),9299/3,C80.9,Not available,Not available,No,Two-tier grading system,Grade Group 1,20-50%,Genomics
+SPECIMEN_0060,SYNTH_03,DONOR_0060,DIAG_0060,,"{'day_interval': 41, 'month_interval': 1}",Frozen in vapour phase,Other,9329/3,C30.1,Left,,Yes,Grading system for GNETs,GX,51-100%,Other
+SPECIMEN_0061,SYNTH_04,DONOR_0061,DIAG_0061,,,Not available,Formalin fixed - buffered,9174/3,C71.4,Right,,,,G1,51-100%,Not available
+SPECIMEN_0062,SYNTH_04,DONOR_0062,DIAG_0062,,"{'day_interval': 32, 'month_interval': 1}",Frozen in vapour phase,Cryopreservation in liquid nitrogen (dead tissue),9377/3,C41.8,Right,Not available,Not done,Four-tier grading system,G3,,
+SPECIMEN_0063,SYNTH_04,DONOR_0063,DIAG_0063,,"{'day_interval': 81, 'month_interval': 2}",Not available,Formalin fixed - buffered,9803/3,C72.0,Not available,Not available,No,Scarff-Bloom-Richardson grading system,G4,51-100%,Other
+SPECIMEN_0064,SYNTH_04,DONOR_0064,DIAG_0064,,"{'day_interval': 29, 'month_interval': 0}",Other,Formalin fixed - unbuffered,8877/3,C77.2,Right,Not available,Not available,Grading system for GNETs,Grade II,0-19%,Genomics
+SPECIMEN_0065,SYNTH_04,DONOR_0065,DIAG_0065,,"{'day_interval': 85, 'month_interval': 2}",Frozen in -70 freezer,Formalin fixed & paraffin embedded,8050/3,C47.9,Not available,,,Grading system for GNETs,,Not available,Pathology estimate by percent nuclei
+SPECIMEN_0066,SYNTH_04,DONOR_0066,DIAG_0066,,"{'day_interval': 18, 'month_interval': 0}",Other,Formalin fixed - unbuffered,,C53.8,Not applicable,Not done,Yes,Four-tier grading system,Grade 1,51-100%,Not available
+SPECIMEN_0067,SYNTH_04,DONOR_0067,DIAG_0067,,"{'day_interval': 71, 'month_interval': 2}",Other,Cryopreservation in dry ice (dead tissue),9548/3,C50.3,Left,Yes,,Three-tier grading system,High grade,20-50%,
+SPECIMEN_0068,SYNTH_04,DONOR_0068,DIAG_0068,,"{'day_interval': 51, 'month_interval': 1}",Frozen in -70 freezer,Cryopreservation in liquid nitrogen (dead tissue),8790/3,C18.9,Not applicable,No,Not available,Four-tier grading system,Grade IV,51-100%,
+SPECIMEN_0069,SYNTH_04,DONOR_0069,DIAG_0069,,"{'day_interval': 69, 'month_interval': 2}",Cut slide,,8436/3,C25.0,Left,Yes,,Grading system for GISTs,Grade 1,Not available,Genomics
+SPECIMEN_0070,SYNTH_04,DONOR_0070,DIAG_0070,,,Paraffin block,Cryopreservation of live cells in liquid nitrogen,9971/3,C69.2,Not applicable,No,Not available,Two-tier grading system,Grade 4,Not available,Pathology estimate by percent nuclei
+SPECIMEN_0071,SYNTH_04,DONOR_0071,DIAG_0071,,"{'day_interval': 38, 'month_interval': 1}",Other,,8561/3,C11.0,Left,Not done,No,ISUP grading system,Low,0-19%,Other
+SPECIMEN_0072,SYNTH_04,DONOR_0072,DIAG_0072,,"{'day_interval': 72, 'month_interval': 2}",,Cryopreservation in dry ice (dead tissue),9351/3,C02.0,Not applicable,Not done,Yes,Nottingham grading system,Grade Group 1,51-100%,Other
+SPECIMEN_0073,SYNTH_04,DONOR_0073,DIAG_0073,,"{'day_interval': 66, 'month_interval': 2}",Not available,Not available,9606/3,C55.9,Left,Not available,No,Grading system for GISTs,Low,51-100%,Other
+SPECIMEN_0074,SYNTH_04,DONOR_0074,DIAG_0074,,"{'day_interval': 18, 'month_interval': 0}",Frozen in vapour phase,Cryopreservation of live cells in liquid nitrogen,8732/3,C41.0,Not applicable,,Not done,,Grade Group 2,Not available,Other
+SPECIMEN_0075,SYNTH_04,DONOR_0075,DIAG_0075,,"{'day_interval': 31, 'month_interval': 1}",RNA later frozen,,8736/3,C77.4,Not available,Yes,No,,Grade Group 4,51-100%,Not available
+SPECIMEN_0076,SYNTH_04,DONOR_0076,DIAG_0076,,"{'day_interval': 24, 'month_interval': 0}",Not available,Fresh,8243/3,C14.8,Left,Yes,Yes,Scarff-Bloom-Richardson grading system,,51-100%,Genomics
+SPECIMEN_0077,SYNTH_04,DONOR_0077,DIAG_0077,,,Cut slide,Formalin fixed - unbuffered,,C04.0,Right,,Not available,Grading system for GISTs,,0-19%,
+SPECIMEN_0078,SYNTH_04,DONOR_0078,DIAG_0078,,,Frozen in vapour phase,Formalin fixed - buffered,9608/3,C72.3,Right,No,Not available,WHO grading system for CNS tumours,,,Image analysis
+SPECIMEN_0079,SYNTH_04,DONOR_0079,DIAG_0079,,,Cut slide,Other,9027/3,C32.1,Not applicable,Not available,,Not available,,Not available,Genomics
+SPECIMEN_0080,SYNTH_04,DONOR_0080,DIAG_0080,,"{'day_interval': 87, 'month_interval': 2}",Not available,,8011/3,C00.8,,Yes,,Three-tier grading system,G4,0-19%,Not available
 SPECIMEN_NULL_0001,SYNTH_01,DONOR_NULL_0001,DIAG_NULL_0001,,,,,,,,,,,,51-100%,
 SPECIMEN_NULL_0002,SYNTH_01,DONOR_NULL_0002,DIAG_NULL_0002,,,,,,,,,,,,51-100%,
-SPECIMEN_ALL_0001,SYNTH_01,DONOR_ALL_0001,DIAG_ALL_0001,,"{'day_interval': 29, 'month_interval': 0}",Frozen in -70 freezer,Cryopreservation - other,9110/3,C24.9,Not applicable,No,No,WHO grading system for CNS tumours,GX,20-50%,Genomics
-SPECIMEN_ALL_0002,SYNTH_01,DONOR_ALL_0002,DIAG_ALL_0002,,"{'day_interval': 32, 'month_interval': 1}",Paraffin block,Cryopreservation - other,9177/3,C40.8,Not applicable,Not done,Yes,Four-tier grading system,High,20-50%,Unknown
+SPECIMEN_ALL_0001,SYNTH_01,DONOR_ALL_0001,DIAG_ALL_0001,,"{'day_interval': 25, 'month_interval': 0}",Other,Cryopreservation - other,9390/3,C77.5,Left,Not done,,Nuclear grading system for DCIS,,,
+SPECIMEN_ALL_0002,SYNTH_01,DONOR_ALL_0002,DIAG_ALL_0002,,"{'day_interval': 89, 'month_interval': 2}",,Cryopreservation - other,9765/3,C76.7,Not available,No,Not available,Grading system for GISTs,Grade Group 5,Not available,Not available

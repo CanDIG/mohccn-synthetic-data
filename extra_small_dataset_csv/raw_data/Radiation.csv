@@ -1,13 +1,13 @@
-program_id,submitter_donor_id,submitter_treatment_id,radiation_therapy_modality,radiation_therapy_type,radiation_therapy_fractions,radiation_therapy_dosage,anatomical_site_irradiated,radiation_boost,reference_radiation_treatment_id
-SYNTH_01,DONOR_0001,TREATMENT_0002,,Internal,,,Left Knee,False,
-SYNTH_01,DONOR_0002,TREATMENT_0004,,,,,,False,
-SYNTH_01,DONOR_0003,TREATMENT_0006,Teleradiotherapy neutrons (procedure),,,,Trachea,False,
-SYNTH_01,DONOR_0004,TREATMENT_0008,Teleradiotherapy protons (procedure),,,,Bilateral Ankle,False,
-SYNTH_01,DONOR_0005,TREATMENT_0010,Teleradiotherapy using electrons (procedure),Internal,,,Right Pelvis,False,
-SYNTH_02,DONOR_0006,TREATMENT_0012,Teleradiotherapy protons (procedure),External,,,Left Hip,False,
-SYNTH_02,DONOR_0007,TREATMENT_0014,Radiopharmaceutical,External,,,Upper Left Leg,False,
-SYNTH_02,DONOR_0008,TREATMENT_0016,Radiopharmaceutical,,,,Bilateral Supraclavicular Nodes,False,
-SYNTH_02,DONOR_0009,TREATMENT_0018,Teleradiotherapy neutrons (procedure),External,,,,False,
-SYNTH_02,DONOR_0010,TREATMENT_0020,,,,,Sacrum,False,
-SYNTH_01,DONOR_NULL_0001,TREATMENT_NULL_0002,,,,,,,understand
-SYNTH_01,DONOR_ALL_0001,TREATMENT_ALL_0002,,External,,,,False,
+program_id,submitter_donor_id,submitter_treatment_id,radiation_therapy_modality,radiation_therapy_type,radiation_therapy_fractions,radiation_therapy_fractions_not_available,radiation_therapy_dosage,radiation_therapy_dosage_not_available,anatomical_site_irradiated,radiation_boost,reference_radiation_treatment_id
+SYNTH_01,DONOR_0001,TREATMENT_0002,,,24.0,True,91.0,True,FINGER (INCLUDING THUMBS),No,
+SYNTH_01,DONOR_0002,TREATMENT_0004,Teleradiotherapy using electrons (procedure),Not available,5.0,True,,False,,No,
+SYNTH_01,DONOR_0003,TREATMENT_0006,Not available,Internal,17.0,True,,False,LEFT TIBIA,No,
+SYNTH_01,DONOR_0004,TREATMENT_0008,Teleradiotherapy protons (procedure),,,False,,False,SKULL,No,
+SYNTH_01,DONOR_0005,TREATMENT_0010,Brachytherapy (procedure),Internal,,False,,False,LEFT EAR,No,
+SYNTH_02,DONOR_0006,TREATMENT_0012,Brachytherapy (procedure),Internal,,False,,False,SCROTUM,No,
+SYNTH_02,DONOR_0007,TREATMENT_0014,Megavoltage radiation therapy using photons (procedure),External,,False,,False,RIGHT FOOT,No,
+SYNTH_02,DONOR_0008,TREATMENT_0016,Radiopharmaceutical,Internal,13.0,True,72.0,True,PELVIS,No,
+SYNTH_02,DONOR_0009,TREATMENT_0018,Other,,,False,,False,PROSTATE,No,
+SYNTH_02,DONOR_0010,TREATMENT_0020,Not available,Not available,,False,,False,LEFT EYELID,No,
+SYNTH_01,DONOR_NULL_0001,TREATMENT_NULL_0002,,,,False,,False,,,part
+SYNTH_01,DONOR_ALL_0001,TREATMENT_ALL_0002,Teleradiotherapy neutrons (procedure),,,False,,False,Not available,No,
