@@ -1,337 +1,337 @@
 program_id,submitter_donor_id,submitter_treatment_id,systemic_therapy_type,days_per_cycle,days_per_cycle_not_available,number_of_cycles,number_of_cycles_not_available,start_date,end_date,drug_reference_database,drug_name,drug_reference_identifier,drug_dose_units,prescribed_cumulative_drug_dose,prescribed_cumulative_drug_dose_not_available,actual_cumulative_drug_dose,actual_cumulative_drug_dose_not_available
-SYNTH_01,DONOR_0001,TREATMENT_0001,Hormone therapy,3.0,False,,True,"{'day_interval': 112, 'month_interval': 3}","{'day_interval': 141, 'month_interval': 4}",NCI Thesaurus,Degarelix,C48385,,,True,82.9,False
-SYNTH_01,DONOR_0001,TREATMENT_0001,Hormone therapy,2.0,False,,True,"{'day_interval': 150, 'month_interval': 4}","{'day_interval': 155, 'month_interval': 5}",NCI Thesaurus,Fluoxymesterone,C507,IU/kg,,True,72.4,False
-SYNTH_01,DONOR_0001,TREATMENT_0002,Immunotherapy,,True,,True,"{'day_interval': 266, 'month_interval': 8}","{'day_interval': 276, 'month_interval': 9}",RxNorm,Ipilimumab,1094833,Not available,35.6,False,51.6,False
-SYNTH_01,DONOR_0001,TREATMENT_0002,Immunotherapy,15.0,False,10.0,False,,,RxNorm,Nivolumab,1597876,mg/m2,20.8,False,99.9,False
-SYNTH_01,DONOR_0002,TREATMENT_0003,Immunotherapy,,True,6.0,False,,,PubChem,Nivolumab,469753496,cells/kg,45.8,False,,True
-SYNTH_01,DONOR_0002,TREATMENT_0003,Hormone therapy,,True,1.0,False,"{'day_interval': 216, 'month_interval': 7}","{'day_interval': 276, 'month_interval': 9}",NCI Thesaurus,Degarelix,C48385,mg/kg,48.1,False,86.8,False
-SYNTH_01,DONOR_0002,TREATMENT_0004,Hormone therapy,16.0,False,1.0,False,,,RxNorm,Degarelix,475230,mg/m2,46.7,False,67.6,False
-SYNTH_01,DONOR_0002,TREATMENT_0004,Hormone therapy,21.0,False,7.0,False,"{'day_interval': 301, 'month_interval': 9}","{'day_interval': 335, 'month_interval': 11}",,,,g/m2,31.2,False,62.2,False
-SYNTH_01,DONOR_0003,TREATMENT_0005,Chemotherapy,18.0,False,,True,"{'day_interval': 325, 'month_interval': 10}","{'day_interval': 325, 'month_interval': 10}",NCI Thesaurus,Fludarabine,C1094,IU/kg,28.1,False,60.7,False
-SYNTH_01,DONOR_0003,TREATMENT_0005,Hormone therapy,,True,4.0,False,"{'day_interval': 322, 'month_interval': 10}","{'day_interval': 330, 'month_interval': 10}",RxNorm,Degarelix,475230,ug/m2,43.6,False,90.4,False
-SYNTH_01,DONOR_0003,TREATMENT_0006,Hormone therapy,22.0,False,8.0,False,"{'day_interval': 207, 'month_interval': 6}","{'day_interval': 211, 'month_interval': 6}",,,,cells/kg,38.6,False,64.0,False
-SYNTH_01,DONOR_0003,TREATMENT_0006,Hormone therapy,28.0,False,3.0,False,"{'day_interval': 191, 'month_interval': 6}","{'day_interval': 203, 'month_interval': 6}",,,,g/m2,22.5,False,67.6,False
-SYNTH_01,DONOR_0004,TREATMENT_0007,Immunotherapy,27.0,False,3.0,False,"{'day_interval': 60, 'month_interval': 1}","{'day_interval': 67, 'month_interval': 2}",RxNorm,Pembrolizumab,1547545,cells/kg,38.0,False,81.5,False
-SYNTH_01,DONOR_0004,TREATMENT_0007,Immunotherapy,7.0,False,10.0,False,"{'day_interval': 50, 'month_interval': 1}","{'day_interval': 79, 'month_interval': 2}",RxNorm,Ipilimumab,1094833,IU/m2,29.1,False,70.4,False
-SYNTH_01,DONOR_0004,TREATMENT_0008,Chemotherapy,30.0,False,10.0,False,,,PubChem,Paclitaxel,36314,,25.7,False,,True
-SYNTH_01,DONOR_0004,TREATMENT_0008,Hormone therapy,,True,7.0,False,,,RxNorm,Fluoxymesterone,4494,Not available,,True,,True
-SYNTH_01,DONOR_0005,TREATMENT_0009,Chemotherapy,19.0,False,4.0,False,"{'day_interval': 273, 'month_interval': 8}","{'day_interval': 386, 'month_interval': 12}",,,,g/m2,43.5,False,51.0,False
-SYNTH_01,DONOR_0005,TREATMENT_0009,Immunotherapy,10.0,False,5.0,False,"{'day_interval': 192, 'month_interval': 6}","{'day_interval': 361, 'month_interval': 11}",PubChem,Ipilimumab,472634117,,28.0,False,,True
-SYNTH_01,DONOR_0005,TREATMENT_0010,Hormone therapy,5.0,False,8.0,False,"{'day_interval': 274, 'month_interval': 9}","{'day_interval': 370, 'month_interval': 12}",RxNorm,Buserelin,1825,,47.6,False,,True
-SYNTH_01,DONOR_0005,TREATMENT_0010,Immunotherapy,,True,8.0,False,,,PubChem,Pembrolizumab,469691028,Not available,33.0,False,,True
-SYNTH_01,DONOR_0006,TREATMENT_0011,Immunotherapy,4.0,False,6.0,False,"{'day_interval': 155, 'month_interval': 5}","{'day_interval': 188, 'month_interval': 6}",PubChem,Pembrolizumab,469691028,mg/m2,30.4,False,86.3,False
-SYNTH_01,DONOR_0006,TREATMENT_0011,Chemotherapy,2.0,False,,True,"{'day_interval': 299, 'month_interval': 9}","{'day_interval': 404, 'month_interval': 13}",RxNorm,Idarubicin,5650,g/m2,29.0,False,68.8,False
-SYNTH_01,DONOR_0006,TREATMENT_0012,Hormone therapy,24.0,False,9.0,False,"{'day_interval': 161, 'month_interval': 5}","{'day_interval': 162, 'month_interval': 5}",,,,IU/kg,31.5,False,68.0,False
-SYNTH_01,DONOR_0006,TREATMENT_0012,Hormone therapy,23.0,False,7.0,False,"{'day_interval': 169, 'month_interval': 5}","{'day_interval': 174, 'month_interval': 5}",PubChem,Degarelix,16136245,mg/kg,38.9,False,,True
-SYNTH_01,DONOR_0007,TREATMENT_0013,Hormone therapy,11.0,False,9.0,False,"{'day_interval': 297, 'month_interval': 9}","{'day_interval': 309, 'month_interval': 10}",RxNorm,Tamoxifen,10324,,40.5,False,60.2,False
-SYNTH_01,DONOR_0007,TREATMENT_0013,Immunotherapy,16.0,False,,True,"{'day_interval': 258, 'month_interval': 8}","{'day_interval': 304, 'month_interval': 9}",,,,IU/m2,46.2,False,66.5,False
-SYNTH_01,DONOR_0007,TREATMENT_0014,Chemotherapy,10.0,False,6.0,False,,,,,,,,True,72.7,False
-SYNTH_01,DONOR_0007,TREATMENT_0014,Hormone therapy,4.0,False,9.0,False,"{'day_interval': 286, 'month_interval': 9}","{'day_interval': 324, 'month_interval': 10}",PubChem,Buserelin,50225,,47.0,False,68.1,False
-SYNTH_01,DONOR_0008,TREATMENT_0015,Hormone therapy,12.0,False,1.0,False,"{'day_interval': 275, 'month_interval': 9}","{'day_interval': 307, 'month_interval': 10}",PubChem,Fluoxymesterone,6446,ug/m2,43.9,False,57.7,False
-SYNTH_01,DONOR_0008,TREATMENT_0015,Hormone therapy,14.0,False,3.0,False,"{'day_interval': 340, 'month_interval': 11}","{'day_interval': 353, 'month_interval': 11}",RxNorm,Diethylstilbestrol,3390,cells/kg,35.8,False,86.4,False
-SYNTH_01,DONOR_0008,TREATMENT_0016,Chemotherapy,15.0,False,1.0,False,"{'day_interval': 151, 'month_interval': 4}","{'day_interval': 168, 'month_interval': 5}",RxNorm,Methotrexate,6851,cells/kg,31.9,False,,True
-SYNTH_01,DONOR_0008,TREATMENT_0016,Chemotherapy,4.0,False,4.0,False,"{'day_interval': 195, 'month_interval': 6}","{'day_interval': 196, 'month_interval': 6}",RxNorm,Carboplatin,40048,Not available,45.5,False,,True
-SYNTH_01,DONOR_0009,TREATMENT_0017,Immunotherapy,13.0,False,,True,{'day_interval': 167},"{'day_interval': 227, 'month_interval': 7}",PubChem,Pembrolizumab,469691028,mg/kg,23.0,False,,True
-SYNTH_01,DONOR_0009,TREATMENT_0017,Immunotherapy,26.0,False,4.0,False,{'day_interval': 120},"{'day_interval': 214, 'month_interval': 7}",NCI Thesaurus,Nivolumab,C68814,g/m2,42.0,False,76.9,False
-SYNTH_01,DONOR_0009,TREATMENT_0018,Chemotherapy,,True,10.0,False,,,PubChem,Paclitaxel,36314,g/m2,44.8,False,,True
-SYNTH_01,DONOR_0009,TREATMENT_0018,Chemotherapy,21.0,False,3.0,False,"{'day_interval': 181, 'month_interval': 5}","{'day_interval': 205, 'month_interval': 6}",NCI Thesaurus,Fludarabine,C1094,cells/kg,,True,85.6,False
-SYNTH_01,DONOR_0010,TREATMENT_0019,Immunotherapy,20.0,False,3.0,False,"{'day_interval': 278, 'month_interval': 9}","{'day_interval': 290, 'month_interval': 9}",PubChem,Ipilimumab,472634117,,23.5,False,62.0,False
-SYNTH_01,DONOR_0010,TREATMENT_0019,Immunotherapy,13.0,False,3.0,False,"{'day_interval': 198, 'month_interval': 6}","{'day_interval': 283, 'month_interval': 9}",RxNorm,Ipilimumab,1094833,cells/kg,21.9,False,,True
-SYNTH_01,DONOR_0010,TREATMENT_0020,Chemotherapy,15.0,False,1.0,False,,,NCI Thesaurus,Carboplatin,C1282,g/m2,48.9,False,98.2,False
-SYNTH_01,DONOR_0010,TREATMENT_0020,Chemotherapy,,True,9.0,False,"{'day_interval': 82, 'month_interval': 2}","{'day_interval': 82, 'month_interval': 2}",RxNorm,Paclitaxel,56946,cells/kg,27.3,False,85.4,False
-SYNTH_01,DONOR_0011,TREATMENT_0021,Chemotherapy,22.0,False,,True,"{'day_interval': 137, 'month_interval': 4}","{'day_interval': 201, 'month_interval': 6}",NCI Thesaurus,Fludarabine,C1094,g/m2,34.8,False,60.5,False
-SYNTH_01,DONOR_0011,TREATMENT_0021,Hormone therapy,30.0,False,4.0,False,"{'day_interval': 79, 'month_interval': 2}","{'day_interval': 150, 'month_interval': 4}",,,,IU/m2,22.6,False,94.6,False
-SYNTH_01,DONOR_0011,TREATMENT_0022,Chemotherapy,11.0,False,1.0,False,"{'day_interval': 73, 'month_interval': 2}","{'day_interval': 97, 'month_interval': 3}",NCI Thesaurus,Carboplatin,C1282,g/m2,20.3,False,89.4,False
-SYNTH_01,DONOR_0011,TREATMENT_0022,Immunotherapy,28.0,False,4.0,False,"{'day_interval': 28, 'month_interval': 0}","{'day_interval': 49, 'month_interval': 1}",NCI Thesaurus,Ipilimumab,C2654,IU/kg,35.9,False,97.6,False
-SYNTH_01,DONOR_0012,TREATMENT_0023,Hormone therapy,12.0,False,6.0,False,{'day_interval': 117},"{'day_interval': 179, 'month_interval': 5}",NCI Thesaurus,Fluoxymesterone,C507,Not available,32.8,False,69.7,False
-SYNTH_01,DONOR_0012,TREATMENT_0023,Hormone therapy,5.0,False,7.0,False,{'day_interval': 113},"{'day_interval': 188, 'month_interval': 6}",,,,cells/kg,49.2,False,59.0,False
-SYNTH_01,DONOR_0012,TREATMENT_0024,Hormone therapy,22.0,False,,True,,,PubChem,Diethylstilbestrol,448537,IU/m2,28.3,False,57.3,False
-SYNTH_01,DONOR_0012,TREATMENT_0024,Hormone therapy,15.0,False,8.0,False,"{'day_interval': 297, 'month_interval': 9}","{'day_interval': 339, 'month_interval': 11}",NCI Thesaurus,Tamoxifen,C62078,mg/m2,22.4,False,,True
-SYNTH_01,DONOR_0013,TREATMENT_0025,Immunotherapy,1.0,False,7.0,False,"{'day_interval': 286, 'month_interval': 9}","{'day_interval': 325, 'month_interval': 10}",PubChem,Nivolumab,469753496,,44.1,False,67.8,False
-SYNTH_01,DONOR_0013,TREATMENT_0025,Chemotherapy,,True,,True,,,RxNorm,Fludarabine,24698,cells/kg,33.4,False,80.7,False
-SYNTH_01,DONOR_0013,TREATMENT_0026,Chemotherapy,22.0,False,5.0,False,"{'day_interval': 79, 'month_interval': 2}","{'day_interval': 95, 'month_interval': 3}",NCI Thesaurus,Idarubicin,C562,Not available,29.4,False,87.0,False
-SYNTH_01,DONOR_0013,TREATMENT_0026,Chemotherapy,15.0,False,5.0,False,,,PubChem,Carboplatin,426756,,39.6,False,92.5,False
-SYNTH_01,DONOR_0014,TREATMENT_0027,Hormone therapy,30.0,False,4.0,False,,,NCI Thesaurus,Fluoxymesterone,C507,cells/kg,35.5,False,54.6,False
-SYNTH_01,DONOR_0014,TREATMENT_0027,Immunotherapy,26.0,False,7.0,False,"{'day_interval': 226, 'month_interval': 7}","{'day_interval': 238, 'month_interval': 7}",RxNorm,Nivolumab,1597876,mg/m2,21.2,False,91.3,False
-SYNTH_01,DONOR_0014,TREATMENT_0028,Immunotherapy,,True,4.0,False,,,,,,IU/m2,32.7,False,96.8,False
-SYNTH_01,DONOR_0014,TREATMENT_0028,Chemotherapy,,True,,True,"{'day_interval': 308, 'month_interval': 10}","{'day_interval': 314, 'month_interval': 10}",RxNorm,Fludarabine,24698,,,True,66.1,False
-SYNTH_01,DONOR_0015,TREATMENT_0029,Immunotherapy,,True,7.0,False,"{'day_interval': 210, 'month_interval': 6}","{'day_interval': 224, 'month_interval': 7}",PubChem,Pembrolizumab,469691028,cells/kg,,True,76.6,False
-SYNTH_01,DONOR_0015,TREATMENT_0029,Chemotherapy,29.0,False,1.0,False,"{'day_interval': 216, 'month_interval': 7}","{'day_interval': 225, 'month_interval': 7}",RxNorm,Carboplatin,40048,,28.8,False,57.6,False
-SYNTH_01,DONOR_0015,TREATMENT_0030,Chemotherapy,29.0,False,10.0,False,"{'day_interval': 153, 'month_interval': 5}","{'day_interval': 155, 'month_interval': 5}",RxNorm,Fludarabine,24698,IU/kg,26.1,False,60.4,False
-SYNTH_01,DONOR_0015,TREATMENT_0030,Chemotherapy,30.0,False,4.0,False,"{'day_interval': 477, 'month_interval': 15}","{'day_interval': 478, 'month_interval': 15}",RxNorm,Methotrexate,6851,IU/kg,29.7,False,51.3,False
-SYNTH_01,DONOR_0016,TREATMENT_0031,Chemotherapy,25.0,False,2.0,False,"{'day_interval': 256, 'month_interval': 8}","{'day_interval': 260, 'month_interval': 8}",NCI Thesaurus,Carboplatin,C1282,,26.8,False,89.5,False
-SYNTH_01,DONOR_0016,TREATMENT_0031,Hormone therapy,4.0,False,6.0,False,"{'day_interval': 140, 'month_interval': 4}","{'day_interval': 207, 'month_interval': 6}",,,,,23.3,False,,True
-SYNTH_01,DONOR_0016,TREATMENT_0032,Chemotherapy,6.0,False,,True,"{'day_interval': 181, 'month_interval': 5}","{'day_interval': 224, 'month_interval': 7}",PubChem,Paclitaxel,36314,mg/m2,38.2,False,60.2,False
-SYNTH_01,DONOR_0016,TREATMENT_0032,Hormone therapy,,True,,True,,,PubChem,Degarelix,16136245,cells/kg,35.9,False,,True
-SYNTH_01,DONOR_0017,TREATMENT_0033,Chemotherapy,26.0,False,3.0,False,"{'day_interval': 335, 'month_interval': 11}","{'day_interval': 368, 'month_interval': 12}",PubChem,Idarubicin,42890,mg/kg,,True,,True
-SYNTH_01,DONOR_0017,TREATMENT_0033,Immunotherapy,9.0,False,4.0,False,,,,,,Not available,23.7,False,96.7,False
-SYNTH_01,DONOR_0017,TREATMENT_0034,Hormone therapy,12.0,False,5.0,False,,,PubChem,Buserelin,50225,cells/kg,,True,74.7,False
-SYNTH_01,DONOR_0017,TREATMENT_0034,Hormone therapy,,True,9.0,False,"{'day_interval': 245, 'month_interval': 8}","{'day_interval': 284, 'month_interval': 9}",RxNorm,Degarelix,475230,g/m2,27.1,False,,True
-SYNTH_01,DONOR_0018,TREATMENT_0035,Immunotherapy,12.0,False,3.0,False,,,RxNorm,Durvalumab,1919503,cells/kg,22.2,False,85.6,False
-SYNTH_01,DONOR_0018,TREATMENT_0035,Immunotherapy,10.0,False,7.0,False,"{'day_interval': 2, 'month_interval': 0}","{'day_interval': 2, 'month_interval': 0}",,,,cells/kg,36.0,False,63.9,False
-SYNTH_01,DONOR_0018,TREATMENT_0036,Hormone therapy,25.0,False,2.0,False,"{'day_interval': 470, 'month_interval': 15}","{'day_interval': 536, 'month_interval': 17}",RxNorm,Tamoxifen,10324,Not available,,True,68.8,False
-SYNTH_01,DONOR_0018,TREATMENT_0036,Immunotherapy,21.0,False,8.0,False,"{'day_interval': 418, 'month_interval': 13}","{'day_interval': 519, 'month_interval': 17}",PubChem,Ipilimumab,472634117,,,True,69.6,False
-SYNTH_01,DONOR_0019,TREATMENT_0037,Immunotherapy,,True,4.0,False,"{'day_interval': 99, 'month_interval': 3}","{'day_interval': 158, 'month_interval': 5}",NCI Thesaurus,Durvalumab,C103194,,44.7,False,,True
-SYNTH_01,DONOR_0019,TREATMENT_0037,Hormone therapy,16.0,False,5.0,False,"{'day_interval': 96, 'month_interval': 3}","{'day_interval': 221, 'month_interval': 7}",NCI Thesaurus,Buserelin,C320,,41.8,False,69.3,False
-SYNTH_01,DONOR_0019,TREATMENT_0038,Chemotherapy,16.0,False,3.0,False,,,NCI Thesaurus,Carboplatin,C1282,mg/kg,41.5,False,69.3,False
-SYNTH_01,DONOR_0019,TREATMENT_0038,Chemotherapy,,True,2.0,False,"{'day_interval': 390, 'month_interval': 12}","{'day_interval': 415, 'month_interval': 13}",NCI Thesaurus,Carboplatin,C1282,mg/m2,49.7,False,,True
-SYNTH_01,DONOR_0020,TREATMENT_0039,Immunotherapy,12.0,False,3.0,False,"{'day_interval': 157, 'month_interval': 5}","{'day_interval': 184, 'month_interval': 6}",PubChem,Nivolumab,469753496,Not available,28.2,False,66.0,False
-SYNTH_01,DONOR_0020,TREATMENT_0039,Hormone therapy,14.0,False,4.0,False,"{'day_interval': 94, 'month_interval': 3}","{'day_interval': 186, 'month_interval': 6}",NCI Thesaurus,Diethylstilbestrol,C433,,42.0,False,77.9,False
-SYNTH_01,DONOR_0020,TREATMENT_0040,Hormone therapy,23.0,False,,True,"{'day_interval': 93, 'month_interval': 3}","{'day_interval': 121, 'month_interval': 3}",,,,IU/m2,41.2,False,91.6,False
-SYNTH_01,DONOR_0020,TREATMENT_0040,Immunotherapy,,True,4.0,False,"{'day_interval': 87, 'month_interval': 2}","{'day_interval': 123, 'month_interval': 4}",NCI Thesaurus,Durvalumab,C103194,ug/m2,44.1,False,,True
-SYNTH_02,DONOR_0021,TREATMENT_0041,Hormone therapy,26.0,False,10.0,False,"{'day_interval': 372, 'month_interval': 12}","{'day_interval': 417, 'month_interval': 13}",RxNorm,Degarelix,475230,Not available,39.0,False,94.3,False
-SYNTH_02,DONOR_0021,TREATMENT_0041,Chemotherapy,4.0,False,1.0,False,"{'day_interval': 167, 'month_interval': 5}","{'day_interval': 410, 'month_interval': 13}",PubChem,Carboplatin,426756,mg/kg,22.2,False,71.3,False
-SYNTH_02,DONOR_0021,TREATMENT_0042,Chemotherapy,29.0,False,3.0,False,"{'day_interval': 114, 'month_interval': 3}","{'day_interval': 118, 'month_interval': 3}",PubChem,Paclitaxel,36314,mg/kg,44.0,False,54.0,False
-SYNTH_02,DONOR_0021,TREATMENT_0042,Chemotherapy,1.0,False,3.0,False,"{'day_interval': 122, 'month_interval': 4}","{'day_interval': 123, 'month_interval': 4}",RxNorm,Carboplatin,40048,mg/kg,20.4,False,74.0,False
-SYNTH_02,DONOR_0022,TREATMENT_0043,Immunotherapy,13.0,False,10.0,False,"{'day_interval': 317, 'month_interval': 10}","{'day_interval': 318, 'month_interval': 10}",RxNorm,Pembrolizumab,1547545,mg/kg,38.4,False,60.6,False
-SYNTH_02,DONOR_0022,TREATMENT_0043,Hormone therapy,12.0,False,2.0,False,"{'day_interval': 202, 'month_interval': 6}","{'day_interval': 346, 'month_interval': 11}",NCI Thesaurus,Tamoxifen,C62078,mg/kg,37.9,False,56.0,False
-SYNTH_02,DONOR_0022,TREATMENT_0044,Immunotherapy,14.0,False,6.0,False,,,NCI Thesaurus,Durvalumab,C103194,ug/m2,44.2,False,54.6,False
-SYNTH_02,DONOR_0022,TREATMENT_0044,Hormone therapy,16.0,False,7.0,False,,,,,,,35.6,False,87.3,False
-SYNTH_02,DONOR_0023,TREATMENT_0045,Hormone therapy,28.0,False,1.0,False,"{'day_interval': 123, 'month_interval': 4}","{'day_interval': 178, 'month_interval': 5}",NCI Thesaurus,Tamoxifen,C62078,IU/m2,34.3,False,87.8,False
-SYNTH_02,DONOR_0023,TREATMENT_0045,Hormone therapy,18.0,False,4.0,False,"{'day_interval': 252, 'month_interval': 8}","{'day_interval': 262, 'month_interval': 8}",,,,IU/m2,21.6,False,89.9,False
-SYNTH_02,DONOR_0023,TREATMENT_0046,Hormone therapy,25.0,False,9.0,False,"{'day_interval': 240, 'month_interval': 7}","{'day_interval': 487, 'month_interval': 16}",NCI Thesaurus,Fluoxymesterone,C507,mg/kg,36.8,False,61.9,False
-SYNTH_02,DONOR_0023,TREATMENT_0046,Immunotherapy,30.0,False,2.0,False,"{'day_interval': 277, 'month_interval': 9}","{'day_interval': 281, 'month_interval': 9}",RxNorm,Atezolizumab,1792776,,34.0,False,72.5,False
-SYNTH_02,DONOR_0024,TREATMENT_0047,Chemotherapy,14.0,False,8.0,False,"{'day_interval': 210, 'month_interval': 6}","{'day_interval': 237, 'month_interval': 7}",NCI Thesaurus,Fludarabine,C1094,g/m2,30.8,False,84.7,False
-SYNTH_02,DONOR_0024,TREATMENT_0047,Chemotherapy,8.0,False,3.0,False,"{'day_interval': 257, 'month_interval': 8}","{'day_interval': 309, 'month_interval': 10}",PubChem,Paclitaxel,36314,IU/kg,24.9,False,60.1,False
-SYNTH_02,DONOR_0024,TREATMENT_0048,Hormone therapy,30.0,False,3.0,False,"{'day_interval': 112, 'month_interval': 3}","{'day_interval': 120, 'month_interval': 3}",,,,Not available,47.4,False,99.5,False
-SYNTH_02,DONOR_0024,TREATMENT_0048,Chemotherapy,10.0,False,7.0,False,"{'day_interval': 81, 'month_interval': 2}","{'day_interval': 87, 'month_interval': 2}",RxNorm,Idarubicin,5650,Not available,25.2,False,85.5,False
-SYNTH_02,DONOR_0025,TREATMENT_0049,Hormone therapy,19.0,False,,True,,,RxNorm,Diethylstilbestrol,3390,IU/m2,25.8,False,79.5,False
-SYNTH_02,DONOR_0025,TREATMENT_0049,Chemotherapy,15.0,False,1.0,False,"{'day_interval': 244, 'month_interval': 8}","{'day_interval': 260, 'month_interval': 8}",RxNorm,Idarubicin,5650,IU/kg,,True,81.4,False
-SYNTH_02,DONOR_0025,TREATMENT_0050,Immunotherapy,26.0,False,8.0,False,"{'day_interval': 148, 'month_interval': 4}","{'day_interval': 354, 'month_interval': 11}",NCI Thesaurus,Nivolumab,C68814,mg/kg,48.2,False,72.6,False
-SYNTH_02,DONOR_0025,TREATMENT_0050,Chemotherapy,16.0,False,6.0,False,,,NCI Thesaurus,Carboplatin,C1282,g/m2,33.0,False,64.9,False
-SYNTH_02,DONOR_0026,TREATMENT_0051,Chemotherapy,,True,3.0,False,"{'day_interval': 67, 'month_interval': 2}","{'day_interval': 102, 'month_interval': 3}",NCI Thesaurus,Idarubicin,C562,,31.2,False,58.9,False
-SYNTH_02,DONOR_0026,TREATMENT_0051,Immunotherapy,25.0,False,1.0,False,"{'day_interval': 88, 'month_interval': 2}","{'day_interval': 95, 'month_interval': 3}",PubChem,Ipilimumab,472634117,,42.6,False,64.3,False
-SYNTH_02,DONOR_0026,TREATMENT_0052,Chemotherapy,7.0,False,1.0,False,"{'day_interval': 323, 'month_interval': 10}","{'day_interval': 350, 'month_interval': 11}",PubChem,Paclitaxel,36314,,35.0,False,54.3,False
-SYNTH_02,DONOR_0026,TREATMENT_0052,Chemotherapy,14.0,False,5.0,False,"{'day_interval': 186, 'month_interval': 6}","{'day_interval': 383, 'month_interval': 12}",RxNorm,Fludarabine,24698,Not available,35.5,False,,True
-SYNTH_02,DONOR_0027,TREATMENT_0053,Immunotherapy,24.0,False,3.0,False,"{'day_interval': 179, 'month_interval': 5}","{'day_interval': 183, 'month_interval': 6}",PubChem,Nivolumab,469753496,mg/kg,,True,59.9,False
-SYNTH_02,DONOR_0027,TREATMENT_0053,Chemotherapy,7.0,False,9.0,False,"{'day_interval': 92, 'month_interval': 3}","{'day_interval': 104, 'month_interval': 3}",PubChem,Methotrexate,126941,IU/kg,44.5,False,84.7,False
-SYNTH_02,DONOR_0027,TREATMENT_0054,Hormone therapy,28.0,False,,True,,,NCI Thesaurus,Diethylstilbestrol,C433,mg/m2,39.1,False,64.6,False
-SYNTH_02,DONOR_0027,TREATMENT_0054,Chemotherapy,24.0,False,10.0,False,{'day_interval': 183},"{'day_interval': 190, 'month_interval': 6}",NCI Thesaurus,Idarubicin,C562,g/m2,36.9,False,95.3,False
-SYNTH_02,DONOR_0028,TREATMENT_0055,Immunotherapy,4.0,False,1.0,False,"{'day_interval': 195, 'month_interval': 6}","{'day_interval': 234, 'month_interval': 7}",,,,g/m2,34.0,False,51.1,False
-SYNTH_02,DONOR_0028,TREATMENT_0055,Immunotherapy,11.0,False,5.0,False,,,NCI Thesaurus,Atezolizumab,C106250,,43.8,False,55.1,False
-SYNTH_02,DONOR_0028,TREATMENT_0056,Hormone therapy,6.0,False,7.0,False,{'day_interval': 115},"{'day_interval': 131, 'month_interval': 4}",RxNorm,Tamoxifen,10324,mg/m2,,True,52.3,False
-SYNTH_02,DONOR_0028,TREATMENT_0056,Chemotherapy,14.0,False,6.0,False,{'day_interval': 65},"{'day_interval': 75, 'month_interval': 2}",RxNorm,Methotrexate,6851,cells/kg,40.5,False,,True
-SYNTH_02,DONOR_0029,TREATMENT_0057,Immunotherapy,23.0,False,10.0,False,"{'day_interval': 77, 'month_interval': 2}","{'day_interval': 77, 'month_interval': 2}",RxNorm,Nivolumab,1597876,g/m2,23.2,False,75.6,False
-SYNTH_02,DONOR_0029,TREATMENT_0057,Chemotherapy,,True,3.0,False,"{'day_interval': 66, 'month_interval': 2}","{'day_interval': 76, 'month_interval': 2}",RxNorm,Fludarabine,24698,Not available,36.2,False,75.0,False
-SYNTH_02,DONOR_0029,TREATMENT_0058,Hormone therapy,,True,7.0,False,"{'day_interval': 444, 'month_interval': 14}","{'day_interval': 461, 'month_interval': 15}",,,,IU/m2,21.4,False,,True
-SYNTH_02,DONOR_0029,TREATMENT_0058,Chemotherapy,12.0,False,2.0,False,,,PubChem,Idarubicin,42890,g/m2,42.3,False,80.0,False
-SYNTH_02,DONOR_0030,TREATMENT_0059,Hormone therapy,20.0,False,3.0,False,"{'day_interval': 212, 'month_interval': 6}","{'day_interval': 373, 'month_interval': 12}",RxNorm,Diethylstilbestrol,3390,mg/kg,30.9,False,95.6,False
-SYNTH_02,DONOR_0030,TREATMENT_0059,Hormone therapy,13.0,False,3.0,False,"{'day_interval': 380, 'month_interval': 12}","{'day_interval': 391, 'month_interval': 12}",NCI Thesaurus,Tamoxifen,C62078,,,True,72.1,False
-SYNTH_02,DONOR_0030,TREATMENT_0060,Hormone therapy,5.0,False,7.0,False,{'day_interval': 82},"{'day_interval': 123, 'month_interval': 4}",NCI Thesaurus,Fluoxymesterone,C507,IU/m2,38.2,False,67.1,False
-SYNTH_02,DONOR_0030,TREATMENT_0060,Hormone therapy,28.0,False,6.0,False,{'day_interval': 82},"{'day_interval': 141, 'month_interval': 4}",,,,,30.1,False,79.9,False
-SYNTH_02,DONOR_0031,TREATMENT_0061,Hormone therapy,5.0,False,8.0,False,"{'day_interval': 315, 'month_interval': 10}","{'day_interval': 330, 'month_interval': 10}",NCI Thesaurus,Diethylstilbestrol,C433,mg/kg,40.0,False,62.5,False
-SYNTH_02,DONOR_0031,TREATMENT_0061,Hormone therapy,,True,,True,"{'day_interval': 390, 'month_interval': 12}","{'day_interval': 393, 'month_interval': 12}",RxNorm,Degarelix,475230,g/m2,37.5,False,,True
-SYNTH_02,DONOR_0031,TREATMENT_0062,Hormone therapy,12.0,False,2.0,False,"{'day_interval': 292, 'month_interval': 9}","{'day_interval': 345, 'month_interval': 11}",,,,,24.0,False,,True
-SYNTH_02,DONOR_0031,TREATMENT_0062,Chemotherapy,24.0,False,,True,"{'day_interval': 296, 'month_interval': 9}","{'day_interval': 345, 'month_interval': 11}",NCI Thesaurus,Fludarabine,C1094,g/m2,28.7,False,73.0,False
-SYNTH_02,DONOR_0032,TREATMENT_0063,Chemotherapy,30.0,False,,True,"{'day_interval': 194, 'month_interval': 6}","{'day_interval': 209, 'month_interval': 6}",PubChem,Paclitaxel,36314,Not available,35.4,False,,True
-SYNTH_02,DONOR_0032,TREATMENT_0063,Chemotherapy,22.0,False,3.0,False,"{'day_interval': 159, 'month_interval': 5}","{'day_interval': 181, 'month_interval': 5}",PubChem,Idarubicin,42890,ug/m2,45.9,False,99.0,False
-SYNTH_02,DONOR_0032,TREATMENT_0064,Hormone therapy,27.0,False,1.0,False,"{'day_interval': 307, 'month_interval': 10}","{'day_interval': 312, 'month_interval': 10}",NCI Thesaurus,Degarelix,C48385,mg/kg,49.7,False,51.9,False
-SYNTH_02,DONOR_0032,TREATMENT_0064,Chemotherapy,24.0,False,4.0,False,"{'day_interval': 255, 'month_interval': 8}","{'day_interval': 313, 'month_interval': 10}",RxNorm,Carboplatin,40048,mg/kg,43.4,False,89.5,False
-SYNTH_02,DONOR_0033,TREATMENT_0065,Immunotherapy,,True,2.0,False,,,NCI Thesaurus,Atezolizumab,C106250,IU/kg,41.9,False,83.9,False
-SYNTH_02,DONOR_0033,TREATMENT_0065,Chemotherapy,1.0,False,2.0,False,"{'day_interval': 121, 'month_interval': 3}","{'day_interval': 131, 'month_interval': 4}",NCI Thesaurus,Paclitaxel,C1411,,31.7,False,90.4,False
-SYNTH_02,DONOR_0033,TREATMENT_0066,Immunotherapy,19.0,False,6.0,False,"{'day_interval': 187, 'month_interval': 6}","{'day_interval': 204, 'month_interval': 6}",NCI Thesaurus,Ipilimumab,C2654,mg/kg,44.3,False,75.0,False
-SYNTH_02,DONOR_0033,TREATMENT_0066,Chemotherapy,19.0,False,3.0,False,"{'day_interval': 178, 'month_interval': 5}","{'day_interval': 184, 'month_interval': 6}",NCI Thesaurus,Fludarabine,C1094,g/m2,31.8,False,60.9,False
-SYNTH_02,DONOR_0034,TREATMENT_0067,Hormone therapy,10.0,False,6.0,False,"{'day_interval': 219, 'month_interval': 7}","{'day_interval': 232, 'month_interval': 7}",PubChem,Degarelix,16136245,ug/m2,,True,,True
-SYNTH_02,DONOR_0034,TREATMENT_0067,Chemotherapy,7.0,False,10.0,False,,,,,,g/m2,22.2,False,83.4,False
-SYNTH_02,DONOR_0034,TREATMENT_0068,Hormone therapy,3.0,False,1.0,False,"{'day_interval': 135, 'month_interval': 4}","{'day_interval': 143, 'month_interval': 4}",PubChem,Buserelin,50225,ug/m2,36.1,False,84.0,False
-SYNTH_02,DONOR_0034,TREATMENT_0068,Hormone therapy,30.0,False,3.0,False,,,RxNorm,Fluoxymesterone,4494,ug/m2,,True,63.0,False
-SYNTH_02,DONOR_0035,TREATMENT_0069,Chemotherapy,27.0,False,5.0,False,"{'day_interval': 438, 'month_interval': 14}","{'day_interval': 453, 'month_interval': 14}",,,,,49.1,False,75.4,False
-SYNTH_02,DONOR_0035,TREATMENT_0069,Immunotherapy,4.0,False,5.0,False,"{'day_interval': 260, 'month_interval': 8}","{'day_interval': 437, 'month_interval': 14}",NCI Thesaurus,Nivolumab,C68814,,23.0,False,92.1,False
-SYNTH_02,DONOR_0035,TREATMENT_0070,Chemotherapy,,True,10.0,False,"{'day_interval': 346, 'month_interval': 11}","{'day_interval': 458, 'month_interval': 15}",PubChem,Methotrexate,126941,g/m2,38.9,False,73.2,False
-SYNTH_02,DONOR_0035,TREATMENT_0070,Immunotherapy,14.0,False,9.0,False,"{'day_interval': 333, 'month_interval': 10}","{'day_interval': 407, 'month_interval': 13}",NCI Thesaurus,Atezolizumab,C106250,mg/m2,26.6,False,79.1,False
-SYNTH_02,DONOR_0036,TREATMENT_0071,Chemotherapy,29.0,False,2.0,False,"{'day_interval': 222, 'month_interval': 7}","{'day_interval': 357, 'month_interval': 11}",PubChem,Fludarabine,657237,ug/m2,33.6,False,81.5,False
-SYNTH_02,DONOR_0036,TREATMENT_0071,Chemotherapy,23.0,False,,True,"{'day_interval': 284, 'month_interval': 9}","{'day_interval': 425, 'month_interval': 13}",RxNorm,Idarubicin,5650,mg/m2,35.3,False,94.4,False
-SYNTH_02,DONOR_0036,TREATMENT_0072,Immunotherapy,,True,1.0,False,"{'day_interval': 105, 'month_interval': 3}","{'day_interval': 120, 'month_interval': 3}",RxNorm,Pembrolizumab,1547545,,49.6,False,95.0,False
-SYNTH_02,DONOR_0036,TREATMENT_0072,Chemotherapy,18.0,False,7.0,False,,,NCI Thesaurus,Idarubicin,C562,IU/m2,22.4,False,76.9,False
-SYNTH_02,DONOR_0037,TREATMENT_0073,Chemotherapy,6.0,False,2.0,False,"{'day_interval': 319, 'month_interval': 10}","{'day_interval': 386, 'month_interval': 12}",PubChem,Methotrexate,126941,cells/kg,41.5,False,67.9,False
-SYNTH_02,DONOR_0037,TREATMENT_0073,Hormone therapy,23.0,False,3.0,False,"{'day_interval': 404, 'month_interval': 13}","{'day_interval': 404, 'month_interval': 13}",PubChem,Diethylstilbestrol,448537,IU/m2,36.6,False,70.2,False
-SYNTH_02,DONOR_0037,TREATMENT_0074,Immunotherapy,28.0,False,7.0,False,"{'day_interval': 237, 'month_interval': 7}","{'day_interval': 252, 'month_interval': 8}",RxNorm,Ipilimumab,1094833,IU/kg,48.9,False,72.6,False
-SYNTH_02,DONOR_0037,TREATMENT_0074,Hormone therapy,22.0,False,5.0,False,"{'day_interval': 162, 'month_interval': 5}","{'day_interval': 211, 'month_interval': 6}",,,,,39.1,False,,True
-SYNTH_02,DONOR_0038,TREATMENT_0075,Chemotherapy,10.0,False,,True,"{'day_interval': 175, 'month_interval': 5}","{'day_interval': 233, 'month_interval': 7}",,,,Not available,46.6,False,52.8,False
-SYNTH_02,DONOR_0038,TREATMENT_0075,Hormone therapy,8.0,False,2.0,False,"{'day_interval': 239, 'month_interval': 7}","{'day_interval': 240, 'month_interval': 7}",PubChem,Degarelix,16136245,IU/kg,41.6,False,85.8,False
-SYNTH_02,DONOR_0038,TREATMENT_0076,Hormone therapy,,True,2.0,False,,,NCI Thesaurus,Buserelin,C320,,,True,96.7,False
-SYNTH_02,DONOR_0038,TREATMENT_0076,Chemotherapy,14.0,False,10.0,False,"{'day_interval': 299, 'month_interval': 9}","{'day_interval': 348, 'month_interval': 11}",RxNorm,Carboplatin,40048,ug/m2,25.3,False,67.8,False
-SYNTH_02,DONOR_0039,TREATMENT_0077,Hormone therapy,9.0,False,7.0,False,,,NCI Thesaurus,Diethylstilbestrol,C433,,47.7,False,94.6,False
-SYNTH_02,DONOR_0039,TREATMENT_0077,Hormone therapy,23.0,False,8.0,False,"{'day_interval': 148, 'month_interval': 4}","{'day_interval': 160, 'month_interval': 5}",NCI Thesaurus,Tamoxifen,C62078,,45.3,False,,True
-SYNTH_02,DONOR_0039,TREATMENT_0078,Hormone therapy,,True,9.0,False,{'day_interval': 92},"{'day_interval': 132, 'month_interval': 4}",PubChem,Buserelin,50225,ug/m2,43.1,False,70.4,False
-SYNTH_02,DONOR_0039,TREATMENT_0078,Chemotherapy,11.0,False,3.0,False,{'day_interval': 88},"{'day_interval': 88, 'month_interval': 2}",PubChem,Fludarabine,657237,,32.6,False,58.1,False
-SYNTH_02,DONOR_0040,TREATMENT_0079,Hormone therapy,28.0,False,,True,"{'day_interval': 282, 'month_interval': 9}","{'day_interval': 286, 'month_interval': 9}",PubChem,Fluoxymesterone,6446,IU/m2,36.9,False,,True
-SYNTH_02,DONOR_0040,TREATMENT_0079,Hormone therapy,21.0,False,10.0,False,"{'day_interval': 285, 'month_interval': 9}","{'day_interval': 286, 'month_interval': 9}",NCI Thesaurus,Buserelin,C320,mg/m2,39.0,False,82.0,False
-SYNTH_02,DONOR_0040,TREATMENT_0080,Immunotherapy,13.0,False,6.0,False,"{'day_interval': 366, 'month_interval': 12}","{'day_interval': 374, 'month_interval': 12}",PubChem,Ipilimumab,472634117,Not available,48.3,False,59.0,False
-SYNTH_02,DONOR_0040,TREATMENT_0080,Chemotherapy,27.0,False,6.0,False,"{'day_interval': 378, 'month_interval': 12}","{'day_interval': 380, 'month_interval': 12}",NCI Thesaurus,Methotrexate,C642,mg/m2,43.8,False,87.4,False
-SYNTH_03,DONOR_0041,TREATMENT_0081,Hormone therapy,11.0,False,4.0,False,,,PubChem,Diethylstilbestrol,448537,mg/m2,47.9,False,79.8,False
-SYNTH_03,DONOR_0041,TREATMENT_0081,Immunotherapy,11.0,False,3.0,False,"{'day_interval': 264, 'month_interval': 8}","{'day_interval': 332, 'month_interval': 10}",,,,mg/m2,44.0,False,64.1,False
-SYNTH_03,DONOR_0041,TREATMENT_0082,Chemotherapy,5.0,False,4.0,False,"{'day_interval': 103, 'month_interval': 3}","{'day_interval': 144, 'month_interval': 4}",RxNorm,Idarubicin,5650,,39.5,False,91.7,False
-SYNTH_03,DONOR_0041,TREATMENT_0082,Chemotherapy,20.0,False,10.0,False,,,RxNorm,Fludarabine,24698,g/m2,40.8,False,98.4,False
-SYNTH_03,DONOR_0042,TREATMENT_0083,Immunotherapy,30.0,False,,True,"{'day_interval': 222, 'month_interval': 7}","{'day_interval': 254, 'month_interval': 8}",,,,g/m2,,True,87.7,False
-SYNTH_03,DONOR_0042,TREATMENT_0083,Hormone therapy,14.0,False,4.0,False,"{'day_interval': 363, 'month_interval': 11}","{'day_interval': 363, 'month_interval': 11}",PubChem,Buserelin,50225,mg/kg,45.8,False,96.9,False
-SYNTH_03,DONOR_0042,TREATMENT_0084,Hormone therapy,18.0,False,5.0,False,"{'day_interval': 144, 'month_interval': 4}","{'day_interval': 294, 'month_interval': 9}",PubChem,Buserelin,50225,mg/kg,37.2,False,97.3,False
-SYNTH_03,DONOR_0042,TREATMENT_0084,Immunotherapy,21.0,False,4.0,False,"{'day_interval': 175, 'month_interval': 5}","{'day_interval': 222, 'month_interval': 7}",NCI Thesaurus,Ipilimumab,C2654,cells/kg,26.9,False,87.1,False
-SYNTH_03,DONOR_0043,TREATMENT_0085,Immunotherapy,17.0,False,3.0,False,,,RxNorm,Durvalumab,1919503,ug/m2,38.3,False,51.2,False
-SYNTH_03,DONOR_0043,TREATMENT_0085,Hormone therapy,,True,4.0,False,"{'day_interval': 196, 'month_interval': 6}","{'day_interval': 243, 'month_interval': 7}",RxNorm,Fluoxymesterone,4494,IU/kg,38.3,False,62.6,False
-SYNTH_03,DONOR_0043,TREATMENT_0086,Immunotherapy,20.0,False,3.0,False,"{'day_interval': 62, 'month_interval': 2}","{'day_interval': 294, 'month_interval': 9}",NCI Thesaurus,Atezolizumab,C106250,mg/kg,40.4,False,52.5,False
-SYNTH_03,DONOR_0043,TREATMENT_0086,Chemotherapy,29.0,False,9.0,False,"{'day_interval': 83, 'month_interval': 2}","{'day_interval': 112, 'month_interval': 3}",RxNorm,Fludarabine,24698,mg/kg,33.0,False,59.6,False
-SYNTH_03,DONOR_0044,TREATMENT_0087,Immunotherapy,4.0,False,2.0,False,"{'day_interval': 325, 'month_interval': 10}","{'day_interval': 330, 'month_interval': 10}",RxNorm,Atezolizumab,1792776,cells/kg,31.7,False,84.1,False
-SYNTH_03,DONOR_0044,TREATMENT_0087,Hormone therapy,18.0,False,4.0,False,"{'day_interval': 189, 'month_interval': 6}","{'day_interval': 204, 'month_interval': 6}",RxNorm,Degarelix,475230,Not available,35.4,False,95.5,False
-SYNTH_03,DONOR_0044,TREATMENT_0088,Chemotherapy,25.0,False,1.0,False,"{'day_interval': 404, 'month_interval': 13}","{'day_interval': 405, 'month_interval': 13}",PubChem,Methotrexate,126941,cells/kg,37.1,False,,True
-SYNTH_03,DONOR_0044,TREATMENT_0088,Hormone therapy,5.0,False,,True,"{'day_interval': 175, 'month_interval': 5}","{'day_interval': 403, 'month_interval': 13}",NCI Thesaurus,Diethylstilbestrol,C433,g/m2,25.7,False,77.1,False
-SYNTH_03,DONOR_0045,TREATMENT_0089,Chemotherapy,,True,4.0,False,"{'day_interval': 353, 'month_interval': 11}","{'day_interval': 364, 'month_interval': 11}",NCI Thesaurus,Idarubicin,C562,IU/m2,45.3,False,96.8,False
-SYNTH_03,DONOR_0045,TREATMENT_0089,Immunotherapy,2.0,False,7.0,False,,,RxNorm,Pembrolizumab,1547545,ug/m2,24.5,False,71.7,False
-SYNTH_03,DONOR_0045,TREATMENT_0090,Immunotherapy,3.0,False,10.0,False,,,,,,cells/kg,26.9,False,90.0,False
-SYNTH_03,DONOR_0045,TREATMENT_0090,Hormone therapy,,True,2.0,False,{'day_interval': 41},"{'day_interval': 61, 'month_interval': 2}",NCI Thesaurus,Buserelin,C320,IU/kg,47.3,False,53.3,False
-SYNTH_03,DONOR_0046,TREATMENT_0091,Chemotherapy,21.0,False,7.0,False,"{'day_interval': 140, 'month_interval': 4}","{'day_interval': 174, 'month_interval': 5}",PubChem,Carboplatin,426756,Not available,,True,67.7,False
-SYNTH_03,DONOR_0046,TREATMENT_0091,Chemotherapy,,True,9.0,False,"{'day_interval': 323, 'month_interval': 10}","{'day_interval': 382, 'month_interval': 12}",NCI Thesaurus,Carboplatin,C1282,,27.8,False,78.8,False
-SYNTH_03,DONOR_0046,TREATMENT_0092,Immunotherapy,13.0,False,10.0,False,{'day_interval': 144},"{'day_interval': 166, 'month_interval': 5}",PubChem,Atezolizumab,469690927,mg/m2,32.2,False,91.9,False
-SYNTH_03,DONOR_0046,TREATMENT_0092,Hormone therapy,30.0,False,9.0,False,,,RxNorm,Fluoxymesterone,4494,ug/m2,36.5,False,,True
-SYNTH_03,DONOR_0047,TREATMENT_0093,Chemotherapy,19.0,False,3.0,False,"{'day_interval': 251, 'month_interval': 8}","{'day_interval': 346, 'month_interval': 11}",NCI Thesaurus,Carboplatin,C1282,Not available,46.2,False,66.3,False
-SYNTH_03,DONOR_0047,TREATMENT_0093,Immunotherapy,12.0,False,10.0,False,"{'day_interval': 469, 'month_interval': 15}","{'day_interval': 498, 'month_interval': 16}",,,,mg/m2,39.8,False,87.8,False
-SYNTH_03,DONOR_0047,TREATMENT_0094,Immunotherapy,13.0,False,1.0,False,"{'day_interval': 210, 'month_interval': 6}","{'day_interval': 216, 'month_interval': 7}",RxNorm,Ipilimumab,1094833,,31.6,False,52.8,False
-SYNTH_03,DONOR_0047,TREATMENT_0094,Hormone therapy,19.0,False,4.0,False,"{'day_interval': 210, 'month_interval': 6}","{'day_interval': 212, 'month_interval': 6}",,,,cells/kg,21.9,False,,True
-SYNTH_03,DONOR_0048,TREATMENT_0095,Chemotherapy,28.0,False,5.0,False,"{'day_interval': 238, 'month_interval': 7}","{'day_interval': 246, 'month_interval': 8}",PubChem,Fludarabine,657237,mg/m2,41.7,False,84.9,False
-SYNTH_03,DONOR_0048,TREATMENT_0095,Immunotherapy,2.0,False,2.0,False,"{'day_interval': 185, 'month_interval': 6}","{'day_interval': 453, 'month_interval': 14}",NCI Thesaurus,Ipilimumab,C2654,IU/m2,41.3,False,63.1,False
-SYNTH_03,DONOR_0048,TREATMENT_0096,Immunotherapy,14.0,False,7.0,False,"{'day_interval': 120, 'month_interval': 3}","{'day_interval': 123, 'month_interval': 4}",PubChem,Ipilimumab,472634117,mg/m2,25.5,False,91.9,False
-SYNTH_03,DONOR_0048,TREATMENT_0096,Immunotherapy,27.0,False,,True,"{'day_interval': 131, 'month_interval': 4}","{'day_interval': 132, 'month_interval': 4}",NCI Thesaurus,Ipilimumab,C2654,,42.8,False,92.6,False
-SYNTH_03,DONOR_0049,TREATMENT_0097,Chemotherapy,9.0,False,4.0,False,"{'day_interval': 79, 'month_interval': 2}","{'day_interval': 90, 'month_interval': 2}",PubChem,Fludarabine,657237,,30.5,False,67.3,False
-SYNTH_03,DONOR_0049,TREATMENT_0097,Hormone therapy,25.0,False,,True,"{'day_interval': 101, 'month_interval': 3}","{'day_interval': 194, 'month_interval': 6}",,,,IU/kg,23.7,False,,True
-SYNTH_03,DONOR_0049,TREATMENT_0098,Hormone therapy,17.0,False,3.0,False,"{'day_interval': 193, 'month_interval': 6}","{'day_interval': 302, 'month_interval': 9}",,,,mg/kg,38.4,False,84.2,False
-SYNTH_03,DONOR_0049,TREATMENT_0098,Immunotherapy,1.0,False,6.0,False,,,RxNorm,Nivolumab,1597876,ug/m2,41.4,False,99.3,False
-SYNTH_03,DONOR_0050,TREATMENT_0099,Chemotherapy,16.0,False,4.0,False,,,NCI Thesaurus,Idarubicin,C562,ug/m2,47.2,False,70.2,False
-SYNTH_03,DONOR_0050,TREATMENT_0099,Immunotherapy,18.0,False,10.0,False,,,RxNorm,Pembrolizumab,1547545,mg/kg,46.3,False,75.1,False
-SYNTH_03,DONOR_0050,TREATMENT_0100,Hormone therapy,5.0,False,3.0,False,"{'day_interval': 318, 'month_interval': 10}","{'day_interval': 370, 'month_interval': 12}",,,,,26.9,False,74.9,False
-SYNTH_03,DONOR_0050,TREATMENT_0100,Chemotherapy,,True,2.0,False,"{'day_interval': 308, 'month_interval': 10}","{'day_interval': 322, 'month_interval': 10}",RxNorm,Idarubicin,5650,g/m2,,True,74.6,False
-SYNTH_03,DONOR_0051,TREATMENT_0101,Hormone therapy,8.0,False,7.0,False,"{'day_interval': 282, 'month_interval': 9}","{'day_interval': 331, 'month_interval': 10}",,,,mg/kg,28.5,False,89.2,False
-SYNTH_03,DONOR_0051,TREATMENT_0101,Chemotherapy,28.0,False,6.0,False,"{'day_interval': 204, 'month_interval': 6}","{'day_interval': 228, 'month_interval': 7}",PubChem,Idarubicin,42890,mg/m2,49.8,False,98.6,False
-SYNTH_03,DONOR_0051,TREATMENT_0102,Chemotherapy,29.0,False,5.0,False,"{'day_interval': 125, 'month_interval': 4}","{'day_interval': 127, 'month_interval': 4}",PubChem,Fludarabine,657237,IU/m2,28.0,False,97.3,False
-SYNTH_03,DONOR_0051,TREATMENT_0102,Chemotherapy,20.0,False,8.0,False,"{'day_interval': 82, 'month_interval': 2}","{'day_interval': 98, 'month_interval': 3}",RxNorm,Fludarabine,24698,mg/m2,43.8,False,89.1,False
-SYNTH_03,DONOR_0052,TREATMENT_0103,Immunotherapy,22.0,False,9.0,False,"{'day_interval': 281, 'month_interval': 9}","{'day_interval': 293, 'month_interval': 9}",NCI Thesaurus,Atezolizumab,C106250,g/m2,,True,89.1,False
-SYNTH_03,DONOR_0052,TREATMENT_0103,Hormone therapy,28.0,False,8.0,False,"{'day_interval': 189, 'month_interval': 6}","{'day_interval': 264, 'month_interval': 8}",NCI Thesaurus,Fluoxymesterone,C507,IU/m2,24.3,False,72.8,False
-SYNTH_03,DONOR_0052,TREATMENT_0104,Immunotherapy,22.0,False,,True,"{'day_interval': 43, 'month_interval': 1}","{'day_interval': 249, 'month_interval': 8}",PubChem,Nivolumab,469753496,,33.8,False,69.9,False
-SYNTH_03,DONOR_0052,TREATMENT_0104,Chemotherapy,,True,1.0,False,"{'day_interval': 223, 'month_interval': 7}","{'day_interval': 233, 'month_interval': 7}",NCI Thesaurus,Paclitaxel,C1411,Not available,43.8,False,95.0,False
-SYNTH_03,DONOR_0053,TREATMENT_0105,Immunotherapy,12.0,False,2.0,False,"{'day_interval': 227, 'month_interval': 7}","{'day_interval': 523, 'month_interval': 17}",PubChem,Durvalumab,481101604,IU/m2,29.3,False,96.6,False
-SYNTH_03,DONOR_0053,TREATMENT_0105,Hormone therapy,23.0,False,5.0,False,"{'day_interval': 303, 'month_interval': 9}","{'day_interval': 548, 'month_interval': 18}",,,,g/m2,41.0,False,,True
-SYNTH_03,DONOR_0053,TREATMENT_0106,Hormone therapy,26.0,False,8.0,False,"{'day_interval': 233, 'month_interval': 7}","{'day_interval': 247, 'month_interval': 8}",RxNorm,Degarelix,475230,,29.5,False,72.7,False
-SYNTH_03,DONOR_0053,TREATMENT_0106,Hormone therapy,5.0,False,8.0,False,"{'day_interval': 221, 'month_interval': 7}","{'day_interval': 253, 'month_interval': 8}",PubChem,Buserelin,50225,Not available,24.0,False,54.7,False
-SYNTH_03,DONOR_0054,TREATMENT_0107,Chemotherapy,,True,1.0,False,"{'day_interval': 159, 'month_interval': 5}","{'day_interval': 162, 'month_interval': 5}",RxNorm,Idarubicin,5650,IU/kg,21.5,False,74.0,False
-SYNTH_03,DONOR_0054,TREATMENT_0107,Hormone therapy,2.0,False,10.0,False,,,RxNorm,Fluoxymesterone,4494,mg/kg,44.7,False,59.8,False
-SYNTH_03,DONOR_0054,TREATMENT_0108,Hormone therapy,,True,10.0,False,{'day_interval': 90},"{'day_interval': 113, 'month_interval': 3}",PubChem,Tamoxifen,2733526,IU/kg,48.6,False,95.8,False
-SYNTH_03,DONOR_0054,TREATMENT_0108,Hormone therapy,20.0,False,2.0,False,,,,,,g/m2,27.0,False,88.7,False
-SYNTH_03,DONOR_0055,TREATMENT_0109,Hormone therapy,29.0,False,10.0,False,{'day_interval': 108},"{'day_interval': 165, 'month_interval': 5}",NCI Thesaurus,Buserelin,C320,IU/m2,,True,77.5,False
-SYNTH_03,DONOR_0055,TREATMENT_0109,Hormone therapy,,True,10.0,False,,,NCI Thesaurus,Degarelix,C48385,IU/m2,42.2,False,74.2,False
-SYNTH_03,DONOR_0055,TREATMENT_0110,Chemotherapy,29.0,False,10.0,False,"{'day_interval': 192, 'month_interval': 6}","{'day_interval': 306, 'month_interval': 10}",RxNorm,Idarubicin,5650,IU/kg,24.8,False,66.5,False
-SYNTH_03,DONOR_0055,TREATMENT_0110,Chemotherapy,2.0,False,7.0,False,"{'day_interval': 117, 'month_interval': 3}","{'day_interval': 220, 'month_interval': 7}",PubChem,Carboplatin,426756,,34.7,False,61.5,False
-SYNTH_03,DONOR_0056,TREATMENT_0111,Immunotherapy,30.0,False,9.0,False,,,PubChem,Ipilimumab,472634117,mg/kg,38.5,False,53.2,False
-SYNTH_03,DONOR_0056,TREATMENT_0111,Hormone therapy,12.0,False,2.0,False,,,RxNorm,Fluoxymesterone,4494,IU/m2,,True,55.2,False
-SYNTH_03,DONOR_0056,TREATMENT_0112,Chemotherapy,6.0,False,10.0,False,"{'day_interval': 296, 'month_interval': 9}","{'day_interval': 317, 'month_interval': 10}",,,,ug/m2,27.7,False,73.2,False
-SYNTH_03,DONOR_0056,TREATMENT_0112,Immunotherapy,,True,,True,"{'day_interval': 175, 'month_interval': 5}","{'day_interval': 287, 'month_interval': 9}",PubChem,Durvalumab,481101604,IU/m2,29.1,False,77.2,False
-SYNTH_03,DONOR_0057,TREATMENT_0113,Immunotherapy,3.0,False,6.0,False,"{'day_interval': 310, 'month_interval': 10}","{'day_interval': 330, 'month_interval': 10}",NCI Thesaurus,Atezolizumab,C106250,IU/kg,25.3,False,76.3,False
-SYNTH_03,DONOR_0057,TREATMENT_0113,Chemotherapy,28.0,False,1.0,False,"{'day_interval': 156, 'month_interval': 5}","{'day_interval': 270, 'month_interval': 8}",PubChem,Paclitaxel,36314,mg/kg,31.9,False,67.1,False
-SYNTH_03,DONOR_0057,TREATMENT_0114,Chemotherapy,3.0,False,4.0,False,"{'day_interval': 67, 'month_interval': 2}","{'day_interval': 97, 'month_interval': 3}",NCI Thesaurus,Fludarabine,C1094,IU/m2,36.2,False,57.1,False
-SYNTH_03,DONOR_0057,TREATMENT_0114,Hormone therapy,1.0,False,1.0,False,"{'day_interval': 136, 'month_interval': 4}","{'day_interval': 146, 'month_interval': 4}",NCI Thesaurus,Diethylstilbestrol,C433,ug/m2,26.2,False,75.5,False
-SYNTH_03,DONOR_0058,TREATMENT_0115,Immunotherapy,5.0,False,8.0,False,{'day_interval': 188},"{'day_interval': 189, 'month_interval': 6}",,,,mg/m2,22.3,False,55.1,False
-SYNTH_03,DONOR_0058,TREATMENT_0115,Immunotherapy,12.0,False,1.0,False,{'day_interval': 117},"{'day_interval': 162, 'month_interval': 5}",RxNorm,Pembrolizumab,1547545,mg/m2,42.7,False,97.9,False
-SYNTH_03,DONOR_0058,TREATMENT_0116,Chemotherapy,14.0,False,,True,"{'day_interval': 42, 'month_interval': 1}","{'day_interval': 45, 'month_interval': 1}",NCI Thesaurus,Paclitaxel,C1411,cells/kg,47.7,False,58.6,False
-SYNTH_03,DONOR_0058,TREATMENT_0116,Chemotherapy,3.0,False,6.0,False,"{'day_interval': 43, 'month_interval': 1}","{'day_interval': 45, 'month_interval': 1}",,,,,33.0,False,76.1,False
-SYNTH_03,DONOR_0059,TREATMENT_0117,Hormone therapy,17.0,False,6.0,False,"{'day_interval': 190, 'month_interval': 6}","{'day_interval': 199, 'month_interval': 6}",NCI Thesaurus,Buserelin,C320,g/m2,42.0,False,60.6,False
-SYNTH_03,DONOR_0059,TREATMENT_0117,Chemotherapy,14.0,False,2.0,False,"{'day_interval': 191, 'month_interval': 6}","{'day_interval': 195, 'month_interval': 6}",RxNorm,Idarubicin,5650,g/m2,30.6,False,81.0,False
-SYNTH_03,DONOR_0059,TREATMENT_0118,Hormone therapy,25.0,False,2.0,False,"{'day_interval': 150, 'month_interval': 4}","{'day_interval': 151, 'month_interval': 4}",NCI Thesaurus,Diethylstilbestrol,C433,mg/kg,,True,54.6,False
-SYNTH_03,DONOR_0059,TREATMENT_0118,Hormone therapy,18.0,False,1.0,False,"{'day_interval': 145, 'month_interval': 4}","{'day_interval': 149, 'month_interval': 4}",PubChem,Tamoxifen,2733526,,,True,51.9,False
-SYNTH_03,DONOR_0060,TREATMENT_0119,Hormone therapy,30.0,False,6.0,False,,,PubChem,Tamoxifen,2733526,,31.3,False,62.4,False
-SYNTH_03,DONOR_0060,TREATMENT_0119,Hormone therapy,,True,,True,"{'day_interval': 202, 'month_interval': 6}","{'day_interval': 413, 'month_interval': 13}",PubChem,Buserelin,50225,Not available,30.1,False,99.0,False
-SYNTH_03,DONOR_0060,TREATMENT_0120,Hormone therapy,24.0,False,3.0,False,"{'day_interval': 159, 'month_interval': 5}","{'day_interval': 184, 'month_interval': 6}",NCI Thesaurus,Degarelix,C48385,Not available,28.3,False,53.7,False
-SYNTH_03,DONOR_0060,TREATMENT_0120,Immunotherapy,23.0,False,4.0,False,"{'day_interval': 199, 'month_interval': 6}","{'day_interval': 236, 'month_interval': 7}",RxNorm,Atezolizumab,1792776,ug/m2,39.0,False,81.5,False
-SYNTH_04,DONOR_0061,TREATMENT_0121,Hormone therapy,2.0,False,5.0,False,"{'day_interval': 272, 'month_interval': 8}","{'day_interval': 297, 'month_interval': 9}",NCI Thesaurus,Fluoxymesterone,C507,mg/m2,44.7,False,83.4,False
-SYNTH_04,DONOR_0061,TREATMENT_0121,Chemotherapy,6.0,False,4.0,False,"{'day_interval': 212, 'month_interval': 6}","{'day_interval': 297, 'month_interval': 9}",RxNorm,Paclitaxel,56946,IU/m2,,True,94.2,False
-SYNTH_04,DONOR_0061,TREATMENT_0122,Hormone therapy,12.0,False,2.0,False,"{'day_interval': 80, 'month_interval': 2}","{'day_interval': 82, 'month_interval': 2}",PubChem,Degarelix,16136245,g/m2,45.4,False,74.2,False
-SYNTH_04,DONOR_0061,TREATMENT_0122,Chemotherapy,22.0,False,1.0,False,"{'day_interval': 37, 'month_interval': 1}","{'day_interval': 57, 'month_interval': 1}",NCI Thesaurus,Fludarabine,C1094,IU/m2,37.7,False,77.0,False
-SYNTH_04,DONOR_0062,TREATMENT_0123,Hormone therapy,6.0,False,3.0,False,"{'day_interval': 180, 'month_interval': 5}","{'day_interval': 188, 'month_interval': 6}",RxNorm,Diethylstilbestrol,3390,cells/kg,47.9,False,78.7,False
-SYNTH_04,DONOR_0062,TREATMENT_0123,Immunotherapy,27.0,False,3.0,False,,,RxNorm,Atezolizumab,1792776,ug/m2,41.0,False,59.0,False
-SYNTH_04,DONOR_0062,TREATMENT_0124,Hormone therapy,,True,8.0,False,"{'day_interval': 328, 'month_interval': 10}","{'day_interval': 331, 'month_interval': 10}",RxNorm,Tamoxifen,10324,mg/m2,40.7,False,79.0,False
-SYNTH_04,DONOR_0062,TREATMENT_0124,Chemotherapy,,True,4.0,False,"{'day_interval': 268, 'month_interval': 8}","{'day_interval': 307, 'month_interval': 10}",PubChem,Idarubicin,42890,cells/kg,23.6,False,,True
-SYNTH_04,DONOR_0063,TREATMENT_0125,Immunotherapy,10.0,False,9.0,False,"{'day_interval': 173, 'month_interval': 5}","{'day_interval': 187, 'month_interval': 6}",RxNorm,Nivolumab,1597876,IU/kg,26.8,False,93.1,False
-SYNTH_04,DONOR_0063,TREATMENT_0125,Hormone therapy,18.0,False,7.0,False,"{'day_interval': 121, 'month_interval': 3}","{'day_interval': 137, 'month_interval': 4}",RxNorm,Fluoxymesterone,4494,g/m2,,True,54.9,False
-SYNTH_04,DONOR_0063,TREATMENT_0126,Hormone therapy,17.0,False,9.0,False,"{'day_interval': 54, 'month_interval': 1}","{'day_interval': 162, 'month_interval': 5}",NCI Thesaurus,Fluoxymesterone,C507,mg/m2,22.5,False,78.0,False
-SYNTH_04,DONOR_0063,TREATMENT_0126,Chemotherapy,15.0,False,5.0,False,"{'day_interval': 133, 'month_interval': 4}","{'day_interval': 167, 'month_interval': 5}",,,,mg/kg,45.6,False,,True
-SYNTH_04,DONOR_0064,TREATMENT_0127,Hormone therapy,8.0,False,2.0,False,,,,,,IU/kg,43.9,False,,True
-SYNTH_04,DONOR_0064,TREATMENT_0127,Immunotherapy,22.0,False,6.0,False,"{'day_interval': 233, 'month_interval': 7}","{'day_interval': 334, 'month_interval': 10}",,,,,47.7,False,82.9,False
-SYNTH_04,DONOR_0064,TREATMENT_0128,Chemotherapy,4.0,False,5.0,False,"{'day_interval': 196, 'month_interval': 6}","{'day_interval': 208, 'month_interval': 6}",RxNorm,Fludarabine,24698,ug/m2,,True,,True
-SYNTH_04,DONOR_0064,TREATMENT_0128,Hormone therapy,,True,1.0,False,,,PubChem,Degarelix,16136245,g/m2,36.1,False,63.4,False
-SYNTH_04,DONOR_0065,TREATMENT_0129,Immunotherapy,30.0,False,6.0,False,,,PubChem,Nivolumab,469753496,IU/m2,21.9,False,52.3,False
-SYNTH_04,DONOR_0065,TREATMENT_0129,Immunotherapy,17.0,False,9.0,False,,,NCI Thesaurus,Pembrolizumab,C106432,cells/kg,28.2,False,65.2,False
-SYNTH_04,DONOR_0065,TREATMENT_0130,Chemotherapy,17.0,False,7.0,False,"{'day_interval': 43, 'month_interval': 1}","{'day_interval': 63, 'month_interval': 2}",RxNorm,Paclitaxel,56946,ug/m2,41.9,False,74.7,False
-SYNTH_04,DONOR_0065,TREATMENT_0130,Chemotherapy,1.0,False,2.0,False,"{'day_interval': 77, 'month_interval': 2}","{'day_interval': 80, 'month_interval': 2}",NCI Thesaurus,Methotrexate,C642,,,True,78.7,False
-SYNTH_04,DONOR_0066,TREATMENT_0131,Immunotherapy,20.0,False,9.0,False,"{'day_interval': 124, 'month_interval': 4}","{'day_interval': 127, 'month_interval': 4}",RxNorm,Pembrolizumab,1547545,Not available,32.5,False,93.3,False
-SYNTH_04,DONOR_0066,TREATMENT_0131,Immunotherapy,24.0,False,,True,,,RxNorm,Durvalumab,1919503,mg/kg,,True,63.5,False
-SYNTH_04,DONOR_0066,TREATMENT_0132,Immunotherapy,11.0,False,4.0,False,"{'day_interval': 135, 'month_interval': 4}","{'day_interval': 151, 'month_interval': 4}",NCI Thesaurus,Ipilimumab,C2654,,40.4,False,58.5,False
-SYNTH_04,DONOR_0066,TREATMENT_0132,Chemotherapy,7.0,False,10.0,False,"{'day_interval': 57, 'month_interval': 1}","{'day_interval': 96, 'month_interval': 3}",PubChem,Carboplatin,426756,mg/m2,42.1,False,91.1,False
-SYNTH_04,DONOR_0067,TREATMENT_0133,Immunotherapy,10.0,False,2.0,False,"{'day_interval': 118, 'month_interval': 3}","{'day_interval': 147, 'month_interval': 4}",PubChem,Ipilimumab,472634117,IU/m2,38.4,False,85.9,False
-SYNTH_04,DONOR_0067,TREATMENT_0133,Chemotherapy,1.0,False,7.0,False,"{'day_interval': 153, 'month_interval': 5}","{'day_interval': 157, 'month_interval': 5}",RxNorm,Methotrexate,6851,ug/m2,26.2,False,64.0,False
-SYNTH_04,DONOR_0067,TREATMENT_0134,Immunotherapy,19.0,False,7.0,False,"{'day_interval': 13, 'month_interval': 0}","{'day_interval': 24, 'month_interval': 0}",NCI Thesaurus,Pembrolizumab,C106432,,,True,73.0,False
-SYNTH_04,DONOR_0067,TREATMENT_0134,Hormone therapy,25.0,False,9.0,False,"{'day_interval': 6, 'month_interval': 0}","{'day_interval': 32, 'month_interval': 1}",RxNorm,Degarelix,475230,cells/kg,31.2,False,,True
-SYNTH_04,DONOR_0068,TREATMENT_0135,Chemotherapy,16.0,False,9.0,False,"{'day_interval': 258, 'month_interval': 8}","{'day_interval': 306, 'month_interval': 10}",NCI Thesaurus,Methotrexate,C642,g/m2,,True,72.5,False
-SYNTH_04,DONOR_0068,TREATMENT_0135,Immunotherapy,,True,,True,"{'day_interval': 297, 'month_interval': 9}","{'day_interval': 328, 'month_interval': 10}",RxNorm,Nivolumab,1597876,mg/kg,46.6,False,99.5,False
-SYNTH_04,DONOR_0068,TREATMENT_0136,Chemotherapy,26.0,False,,True,"{'day_interval': 259, 'month_interval': 8}","{'day_interval': 469, 'month_interval': 15}",PubChem,Paclitaxel,36314,ug/m2,41.1,False,56.1,False
-SYNTH_04,DONOR_0068,TREATMENT_0136,Immunotherapy,26.0,False,1.0,False,,,NCI Thesaurus,Durvalumab,C103194,mg/m2,41.8,False,64.1,False
-SYNTH_04,DONOR_0069,TREATMENT_0137,Immunotherapy,9.0,False,,True,{'day_interval': 112},"{'day_interval': 153, 'month_interval': 5}",NCI Thesaurus,Nivolumab,C68814,IU/kg,44.2,False,90.7,False
-SYNTH_04,DONOR_0069,TREATMENT_0137,Immunotherapy,19.0,False,3.0,False,{'day_interval': 179},"{'day_interval': 214, 'month_interval': 7}",NCI Thesaurus,Nivolumab,C68814,g/m2,41.0,False,61.8,False
-SYNTH_04,DONOR_0069,TREATMENT_0138,Chemotherapy,17.0,False,8.0,False,,,PubChem,Idarubicin,42890,IU/kg,37.2,False,,True
-SYNTH_04,DONOR_0069,TREATMENT_0138,Chemotherapy,29.0,False,3.0,False,{'day_interval': 185},"{'day_interval': 267, 'month_interval': 8}",,,,mg/m2,32.7,False,59.8,False
-SYNTH_04,DONOR_0070,TREATMENT_0139,Immunotherapy,26.0,False,9.0,False,"{'day_interval': 83, 'month_interval': 2}","{'day_interval': 101, 'month_interval': 3}",PubChem,Pembrolizumab,469691028,Not available,43.6,False,89.3,False
-SYNTH_04,DONOR_0070,TREATMENT_0139,Hormone therapy,18.0,False,,True,"{'day_interval': 87, 'month_interval': 2}","{'day_interval': 95, 'month_interval': 3}",PubChem,Diethylstilbestrol,448537,Not available,,True,72.8,False
-SYNTH_04,DONOR_0070,TREATMENT_0140,Hormone therapy,18.0,False,8.0,False,"{'day_interval': 214, 'month_interval': 7}","{'day_interval': 259, 'month_interval': 8}",PubChem,Tamoxifen,2733526,IU/kg,49.3,False,,True
-SYNTH_04,DONOR_0070,TREATMENT_0140,Immunotherapy,24.0,False,2.0,False,"{'day_interval': 244, 'month_interval': 8}","{'day_interval': 263, 'month_interval': 8}",NCI Thesaurus,Ipilimumab,C2654,IU/kg,33.2,False,85.7,False
-SYNTH_04,DONOR_0071,TREATMENT_0141,Immunotherapy,21.0,False,1.0,False,{'day_interval': 140},"{'day_interval': 156, 'month_interval': 5}",NCI Thesaurus,Ipilimumab,C2654,IU/kg,24.4,False,64.5,False
-SYNTH_04,DONOR_0071,TREATMENT_0141,Hormone therapy,8.0,False,5.0,False,,,PubChem,Buserelin,50225,,,True,61.1,False
-SYNTH_04,DONOR_0071,TREATMENT_0142,Chemotherapy,7.0,False,1.0,False,"{'day_interval': 138, 'month_interval': 4}","{'day_interval': 196, 'month_interval': 6}",,,,IU/m2,31.9,False,70.1,False
-SYNTH_04,DONOR_0071,TREATMENT_0142,Hormone therapy,7.0,False,5.0,False,"{'day_interval': 181, 'month_interval': 5}","{'day_interval': 219, 'month_interval': 7}",NCI Thesaurus,Tamoxifen,C62078,mg/kg,33.9,False,,True
-SYNTH_04,DONOR_0072,TREATMENT_0143,Chemotherapy,,True,10.0,False,"{'day_interval': 181, 'month_interval': 5}","{'day_interval': 311, 'month_interval': 10}",,,,g/m2,22.0,False,99.8,False
-SYNTH_04,DONOR_0072,TREATMENT_0143,Immunotherapy,16.0,False,2.0,False,"{'day_interval': 470, 'month_interval': 15}","{'day_interval': 479, 'month_interval': 15}",PubChem,Nivolumab,469753496,cells/kg,37.8,False,98.3,False
-SYNTH_04,DONOR_0072,TREATMENT_0144,Chemotherapy,5.0,False,8.0,False,"{'day_interval': 199, 'month_interval': 6}","{'day_interval': 213, 'month_interval': 6}",,,,Not available,24.5,False,59.0,False
-SYNTH_04,DONOR_0072,TREATMENT_0144,Immunotherapy,18.0,False,6.0,False,,,PubChem,Atezolizumab,469690927,IU/kg,31.5,False,66.2,False
-SYNTH_04,DONOR_0073,TREATMENT_0145,Chemotherapy,5.0,False,9.0,False,"{'day_interval': 254, 'month_interval': 8}","{'day_interval': 256, 'month_interval': 8}",NCI Thesaurus,Carboplatin,C1282,Not available,31.7,False,91.9,False
-SYNTH_04,DONOR_0073,TREATMENT_0145,Immunotherapy,15.0,False,1.0,False,"{'day_interval': 226, 'month_interval': 7}","{'day_interval': 259, 'month_interval': 8}",NCI Thesaurus,Atezolizumab,C106250,mg/m2,28.5,False,73.7,False
-SYNTH_04,DONOR_0073,TREATMENT_0146,Hormone therapy,8.0,False,9.0,False,"{'day_interval': 318, 'month_interval': 10}","{'day_interval': 318, 'month_interval': 10}",RxNorm,Tamoxifen,10324,IU/kg,,True,84.4,False
-SYNTH_04,DONOR_0073,TREATMENT_0146,Chemotherapy,10.0,False,7.0,False,"{'day_interval': 274, 'month_interval': 9}","{'day_interval': 304, 'month_interval': 9}",RxNorm,Carboplatin,40048,mg/m2,32.8,False,,True
-SYNTH_04,DONOR_0074,TREATMENT_0147,Hormone therapy,19.0,False,4.0,False,"{'day_interval': 155, 'month_interval': 5}","{'day_interval': 170, 'month_interval': 5}",NCI Thesaurus,Tamoxifen,C62078,cells/kg,,True,83.1,False
-SYNTH_04,DONOR_0074,TREATMENT_0147,Immunotherapy,,True,8.0,False,,,NCI Thesaurus,Nivolumab,C68814,cells/kg,26.3,False,97.8,False
-SYNTH_04,DONOR_0074,TREATMENT_0148,Chemotherapy,7.0,False,2.0,False,"{'day_interval': 280, 'month_interval': 9}","{'day_interval': 285, 'month_interval': 9}",RxNorm,Idarubicin,5650,ug/m2,40.3,False,98.7,False
-SYNTH_04,DONOR_0074,TREATMENT_0148,Hormone therapy,28.0,False,7.0,False,"{'day_interval': 352, 'month_interval': 11}","{'day_interval': 472, 'month_interval': 15}",NCI Thesaurus,Diethylstilbestrol,C433,ug/m2,,True,74.6,False
-SYNTH_04,DONOR_0075,TREATMENT_0149,Chemotherapy,26.0,False,9.0,False,,,NCI Thesaurus,Carboplatin,C1282,g/m2,,True,70.7,False
-SYNTH_04,DONOR_0075,TREATMENT_0149,Hormone therapy,17.0,False,9.0,False,,,NCI Thesaurus,Buserelin,C320,cells/kg,24.9,False,70.0,False
-SYNTH_04,DONOR_0075,TREATMENT_0150,Immunotherapy,4.0,False,9.0,False,,,,,,cells/kg,24.0,False,78.1,False
-SYNTH_04,DONOR_0075,TREATMENT_0150,Hormone therapy,11.0,False,9.0,False,"{'day_interval': 384, 'month_interval': 12}","{'day_interval': 384, 'month_interval': 12}",RxNorm,Diethylstilbestrol,3390,cells/kg,21.0,False,85.8,False
-SYNTH_04,DONOR_0076,TREATMENT_0151,Hormone therapy,1.0,False,10.0,False,"{'day_interval': 129, 'month_interval': 4}","{'day_interval': 185, 'month_interval': 6}",,,,cells/kg,42.1,False,,True
-SYNTH_04,DONOR_0076,TREATMENT_0151,Immunotherapy,4.0,False,2.0,False,"{'day_interval': 303, 'month_interval': 9}","{'day_interval': 318, 'month_interval': 10}",,,,,39.4,False,86.8,False
-SYNTH_04,DONOR_0076,TREATMENT_0152,Chemotherapy,2.0,False,10.0,False,"{'day_interval': 21, 'month_interval': 0}","{'day_interval': 46, 'month_interval': 1}",PubChem,Paclitaxel,36314,mg/m2,,True,,True
-SYNTH_04,DONOR_0076,TREATMENT_0152,Immunotherapy,18.0,False,3.0,False,"{'day_interval': 2, 'month_interval': 0}","{'day_interval': 46, 'month_interval': 1}",RxNorm,Pembrolizumab,1547545,,28.5,False,71.3,False
-SYNTH_04,DONOR_0077,TREATMENT_0153,Immunotherapy,,True,,True,"{'day_interval': 294, 'month_interval': 9}","{'day_interval': 327, 'month_interval': 10}",NCI Thesaurus,Durvalumab,C103194,IU/kg,34.0,False,65.1,False
-SYNTH_04,DONOR_0077,TREATMENT_0153,Chemotherapy,13.0,False,8.0,False,"{'day_interval': 322, 'month_interval': 10}","{'day_interval': 331, 'month_interval': 10}",NCI Thesaurus,Paclitaxel,C1411,cells/kg,36.1,False,53.1,False
-SYNTH_04,DONOR_0077,TREATMENT_0154,Immunotherapy,8.0,False,2.0,False,{'day_interval': 86},"{'day_interval': 150, 'month_interval': 4}",RxNorm,Nivolumab,1597876,,24.2,False,,True
-SYNTH_04,DONOR_0077,TREATMENT_0154,Chemotherapy,19.0,False,1.0,False,,,PubChem,Methotrexate,126941,ug/m2,48.3,False,67.2,False
-SYNTH_04,DONOR_0078,TREATMENT_0155,Chemotherapy,12.0,False,6.0,False,"{'day_interval': 294, 'month_interval': 9}","{'day_interval': 306, 'month_interval': 10}",RxNorm,Paclitaxel,56946,,27.5,False,,True
-SYNTH_04,DONOR_0078,TREATMENT_0155,Hormone therapy,22.0,False,9.0,False,"{'day_interval': 244, 'month_interval': 8}","{'day_interval': 245, 'month_interval': 8}",RxNorm,Fluoxymesterone,4494,mg/kg,30.8,False,77.6,False
-SYNTH_04,DONOR_0078,TREATMENT_0156,Immunotherapy,28.0,False,3.0,False,{'day_interval': 104},"{'day_interval': 108, 'month_interval': 3}",PubChem,Pembrolizumab,469691028,IU/m2,39.2,False,85.3,False
-SYNTH_04,DONOR_0078,TREATMENT_0156,Immunotherapy,8.0,False,10.0,False,{'day_interval': 155},"{'day_interval': 185, 'month_interval': 6}",RxNorm,Ipilimumab,1094833,mg/kg,46.7,False,58.0,False
-SYNTH_04,DONOR_0079,TREATMENT_0157,Chemotherapy,,True,7.0,False,"{'day_interval': 182, 'month_interval': 5}","{'day_interval': 253, 'month_interval': 8}",,,,IU/kg,38.9,False,70.6,False
-SYNTH_04,DONOR_0079,TREATMENT_0157,Hormone therapy,25.0,False,7.0,False,"{'day_interval': 139, 'month_interval': 4}","{'day_interval': 227, 'month_interval': 7}",RxNorm,Diethylstilbestrol,3390,,20.7,False,60.0,False
-SYNTH_04,DONOR_0079,TREATMENT_0158,Immunotherapy,21.0,False,2.0,False,"{'day_interval': 144, 'month_interval': 4}","{'day_interval': 183, 'month_interval': 6}",NCI Thesaurus,Pembrolizumab,C106432,IU/kg,,True,71.0,False
-SYNTH_04,DONOR_0079,TREATMENT_0158,Immunotherapy,,True,3.0,False,,,PubChem,Atezolizumab,469690927,,29.3,False,88.4,False
-SYNTH_04,DONOR_0080,TREATMENT_0159,Immunotherapy,24.0,False,10.0,False,"{'day_interval': 205, 'month_interval': 6}","{'day_interval': 270, 'month_interval': 8}",PubChem,Durvalumab,481101604,g/m2,26.0,False,85.5,False
-SYNTH_04,DONOR_0080,TREATMENT_0159,Chemotherapy,2.0,False,1.0,False,,,PubChem,Paclitaxel,36314,mg/kg,26.4,False,81.7,False
-SYNTH_04,DONOR_0080,TREATMENT_0160,Immunotherapy,10.0,False,8.0,False,"{'day_interval': 0, 'month_interval': 0}","{'day_interval': 3, 'month_interval': 0}",RxNorm,Nivolumab,1597876,cells/kg,27.1,False,66.1,False
-SYNTH_04,DONOR_0080,TREATMENT_0160,Chemotherapy,8.0,False,7.0,False,"{'day_interval': 3, 'month_interval': 0}","{'day_interval': 3, 'month_interval': 0}",,,,ug/m2,43.4,False,66.8,False
-SYNTH_01,DONOR_NULL_0001,TREATMENT_NULL_0001,Immunotherapy,19.0,False,9.0,False,,,,,,,,False,,False
-SYNTH_01,DONOR_NULL_0001,TREATMENT_NULL_0001,Immunotherapy,15.0,False,1.0,False,,,,,,,,False,,False
-SYNTH_01,DONOR_NULL_0001,TREATMENT_NULL_0002,Hormone therapy,25.0,False,2.0,False,,,,,,,,False,,False
-SYNTH_01,DONOR_NULL_0001,TREATMENT_NULL_0002,Immunotherapy,23.0,False,7.0,False,,,,,,,,False,,False
-SYNTH_01,DONOR_NULL_0002,TREATMENT_NULL_0003,Chemotherapy,4.0,False,2.0,False,,,,,,,,False,,False
-SYNTH_01,DONOR_NULL_0002,TREATMENT_NULL_0003,Chemotherapy,9.0,False,2.0,False,,,,,,,,False,,False
-SYNTH_01,DONOR_NULL_0002,TREATMENT_NULL_0004,Hormone therapy,23.0,False,6.0,False,,,,,,,,False,,False
+SYNTH_01,DONOR_0001,TREATMENT_0001,Hormone therapy,26.0,False,7.0,False,"{'day_interval': 242, 'month_interval': 7}","{'day_interval': 288, 'month_interval': 9}",PubChem,Buserelin,50225,IU/m2,,True,90.7,False
+SYNTH_01,DONOR_0001,TREATMENT_0001,Immunotherapy,14.0,False,,True,"{'day_interval': 211, 'month_interval': 6}","{'day_interval': 222, 'month_interval': 7}",,,,mg/m2,24.5,False,68.7,False
+SYNTH_01,DONOR_0001,TREATMENT_0002,Hormone therapy,28.0,False,7.0,False,,,RxNorm,Diethylstilbestrol,3390,mg/m2,32.7,False,94.9,False
+SYNTH_01,DONOR_0001,TREATMENT_0002,Chemotherapy,,True,1.0,False,"{'day_interval': 190, 'month_interval': 6}","{'day_interval': 285, 'month_interval': 9}",,,,,,True,99.9,False
+SYNTH_01,DONOR_0002,TREATMENT_0003,Hormone therapy,20.0,False,,True,"{'day_interval': 146, 'month_interval': 4}","{'day_interval': 154, 'month_interval': 5}",PubChem,Degarelix,16136245,mg/m2,,True,,True
+SYNTH_01,DONOR_0002,TREATMENT_0003,Immunotherapy,17.0,False,10.0,False,,,NCI Thesaurus,Atezolizumab,C106250,,,True,84.6,False
+SYNTH_01,DONOR_0002,TREATMENT_0004,Chemotherapy,7.0,False,,True,,,PubChem,Carboplatin,426756,IU/m2,29.3,False,88.8,False
+SYNTH_01,DONOR_0002,TREATMENT_0004,Chemotherapy,2.0,False,4.0,False,"{'day_interval': 241, 'month_interval': 7}","{'day_interval': 375, 'month_interval': 12}",NCI Thesaurus,Carboplatin,C1282,ug/m2,23.2,False,84.2,False
+SYNTH_01,DONOR_0003,TREATMENT_0005,Hormone therapy,25.0,False,7.0,False,"{'day_interval': 261, 'month_interval': 8}","{'day_interval': 298, 'month_interval': 9}",PubChem,Diethylstilbestrol,448537,ug/m2,30.8,False,78.4,False
+SYNTH_01,DONOR_0003,TREATMENT_0005,Immunotherapy,24.0,False,1.0,False,,,NCI Thesaurus,Nivolumab,C68814,,37.5,False,96.3,False
+SYNTH_01,DONOR_0003,TREATMENT_0006,Hormone therapy,27.0,False,8.0,False,,,NCI Thesaurus,Diethylstilbestrol,C433,mg/m2,27.5,False,54.5,False
+SYNTH_01,DONOR_0003,TREATMENT_0006,Hormone therapy,3.0,False,8.0,False,"{'day_interval': 220, 'month_interval': 7}","{'day_interval': 230, 'month_interval': 7}",PubChem,Diethylstilbestrol,448537,,33.2,False,65.7,False
+SYNTH_01,DONOR_0004,TREATMENT_0007,Immunotherapy,11.0,False,3.0,False,"{'day_interval': 358, 'month_interval': 11}","{'day_interval': 407, 'month_interval': 13}",NCI Thesaurus,Durvalumab,C103194,cells/kg,44.5,False,84.0,False
+SYNTH_01,DONOR_0004,TREATMENT_0007,Chemotherapy,22.0,False,1.0,False,"{'day_interval': 256, 'month_interval': 8}","{'day_interval': 317, 'month_interval': 10}",PubChem,Carboplatin,426756,IU/kg,24.1,False,56.0,False
+SYNTH_01,DONOR_0004,TREATMENT_0008,Chemotherapy,5.0,False,5.0,False,"{'day_interval': 46, 'month_interval': 1}","{'day_interval': 107, 'month_interval': 3}",PubChem,Fludarabine,657237,IU/kg,33.7,False,67.5,False
+SYNTH_01,DONOR_0004,TREATMENT_0008,Chemotherapy,4.0,False,,True,,,RxNorm,Methotrexate,6851,Not available,31.7,False,84.1,False
+SYNTH_01,DONOR_0005,TREATMENT_0009,Hormone therapy,1.0,False,10.0,False,"{'day_interval': 389, 'month_interval': 12}","{'day_interval': 415, 'month_interval': 13}",,,,g/m2,36.6,False,73.5,False
+SYNTH_01,DONOR_0005,TREATMENT_0009,Hormone therapy,25.0,False,8.0,False,"{'day_interval': 166, 'month_interval': 5}","{'day_interval': 360, 'month_interval': 11}",PubChem,Degarelix,16136245,Not available,22.1,False,,True
+SYNTH_01,DONOR_0005,TREATMENT_0010,Chemotherapy,22.0,False,2.0,False,"{'day_interval': 197, 'month_interval': 6}","{'day_interval': 248, 'month_interval': 8}",PubChem,Paclitaxel,36314,g/m2,,True,61.8,False
+SYNTH_01,DONOR_0005,TREATMENT_0010,Hormone therapy,30.0,False,6.0,False,"{'day_interval': 169, 'month_interval': 5}","{'day_interval': 230, 'month_interval': 7}",PubChem,Tamoxifen,2733526,cells/kg,21.2,False,85.7,False
+SYNTH_01,DONOR_0006,TREATMENT_0011,Chemotherapy,10.0,False,6.0,False,"{'day_interval': 86, 'month_interval': 2}","{'day_interval': 88, 'month_interval': 2}",NCI Thesaurus,Methotrexate,C642,mg/m2,,True,97.0,False
+SYNTH_01,DONOR_0006,TREATMENT_0011,Immunotherapy,10.0,False,5.0,False,"{'day_interval': 223, 'month_interval': 7}","{'day_interval': 286, 'month_interval': 9}",PubChem,Nivolumab,469753496,,28.0,False,,True
+SYNTH_01,DONOR_0006,TREATMENT_0012,Hormone therapy,5.0,False,8.0,False,,,NCI Thesaurus,Fluoxymesterone,C507,,,True,77.7,False
+SYNTH_01,DONOR_0006,TREATMENT_0012,Hormone therapy,14.0,False,1.0,False,,,PubChem,Fluoxymesterone,6446,mg/m2,42.3,False,86.6,False
+SYNTH_01,DONOR_0007,TREATMENT_0013,Chemotherapy,11.0,False,5.0,False,,,PubChem,Methotrexate,126941,,41.3,False,58.0,False
+SYNTH_01,DONOR_0007,TREATMENT_0013,Hormone therapy,10.0,False,1.0,False,{'day_interval': 62},"{'day_interval': 145, 'month_interval': 4}",NCI Thesaurus,Degarelix,C48385,g/m2,36.5,False,98.8,False
+SYNTH_01,DONOR_0007,TREATMENT_0014,Immunotherapy,23.0,False,3.0,False,,,,,,mg/kg,30.4,False,51.6,False
+SYNTH_01,DONOR_0007,TREATMENT_0014,Immunotherapy,30.0,False,7.0,False,"{'day_interval': 261, 'month_interval': 8}","{'day_interval': 335, 'month_interval': 11}",NCI Thesaurus,Atezolizumab,C106250,mg/kg,38.9,False,51.6,False
+SYNTH_01,DONOR_0008,TREATMENT_0015,Chemotherapy,5.0,False,10.0,False,"{'day_interval': 57, 'month_interval': 1}","{'day_interval': 95, 'month_interval': 3}",PubChem,Methotrexate,126941,g/m2,,True,93.4,False
+SYNTH_01,DONOR_0008,TREATMENT_0015,Immunotherapy,30.0,False,2.0,False,,,NCI Thesaurus,Nivolumab,C68814,g/m2,38.2,False,59.7,False
+SYNTH_01,DONOR_0008,TREATMENT_0016,Hormone therapy,24.0,False,9.0,False,"{'day_interval': 161, 'month_interval': 5}","{'day_interval': 164, 'month_interval': 5}",RxNorm,Diethylstilbestrol,3390,Not available,24.7,False,64.4,False
+SYNTH_01,DONOR_0008,TREATMENT_0016,Chemotherapy,6.0,False,4.0,False,"{'day_interval': 161, 'month_interval': 5}","{'day_interval': 198, 'month_interval': 6}",RxNorm,Paclitaxel,56946,Not available,28.6,False,76.1,False
+SYNTH_01,DONOR_0009,TREATMENT_0017,Immunotherapy,14.0,False,7.0,False,,,NCI Thesaurus,Pembrolizumab,C106432,mg/m2,29.7,False,84.5,False
+SYNTH_01,DONOR_0009,TREATMENT_0017,Chemotherapy,12.0,False,2.0,False,"{'day_interval': 259, 'month_interval': 8}","{'day_interval': 314, 'month_interval': 10}",NCI Thesaurus,Idarubicin,C562,,42.3,False,69.8,False
+SYNTH_01,DONOR_0009,TREATMENT_0018,Chemotherapy,1.0,False,9.0,False,,,,,,mg/kg,,True,93.5,False
+SYNTH_01,DONOR_0009,TREATMENT_0018,Hormone therapy,26.0,False,2.0,False,"{'day_interval': 157, 'month_interval': 5}","{'day_interval': 168, 'month_interval': 5}",RxNorm,Degarelix,475230,,24.9,False,91.2,False
+SYNTH_01,DONOR_0010,TREATMENT_0019,Immunotherapy,,True,,True,"{'day_interval': 77, 'month_interval': 2}","{'day_interval': 147, 'month_interval': 4}",PubChem,Pembrolizumab,469691028,ug/m2,38.0,False,,True
+SYNTH_01,DONOR_0010,TREATMENT_0019,Hormone therapy,26.0,False,5.0,False,"{'day_interval': 93, 'month_interval': 3}","{'day_interval': 147, 'month_interval': 4}",PubChem,Buserelin,50225,IU/kg,23.6,False,66.2,False
+SYNTH_01,DONOR_0010,TREATMENT_0020,Hormone therapy,25.0,False,1.0,False,"{'day_interval': 141, 'month_interval': 4}","{'day_interval': 241, 'month_interval': 7}",RxNorm,Buserelin,1825,,,True,,True
+SYNTH_01,DONOR_0010,TREATMENT_0020,Hormone therapy,25.0,False,10.0,False,"{'day_interval': 262, 'month_interval': 8}","{'day_interval': 372, 'month_interval': 12}",,,,mg/kg,28.7,False,98.7,False
+SYNTH_01,DONOR_0011,TREATMENT_0021,Immunotherapy,,True,9.0,False,"{'day_interval': 139, 'month_interval': 4}","{'day_interval': 144, 'month_interval': 4}",,,,mg/kg,32.5,False,70.5,False
+SYNTH_01,DONOR_0011,TREATMENT_0021,Chemotherapy,,True,8.0,False,"{'day_interval': 144, 'month_interval': 4}","{'day_interval': 147, 'month_interval': 4}",NCI Thesaurus,Methotrexate,C642,cells/kg,29.0,False,86.5,False
+SYNTH_01,DONOR_0011,TREATMENT_0022,Immunotherapy,23.0,False,,True,"{'day_interval': 151, 'month_interval': 4}","{'day_interval': 172, 'month_interval': 5}",PubChem,Nivolumab,469753496,ug/m2,44.1,False,75.4,False
+SYNTH_01,DONOR_0011,TREATMENT_0022,Immunotherapy,30.0,False,6.0,False,,,,,,Not available,24.0,False,94.7,False
+SYNTH_01,DONOR_0012,TREATMENT_0023,Immunotherapy,24.0,False,6.0,False,"{'day_interval': 204, 'month_interval': 6}","{'day_interval': 483, 'month_interval': 15}",NCI Thesaurus,Atezolizumab,C106250,,45.9,False,65.9,False
+SYNTH_01,DONOR_0012,TREATMENT_0023,Hormone therapy,7.0,False,1.0,False,"{'day_interval': 316, 'month_interval': 10}","{'day_interval': 454, 'month_interval': 14}",RxNorm,Diethylstilbestrol,3390,Not available,37.5,False,71.7,False
+SYNTH_01,DONOR_0012,TREATMENT_0024,Immunotherapy,10.0,False,3.0,False,"{'day_interval': 26, 'month_interval': 0}","{'day_interval': 30, 'month_interval': 0}",RxNorm,Atezolizumab,1792776,IU/m2,24.2,False,64.7,False
+SYNTH_01,DONOR_0012,TREATMENT_0024,Hormone therapy,20.0,False,2.0,False,"{'day_interval': 3, 'month_interval': 0}","{'day_interval': 8, 'month_interval': 0}",NCI Thesaurus,Tamoxifen,C62078,,31.2,False,,True
+SYNTH_01,DONOR_0013,TREATMENT_0025,Immunotherapy,3.0,False,4.0,False,"{'day_interval': 147, 'month_interval': 4}","{'day_interval': 259, 'month_interval': 8}",PubChem,Nivolumab,469753496,cells/kg,46.3,False,58.8,False
+SYNTH_01,DONOR_0013,TREATMENT_0025,Chemotherapy,4.0,False,8.0,False,"{'day_interval': 296, 'month_interval': 9}","{'day_interval': 306, 'month_interval': 10}",PubChem,Idarubicin,42890,IU/m2,43.2,False,66.7,False
+SYNTH_01,DONOR_0013,TREATMENT_0026,Chemotherapy,6.0,False,8.0,False,{'day_interval': 25},"{'day_interval': 88, 'month_interval': 2}",NCI Thesaurus,Fludarabine,C1094,ug/m2,40.9,False,84.0,False
+SYNTH_01,DONOR_0013,TREATMENT_0026,Chemotherapy,22.0,False,1.0,False,{'day_interval': 72},"{'day_interval': 133, 'month_interval': 4}",PubChem,Carboplatin,426756,,44.9,False,,True
+SYNTH_01,DONOR_0014,TREATMENT_0027,Immunotherapy,7.0,False,5.0,False,"{'day_interval': 247, 'month_interval': 8}","{'day_interval': 282, 'month_interval': 9}",RxNorm,Ipilimumab,1094833,IU/m2,48.2,False,87.2,False
+SYNTH_01,DONOR_0014,TREATMENT_0027,Chemotherapy,24.0,False,,True,"{'day_interval': 310, 'month_interval': 10}","{'day_interval': 358, 'month_interval': 11}",RxNorm,Fludarabine,24698,mg/kg,35.8,False,79.4,False
+SYNTH_01,DONOR_0014,TREATMENT_0028,Hormone therapy,26.0,False,6.0,False,"{'day_interval': 30, 'month_interval': 0}","{'day_interval': 45, 'month_interval': 1}",PubChem,Diethylstilbestrol,448537,mg/kg,24.3,False,72.8,False
+SYNTH_01,DONOR_0014,TREATMENT_0028,Hormone therapy,21.0,False,,True,"{'day_interval': 37, 'month_interval': 1}","{'day_interval': 53, 'month_interval': 1}",NCI Thesaurus,Diethylstilbestrol,C433,cells/kg,49.2,False,95.7,False
+SYNTH_01,DONOR_0015,TREATMENT_0029,Hormone therapy,,True,6.0,False,,,PubChem,Tamoxifen,2733526,Not available,26.3,False,83.9,False
+SYNTH_01,DONOR_0015,TREATMENT_0029,Chemotherapy,29.0,False,5.0,False,"{'day_interval': 318, 'month_interval': 10}","{'day_interval': 472, 'month_interval': 15}",NCI Thesaurus,Paclitaxel,C1411,cells/kg,45.5,False,83.2,False
+SYNTH_01,DONOR_0015,TREATMENT_0030,Chemotherapy,19.0,False,,True,{'day_interval': 158},"{'day_interval': 214, 'month_interval': 7}",NCI Thesaurus,Methotrexate,C642,IU/kg,34.3,False,,True
+SYNTH_01,DONOR_0015,TREATMENT_0030,Immunotherapy,3.0,False,7.0,False,,,RxNorm,Atezolizumab,1792776,cells/kg,32.6,False,51.0,False
+SYNTH_01,DONOR_0016,TREATMENT_0031,Immunotherapy,19.0,False,7.0,False,,,PubChem,Nivolumab,469753496,ug/m2,20.3,False,67.2,False
+SYNTH_01,DONOR_0016,TREATMENT_0031,Immunotherapy,27.0,False,1.0,False,"{'day_interval': 168, 'month_interval': 5}","{'day_interval': 189, 'month_interval': 6}",RxNorm,Atezolizumab,1792776,IU/m2,43.9,False,95.0,False
+SYNTH_01,DONOR_0016,TREATMENT_0032,Chemotherapy,13.0,False,1.0,False,"{'day_interval': 60, 'month_interval': 1}","{'day_interval': 156, 'month_interval': 5}",PubChem,Methotrexate,126941,IU/m2,,True,65.5,False
+SYNTH_01,DONOR_0016,TREATMENT_0032,Hormone therapy,15.0,False,5.0,False,"{'day_interval': 92, 'month_interval': 3}","{'day_interval': 193, 'month_interval': 6}",RxNorm,Tamoxifen,10324,g/m2,43.2,False,58.1,False
+SYNTH_01,DONOR_0017,TREATMENT_0033,Immunotherapy,,True,5.0,False,"{'day_interval': 283, 'month_interval': 9}","{'day_interval': 419, 'month_interval': 13}",PubChem,Ipilimumab,472634117,ug/m2,,True,79.1,False
+SYNTH_01,DONOR_0017,TREATMENT_0033,Hormone therapy,,True,8.0,False,,,NCI Thesaurus,Tamoxifen,C62078,mg/kg,31.4,False,,True
+SYNTH_01,DONOR_0017,TREATMENT_0034,Hormone therapy,12.0,False,8.0,False,"{'day_interval': 63, 'month_interval': 2}","{'day_interval': 66, 'month_interval': 2}",RxNorm,Fluoxymesterone,4494,cells/kg,,True,84.4,False
+SYNTH_01,DONOR_0017,TREATMENT_0034,Chemotherapy,4.0,False,,True,"{'day_interval': 73, 'month_interval': 2}","{'day_interval': 95, 'month_interval': 3}",NCI Thesaurus,Fludarabine,C1094,,32.2,False,96.7,False
+SYNTH_01,DONOR_0018,TREATMENT_0035,Immunotherapy,16.0,False,2.0,False,"{'day_interval': 228, 'month_interval': 7}","{'day_interval': 292, 'month_interval': 9}",PubChem,Durvalumab,481101604,Not available,28.8,False,96.7,False
+SYNTH_01,DONOR_0018,TREATMENT_0035,Immunotherapy,10.0,False,7.0,False,"{'day_interval': 229, 'month_interval': 7}","{'day_interval': 245, 'month_interval': 8}",PubChem,Ipilimumab,472634117,Not available,44.0,False,94.1,False
+SYNTH_01,DONOR_0018,TREATMENT_0036,Hormone therapy,13.0,False,5.0,False,,,,,,g/m2,38.3,False,,True
+SYNTH_01,DONOR_0018,TREATMENT_0036,Chemotherapy,13.0,False,1.0,False,"{'day_interval': 192, 'month_interval': 6}","{'day_interval': 195, 'month_interval': 6}",PubChem,Methotrexate,126941,IU/m2,,True,61.3,False
+SYNTH_01,DONOR_0019,TREATMENT_0037,Immunotherapy,26.0,False,2.0,False,"{'day_interval': 193, 'month_interval': 6}","{'day_interval': 193, 'month_interval': 6}",RxNorm,Durvalumab,1919503,Not available,45.0,False,98.2,False
+SYNTH_01,DONOR_0019,TREATMENT_0037,Hormone therapy,9.0,False,10.0,False,,,NCI Thesaurus,Diethylstilbestrol,C433,mg/kg,38.6,False,53.7,False
+SYNTH_01,DONOR_0019,TREATMENT_0038,Chemotherapy,11.0,False,8.0,False,"{'day_interval': 300, 'month_interval': 9}","{'day_interval': 331, 'month_interval': 10}",,,,IU/m2,34.0,False,69.6,False
+SYNTH_01,DONOR_0019,TREATMENT_0038,Chemotherapy,7.0,False,10.0,False,"{'day_interval': 77, 'month_interval': 2}","{'day_interval': 216, 'month_interval': 7}",RxNorm,Methotrexate,6851,,37.8,False,67.2,False
+SYNTH_01,DONOR_0020,TREATMENT_0039,Immunotherapy,17.0,False,10.0,False,"{'day_interval': 167, 'month_interval': 5}","{'day_interval': 179, 'month_interval': 5}",PubChem,Ipilimumab,472634117,g/m2,27.8,False,85.1,False
+SYNTH_01,DONOR_0020,TREATMENT_0039,Immunotherapy,10.0,False,,True,"{'day_interval': 220, 'month_interval': 7}","{'day_interval': 220, 'month_interval': 7}",PubChem,Durvalumab,481101604,cells/kg,34.6,False,65.5,False
+SYNTH_01,DONOR_0020,TREATMENT_0040,Immunotherapy,16.0,False,6.0,False,"{'day_interval': 83, 'month_interval': 2}","{'day_interval': 88, 'month_interval': 2}",RxNorm,Durvalumab,1919503,cells/kg,48.0,False,86.3,False
+SYNTH_01,DONOR_0020,TREATMENT_0040,Hormone therapy,,True,4.0,False,"{'day_interval': 86, 'month_interval': 2}","{'day_interval': 91, 'month_interval': 2}",RxNorm,Buserelin,1825,Not available,28.2,False,94.4,False
+SYNTH_02,DONOR_0021,TREATMENT_0041,Immunotherapy,14.0,False,2.0,False,"{'day_interval': 196, 'month_interval': 6}","{'day_interval': 238, 'month_interval': 7}",,,,IU/kg,38.1,False,65.3,False
+SYNTH_02,DONOR_0021,TREATMENT_0041,Chemotherapy,4.0,False,4.0,False,"{'day_interval': 179, 'month_interval': 5}","{'day_interval': 262, 'month_interval': 8}",NCI Thesaurus,Carboplatin,C1282,,23.5,False,58.3,False
+SYNTH_02,DONOR_0021,TREATMENT_0042,Immunotherapy,19.0,False,2.0,False,"{'day_interval': 155, 'month_interval': 5}","{'day_interval': 208, 'month_interval': 6}",PubChem,Atezolizumab,469690927,,47.2,False,,True
+SYNTH_02,DONOR_0021,TREATMENT_0042,Hormone therapy,13.0,False,7.0,False,"{'day_interval': 234, 'month_interval': 7}","{'day_interval': 241, 'month_interval': 7}",,,,IU/m2,45.5,False,98.0,False
+SYNTH_02,DONOR_0022,TREATMENT_0043,Hormone therapy,16.0,False,6.0,False,"{'day_interval': 277, 'month_interval': 9}","{'day_interval': 281, 'month_interval': 9}",PubChem,Diethylstilbestrol,448537,mg/m2,41.9,False,,True
+SYNTH_02,DONOR_0022,TREATMENT_0043,Hormone therapy,14.0,False,4.0,False,"{'day_interval': 227, 'month_interval': 7}","{'day_interval': 276, 'month_interval': 9}",NCI Thesaurus,Fluoxymesterone,C507,Not available,36.0,False,,True
+SYNTH_02,DONOR_0022,TREATMENT_0044,Chemotherapy,25.0,False,7.0,False,{'day_interval': 133},"{'day_interval': 139, 'month_interval': 4}",,,,cells/kg,21.0,False,81.4,False
+SYNTH_02,DONOR_0022,TREATMENT_0044,Immunotherapy,4.0,False,,True,{'day_interval': 145},"{'day_interval': 189, 'month_interval': 6}",PubChem,Pembrolizumab,469691028,,20.8,False,70.4,False
+SYNTH_02,DONOR_0023,TREATMENT_0045,Immunotherapy,,True,2.0,False,"{'day_interval': 74, 'month_interval': 2}","{'day_interval': 77, 'month_interval': 2}",NCI Thesaurus,Ipilimumab,C2654,,22.2,False,63.3,False
+SYNTH_02,DONOR_0023,TREATMENT_0045,Hormone therapy,,True,9.0,False,"{'day_interval': 89, 'month_interval': 2}","{'day_interval': 94, 'month_interval': 3}",RxNorm,Buserelin,1825,mg/m2,48.5,False,,True
+SYNTH_02,DONOR_0023,TREATMENT_0046,Immunotherapy,5.0,False,1.0,False,"{'day_interval': 187, 'month_interval': 6}","{'day_interval': 217, 'month_interval': 7}",PubChem,Nivolumab,469753496,,33.1,False,,True
+SYNTH_02,DONOR_0023,TREATMENT_0046,Immunotherapy,4.0,False,6.0,False,"{'day_interval': 136, 'month_interval': 4}","{'day_interval': 156, 'month_interval': 5}",RxNorm,Pembrolizumab,1547545,IU/m2,34.9,False,,True
+SYNTH_02,DONOR_0024,TREATMENT_0047,Chemotherapy,20.0,False,4.0,False,"{'day_interval': 204, 'month_interval': 6}","{'day_interval': 214, 'month_interval': 7}",NCI Thesaurus,Idarubicin,C562,,37.1,False,52.0,False
+SYNTH_02,DONOR_0024,TREATMENT_0047,Chemotherapy,4.0,False,,True,"{'day_interval': 236, 'month_interval': 7}","{'day_interval': 266, 'month_interval': 8}",PubChem,Carboplatin,426756,mg/kg,31.2,False,99.1,False
+SYNTH_02,DONOR_0024,TREATMENT_0048,Immunotherapy,,True,,True,,,RxNorm,Nivolumab,1597876,,,True,61.7,False
+SYNTH_02,DONOR_0024,TREATMENT_0048,Immunotherapy,11.0,False,10.0,False,"{'day_interval': 37, 'month_interval': 1}","{'day_interval': 39, 'month_interval': 1}",RxNorm,Ipilimumab,1094833,IU/kg,22.0,False,97.8,False
+SYNTH_02,DONOR_0025,TREATMENT_0049,Chemotherapy,,True,,True,,,PubChem,Carboplatin,426756,IU/m2,49.1,False,72.6,False
+SYNTH_02,DONOR_0025,TREATMENT_0049,Hormone therapy,3.0,False,10.0,False,"{'day_interval': 183, 'month_interval': 6}","{'day_interval': 198, 'month_interval': 6}",PubChem,Diethylstilbestrol,448537,cells/kg,28.2,False,70.1,False
+SYNTH_02,DONOR_0025,TREATMENT_0050,Chemotherapy,9.0,False,1.0,False,"{'day_interval': 109, 'month_interval': 3}","{'day_interval': 119, 'month_interval': 3}",NCI Thesaurus,Methotrexate,C642,IU/m2,20.9,False,71.2,False
+SYNTH_02,DONOR_0025,TREATMENT_0050,Chemotherapy,21.0,False,6.0,False,"{'day_interval': 148, 'month_interval': 4}","{'day_interval': 151, 'month_interval': 4}",PubChem,Fludarabine,657237,cells/kg,42.0,False,72.9,False
+SYNTH_02,DONOR_0026,TREATMENT_0051,Immunotherapy,16.0,False,4.0,False,"{'day_interval': 145, 'month_interval': 4}","{'day_interval': 179, 'month_interval': 5}",PubChem,Durvalumab,481101604,Not available,27.4,False,80.3,False
+SYNTH_02,DONOR_0026,TREATMENT_0051,Immunotherapy,,True,6.0,False,,,RxNorm,Pembrolizumab,1547545,mg/kg,42.5,False,,True
+SYNTH_02,DONOR_0026,TREATMENT_0052,Immunotherapy,19.0,False,6.0,False,,,PubChem,Nivolumab,469753496,Not available,27.6,False,65.1,False
+SYNTH_02,DONOR_0026,TREATMENT_0052,Immunotherapy,13.0,False,2.0,False,,,PubChem,Nivolumab,469753496,g/m2,40.6,False,60.0,False
+SYNTH_02,DONOR_0027,TREATMENT_0053,Chemotherapy,28.0,False,7.0,False,"{'day_interval': 84, 'month_interval': 2}","{'day_interval': 106, 'month_interval': 3}",,,,,34.5,False,53.6,False
+SYNTH_02,DONOR_0027,TREATMENT_0053,Chemotherapy,23.0,False,1.0,False,"{'day_interval': 120, 'month_interval': 3}","{'day_interval': 128, 'month_interval': 4}",PubChem,Carboplatin,426756,,30.0,False,61.9,False
+SYNTH_02,DONOR_0027,TREATMENT_0054,Hormone therapy,17.0,False,1.0,False,,,RxNorm,Buserelin,1825,Not available,46.8,False,52.7,False
+SYNTH_02,DONOR_0027,TREATMENT_0054,Immunotherapy,13.0,False,6.0,False,"{'day_interval': 167, 'month_interval': 5}","{'day_interval': 203, 'month_interval': 6}",RxNorm,Durvalumab,1919503,,20.5,False,59.9,False
+SYNTH_02,DONOR_0028,TREATMENT_0055,Hormone therapy,18.0,False,,True,"{'day_interval': 457, 'month_interval': 15}","{'day_interval': 464, 'month_interval': 15}",PubChem,Fluoxymesterone,6446,mg/m2,49.0,False,75.1,False
+SYNTH_02,DONOR_0028,TREATMENT_0055,Chemotherapy,18.0,False,2.0,False,,,PubChem,Idarubicin,42890,mg/m2,30.8,False,69.4,False
+SYNTH_02,DONOR_0028,TREATMENT_0056,Hormone therapy,11.0,False,4.0,False,{'day_interval': 126},"{'day_interval': 220, 'month_interval': 7}",PubChem,Degarelix,16136245,mg/m2,20.6,False,,True
+SYNTH_02,DONOR_0028,TREATMENT_0056,Chemotherapy,3.0,False,,True,{'day_interval': 209},"{'day_interval': 245, 'month_interval': 8}",RxNorm,Paclitaxel,56946,mg/m2,,True,,True
+SYNTH_02,DONOR_0029,TREATMENT_0057,Immunotherapy,23.0,False,6.0,False,"{'day_interval': 298, 'month_interval': 9}","{'day_interval': 375, 'month_interval': 12}",NCI Thesaurus,Atezolizumab,C106250,mg/m2,31.7,False,87.1,False
+SYNTH_02,DONOR_0029,TREATMENT_0057,Chemotherapy,,True,2.0,False,"{'day_interval': 436, 'month_interval': 14}","{'day_interval': 452, 'month_interval': 14}",PubChem,Paclitaxel,36314,mg/m2,25.2,False,,True
+SYNTH_02,DONOR_0029,TREATMENT_0058,Hormone therapy,,True,8.0,False,"{'day_interval': 305, 'month_interval': 10}","{'day_interval': 355, 'month_interval': 11}",PubChem,Tamoxifen,2733526,Not available,48.2,False,97.4,False
+SYNTH_02,DONOR_0029,TREATMENT_0058,Hormone therapy,20.0,False,9.0,False,"{'day_interval': 390, 'month_interval': 12}","{'day_interval': 397, 'month_interval': 13}",RxNorm,Buserelin,1825,,42.9,False,68.1,False
+SYNTH_02,DONOR_0030,TREATMENT_0059,Chemotherapy,6.0,False,,True,"{'day_interval': 202, 'month_interval': 6}","{'day_interval': 210, 'month_interval': 6}",PubChem,Methotrexate,126941,mg/m2,26.0,False,93.2,False
+SYNTH_02,DONOR_0030,TREATMENT_0059,Hormone therapy,6.0,False,2.0,False,"{'day_interval': 192, 'month_interval': 6}","{'day_interval': 264, 'month_interval': 8}",RxNorm,Diethylstilbestrol,3390,mg/m2,43.5,False,70.3,False
+SYNTH_02,DONOR_0030,TREATMENT_0060,Chemotherapy,6.0,False,3.0,False,{'day_interval': 196},"{'day_interval': 286, 'month_interval': 9}",NCI Thesaurus,Idarubicin,C562,,,True,96.0,False
+SYNTH_02,DONOR_0030,TREATMENT_0060,Chemotherapy,30.0,False,2.0,False,{'day_interval': 209},"{'day_interval': 223, 'month_interval': 7}",RxNorm,Fludarabine,24698,,33.9,False,61.5,False
+SYNTH_02,DONOR_0031,TREATMENT_0061,Chemotherapy,,True,3.0,False,"{'day_interval': 107, 'month_interval': 3}","{'day_interval': 119, 'month_interval': 3}",NCI Thesaurus,Carboplatin,C1282,ug/m2,43.8,False,89.6,False
+SYNTH_02,DONOR_0031,TREATMENT_0061,Hormone therapy,18.0,False,4.0,False,,,PubChem,Tamoxifen,2733526,Not available,,True,96.7,False
+SYNTH_02,DONOR_0031,TREATMENT_0062,Immunotherapy,,True,6.0,False,"{'day_interval': 247, 'month_interval': 8}","{'day_interval': 247, 'month_interval': 8}",PubChem,Pembrolizumab,469691028,cells/kg,,True,,True
+SYNTH_02,DONOR_0031,TREATMENT_0062,Hormone therapy,7.0,False,7.0,False,"{'day_interval': 239, 'month_interval': 7}","{'day_interval': 239, 'month_interval': 7}",RxNorm,Fluoxymesterone,4494,Not available,44.4,False,71.2,False
+SYNTH_02,DONOR_0032,TREATMENT_0063,Chemotherapy,,True,10.0,False,{'day_interval': 87},"{'day_interval': 167, 'month_interval': 5}",PubChem,Paclitaxel,36314,mg/kg,35.7,False,77.1,False
+SYNTH_02,DONOR_0032,TREATMENT_0063,Immunotherapy,,True,6.0,False,{'day_interval': 108},"{'day_interval': 122, 'month_interval': 4}",PubChem,Pembrolizumab,469691028,mg/m2,34.7,False,86.2,False
+SYNTH_02,DONOR_0032,TREATMENT_0064,Immunotherapy,17.0,False,,True,,,,,,cells/kg,32.9,False,63.1,False
+SYNTH_02,DONOR_0032,TREATMENT_0064,Immunotherapy,,True,10.0,False,"{'day_interval': 121, 'month_interval': 3}","{'day_interval': 127, 'month_interval': 4}",NCI Thesaurus,Pembrolizumab,C106432,IU/kg,37.6,False,89.0,False
+SYNTH_02,DONOR_0033,TREATMENT_0065,Hormone therapy,24.0,False,5.0,False,"{'day_interval': 63, 'month_interval': 2}","{'day_interval': 68, 'month_interval': 2}",RxNorm,Fluoxymesterone,4494,,30.2,False,55.6,False
+SYNTH_02,DONOR_0033,TREATMENT_0065,Immunotherapy,9.0,False,1.0,False,"{'day_interval': 27, 'month_interval': 0}","{'day_interval': 60, 'month_interval': 1}",,,,,36.8,False,,True
+SYNTH_02,DONOR_0033,TREATMENT_0066,Chemotherapy,11.0,False,6.0,False,"{'day_interval': 173, 'month_interval': 5}","{'day_interval': 328, 'month_interval': 10}",RxNorm,Idarubicin,5650,,25.2,False,,True
+SYNTH_02,DONOR_0033,TREATMENT_0066,Immunotherapy,19.0,False,10.0,False,"{'day_interval': 203, 'month_interval': 6}","{'day_interval': 212, 'month_interval': 6}",NCI Thesaurus,Durvalumab,C103194,ug/m2,30.7,False,78.8,False
+SYNTH_02,DONOR_0034,TREATMENT_0067,Immunotherapy,12.0,False,8.0,False,"{'day_interval': 314, 'month_interval': 10}","{'day_interval': 377, 'month_interval': 12}",PubChem,Pembrolizumab,469691028,,29.9,False,74.5,False
+SYNTH_02,DONOR_0034,TREATMENT_0067,Chemotherapy,29.0,False,7.0,False,,,RxNorm,Carboplatin,40048,mg/m2,20.9,False,59.4,False
+SYNTH_02,DONOR_0034,TREATMENT_0068,Hormone therapy,,True,9.0,False,"{'day_interval': 311, 'month_interval': 10}","{'day_interval': 319, 'month_interval': 10}",RxNorm,Diethylstilbestrol,3390,IU/kg,42.9,False,97.8,False
+SYNTH_02,DONOR_0034,TREATMENT_0068,Chemotherapy,,True,,True,,,PubChem,Fludarabine,657237,ug/m2,29.2,False,59.0,False
+SYNTH_02,DONOR_0035,TREATMENT_0069,Hormone therapy,5.0,False,8.0,False,"{'day_interval': 151, 'month_interval': 4}","{'day_interval': 183, 'month_interval': 6}",RxNorm,Tamoxifen,10324,,24.5,False,,True
+SYNTH_02,DONOR_0035,TREATMENT_0069,Chemotherapy,6.0,False,,True,"{'day_interval': 142, 'month_interval': 4}","{'day_interval': 204, 'month_interval': 6}",RxNorm,Idarubicin,5650,g/m2,21.6,False,,True
+SYNTH_02,DONOR_0035,TREATMENT_0070,Immunotherapy,3.0,False,,True,,,NCI Thesaurus,Pembrolizumab,C106432,ug/m2,38.5,False,58.0,False
+SYNTH_02,DONOR_0035,TREATMENT_0070,Chemotherapy,28.0,False,4.0,False,{'day_interval': 155},"{'day_interval': 254, 'month_interval': 8}",,,,IU/kg,,True,63.1,False
+SYNTH_02,DONOR_0036,TREATMENT_0071,Immunotherapy,4.0,False,9.0,False,"{'day_interval': 112, 'month_interval': 3}","{'day_interval': 127, 'month_interval': 4}",NCI Thesaurus,Pembrolizumab,C106432,g/m2,47.7,False,86.1,False
+SYNTH_02,DONOR_0036,TREATMENT_0071,Immunotherapy,26.0,False,,True,"{'day_interval': 145, 'month_interval': 4}","{'day_interval': 154, 'month_interval': 5}",RxNorm,Durvalumab,1919503,IU/kg,,True,68.7,False
+SYNTH_02,DONOR_0036,TREATMENT_0072,Immunotherapy,24.0,False,10.0,False,,,NCI Thesaurus,Atezolizumab,C106250,,47.3,False,88.9,False
+SYNTH_02,DONOR_0036,TREATMENT_0072,Chemotherapy,18.0,False,4.0,False,"{'day_interval': 134, 'month_interval': 4}","{'day_interval': 418, 'month_interval': 13}",PubChem,Methotrexate,126941,IU/kg,29.4,False,85.6,False
+SYNTH_02,DONOR_0037,TREATMENT_0073,Immunotherapy,21.0,False,5.0,False,,,RxNorm,Nivolumab,1597876,mg/m2,38.6,False,95.0,False
+SYNTH_02,DONOR_0037,TREATMENT_0073,Chemotherapy,18.0,False,7.0,False,"{'day_interval': 111, 'month_interval': 3}","{'day_interval': 144, 'month_interval': 4}",NCI Thesaurus,Methotrexate,C642,IU/m2,22.4,False,76.9,False
+SYNTH_02,DONOR_0037,TREATMENT_0074,Chemotherapy,,True,7.0,False,"{'day_interval': 223, 'month_interval': 7}","{'day_interval': 254, 'month_interval': 8}",,,,,33.5,False,82.8,False
+SYNTH_02,DONOR_0037,TREATMENT_0074,Chemotherapy,13.0,False,10.0,False,"{'day_interval': 330, 'month_interval': 10}","{'day_interval': 362, 'month_interval': 11}",NCI Thesaurus,Carboplatin,C1282,,45.4,False,98.8,False
+SYNTH_02,DONOR_0038,TREATMENT_0075,Hormone therapy,22.0,False,5.0,False,,,NCI Thesaurus,Fluoxymesterone,C507,,,True,89.1,False
+SYNTH_02,DONOR_0038,TREATMENT_0075,Hormone therapy,27.0,False,10.0,False,"{'day_interval': 331, 'month_interval': 10}","{'day_interval': 437, 'month_interval': 14}",NCI Thesaurus,Tamoxifen,C62078,mg/m2,23.7,False,65.3,False
+SYNTH_02,DONOR_0038,TREATMENT_0076,Chemotherapy,,True,3.0,False,,,RxNorm,Fludarabine,24698,IU/kg,37.7,False,91.6,False
+SYNTH_02,DONOR_0038,TREATMENT_0076,Hormone therapy,7.0,False,,True,"{'day_interval': 75, 'month_interval': 2}","{'day_interval': 141, 'month_interval': 4}",NCI Thesaurus,Degarelix,C48385,ug/m2,44.5,False,92.1,False
+SYNTH_02,DONOR_0039,TREATMENT_0077,Chemotherapy,28.0,False,10.0,False,"{'day_interval': 424, 'month_interval': 13}","{'day_interval': 434, 'month_interval': 14}",NCI Thesaurus,Idarubicin,C562,g/m2,44.8,False,65.5,False
+SYNTH_02,DONOR_0039,TREATMENT_0077,Chemotherapy,8.0,False,7.0,False,,,,,,mg/m2,26.1,False,73.1,False
+SYNTH_02,DONOR_0039,TREATMENT_0078,Immunotherapy,9.0,False,2.0,False,"{'day_interval': 165, 'month_interval': 5}","{'day_interval': 167, 'month_interval': 5}",NCI Thesaurus,Ipilimumab,C2654,Not available,32.5,False,,True
+SYNTH_02,DONOR_0039,TREATMENT_0078,Hormone therapy,28.0,False,,True,"{'day_interval': 127, 'month_interval': 4}","{'day_interval': 153, 'month_interval': 5}",PubChem,Buserelin,50225,mg/m2,35.0,False,98.2,False
+SYNTH_02,DONOR_0040,TREATMENT_0079,Hormone therapy,19.0,False,8.0,False,"{'day_interval': 297, 'month_interval': 9}","{'day_interval': 385, 'month_interval': 12}",PubChem,Fluoxymesterone,6446,cells/kg,34.7,False,96.9,False
+SYNTH_02,DONOR_0040,TREATMENT_0079,Chemotherapy,12.0,False,,True,"{'day_interval': 149, 'month_interval': 4}","{'day_interval': 191, 'month_interval': 6}",NCI Thesaurus,Paclitaxel,C1411,,41.3,False,98.1,False
+SYNTH_02,DONOR_0040,TREATMENT_0080,Hormone therapy,10.0,False,4.0,False,"{'day_interval': 237, 'month_interval': 7}","{'day_interval': 276, 'month_interval': 9}",,,,mg/kg,24.8,False,76.6,False
+SYNTH_02,DONOR_0040,TREATMENT_0080,Chemotherapy,4.0,False,5.0,False,"{'day_interval': 250, 'month_interval': 8}","{'day_interval': 267, 'month_interval': 8}",PubChem,Fludarabine,657237,IU/kg,33.3,False,86.7,False
+SYNTH_03,DONOR_0041,TREATMENT_0081,Hormone therapy,27.0,False,,True,"{'day_interval': 158, 'month_interval': 5}","{'day_interval': 186, 'month_interval': 6}",RxNorm,Fluoxymesterone,4494,,21.1,False,,True
+SYNTH_03,DONOR_0041,TREATMENT_0081,Immunotherapy,,True,,True,"{'day_interval': 162, 'month_interval': 5}","{'day_interval': 196, 'month_interval': 6}",RxNorm,Atezolizumab,1792776,IU/m2,40.8,False,59.2,False
+SYNTH_03,DONOR_0041,TREATMENT_0082,Chemotherapy,29.0,False,2.0,False,"{'day_interval': 262, 'month_interval': 8}","{'day_interval': 335, 'month_interval': 11}",PubChem,Paclitaxel,36314,ug/m2,30.1,False,93.5,False
+SYNTH_03,DONOR_0041,TREATMENT_0082,Chemotherapy,,True,7.0,False,"{'day_interval': 461, 'month_interval': 15}","{'day_interval': 461, 'month_interval': 15}",PubChem,Paclitaxel,36314,ug/m2,38.8,False,90.7,False
+SYNTH_03,DONOR_0042,TREATMENT_0083,Immunotherapy,14.0,False,9.0,False,"{'day_interval': 170, 'month_interval': 5}","{'day_interval': 176, 'month_interval': 5}",NCI Thesaurus,Durvalumab,C103194,IU/kg,23.6,False,91.4,False
+SYNTH_03,DONOR_0042,TREATMENT_0083,Chemotherapy,2.0,False,6.0,False,"{'day_interval': 75, 'month_interval': 2}","{'day_interval': 84, 'month_interval': 2}",,,,cells/kg,37.8,False,75.9,False
+SYNTH_03,DONOR_0042,TREATMENT_0084,Chemotherapy,21.0,False,1.0,False,"{'day_interval': 225, 'month_interval': 7}","{'day_interval': 236, 'month_interval': 7}",PubChem,Fludarabine,657237,g/m2,32.8,False,61.5,False
+SYNTH_03,DONOR_0042,TREATMENT_0084,Immunotherapy,18.0,False,9.0,False,"{'day_interval': 185, 'month_interval': 6}","{'day_interval': 201, 'month_interval': 6}",RxNorm,Atezolizumab,1792776,,22.2,False,90.9,False
+SYNTH_03,DONOR_0043,TREATMENT_0085,Hormone therapy,4.0,False,9.0,False,"{'day_interval': 191, 'month_interval': 6}","{'day_interval': 343, 'month_interval': 11}",PubChem,Tamoxifen,2733526,g/m2,35.5,False,56.1,False
+SYNTH_03,DONOR_0043,TREATMENT_0085,Chemotherapy,6.0,False,9.0,False,,,PubChem,Idarubicin,42890,ug/m2,32.9,False,66.0,False
+SYNTH_03,DONOR_0043,TREATMENT_0086,Hormone therapy,22.0,False,4.0,False,"{'day_interval': 129, 'month_interval': 4}","{'day_interval': 140, 'month_interval': 4}",,,,mg/kg,20.3,False,61.0,False
+SYNTH_03,DONOR_0043,TREATMENT_0086,Chemotherapy,20.0,False,6.0,False,"{'day_interval': 155, 'month_interval': 5}","{'day_interval': 190, 'month_interval': 6}",PubChem,Carboplatin,426756,IU/kg,46.3,False,80.2,False
+SYNTH_03,DONOR_0044,TREATMENT_0087,Chemotherapy,22.0,False,3.0,False,,,RxNorm,Idarubicin,5650,,27.4,False,73.9,False
+SYNTH_03,DONOR_0044,TREATMENT_0087,Immunotherapy,4.0,False,3.0,False,"{'day_interval': 429, 'month_interval': 14}","{'day_interval': 452, 'month_interval': 14}",RxNorm,Nivolumab,1597876,IU/kg,,True,66.0,False
+SYNTH_03,DONOR_0044,TREATMENT_0088,Chemotherapy,28.0,False,,True,"{'day_interval': 102, 'month_interval': 3}","{'day_interval': 181, 'month_interval': 5}",NCI Thesaurus,Idarubicin,C562,ug/m2,,True,74.2,False
+SYNTH_03,DONOR_0044,TREATMENT_0088,Hormone therapy,,True,9.0,False,,,NCI Thesaurus,Tamoxifen,C62078,,27.3,False,85.3,False
+SYNTH_03,DONOR_0045,TREATMENT_0089,Hormone therapy,3.0,False,1.0,False,"{'day_interval': 159, 'month_interval': 5}","{'day_interval': 217, 'month_interval': 7}",PubChem,Buserelin,50225,IU/kg,29.4,False,65.8,False
+SYNTH_03,DONOR_0045,TREATMENT_0089,Chemotherapy,5.0,False,,True,"{'day_interval': 211, 'month_interval': 6}","{'day_interval': 241, 'month_interval': 7}",PubChem,Fludarabine,657237,ug/m2,47.6,False,99.2,False
+SYNTH_03,DONOR_0045,TREATMENT_0090,Hormone therapy,27.0,False,4.0,False,"{'day_interval': 429, 'month_interval': 14}","{'day_interval': 481, 'month_interval': 15}",PubChem,Tamoxifen,2733526,IU/kg,25.8,False,68.9,False
+SYNTH_03,DONOR_0045,TREATMENT_0090,Chemotherapy,20.0,False,10.0,False,"{'day_interval': 353, 'month_interval': 11}","{'day_interval': 397, 'month_interval': 13}",NCI Thesaurus,Idarubicin,C562,,,True,72.3,False
+SYNTH_03,DONOR_0046,TREATMENT_0091,Hormone therapy,26.0,False,7.0,False,{'day_interval': 159},"{'day_interval': 226, 'month_interval': 7}",RxNorm,Degarelix,475230,,42.9,False,81.1,False
+SYNTH_03,DONOR_0046,TREATMENT_0091,Immunotherapy,27.0,False,,True,{'day_interval': 160},"{'day_interval': 170, 'month_interval': 5}",,,,Not available,26.1,False,78.0,False
+SYNTH_03,DONOR_0046,TREATMENT_0092,Immunotherapy,5.0,False,,True,"{'day_interval': 361, 'month_interval': 11}","{'day_interval': 409, 'month_interval': 13}",PubChem,Atezolizumab,469690927,mg/m2,41.3,False,99.0,False
+SYNTH_03,DONOR_0046,TREATMENT_0092,Chemotherapy,8.0,False,5.0,False,"{'day_interval': 233, 'month_interval': 7}","{'day_interval': 332, 'month_interval': 10}",RxNorm,Fludarabine,24698,cells/kg,39.1,False,,True
+SYNTH_03,DONOR_0047,TREATMENT_0093,Chemotherapy,14.0,False,4.0,False,"{'day_interval': 128, 'month_interval': 4}","{'day_interval': 161, 'month_interval': 5}",NCI Thesaurus,Fludarabine,C1094,mg/m2,,True,55.5,False
+SYNTH_03,DONOR_0047,TREATMENT_0093,Chemotherapy,13.0,False,3.0,False,"{'day_interval': 139, 'month_interval': 4}","{'day_interval': 162, 'month_interval': 5}",PubChem,Fludarabine,657237,ug/m2,,True,98.2,False
+SYNTH_03,DONOR_0047,TREATMENT_0094,Immunotherapy,21.0,False,9.0,False,"{'day_interval': 146, 'month_interval': 4}","{'day_interval': 243, 'month_interval': 7}",NCI Thesaurus,Ipilimumab,C2654,IU/m2,24.6,False,85.2,False
+SYNTH_03,DONOR_0047,TREATMENT_0094,Immunotherapy,6.0,False,8.0,False,"{'day_interval': 246, 'month_interval': 8}","{'day_interval': 250, 'month_interval': 8}",PubChem,Durvalumab,481101604,cells/kg,,True,76.6,False
+SYNTH_03,DONOR_0048,TREATMENT_0095,Hormone therapy,4.0,False,6.0,False,,,,,,ug/m2,42.4,False,51.1,False
+SYNTH_03,DONOR_0048,TREATMENT_0095,Hormone therapy,21.0,False,1.0,False,"{'day_interval': 241, 'month_interval': 7}","{'day_interval': 331, 'month_interval': 10}",RxNorm,Fluoxymesterone,4494,Not available,48.8,False,91.9,False
+SYNTH_03,DONOR_0048,TREATMENT_0096,Immunotherapy,2.0,False,,True,"{'day_interval': 194, 'month_interval': 6}","{'day_interval': 296, 'month_interval': 9}",PubChem,Ipilimumab,472634117,IU/m2,46.1,False,94.3,False
+SYNTH_03,DONOR_0048,TREATMENT_0096,Chemotherapy,23.0,False,,True,,,,,,IU/m2,40.6,False,98.6,False
+SYNTH_03,DONOR_0049,TREATMENT_0097,Chemotherapy,26.0,False,10.0,False,"{'day_interval': 52, 'month_interval': 1}","{'day_interval': 59, 'month_interval': 1}",RxNorm,Fludarabine,24698,mg/m2,37.8,False,99.9,False
+SYNTH_03,DONOR_0049,TREATMENT_0097,Chemotherapy,,True,8.0,False,"{'day_interval': 18, 'month_interval': 0}","{'day_interval': 29, 'month_interval': 0}",RxNorm,Fludarabine,24698,g/m2,42.9,False,76.7,False
+SYNTH_03,DONOR_0049,TREATMENT_0098,Hormone therapy,5.0,False,,True,"{'day_interval': 259, 'month_interval': 8}","{'day_interval': 453, 'month_interval': 14}",RxNorm,Tamoxifen,10324,g/m2,26.8,False,72.5,False
+SYNTH_03,DONOR_0049,TREATMENT_0098,Hormone therapy,8.0,False,5.0,False,"{'day_interval': 436, 'month_interval': 14}","{'day_interval': 468, 'month_interval': 15}",PubChem,Fluoxymesterone,6446,IU/kg,23.7,False,76.8,False
+SYNTH_03,DONOR_0050,TREATMENT_0099,Immunotherapy,,True,1.0,False,"{'day_interval': 82, 'month_interval': 2}","{'day_interval': 94, 'month_interval': 3}",NCI Thesaurus,Pembrolizumab,C106432,Not available,49.9,False,72.1,False
+SYNTH_03,DONOR_0050,TREATMENT_0099,Immunotherapy,19.0,False,4.0,False,"{'day_interval': 422, 'month_interval': 13}","{'day_interval': 423, 'month_interval': 13}",RxNorm,Nivolumab,1597876,mg/m2,40.7,False,91.8,False
+SYNTH_03,DONOR_0050,TREATMENT_0100,Immunotherapy,,True,8.0,False,{'day_interval': 91},"{'day_interval': 141, 'month_interval': 4}",,,,IU/m2,,True,83.2,False
+SYNTH_03,DONOR_0050,TREATMENT_0100,Hormone therapy,25.0,False,7.0,False,{'day_interval': 122},"{'day_interval': 142, 'month_interval': 4}",RxNorm,Tamoxifen,10324,IU/m2,24.3,False,69.4,False
+SYNTH_03,DONOR_0051,TREATMENT_0101,Immunotherapy,5.0,False,4.0,False,"{'day_interval': 68, 'month_interval': 2}","{'day_interval': 390, 'month_interval': 12}",,,,mg/kg,21.8,False,98.6,False
+SYNTH_03,DONOR_0051,TREATMENT_0101,Chemotherapy,,True,5.0,False,"{'day_interval': 216, 'month_interval': 7}","{'day_interval': 326, 'month_interval': 10}",,,,IU/m2,28.0,False,97.3,False
+SYNTH_03,DONOR_0051,TREATMENT_0102,Chemotherapy,20.0,False,8.0,False,"{'day_interval': 318, 'month_interval': 10}","{'day_interval': 431, 'month_interval': 14}",NCI Thesaurus,Idarubicin,C562,mg/m2,43.8,False,89.1,False
+SYNTH_03,DONOR_0051,TREATMENT_0102,Chemotherapy,16.0,False,5.0,False,"{'day_interval': 401, 'month_interval': 13}","{'day_interval': 446, 'month_interval': 14}",RxNorm,Methotrexate,6851,mg/m2,20.0,False,56.4,False
+SYNTH_03,DONOR_0052,TREATMENT_0103,Chemotherapy,4.0,False,8.0,False,{'day_interval': 160},"{'day_interval': 251, 'month_interval': 8}",PubChem,Fludarabine,657237,,,True,,True
+SYNTH_03,DONOR_0052,TREATMENT_0103,Chemotherapy,23.0,False,9.0,False,{'day_interval': 124},"{'day_interval': 125, 'month_interval': 4}",RxNorm,Methotrexate,6851,IU/m2,24.4,False,51.0,False
+SYNTH_03,DONOR_0052,TREATMENT_0104,Hormone therapy,29.0,False,10.0,False,{'day_interval': 155},"{'day_interval': 191, 'month_interval': 6}",RxNorm,Fluoxymesterone,4494,IU/kg,,True,70.1,False
+SYNTH_03,DONOR_0052,TREATMENT_0104,Immunotherapy,28.0,False,9.0,False,{'day_interval': 101},"{'day_interval': 123, 'month_interval': 4}",NCI Thesaurus,Ipilimumab,C2654,,33.5,False,75.0,False
+SYNTH_03,DONOR_0053,TREATMENT_0105,Immunotherapy,4.0,False,6.0,False,"{'day_interval': 127, 'month_interval': 4}","{'day_interval': 137, 'month_interval': 4}",,,,ug/m2,23.4,False,53.3,False
+SYNTH_03,DONOR_0053,TREATMENT_0105,Hormone therapy,11.0,False,2.0,False,"{'day_interval': 88, 'month_interval': 2}","{'day_interval': 91, 'month_interval': 2}",RxNorm,Diethylstilbestrol,3390,,26.6,False,51.4,False
+SYNTH_03,DONOR_0053,TREATMENT_0106,Chemotherapy,13.0,False,1.0,False,"{'day_interval': 156, 'month_interval': 5}","{'day_interval': 160, 'month_interval': 5}",RxNorm,Carboplatin,40048,ug/m2,40.3,False,,True
+SYNTH_03,DONOR_0053,TREATMENT_0106,Immunotherapy,14.0,False,7.0,False,"{'day_interval': 175, 'month_interval': 5}","{'day_interval': 188, 'month_interval': 6}",,,,g/m2,36.5,False,74.5,False
+SYNTH_03,DONOR_0054,TREATMENT_0107,Chemotherapy,13.0,False,7.0,False,,,NCI Thesaurus,Idarubicin,C562,IU/m2,44.1,False,56.0,False
+SYNTH_03,DONOR_0054,TREATMENT_0107,Hormone therapy,19.0,False,3.0,False,{'day_interval': 211},"{'day_interval': 298, 'month_interval': 9}",PubChem,Fluoxymesterone,6446,mg/m2,35.6,False,95.9,False
+SYNTH_03,DONOR_0054,TREATMENT_0108,Hormone therapy,14.0,False,1.0,False,"{'day_interval': 131, 'month_interval': 4}","{'day_interval': 139, 'month_interval': 4}",,,,IU/m2,40.4,False,61.2,False
+SYNTH_03,DONOR_0054,TREATMENT_0108,Immunotherapy,29.0,False,2.0,False,"{'day_interval': 58, 'month_interval': 1}","{'day_interval': 84, 'month_interval': 2}",NCI Thesaurus,Ipilimumab,C2654,,49.4,False,99.6,False
+SYNTH_03,DONOR_0055,TREATMENT_0109,Immunotherapy,21.0,False,1.0,False,"{'day_interval': 278, 'month_interval': 9}","{'day_interval': 300, 'month_interval': 9}",RxNorm,Durvalumab,1919503,cells/kg,48.3,False,85.7,False
+SYNTH_03,DONOR_0055,TREATMENT_0109,Immunotherapy,14.0,False,4.0,False,,,,,,g/m2,,True,96.0,False
+SYNTH_03,DONOR_0055,TREATMENT_0110,Immunotherapy,1.0,False,,True,,,,,,,23.4,False,95.9,False
+SYNTH_03,DONOR_0055,TREATMENT_0110,Chemotherapy,28.0,False,3.0,False,"{'day_interval': 26, 'month_interval': 0}","{'day_interval': 266, 'month_interval': 8}",PubChem,Paclitaxel,36314,mg/kg,,True,53.0,False
+SYNTH_03,DONOR_0056,TREATMENT_0111,Hormone therapy,26.0,False,7.0,False,{'day_interval': 96},"{'day_interval': 133, 'month_interval': 4}",PubChem,Diethylstilbestrol,448537,IU/m2,35.4,False,,True
+SYNTH_03,DONOR_0056,TREATMENT_0111,Immunotherapy,14.0,False,4.0,False,{'day_interval': 174},"{'day_interval': 203, 'month_interval': 6}",RxNorm,Ipilimumab,1094833,Not available,33.8,False,92.5,False
+SYNTH_03,DONOR_0056,TREATMENT_0112,Chemotherapy,20.0,False,1.0,False,"{'day_interval': 123, 'month_interval': 4}","{'day_interval': 130, 'month_interval': 4}",PubChem,Methotrexate,126941,ug/m2,,True,51.1,False
+SYNTH_03,DONOR_0056,TREATMENT_0112,Immunotherapy,22.0,False,10.0,False,"{'day_interval': 168, 'month_interval': 5}","{'day_interval': 168, 'month_interval': 5}",NCI Thesaurus,Atezolizumab,C106250,g/m2,40.1,False,65.9,False
+SYNTH_03,DONOR_0057,TREATMENT_0113,Hormone therapy,28.0,False,1.0,False,"{'day_interval': 21, 'month_interval': 0}","{'day_interval': 22, 'month_interval': 0}",NCI Thesaurus,Tamoxifen,C62078,IU/m2,26.1,False,,True
+SYNTH_03,DONOR_0057,TREATMENT_0113,Chemotherapy,21.0,False,6.0,False,"{'day_interval': 19, 'month_interval': 0}","{'day_interval': 21, 'month_interval': 0}",PubChem,Paclitaxel,36314,mg/m2,46.0,False,95.7,False
+SYNTH_03,DONOR_0057,TREATMENT_0114,Immunotherapy,25.0,False,10.0,False,,,NCI Thesaurus,Ipilimumab,C2654,IU/m2,33.6,False,,True
+SYNTH_03,DONOR_0057,TREATMENT_0114,Immunotherapy,16.0,False,2.0,False,"{'day_interval': 110, 'month_interval': 3}","{'day_interval': 196, 'month_interval': 6}",PubChem,Pembrolizumab,469691028,cells/kg,25.1,False,99.5,False
+SYNTH_03,DONOR_0058,TREATMENT_0115,Chemotherapy,28.0,False,6.0,False,"{'day_interval': 68, 'month_interval': 2}","{'day_interval': 137, 'month_interval': 4}",NCI Thesaurus,Methotrexate,C642,,30.4,False,96.0,False
+SYNTH_03,DONOR_0058,TREATMENT_0115,Chemotherapy,14.0,False,3.0,False,"{'day_interval': 105, 'month_interval': 3}","{'day_interval': 158, 'month_interval': 5}",RxNorm,Methotrexate,6851,cells/kg,23.4,False,72.6,False
+SYNTH_03,DONOR_0058,TREATMENT_0116,Hormone therapy,1.0,False,7.0,False,{'day_interval': 273},"{'day_interval': 327, 'month_interval': 10}",NCI Thesaurus,Tamoxifen,C62078,IU/m2,45.5,False,54.6,False
+SYNTH_03,DONOR_0058,TREATMENT_0116,Hormone therapy,18.0,False,1.0,False,,,RxNorm,Buserelin,1825,,,True,51.9,False
+SYNTH_03,DONOR_0059,TREATMENT_0117,Hormone therapy,10.0,False,9.0,False,"{'day_interval': 302, 'month_interval': 9}","{'day_interval': 324, 'month_interval': 10}",PubChem,Tamoxifen,2733526,,36.4,False,76.2,False
+SYNTH_03,DONOR_0059,TREATMENT_0117,Chemotherapy,28.0,False,1.0,False,"{'day_interval': 23, 'month_interval': 0}","{'day_interval': 272, 'month_interval': 8}",,,,,35.5,False,94.5,False
+SYNTH_03,DONOR_0059,TREATMENT_0118,Immunotherapy,19.0,False,2.0,False,"{'day_interval': 94, 'month_interval': 3}","{'day_interval': 94, 'month_interval': 3}",NCI Thesaurus,Durvalumab,C103194,ug/m2,21.2,False,92.6,False
+SYNTH_03,DONOR_0059,TREATMENT_0118,Hormone therapy,21.0,False,6.0,False,,,RxNorm,Fluoxymesterone,4494,IU/kg,,True,94.3,False
+SYNTH_03,DONOR_0060,TREATMENT_0119,Chemotherapy,30.0,False,,True,"{'day_interval': 182, 'month_interval': 5}","{'day_interval': 439, 'month_interval': 14}",,,,Not available,36.8,False,86.6,False
+SYNTH_03,DONOR_0060,TREATMENT_0119,Immunotherapy,2.0,False,1.0,False,"{'day_interval': 279, 'month_interval': 9}","{'day_interval': 322, 'month_interval': 10}",NCI Thesaurus,Atezolizumab,C106250,g/m2,,True,61.7,False
+SYNTH_03,DONOR_0060,TREATMENT_0120,Immunotherapy,8.0,False,2.0,False,"{'day_interval': 375, 'month_interval': 12}","{'day_interval': 417, 'month_interval': 13}",PubChem,Atezolizumab,469690927,g/m2,26.7,False,66.4,False
+SYNTH_03,DONOR_0060,TREATMENT_0120,Hormone therapy,29.0,False,2.0,False,"{'day_interval': 207, 'month_interval': 6}","{'day_interval': 243, 'month_interval': 7}",,,,IU/m2,38.9,False,86.2,False
+SYNTH_04,DONOR_0061,TREATMENT_0121,Immunotherapy,18.0,False,6.0,False,"{'day_interval': 152, 'month_interval': 4}","{'day_interval': 257, 'month_interval': 8}",RxNorm,Pembrolizumab,1547545,cells/kg,33.5,False,60.8,False
+SYNTH_04,DONOR_0061,TREATMENT_0121,Hormone therapy,,True,7.0,False,"{'day_interval': 182, 'month_interval': 5}","{'day_interval': 198, 'month_interval': 6}",RxNorm,Tamoxifen,10324,IU/kg,22.8,False,80.5,False
+SYNTH_04,DONOR_0061,TREATMENT_0122,Immunotherapy,30.0,False,8.0,False,,,PubChem,Pembrolizumab,469691028,,23.0,False,55.9,False
+SYNTH_04,DONOR_0061,TREATMENT_0122,Immunotherapy,30.0,False,7.0,False,,,RxNorm,Atezolizumab,1792776,IU/kg,32.5,False,94.4,False
+SYNTH_04,DONOR_0062,TREATMENT_0123,Hormone therapy,22.0,False,,True,,,NCI Thesaurus,Diethylstilbestrol,C433,,32.4,False,86.1,False
+SYNTH_04,DONOR_0062,TREATMENT_0123,Hormone therapy,26.0,False,2.0,False,"{'day_interval': 461, 'month_interval': 15}","{'day_interval': 462, 'month_interval': 15}",PubChem,Degarelix,16136245,Not available,47.4,False,69.7,False
+SYNTH_04,DONOR_0062,TREATMENT_0124,Chemotherapy,21.0,False,,True,"{'day_interval': 113, 'month_interval': 3}","{'day_interval': 195, 'month_interval': 6}",PubChem,Methotrexate,126941,mg/kg,47.9,False,67.1,False
+SYNTH_04,DONOR_0062,TREATMENT_0124,Chemotherapy,23.0,False,6.0,False,"{'day_interval': 246, 'month_interval': 8}","{'day_interval': 248, 'month_interval': 8}",RxNorm,Paclitaxel,56946,IU/kg,26.6,False,68.7,False
+SYNTH_04,DONOR_0063,TREATMENT_0125,Chemotherapy,2.0,False,6.0,False,"{'day_interval': 308, 'month_interval': 10}","{'day_interval': 332, 'month_interval': 10}",PubChem,Paclitaxel,36314,ug/m2,27.3,False,75.8,False
+SYNTH_04,DONOR_0063,TREATMENT_0125,Hormone therapy,,True,3.0,False,"{'day_interval': 194, 'month_interval': 6}","{'day_interval': 252, 'month_interval': 8}",,,,cells/kg,,True,91.7,False
+SYNTH_04,DONOR_0063,TREATMENT_0126,Immunotherapy,24.0,False,1.0,False,"{'day_interval': 144, 'month_interval': 4}","{'day_interval': 200, 'month_interval': 6}",RxNorm,Ipilimumab,1094833,IU/kg,,True,81.1,False
+SYNTH_04,DONOR_0063,TREATMENT_0126,Hormone therapy,17.0,False,2.0,False,"{'day_interval': 162, 'month_interval': 5}","{'day_interval': 177, 'month_interval': 5}",RxNorm,Fluoxymesterone,4494,cells/kg,,True,97.3,False
+SYNTH_04,DONOR_0064,TREATMENT_0127,Hormone therapy,29.0,False,10.0,False,"{'day_interval': 143, 'month_interval': 4}","{'day_interval': 149, 'month_interval': 4}",NCI Thesaurus,Tamoxifen,C62078,mg/kg,,True,89.4,False
+SYNTH_04,DONOR_0064,TREATMENT_0127,Hormone therapy,22.0,False,,True,"{'day_interval': 34, 'month_interval': 1}","{'day_interval': 51, 'month_interval': 1}",NCI Thesaurus,Fluoxymesterone,C507,,37.0,False,69.7,False
+SYNTH_04,DONOR_0064,TREATMENT_0128,Chemotherapy,1.0,False,1.0,False,"{'day_interval': 158, 'month_interval': 5}","{'day_interval': 180, 'month_interval': 5}",NCI Thesaurus,Fludarabine,C1094,mg/kg,43.2,False,75.5,False
+SYNTH_04,DONOR_0064,TREATMENT_0128,Chemotherapy,30.0,False,3.0,False,"{'day_interval': 121, 'month_interval': 3}","{'day_interval': 184, 'month_interval': 6}",RxNorm,Fludarabine,24698,IU/m2,40.2,False,70.8,False
+SYNTH_04,DONOR_0065,TREATMENT_0129,Chemotherapy,8.0,False,1.0,False,"{'day_interval': 164, 'month_interval': 5}","{'day_interval': 207, 'month_interval': 6}",RxNorm,Methotrexate,6851,ug/m2,31.3,False,59.7,False
+SYNTH_04,DONOR_0065,TREATMENT_0129,Immunotherapy,25.0,False,4.0,False,"{'day_interval': 194, 'month_interval': 6}","{'day_interval': 237, 'month_interval': 7}",RxNorm,Durvalumab,1919503,,46.8,False,73.7,False
+SYNTH_04,DONOR_0065,TREATMENT_0130,Immunotherapy,2.0,False,6.0,False,"{'day_interval': 128, 'month_interval': 4}","{'day_interval': 168, 'month_interval': 5}",NCI Thesaurus,Durvalumab,C103194,,,True,58.2,False
+SYNTH_04,DONOR_0065,TREATMENT_0130,Chemotherapy,27.0,False,1.0,False,"{'day_interval': 191, 'month_interval': 6}","{'day_interval': 198, 'month_interval': 6}",PubChem,Paclitaxel,36314,mg/m2,20.5,False,86.6,False
+SYNTH_04,DONOR_0066,TREATMENT_0131,Hormone therapy,6.0,False,7.0,False,{'day_interval': 38},"{'day_interval': 131, 'month_interval': 4}",PubChem,Buserelin,50225,,37.8,False,,True
+SYNTH_04,DONOR_0066,TREATMENT_0131,Chemotherapy,18.0,False,,True,{'day_interval': 101},"{'day_interval': 179, 'month_interval': 5}",PubChem,Methotrexate,126941,,22.3,False,,True
+SYNTH_04,DONOR_0066,TREATMENT_0132,Immunotherapy,14.0,False,4.0,False,"{'day_interval': 5, 'month_interval': 0}","{'day_interval': 13, 'month_interval': 0}",NCI Thesaurus,Nivolumab,C68814,mg/m2,44.6,False,64.6,False
+SYNTH_04,DONOR_0066,TREATMENT_0132,Chemotherapy,22.0,False,2.0,False,"{'day_interval': 8, 'month_interval': 0}","{'day_interval': 10, 'month_interval': 0}",RxNorm,Methotrexate,6851,ug/m2,24.5,False,87.5,False
+SYNTH_04,DONOR_0067,TREATMENT_0133,Immunotherapy,,True,2.0,False,,,,,,IU/m2,23.0,False,53.8,False
+SYNTH_04,DONOR_0067,TREATMENT_0133,Chemotherapy,4.0,False,7.0,False,,,PubChem,Fludarabine,657237,,40.8,False,71.2,False
+SYNTH_04,DONOR_0067,TREATMENT_0134,Hormone therapy,,True,1.0,False,"{'day_interval': 126, 'month_interval': 4}","{'day_interval': 265, 'month_interval': 8}",NCI Thesaurus,Tamoxifen,C62078,,40.7,False,77.5,False
+SYNTH_04,DONOR_0067,TREATMENT_0134,Hormone therapy,27.0,False,6.0,False,"{'day_interval': 245, 'month_interval': 8}","{'day_interval': 272, 'month_interval': 8}",RxNorm,Tamoxifen,10324,cells/kg,25.1,False,85.7,False
+SYNTH_04,DONOR_0068,TREATMENT_0135,Immunotherapy,28.0,False,7.0,False,"{'day_interval': 309, 'month_interval': 10}","{'day_interval': 315, 'month_interval': 10}",PubChem,Durvalumab,481101604,IU/m2,38.6,False,91.5,False
+SYNTH_04,DONOR_0068,TREATMENT_0135,Hormone therapy,18.0,False,5.0,False,"{'day_interval': 270, 'month_interval': 8}","{'day_interval': 302, 'month_interval': 9}",NCI Thesaurus,Degarelix,C48385,mg/m2,48.9,False,53.2,False
+SYNTH_04,DONOR_0068,TREATMENT_0136,Chemotherapy,14.0,False,,True,,,RxNorm,Methotrexate,6851,,36.6,False,,True
+SYNTH_04,DONOR_0068,TREATMENT_0136,Chemotherapy,,True,6.0,False,"{'day_interval': 202, 'month_interval': 6}","{'day_interval': 273, 'month_interval': 8}",NCI Thesaurus,Idarubicin,C562,cells/kg,20.3,False,52.6,False
+SYNTH_04,DONOR_0069,TREATMENT_0137,Chemotherapy,26.0,False,4.0,False,"{'day_interval': 208, 'month_interval': 6}","{'day_interval': 230, 'month_interval': 7}",,,,,,True,51.8,False
+SYNTH_04,DONOR_0069,TREATMENT_0137,Hormone therapy,,True,4.0,False,"{'day_interval': 259, 'month_interval': 8}","{'day_interval': 269, 'month_interval': 8}",NCI Thesaurus,Fluoxymesterone,C507,cells/kg,41.8,False,87.4,False
+SYNTH_04,DONOR_0069,TREATMENT_0138,Chemotherapy,13.0,False,,True,"{'day_interval': 43, 'month_interval': 1}","{'day_interval': 76, 'month_interval': 2}",NCI Thesaurus,Carboplatin,C1282,g/m2,29.7,False,67.9,False
+SYNTH_04,DONOR_0069,TREATMENT_0138,Hormone therapy,26.0,False,1.0,False,"{'day_interval': 109, 'month_interval': 3}","{'day_interval': 109, 'month_interval': 3}",RxNorm,Diethylstilbestrol,3390,ug/m2,27.8,False,51.4,False
+SYNTH_04,DONOR_0070,TREATMENT_0139,Hormone therapy,17.0,False,8.0,False,{'day_interval': 179},"{'day_interval': 198, 'month_interval': 6}",PubChem,Buserelin,50225,g/m2,,True,74.0,False
+SYNTH_04,DONOR_0070,TREATMENT_0139,Immunotherapy,29.0,False,2.0,False,{'day_interval': 113},"{'day_interval': 160, 'month_interval': 5}",PubChem,Atezolizumab,469690927,,42.2,False,78.5,False
+SYNTH_04,DONOR_0070,TREATMENT_0140,Immunotherapy,30.0,False,1.0,False,"{'day_interval': 224, 'month_interval': 7}","{'day_interval': 287, 'month_interval': 9}",RxNorm,Atezolizumab,1792776,Not available,20.8,False,51.8,False
+SYNTH_04,DONOR_0070,TREATMENT_0140,Immunotherapy,8.0,False,6.0,False,,,NCI Thesaurus,Atezolizumab,C106250,,20.9,False,,True
+SYNTH_04,DONOR_0071,TREATMENT_0141,Hormone therapy,10.0,False,3.0,False,,,RxNorm,Diethylstilbestrol,3390,cells/kg,46.9,False,75.1,False
+SYNTH_04,DONOR_0071,TREATMENT_0141,Immunotherapy,27.0,False,,True,{'day_interval': 164},"{'day_interval': 238, 'month_interval': 7}",NCI Thesaurus,Pembrolizumab,C106432,,,True,66.9,False
+SYNTH_04,DONOR_0071,TREATMENT_0142,Chemotherapy,,True,2.0,False,"{'day_interval': 254, 'month_interval': 8}","{'day_interval': 262, 'month_interval': 8}",,,,IU/kg,24.8,False,,True
+SYNTH_04,DONOR_0071,TREATMENT_0142,Hormone therapy,12.0,False,8.0,False,"{'day_interval': 187, 'month_interval': 6}","{'day_interval': 265, 'month_interval': 8}",RxNorm,Diethylstilbestrol,3390,,36.7,False,,True
+SYNTH_04,DONOR_0072,TREATMENT_0143,Hormone therapy,26.0,False,9.0,False,,,RxNorm,Buserelin,1825,IU/m2,39.7,False,77.3,False
+SYNTH_04,DONOR_0072,TREATMENT_0143,Immunotherapy,26.0,False,,True,"{'day_interval': 332, 'month_interval': 10}","{'day_interval': 450, 'month_interval': 14}",RxNorm,Durvalumab,1919503,ug/m2,43.8,False,57.3,False
+SYNTH_04,DONOR_0072,TREATMENT_0144,Chemotherapy,7.0,False,4.0,False,"{'day_interval': 213, 'month_interval': 6}","{'day_interval': 214, 'month_interval': 7}",NCI Thesaurus,Fludarabine,C1094,Not available,29.6,False,64.5,False
+SYNTH_04,DONOR_0072,TREATMENT_0144,Immunotherapy,30.0,False,7.0,False,"{'day_interval': 211, 'month_interval': 6}","{'day_interval': 219, 'month_interval': 7}",PubChem,Durvalumab,481101604,mg/kg,41.9,False,62.9,False
+SYNTH_04,DONOR_0073,TREATMENT_0145,Hormone therapy,,True,6.0,False,"{'day_interval': 111, 'month_interval': 3}","{'day_interval': 138, 'month_interval': 4}",PubChem,Buserelin,50225,,33.0,False,,True
+SYNTH_04,DONOR_0073,TREATMENT_0145,Chemotherapy,18.0,False,9.0,False,"{'day_interval': 134, 'month_interval': 4}","{'day_interval': 134, 'month_interval': 4}",NCI Thesaurus,Paclitaxel,C1411,ug/m2,45.0,False,60.1,False
+SYNTH_04,DONOR_0073,TREATMENT_0146,Chemotherapy,25.0,False,5.0,False,"{'day_interval': 307, 'month_interval': 10}","{'day_interval': 316, 'month_interval': 10}",RxNorm,Fludarabine,24698,,29.6,False,77.9,False
+SYNTH_04,DONOR_0073,TREATMENT_0146,Chemotherapy,23.0,False,3.0,False,"{'day_interval': 271, 'month_interval': 8}","{'day_interval': 354, 'month_interval': 11}",PubChem,Paclitaxel,36314,,29.7,False,71.5,False
+SYNTH_04,DONOR_0074,TREATMENT_0147,Hormone therapy,5.0,False,1.0,False,"{'day_interval': 362, 'month_interval': 11}","{'day_interval': 419, 'month_interval': 13}",PubChem,Diethylstilbestrol,448537,IU/m2,49.0,False,74.5,False
+SYNTH_04,DONOR_0074,TREATMENT_0147,Immunotherapy,,True,,True,"{'day_interval': 358, 'month_interval': 11}","{'day_interval': 434, 'month_interval': 14}",PubChem,Nivolumab,469753496,IU/kg,30.5,False,65.8,False
+SYNTH_04,DONOR_0074,TREATMENT_0148,Immunotherapy,24.0,False,9.0,False,{'day_interval': 111},"{'day_interval': 181, 'month_interval': 5}",PubChem,Atezolizumab,469690927,Not available,27.9,False,83.4,False
+SYNTH_04,DONOR_0074,TREATMENT_0148,Hormone therapy,6.0,False,7.0,False,{'day_interval': 70},"{'day_interval': 109, 'month_interval': 3}",RxNorm,Degarelix,475230,ug/m2,,True,52.2,False
+SYNTH_04,DONOR_0075,TREATMENT_0149,Hormone therapy,20.0,False,1.0,False,"{'day_interval': 264, 'month_interval': 8}","{'day_interval': 364, 'month_interval': 11}",,,,cells/kg,38.3,False,74.3,False
+SYNTH_04,DONOR_0075,TREATMENT_0149,Hormone therapy,,True,2.0,False,"{'day_interval': 335, 'month_interval': 11}","{'day_interval': 369, 'month_interval': 12}",RxNorm,Tamoxifen,10324,,20.7,False,72.3,False
+SYNTH_04,DONOR_0075,TREATMENT_0150,Immunotherapy,24.0,False,1.0,False,"{'day_interval': 182, 'month_interval': 5}","{'day_interval': 221, 'month_interval': 7}",RxNorm,Nivolumab,1597876,Not available,33.5,False,98.0,False
+SYNTH_04,DONOR_0075,TREATMENT_0150,Chemotherapy,,True,3.0,False,"{'day_interval': 133, 'month_interval': 4}","{'day_interval': 140, 'month_interval': 4}",NCI Thesaurus,Idarubicin,C562,g/m2,44.6,False,94.0,False
+SYNTH_04,DONOR_0076,TREATMENT_0151,Hormone therapy,9.0,False,5.0,False,"{'day_interval': 144, 'month_interval': 4}","{'day_interval': 183, 'month_interval': 6}",PubChem,Degarelix,16136245,mg/kg,32.1,False,94.3,False
+SYNTH_04,DONOR_0076,TREATMENT_0151,Hormone therapy,,True,1.0,False,"{'day_interval': 80, 'month_interval': 2}","{'day_interval': 100, 'month_interval': 3}",RxNorm,Diethylstilbestrol,3390,mg/m2,24.1,False,54.0,False
+SYNTH_04,DONOR_0076,TREATMENT_0152,Hormone therapy,5.0,False,4.0,False,"{'day_interval': 335, 'month_interval': 11}","{'day_interval': 367, 'month_interval': 12}",PubChem,Diethylstilbestrol,448537,,25.2,False,67.9,False
+SYNTH_04,DONOR_0076,TREATMENT_0152,Chemotherapy,17.0,False,,True,"{'day_interval': 135, 'month_interval': 4}","{'day_interval': 373, 'month_interval': 12}",PubChem,Methotrexate,126941,ug/m2,23.8,False,63.9,False
+SYNTH_04,DONOR_0077,TREATMENT_0153,Immunotherapy,5.0,False,,True,"{'day_interval': 169, 'month_interval': 5}","{'day_interval': 362, 'month_interval': 11}",PubChem,Durvalumab,481101604,cells/kg,47.3,False,65.9,False
+SYNTH_04,DONOR_0077,TREATMENT_0153,Hormone therapy,19.0,False,3.0,False,"{'day_interval': 210, 'month_interval': 6}","{'day_interval': 303, 'month_interval': 9}",NCI Thesaurus,Diethylstilbestrol,C433,mg/m2,42.3,False,83.6,False
+SYNTH_04,DONOR_0077,TREATMENT_0154,Chemotherapy,15.0,False,1.0,False,"{'day_interval': 172, 'month_interval': 5}","{'day_interval': 236, 'month_interval': 7}",NCI Thesaurus,Methotrexate,C642,,39.2,False,94.8,False
+SYNTH_04,DONOR_0077,TREATMENT_0154,Chemotherapy,5.0,False,4.0,False,"{'day_interval': 158, 'month_interval': 5}","{'day_interval': 213, 'month_interval': 6}",PubChem,Fludarabine,657237,g/m2,22.0,False,63.8,False
+SYNTH_04,DONOR_0078,TREATMENT_0155,Hormone therapy,,True,3.0,False,"{'day_interval': 221, 'month_interval': 7}","{'day_interval': 227, 'month_interval': 7}",RxNorm,Degarelix,475230,mg/m2,40.6,False,63.5,False
+SYNTH_04,DONOR_0078,TREATMENT_0155,Immunotherapy,,True,3.0,False,"{'day_interval': 195, 'month_interval': 6}","{'day_interval': 225, 'month_interval': 7}",RxNorm,Pembrolizumab,1547545,ug/m2,21.4,False,62.4,False
+SYNTH_04,DONOR_0078,TREATMENT_0156,Chemotherapy,11.0,False,1.0,False,"{'day_interval': 379, 'month_interval': 12}","{'day_interval': 379, 'month_interval': 12}",RxNorm,Carboplatin,40048,,37.6,False,,True
+SYNTH_04,DONOR_0078,TREATMENT_0156,Hormone therapy,,True,,True,,,PubChem,Degarelix,16136245,,42.8,False,86.1,False
+SYNTH_04,DONOR_0079,TREATMENT_0157,Immunotherapy,,True,7.0,False,"{'day_interval': 352, 'month_interval': 11}","{'day_interval': 359, 'month_interval': 11}",RxNorm,Nivolumab,1597876,ug/m2,34.4,False,79.7,False
+SYNTH_04,DONOR_0079,TREATMENT_0157,Immunotherapy,2.0,False,2.0,False,"{'day_interval': 180, 'month_interval': 5}","{'day_interval': 249, 'month_interval': 8}",PubChem,Durvalumab,481101604,mg/m2,35.1,False,61.9,False
+SYNTH_04,DONOR_0079,TREATMENT_0158,Immunotherapy,6.0,False,9.0,False,"{'day_interval': 64, 'month_interval': 2}","{'day_interval': 78, 'month_interval': 2}",PubChem,Pembrolizumab,469691028,g/m2,48.7,False,88.7,False
+SYNTH_04,DONOR_0079,TREATMENT_0158,Immunotherapy,19.0,False,7.0,False,"{'day_interval': 52, 'month_interval': 1}","{'day_interval': 61, 'month_interval': 2}",NCI Thesaurus,Ipilimumab,C2654,IU/m2,46.2,False,81.0,False
+SYNTH_04,DONOR_0080,TREATMENT_0159,Hormone therapy,13.0,False,1.0,False,"{'day_interval': 232, 'month_interval': 7}","{'day_interval': 235, 'month_interval': 7}",PubChem,Degarelix,16136245,cells/kg,41.4,False,66.1,False
+SYNTH_04,DONOR_0080,TREATMENT_0159,Immunotherapy,19.0,False,2.0,False,"{'day_interval': 263, 'month_interval': 8}","{'day_interval': 285, 'month_interval': 9}",NCI Thesaurus,Pembrolizumab,C106432,,33.7,False,88.0,False
+SYNTH_04,DONOR_0080,TREATMENT_0160,Hormone therapy,13.0,False,1.0,False,,,RxNorm,Buserelin,1825,,31.3,False,,True
+SYNTH_04,DONOR_0080,TREATMENT_0160,Chemotherapy,6.0,False,10.0,False,{'day_interval': 208},"{'day_interval': 265, 'month_interval': 8}",NCI Thesaurus,Idarubicin,C562,g/m2,29.6,False,71.1,False
+SYNTH_01,DONOR_NULL_0001,TREATMENT_NULL_0001,Hormone therapy,4.0,False,3.0,False,,,,,,,,False,,False
+SYNTH_01,DONOR_NULL_0001,TREATMENT_NULL_0001,Immunotherapy,25.0,False,2.0,False,,,,,,,,False,,False
+SYNTH_01,DONOR_NULL_0001,TREATMENT_NULL_0002,Immunotherapy,17.0,False,9.0,False,,,,,,,,False,,False
+SYNTH_01,DONOR_NULL_0001,TREATMENT_NULL_0002,Immunotherapy,26.0,False,2.0,False,,,,,,,,False,,False
+SYNTH_01,DONOR_NULL_0002,TREATMENT_NULL_0003,Immunotherapy,6.0,False,1.0,False,,,,,,,,False,,False
+SYNTH_01,DONOR_NULL_0002,TREATMENT_NULL_0003,Immunotherapy,15.0,False,8.0,False,,,,,,,,False,,False
 SYNTH_01,DONOR_NULL_0002,TREATMENT_NULL_0004,Chemotherapy,10.0,False,2.0,False,,,,,,,,False,,False
-SYNTH_01,DONOR_ALL_0001,TREATMENT_ALL_0001,Immunotherapy,,True,4.0,False,"{'day_interval': 321, 'month_interval': 10}","{'day_interval': 326, 'month_interval': 10}",RxNorm,Atezolizumab,1792776,ug/m2,25.6,False,,True
-SYNTH_01,DONOR_ALL_0001,TREATMENT_ALL_0001,Chemotherapy,26.0,False,8.0,False,"{'day_interval': 169, 'month_interval': 5}","{'day_interval': 184, 'month_interval': 6}",NCI Thesaurus,Methotrexate,C642,mg/kg,34.2,False,54.5,False
-SYNTH_01,DONOR_ALL_0001,TREATMENT_ALL_0002,Chemotherapy,20.0,False,3.0,False,"{'day_interval': 135, 'month_interval': 4}","{'day_interval': 141, 'month_interval': 4}",NCI Thesaurus,Methotrexate,C642,g/m2,41.8,False,89.1,False
-SYNTH_01,DONOR_ALL_0001,TREATMENT_ALL_0002,Hormone therapy,,True,8.0,False,"{'day_interval': 102, 'month_interval': 3}","{'day_interval': 135, 'month_interval': 4}",PubChem,Fluoxymesterone,6446,mg/m2,48.4,False,54.1,False
-SYNTH_01,DONOR_ALL_0002,TREATMENT_ALL_0003,Hormone therapy,,True,,True,"{'day_interval': 122, 'month_interval': 4}","{'day_interval': 173, 'month_interval': 5}",RxNorm,Diethylstilbestrol,3390,ug/m2,,True,,True
-SYNTH_01,DONOR_ALL_0002,TREATMENT_ALL_0003,Chemotherapy,8.0,False,3.0,False,"{'day_interval': 156, 'month_interval': 5}","{'day_interval': 172, 'month_interval': 5}",NCI Thesaurus,Fludarabine,C1094,IU/kg,,True,76.1,False
-SYNTH_01,DONOR_ALL_0002,TREATMENT_ALL_0004,Chemotherapy,3.0,False,7.0,False,"{'day_interval': 27, 'month_interval': 0}","{'day_interval': 98, 'month_interval': 3}",RxNorm,Methotrexate,6851,g/m2,25.5,False,56.0,False
-SYNTH_01,DONOR_ALL_0002,TREATMENT_ALL_0004,Hormone therapy,5.0,False,7.0,False,"{'day_interval': 43, 'month_interval': 1}","{'day_interval': 45, 'month_interval': 1}",RxNorm,Tamoxifen,10324,mg/kg,,True,66.8,False
+SYNTH_01,DONOR_NULL_0002,TREATMENT_NULL_0004,Chemotherapy,21.0,False,2.0,False,,,,,,,,False,,False
+SYNTH_01,DONOR_ALL_0001,TREATMENT_ALL_0001,Hormone therapy,9.0,False,7.0,False,"{'day_interval': 141, 'month_interval': 4}","{'day_interval': 232, 'month_interval': 7}",NCI Thesaurus,Tamoxifen,C62078,mg/kg,35.6,False,83.6,False
+SYNTH_01,DONOR_ALL_0001,TREATMENT_ALL_0001,Chemotherapy,16.0,False,10.0,False,"{'day_interval': 142, 'month_interval': 4}","{'day_interval': 222, 'month_interval': 7}",NCI Thesaurus,Carboplatin,C1282,IU/m2,34.8,False,,True
+SYNTH_01,DONOR_ALL_0001,TREATMENT_ALL_0002,Immunotherapy,18.0,False,7.0,False,"{'day_interval': 250, 'month_interval': 8}","{'day_interval': 526, 'month_interval': 17}",NCI Thesaurus,Atezolizumab,C106250,IU/m2,46.2,False,90.0,False
+SYNTH_01,DONOR_ALL_0001,TREATMENT_ALL_0002,Hormone therapy,,True,4.0,False,"{'day_interval': 435, 'month_interval': 14}","{'day_interval': 473, 'month_interval': 15}",RxNorm,Degarelix,475230,IU/m2,38.1,False,77.7,False
+SYNTH_01,DONOR_ALL_0002,TREATMENT_ALL_0003,Hormone therapy,3.0,False,1.0,False,"{'day_interval': 230, 'month_interval': 7}","{'day_interval': 315, 'month_interval': 10}",NCI Thesaurus,Tamoxifen,C62078,IU/kg,28.8,False,53.8,False
+SYNTH_01,DONOR_ALL_0002,TREATMENT_ALL_0003,Immunotherapy,16.0,False,8.0,False,"{'day_interval': 64, 'month_interval': 2}","{'day_interval': 244, 'month_interval': 8}",NCI Thesaurus,Atezolizumab,C106250,IU/m2,33.7,False,71.1,False
+SYNTH_01,DONOR_ALL_0002,TREATMENT_ALL_0004,Immunotherapy,21.0,False,5.0,False,"{'day_interval': 146, 'month_interval': 4}","{'day_interval': 257, 'month_interval': 8}",PubChem,Nivolumab,469753496,ug/m2,44.0,False,83.9,False
+SYNTH_01,DONOR_ALL_0002,TREATMENT_ALL_0004,Immunotherapy,13.0,False,,True,"{'day_interval': 66, 'month_interval': 2}","{'day_interval': 194, 'month_interval': 6}",RxNorm,Ipilimumab,1094833,mg/kg,39.3,False,83.9,False
