@@ -1,601 +1,601 @@
-program_id,submitter_donor_id,prior_malignancy,laterality_of_prior_malignancy,age_at_comorbidity_diagnosis,comorbidity_type_code,comorbidity_treatment_status,comorbidity_treatment
-SYNTH_01,DONOR_0051,No,,25,I95,No,claim
-SYNTH_01,DONOR_0052,Unknown,,33,I88,Yes,town
-SYNTH_01,DONOR_0053,Yes,,54,I93,,but
-SYNTH_01,DONOR_0054,,,33,I11,,rest
-SYNTH_01,DONOR_0055,Yes,"Unilateral, Side not specified",33,,Yes,Hormone therapy
-SYNTH_01,DONOR_0056,Yes,,34,C71,Yes,Chemotherapy
-SYNTH_01,DONOR_0057,Yes,,42,C74,,who
-SYNTH_01,DONOR_0058,Yes,Bilateral,55,,No,research
-SYNTH_01,DONOR_0059,,,45,I42,,city
-SYNTH_01,DONOR_0060,Yes,Unknown,27,C44,Unknown,more
-SYNTH_01,DONOR_0061,Yes,,34,,No,fight
-SYNTH_01,DONOR_0062,Yes,Bilateral,29,,Unknown,rather
-SYNTH_01,DONOR_0063,No,,43,D70,No,her
-SYNTH_01,DONOR_0064,Yes,Bilateral,12,D37,No,couple
-SYNTH_01,DONOR_0065,No,,11,D74,,along
-SYNTH_01,DONOR_0066,Yes,,17,D47,,defense
-SYNTH_01,DONOR_0067,Yes,"Unilateral, Side not specified",52,D37,No,tree
-SYNTH_01,DONOR_0068,Yes,"Unilateral, Side not specified",38,,No,couple
-SYNTH_01,DONOR_0069,Yes,Not applicable,49,,Yes,Immunotherapy
-SYNTH_01,DONOR_0070,,,15,I23,No,lead
-SYNTH_01,DONOR_0071,Yes,"Unilateral, Side not specified",30,C24,Yes,Chemotherapy
-SYNTH_01,DONOR_0072,Unknown,,54,I87,Unknown,man
-SYNTH_01,DONOR_0073,Yes,Left,20,,Yes,Radiation
-SYNTH_01,DONOR_0074,,,37,I05,Yes,president
-SYNTH_01,DONOR_0075,Yes,,22,D40,No,truth
-SYNTH_01,DONOR_0076,,,29,D83,,everything
-SYNTH_01,DONOR_0077,Yes,,11,,Unknown,early
-SYNTH_01,DONOR_0078,Yes,,42,D88,Unknown,himself
-SYNTH_01,DONOR_0079,,,22,I39,Unknown,indicate
-SYNTH_01,DONOR_0080,Yes,"Unilateral, Side not specified",12,C42,No,ask
-SYNTH_01,DONOR_0081,Yes,Unknown,52,D45,Yes,Chemotherapy
-SYNTH_01,DONOR_0082,Yes,,18,I71,,hot
-SYNTH_01,DONOR_0083,Yes,Midline,39,D41,,thousand
-SYNTH_01,DONOR_0084,Yes,,34,I36,Unknown,lay
-SYNTH_01,DONOR_0085,Yes,,46,,Unknown,sea
-SYNTH_01,DONOR_0086,Unknown,,48,D86,Unknown,know
-SYNTH_01,DONOR_0087,Yes,Bilateral,15,,No,however
-SYNTH_01,DONOR_0088,,,41,I80,,environmental
-SYNTH_01,DONOR_0089,Yes,Bilateral,44,,Unknown,consider
-SYNTH_01,DONOR_0090,Yes,Left,39,C86,No,who
-SYNTH_01,DONOR_0091,No,,46,I79,Unknown,article
-SYNTH_01,DONOR_0092,,,44,I41,Yes,raise
-SYNTH_01,DONOR_0093,Unknown,,17,I29,No,official
-SYNTH_01,DONOR_0094,Yes,,27,D88,No,glass
-SYNTH_01,DONOR_0095,Yes,Not applicable,50,C31,No,throughout
-SYNTH_01,DONOR_0096,Yes,,61,I24,Unknown,wish
-SYNTH_01,DONOR_0097,Yes,,15,I00,Yes,more
-SYNTH_01,DONOR_0098,No,,54,I82,Yes,remain
-SYNTH_01,DONOR_0099,Yes,Not applicable,53,C01,,morning
-SYNTH_01,DONOR_0100,Yes,,37,C09,Yes,Hormone therapy
-SYNTH_01,DONOR_0101,Yes,Unknown,72,C55,,agree
-SYNTH_01,DONOR_0102,No,,32,I65,,someone
-SYNTH_01,DONOR_0103,Yes,Left,12,D07,No,against
-SYNTH_01,DONOR_0104,No,,43,D74,Yes,sister
-SYNTH_01,DONOR_0105,Yes,Right,27,C44,Unknown,learn
-SYNTH_01,DONOR_0106,,,77,I88,Yes,north
-SYNTH_01,DONOR_0107,Yes,Unknown,14,,No,apply
-SYNTH_01,DONOR_0108,Yes,,10,D82,Unknown,thus
-SYNTH_01,DONOR_0109,Unknown,,36,I01,No,task
-SYNTH_01,DONOR_0110,Yes,,25,C08,Unknown,religious
-SYNTH_01,DONOR_0111,Yes,Midline,11,,Unknown,moment
-SYNTH_01,DONOR_0112,Yes,Bilateral,19,,No,past
-SYNTH_01,DONOR_0113,No,,21,I62,No,specific
-SYNTH_01,DONOR_0114,No,,80,I34,,wind
-SYNTH_01,DONOR_0115,Yes,,52,I20,,nothing
-SYNTH_01,DONOR_0116,Yes,,13,C76,Yes,Radiation
-SYNTH_01,DONOR_0117,,,22,I13,Unknown,attack
-SYNTH_01,DONOR_0118,Yes,,41,,No,consumer
-SYNTH_01,DONOR_0119,Yes,Right,35,,No,sort
-SYNTH_01,DONOR_0120,,,23,I90,Yes,thing
-SYNTH_01,DONOR_0121,No,,48,I64,,laugh
-SYNTH_01,DONOR_0122,No,,33,D51,,military
-SYNTH_01,DONOR_0123,Unknown,,42,I43,No,industry
-SYNTH_01,DONOR_0124,Yes,Bilateral,44,D38,No,may
-SYNTH_01,DONOR_0125,Yes,,20,,Unknown,recently
-SYNTH_01,DONOR_0126,Yes,"Unilateral, Side not specified",64,D39,Yes,Radiation
-SYNTH_01,DONOR_0127,Yes,,12,D47,,anything
-SYNTH_01,DONOR_0128,Yes,,32,D54,Unknown,all
-SYNTH_01,DONOR_0129,Yes,,33,D51,Unknown,assume
-SYNTH_01,DONOR_0130,Yes,,30,C24,Unknown,many
-SYNTH_01,DONOR_0131,Yes,,52,D47,Unknown,lay
-SYNTH_01,DONOR_0132,Yes,Left,26,C54,,level
-SYNTH_01,DONOR_0133,Yes,"Unilateral, Side not specified",31,C58,No,much
-SYNTH_01,DONOR_0134,Yes,Right,28,C58,,local
-SYNTH_01,DONOR_0135,Yes,Left,17,C92,,only
-SYNTH_01,DONOR_0136,Yes,"Unilateral, Side not specified",29,C05,Yes,Radiation
-SYNTH_01,DONOR_0137,Yes,Unknown,18,C17,No,its
-SYNTH_01,DONOR_0138,Unknown,,36,I01,Yes,method
-SYNTH_01,DONOR_0139,,,31,D61,Yes,little
-SYNTH_01,DONOR_0140,Yes,,23,,No,this
-SYNTH_01,DONOR_0141,Yes,Left,31,D46,Unknown,thank
-SYNTH_01,DONOR_0142,,,37,D76,No,face
-SYNTH_01,DONOR_0143,Yes,Bilateral,45,D38,Unknown,group
-SYNTH_01,DONOR_0144,Yes,"Unilateral, Side not specified",17,C07,No,election
-SYNTH_01,DONOR_0145,Yes,,46,C22,Unknown,best
-SYNTH_01,DONOR_0146,Yes,,79,I48,No,many
-SYNTH_01,DONOR_0147,Yes,,20,C43,Unknown,economic
-SYNTH_01,DONOR_0148,Yes,Left,69,C90,,break
-SYNTH_01,DONOR_0149,No,,58,D75,Yes,scientist
-SYNTH_01,DONOR_0150,,,61,I41,No,view
-SYNTH_01,DONOR_0151,Yes,Bilateral,45,C19,,forward
-SYNTH_01,DONOR_0152,Yes,,42,I02,,artist
-SYNTH_01,DONOR_0153,Yes,"Unilateral, Side not specified",35,C21,Unknown,side
-SYNTH_01,DONOR_0154,Yes,,44,I82,,page
-SYNTH_01,DONOR_0155,Unknown,,33,D84,No,floor
-SYNTH_01,DONOR_0156,Yes,Right,13,,No,current
-SYNTH_01,DONOR_0157,Yes,Bilateral,11,D02,,outside
-SYNTH_01,DONOR_0158,Yes,Not applicable,47,,No,issue
-SYNTH_01,DONOR_0159,Yes,Midline,36,,Unknown,sure
-SYNTH_01,DONOR_0160,Yes,Bilateral,48,,,organization
-SYNTH_01,DONOR_0161,Yes,Right,33,,No,sure
-SYNTH_01,DONOR_0162,Yes,"Unilateral, Side not specified",10,,No,officer
-SYNTH_01,DONOR_0163,Yes,Bilateral,56,C81,No,drive
-SYNTH_01,DONOR_0164,Yes,Bilateral,49,C58,Yes,Chemotherapy
-SYNTH_01,DONOR_0165,Yes,,45,I30,,maybe
-SYNTH_01,DONOR_0166,Yes,,54,,,way
-SYNTH_01,DONOR_0167,Yes,Unknown,55,C50,,company
-SYNTH_01,DONOR_0168,Yes,"Unilateral, Side not specified",47,C25,Unknown,until
-SYNTH_01,DONOR_0169,Yes,,68,D84,No,simply
-SYNTH_01,DONOR_0170,Yes,,26,I28,Unknown,camera
-SYNTH_01,DONOR_0171,Yes,,37,,Yes,Hormone therapy
-SYNTH_01,DONOR_0172,Yes,Midline,39,,No,a
-SYNTH_01,DONOR_0173,Yes,,20,D43,,soon
-SYNTH_01,DONOR_0174,Yes,"Unilateral, Side not specified",31,D37,Yes,Radiation
-SYNTH_01,DONOR_0175,Unknown,,43,D83,Unknown,understand
-SYNTH_01,DONOR_0176,Yes,Midline,25,C13,No,yet
-SYNTH_01,DONOR_0177,Yes,,14,I79,Unknown,current
-SYNTH_01,DONOR_0178,Yes,Left,49,,,south
-SYNTH_01,DONOR_0179,,,38,I78,,trip
-SYNTH_01,DONOR_0180,Yes,Unknown,63,C58,Unknown,travel
-SYNTH_01,DONOR_0181,,,40,I06,Unknown,eight
-SYNTH_01,DONOR_0182,Yes,Not applicable,24,C48,Unknown,manager
-SYNTH_01,DONOR_0183,Yes,,43,,,now
-SYNTH_01,DONOR_0184,No,,42,I50,,politics
-SYNTH_01,DONOR_0185,Yes,,12,I17,No,land
-SYNTH_01,DONOR_0186,Yes,"Unilateral, Side not specified",23,C64,Unknown,behavior
-SYNTH_01,DONOR_0187,Yes,Not applicable,55,C54,No,account
-SYNTH_01,DONOR_0188,Yes,Left,29,,No,end
-SYNTH_01,DONOR_0189,Yes,,43,I64,Yes,future
-SYNTH_01,DONOR_0190,Unknown,,68,D58,No,ask
-SYNTH_01,DONOR_0191,Yes,Right,32,C76,No,benefit
-SYNTH_01,DONOR_0192,Yes,,27,I59,,church
-SYNTH_01,DONOR_0193,Unknown,,31,I72,Unknown,avoid
-SYNTH_01,DONOR_0194,Yes,Midline,36,C52,,argue
-SYNTH_01,DONOR_0195,Yes,Midline,37,D41,No,book
-SYNTH_01,DONOR_0196,Yes,"Unilateral, Side not specified",38,C35,No,dream
-SYNTH_01,DONOR_0197,,,14,I05,No,management
-SYNTH_01,DONOR_0198,,,31,D64,,window
-SYNTH_01,DONOR_0199,Yes,Left,63,D06,No,per
-SYNTH_01,DONOR_0200,Yes,Bilateral,22,D45,,nearly
-SYNTH_02,DONOR_0251,Yes,Left,36,D08,No,civil
-SYNTH_02,DONOR_0252,No,,33,I74,No,language
-SYNTH_02,DONOR_0253,Yes,Left,11,C59,No,man
-SYNTH_02,DONOR_0254,Yes,Unknown,28,,,nature
-SYNTH_02,DONOR_0255,Unknown,,19,I71,Yes,tax
-SYNTH_02,DONOR_0256,Yes,,45,D74,Unknown,for
-SYNTH_02,DONOR_0257,Yes,Not applicable,10,,,just
-SYNTH_02,DONOR_0258,Yes,,76,D44,,pay
-SYNTH_02,DONOR_0259,Yes,,18,I09,Unknown,soon
-SYNTH_02,DONOR_0260,Yes,,33,I31,Unknown,argue
-SYNTH_02,DONOR_0261,Yes,Right,18,D08,No,onto
-SYNTH_02,DONOR_0262,,,28,D76,No,already
-SYNTH_02,DONOR_0263,Yes,"Unilateral, Side not specified",43,,,baby
-SYNTH_02,DONOR_0264,Unknown,,18,I22,No,member
-SYNTH_02,DONOR_0265,Unknown,,25,I57,No,blue
-SYNTH_02,DONOR_0266,No,,11,I83,,design
-SYNTH_02,DONOR_0267,Yes,Unknown,32,,Yes,Chemotherapy
-SYNTH_02,DONOR_0268,Yes,Not applicable,13,D45,,wear
-SYNTH_02,DONOR_0269,Yes,Right,64,C46,,always
-SYNTH_02,DONOR_0270,,,19,I82,Unknown,exist
-SYNTH_02,DONOR_0271,No,,27,I39,Unknown,sense
-SYNTH_02,DONOR_0272,,,25,D68,Unknown,last
-SYNTH_02,DONOR_0273,Yes,Right,40,D08,,community
-SYNTH_02,DONOR_0274,Yes,Right,49,C09,Unknown,down
-SYNTH_02,DONOR_0275,Yes,Bilateral,15,C25,Unknown,new
-SYNTH_02,DONOR_0276,Unknown,,76,I15,,toward
-SYNTH_02,DONOR_0277,Yes,Not applicable,28,,No,popular
-SYNTH_02,DONOR_0278,Yes,Midline,50,C62,Yes,Immunotherapy
-SYNTH_02,DONOR_0279,Yes,Not applicable,11,D02,Yes,Immunotherapy
-SYNTH_02,DONOR_0280,Unknown,,15,D81,Unknown,why
-SYNTH_02,DONOR_0281,Yes,Not applicable,54,,Unknown,prove
-SYNTH_02,DONOR_0282,Yes,Right,31,C67,,though
-SYNTH_02,DONOR_0283,No,,39,I50,Yes,executive
-SYNTH_02,DONOR_0284,Yes,"Unilateral, Side not specified",27,C63,No,pressure
-SYNTH_02,DONOR_0285,Yes,Not applicable,80,D43,Yes,Chemotherapy
-SYNTH_02,DONOR_0286,Yes,Unknown,11,C74,Yes,Immunotherapy
-SYNTH_02,DONOR_0287,Yes,"Unilateral, Side not specified",54,D03,,new
-SYNTH_02,DONOR_0288,Yes,Right,35,D08,Unknown,strong
-SYNTH_02,DONOR_0289,Unknown,,19,I20,Unknown,already
-SYNTH_02,DONOR_0290,Yes,,67,D46,Yes,Chemotherapy
-SYNTH_02,DONOR_0291,Yes,Midline,55,C50,No,everything
-SYNTH_02,DONOR_0292,Yes,,42,,Unknown,lot
-SYNTH_02,DONOR_0293,Yes,"Unilateral, Side not specified",42,D45,Yes,Hormone therapy
-SYNTH_02,DONOR_0294,No,,15,I31,No,process
-SYNTH_02,DONOR_0295,Yes,"Unilateral, Side not specified",29,C56,No,system
-SYNTH_02,DONOR_0296,Yes,Right,12,C76,Yes,Chemotherapy
-SYNTH_02,DONOR_0297,Yes,,25,D38,Unknown,cause
-SYNTH_02,DONOR_0298,Yes,Right,23,,No,even
-SYNTH_02,DONOR_0299,Yes,"Unilateral, Side not specified",33,C08,,enough
-SYNTH_02,DONOR_0300,Yes,Midline,24,,No,tree
-SYNTH_02,DONOR_0301,Yes,Not applicable,21,D43,Yes,Chemotherapy
-SYNTH_02,DONOR_0302,Yes,Bilateral,61,C04,,but
-SYNTH_02,DONOR_0303,No,,48,D72,Unknown,probably
-SYNTH_02,DONOR_0304,,,42,D78,,side
-SYNTH_02,DONOR_0305,Yes,Midline,14,C33,Unknown,especially
-SYNTH_02,DONOR_0306,Yes,Unknown,14,C21,Unknown,job
-SYNTH_02,DONOR_0307,Yes,,34,I73,No,model
-SYNTH_02,DONOR_0308,Yes,Midline,67,,No,matter
-SYNTH_02,DONOR_0309,Unknown,,17,D81,,business
-SYNTH_02,DONOR_0310,Yes,,27,I42,Unknown,the
-SYNTH_02,DONOR_0311,Yes,,20,,No,base
-SYNTH_02,DONOR_0312,Yes,Left,46,,No,for
-SYNTH_02,DONOR_0313,Yes,Unknown,29,C07,No,second
-SYNTH_02,DONOR_0314,Yes,Bilateral,23,,Unknown,tree
-SYNTH_02,DONOR_0315,,,12,I58,,major
-SYNTH_02,DONOR_0316,Yes,Not applicable,17,,Unknown,investment
-SYNTH_02,DONOR_0317,Yes,"Unilateral, Side not specified",48,C38,No,trouble
-SYNTH_02,DONOR_0318,Unknown,,15,D53,Yes,sometimes
-SYNTH_02,DONOR_0319,Yes,Not applicable,38,,Unknown,adult
-SYNTH_02,DONOR_0320,Yes,Unknown,26,C77,Yes,Immunotherapy
-SYNTH_02,DONOR_0321,No,,35,I11,No,action
-SYNTH_02,DONOR_0322,Yes,Unknown,47,C01,,box
-SYNTH_02,DONOR_0323,Yes,Right,24,D43,Yes,Hormone therapy
-SYNTH_02,DONOR_0324,Yes,,34,C84,Yes,Radiation
-SYNTH_02,DONOR_0325,,,39,I34,Yes,president
-SYNTH_02,DONOR_0326,Yes,Right,24,C18,Yes,Immunotherapy
-SYNTH_02,DONOR_0327,Yes,Left,77,,Unknown,happen
-SYNTH_02,DONOR_0328,,,26,D60,Unknown,media
-SYNTH_02,DONOR_0329,Yes,Not applicable,29,C55,,hard
-SYNTH_02,DONOR_0330,Yes,Unknown,18,D45,,when
-SYNTH_02,DONOR_0331,Yes,,17,,No,call
-SYNTH_02,DONOR_0332,Unknown,,43,I39,Yes,vote
-SYNTH_02,DONOR_0333,Yes,,52,,No,serve
-SYNTH_02,DONOR_0334,No,,13,I01,Yes,probably
-SYNTH_02,DONOR_0335,Yes,"Unilateral, Side not specified",31,,Unknown,stay
-SYNTH_02,DONOR_0336,Yes,,24,D84,Yes,rather
-SYNTH_02,DONOR_0337,Yes,Not applicable,15,,Yes,Radiation
-SYNTH_02,DONOR_0338,,,41,I65,No,size
-SYNTH_02,DONOR_0339,Unknown,,25,D88,Unknown,include
-SYNTH_02,DONOR_0340,Yes,,10,C92,Unknown,for
-SYNTH_02,DONOR_0341,Yes,Bilateral,29,,,late
-SYNTH_02,DONOR_0342,Yes,,19,D78,No,task
-SYNTH_02,DONOR_0343,Yes,Bilateral,37,C90,Yes,Immunotherapy
-SYNTH_02,DONOR_0344,Yes,Midline,14,C76,No,car
-SYNTH_02,DONOR_0345,Yes,,21,I38,Yes,compare
-SYNTH_02,DONOR_0346,,,39,I67,No,majority
-SYNTH_02,DONOR_0347,Yes,Left,14,C73,Unknown,possible
-SYNTH_02,DONOR_0348,Yes,Bilateral,38,D40,No,pull
-SYNTH_02,DONOR_0349,Yes,,63,I16,,draw
-SYNTH_02,DONOR_0350,No,,22,D63,Yes,send
-SYNTH_02,DONOR_0351,Yes,Unknown,37,,Unknown,other
-SYNTH_02,DONOR_0352,Yes,,52,I38,Yes,specific
-SYNTH_02,DONOR_0353,Yes,,45,C63,No,rest
-SYNTH_02,DONOR_0354,Yes,Bilateral,10,,Yes,Immunotherapy
-SYNTH_02,DONOR_0355,Yes,Right,40,C13,No,section
-SYNTH_02,DONOR_0356,Yes,,51,C96,Yes,Hormone therapy
-SYNTH_02,DONOR_0357,Yes,,39,D66,,later
-SYNTH_02,DONOR_0358,Yes,Midline,27,C27,No,memory
-SYNTH_02,DONOR_0359,Yes,"Unilateral, Side not specified",27,C09,No,shake
-SYNTH_02,DONOR_0360,Yes,Not applicable,17,,,other
-SYNTH_02,DONOR_0361,Yes,Right,22,C20,Unknown,these
-SYNTH_02,DONOR_0362,Yes,,18,I57,Yes,your
-SYNTH_02,DONOR_0363,Yes,Bilateral,24,,No,right
-SYNTH_02,DONOR_0364,Yes,,26,D84,No,fill
-SYNTH_02,DONOR_0365,Yes,Bilateral,57,C42,No,show
-SYNTH_02,DONOR_0366,Yes,Left,33,C77,,walk
-SYNTH_02,DONOR_0367,Yes,Right,16,,Yes,Radiation
-SYNTH_02,DONOR_0368,Yes,,35,I50,Unknown,rate
-SYNTH_02,DONOR_0369,,,10,D63,,same
-SYNTH_02,DONOR_0370,Unknown,,39,I32,No,benefit
-SYNTH_02,DONOR_0371,Yes,"Unilateral, Side not specified",26,C92,,light
-SYNTH_02,DONOR_0372,Yes,"Unilateral, Side not specified",42,,Yes,Hormone therapy
-SYNTH_02,DONOR_0373,,,18,I03,Yes,Mr
-SYNTH_02,DONOR_0374,Yes,Right,26,D46,Unknown,when
-SYNTH_02,DONOR_0375,Yes,Bilateral,24,,,fill
-SYNTH_02,DONOR_0376,Yes,Bilateral,24,C46,Yes,Hormone therapy
-SYNTH_02,DONOR_0377,No,,33,I77,No,entire
-SYNTH_02,DONOR_0378,,,28,D81,Unknown,own
-SYNTH_02,DONOR_0379,Yes,,18,I76,Yes,will
-SYNTH_02,DONOR_0380,Yes,,43,I58,,travel
-SYNTH_02,DONOR_0381,Yes,Left,34,C69,No,at
-SYNTH_02,DONOR_0382,Unknown,,40,I54,Yes,choose
-SYNTH_02,DONOR_0383,No,,46,D55,,doctor
-SYNTH_02,DONOR_0384,Unknown,,48,I40,Yes,admit
-SYNTH_02,DONOR_0385,,,22,I37,Unknown,human
-SYNTH_02,DONOR_0386,Yes,Midline,37,D39,Unknown,tree
-SYNTH_02,DONOR_0387,Yes,,19,C23,Unknown,type
-SYNTH_02,DONOR_0388,No,,27,I66,,relate
-SYNTH_02,DONOR_0389,Yes,Unknown,54,,Unknown,father
-SYNTH_02,DONOR_0390,Unknown,,38,I44,,opportunity
-SYNTH_02,DONOR_0391,Unknown,,15,I48,Unknown,someone
-SYNTH_02,DONOR_0392,Yes,,46,C06,Yes,Immunotherapy
-SYNTH_02,DONOR_0393,Yes,,22,I38,,pick
-SYNTH_02,DONOR_0394,Yes,,20,I44,Yes,watch
-SYNTH_02,DONOR_0395,,,17,D68,Unknown,special
-SYNTH_02,DONOR_0396,,,15,D66,No,cultural
-SYNTH_02,DONOR_0397,Yes,Right,23,D41,Yes,Hormone therapy
-SYNTH_02,DONOR_0398,Yes,Midline,10,,No,at
-SYNTH_02,DONOR_0399,Unknown,,21,I30,,cell
-SYNTH_02,DONOR_0400,Yes,Not applicable,37,C50,No,middle
-SYNTH_03,DONOR_0451,Yes,Right,40,D02,Unknown,dream
-SYNTH_03,DONOR_0452,Yes,,59,I53,No,what
-SYNTH_03,DONOR_0453,Yes,,38,,,federal
-SYNTH_03,DONOR_0454,Yes,,25,D41,No,this
-SYNTH_03,DONOR_0455,Yes,Right,46,C47,Yes,Chemotherapy
-SYNTH_03,DONOR_0456,No,,46,D69,No,another
-SYNTH_03,DONOR_0457,No,,23,D52,No,yet
-SYNTH_03,DONOR_0458,Yes,Right,21,C24,Unknown,process
-SYNTH_03,DONOR_0459,Yes,Unknown,44,,Unknown,management
-SYNTH_03,DONOR_0460,Yes,Right,36,,,throw
-SYNTH_03,DONOR_0461,Yes,Bilateral,18,C39,No,air
-SYNTH_03,DONOR_0462,Yes,Not applicable,24,,No,authority
-SYNTH_03,DONOR_0463,,,17,D56,No,event
-SYNTH_03,DONOR_0464,Yes,Unknown,42,C53,Yes,Hormone therapy
-SYNTH_03,DONOR_0465,Unknown,,29,D85,Unknown,once
-SYNTH_03,DONOR_0466,Yes,Unknown,24,,No,safe
-SYNTH_03,DONOR_0467,Yes,Bilateral,15,C04,Unknown,affect
-SYNTH_03,DONOR_0468,Yes,,20,I01,No,eight
-SYNTH_03,DONOR_0469,Unknown,,71,D60,,though
-SYNTH_03,DONOR_0470,Yes,Unknown,19,D06,Unknown,fact
-SYNTH_03,DONOR_0471,Yes,Not applicable,46,,No,with
-SYNTH_03,DONOR_0472,Yes,Not applicable,30,,,our
-SYNTH_03,DONOR_0473,No,,12,D70,Yes,discuss
-SYNTH_03,DONOR_0474,Yes,Left,33,,Unknown,attack
-SYNTH_03,DONOR_0475,Yes,,37,C01,,safe
-SYNTH_03,DONOR_0476,Yes,Unknown,19,C48,,south
-SYNTH_03,DONOR_0477,Yes,Midline,22,C18,Unknown,audience
-SYNTH_03,DONOR_0478,Yes,Not applicable,18,C65,Unknown,current
-SYNTH_03,DONOR_0479,No,,17,D58,Unknown,experience
-SYNTH_03,DONOR_0480,Yes,Unknown,53,C70,No,career
-SYNTH_03,DONOR_0481,Yes,Right,39,C17,No,gun
-SYNTH_03,DONOR_0482,Yes,,29,I67,Yes,party
-SYNTH_03,DONOR_0483,Yes,Unknown,28,C71,,push
-SYNTH_03,DONOR_0484,Yes,"Unilateral, Side not specified",10,C07,,national
-SYNTH_03,DONOR_0485,,,36,D74,No,west
-SYNTH_03,DONOR_0486,Yes,Right,22,C37,Unknown,past
-SYNTH_03,DONOR_0487,Yes,Left,35,D47,Yes,Radiation
-SYNTH_03,DONOR_0488,Yes,Midline,62,D01,,our
-SYNTH_03,DONOR_0489,Yes,Midline,37,,Unknown,share
-SYNTH_03,DONOR_0490,Unknown,,24,I30,Unknown,company
-SYNTH_03,DONOR_0491,Yes,,15,I32,,employee
-SYNTH_03,DONOR_0492,,,27,D64,No,side
-SYNTH_03,DONOR_0493,Yes,,23,,No,increase
-SYNTH_03,DONOR_0494,No,,53,D84,,any
-SYNTH_03,DONOR_0495,Yes,Left,38,C81,Yes,Chemotherapy
-SYNTH_03,DONOR_0496,Unknown,,43,I77,Yes,culture
-SYNTH_03,DONOR_0497,Yes,Unknown,20,C76,,term
-SYNTH_03,DONOR_0498,,,15,D79,Unknown,character
-SYNTH_03,DONOR_0499,Yes,Unknown,21,,Yes,Immunotherapy
-SYNTH_03,DONOR_0500,Unknown,,21,I86,No,thing
-SYNTH_03,DONOR_0501,Yes,,20,I60,Unknown,various
-SYNTH_03,DONOR_0502,Yes,"Unilateral, Side not specified",51,C61,Yes,Chemotherapy
-SYNTH_03,DONOR_0503,Yes,,25,D04,No,human
-SYNTH_03,DONOR_0504,Yes,,37,I40,No,much
-SYNTH_03,DONOR_0505,Yes,,23,D51,Yes,carry
-SYNTH_03,DONOR_0506,Unknown,,34,D77,No,because
-SYNTH_03,DONOR_0507,Yes,Bilateral,16,D44,Yes,Immunotherapy
-SYNTH_03,DONOR_0508,Yes,,44,C51,Yes,Radiation
-SYNTH_03,DONOR_0509,,,52,D76,,from
-SYNTH_03,DONOR_0510,Unknown,,16,I65,No,town
-SYNTH_03,DONOR_0511,No,,59,I15,No,series
-SYNTH_03,DONOR_0512,Unknown,,26,D64,,itself
-SYNTH_03,DONOR_0513,Yes,,11,C15,No,a
-SYNTH_03,DONOR_0514,Yes,,27,C96,,beautiful
-SYNTH_03,DONOR_0515,No,,21,I19,Unknown,term
-SYNTH_03,DONOR_0516,Yes,,26,,Unknown,read
-SYNTH_03,DONOR_0517,No,,20,I23,Yes,popular
-SYNTH_03,DONOR_0518,Yes,,46,C00,,serious
-SYNTH_03,DONOR_0519,No,,13,D57,No,decade
-SYNTH_03,DONOR_0520,,,22,I35,No,give
-SYNTH_03,DONOR_0521,Yes,,30,,Yes,Radiation
-SYNTH_03,DONOR_0522,Unknown,,34,I16,No,never
-SYNTH_03,DONOR_0523,Yes,,24,I60,Unknown,drop
-SYNTH_03,DONOR_0524,Yes,Not applicable,55,,No,spend
-SYNTH_03,DONOR_0525,Yes,,15,D75,No,need
-SYNTH_03,DONOR_0526,,,52,I16,No,know
-SYNTH_03,DONOR_0527,Yes,,21,I44,Yes,church
-SYNTH_03,DONOR_0528,Yes,,45,C25,Yes,Immunotherapy
-SYNTH_03,DONOR_0529,Yes,"Unilateral, Side not specified",23,,Unknown,democratic
-SYNTH_03,DONOR_0530,Yes,,30,C32,Unknown,exist
-SYNTH_03,DONOR_0531,Yes,,53,I14,Unknown,car
-SYNTH_03,DONOR_0532,,,20,I55,,value
-SYNTH_03,DONOR_0533,Yes,Right,30,,Yes,Hormone therapy
-SYNTH_03,DONOR_0534,Yes,"Unilateral, Side not specified",38,C11,Yes,Radiation
-SYNTH_03,DONOR_0535,,,46,D59,No,source
-SYNTH_03,DONOR_0536,Unknown,,67,I28,Yes,address
-SYNTH_03,DONOR_0537,Yes,Unknown,12,C29,Unknown,prepare
-SYNTH_03,DONOR_0538,Yes,,37,D70,Yes,study
-SYNTH_03,DONOR_0539,Yes,"Unilateral, Side not specified",56,,Unknown,audience
-SYNTH_03,DONOR_0540,Yes,,40,C44,No,such
-SYNTH_03,DONOR_0541,Yes,Right,15,,,city
-SYNTH_03,DONOR_0542,Yes,Right,48,,Unknown,performance
-SYNTH_03,DONOR_0543,Yes,,22,C07,Unknown,million
-SYNTH_03,DONOR_0544,No,,56,D83,,always
-SYNTH_03,DONOR_0545,Yes,Unknown,17,C14,,son
-SYNTH_03,DONOR_0546,Yes,,29,,Yes,Immunotherapy
-SYNTH_03,DONOR_0547,No,,13,I53,No,season
-SYNTH_03,DONOR_0548,Yes,,59,I82,No,simple
-SYNTH_03,DONOR_0549,Yes,"Unilateral, Side not specified",10,C22,Unknown,professional
-SYNTH_03,DONOR_0550,No,,32,I59,No,western
-SYNTH_03,DONOR_0551,Yes,Not applicable,13,C70,Yes,Chemotherapy
-SYNTH_03,DONOR_0552,Yes,Midline,43,C47,No,then
-SYNTH_03,DONOR_0553,Yes,Midline,30,C15,No,care
-SYNTH_03,DONOR_0554,Yes,Right,20,C62,,continue
-SYNTH_03,DONOR_0555,Yes,"Unilateral, Side not specified",28,,Yes,Radiation
-SYNTH_03,DONOR_0556,Yes,,22,C63,No,true
-SYNTH_03,DONOR_0557,No,,35,I89,Unknown,describe
-SYNTH_03,DONOR_0558,Yes,Bilateral,34,,No,run
-SYNTH_03,DONOR_0559,Yes,Unknown,38,C79,Yes,Immunotherapy
-SYNTH_03,DONOR_0560,Yes,Right,37,D42,No,civil
-SYNTH_03,DONOR_0561,Unknown,,26,I33,No,customer
-SYNTH_03,DONOR_0562,No,,18,I47,,it
-SYNTH_03,DONOR_0563,Yes,Right,30,D07,,north
-SYNTH_03,DONOR_0564,,,22,I14,Unknown,wish
-SYNTH_03,DONOR_0565,,,38,I41,No,stock
-SYNTH_03,DONOR_0566,No,,28,I07,No,pass
-SYNTH_03,DONOR_0567,,,35,I22,Yes,kitchen
-SYNTH_03,DONOR_0568,Yes,,14,I95,Unknown,itself
-SYNTH_03,DONOR_0569,Yes,Bilateral,22,C56,Yes,Hormone therapy
-SYNTH_03,DONOR_0570,Yes,"Unilateral, Side not specified",10,,,election
-SYNTH_03,DONOR_0571,Yes,,38,C71,No,win
-SYNTH_03,DONOR_0572,Unknown,,12,I38,,need
-SYNTH_03,DONOR_0573,Yes,Unknown,47,C34,Yes,Immunotherapy
-SYNTH_03,DONOR_0574,Yes,,24,C21,Yes,Chemotherapy
-SYNTH_03,DONOR_0575,Yes,,16,I09,Yes,who
-SYNTH_03,DONOR_0576,Yes,Unknown,49,C30,,successful
-SYNTH_03,DONOR_0577,Yes,Unknown,44,C38,Yes,Hormone therapy
-SYNTH_03,DONOR_0578,No,,33,I20,Unknown,effort
-SYNTH_03,DONOR_0579,Yes,,21,I11,,box
-SYNTH_03,DONOR_0580,Yes,Left,54,C14,Unknown,during
-SYNTH_03,DONOR_0581,Yes,,27,I06,,card
-SYNTH_03,DONOR_0582,Yes,,10,I43,Unknown,him
-SYNTH_03,DONOR_0583,,,63,I37,No,phone
-SYNTH_03,DONOR_0584,Yes,Right,60,C35,,key
-SYNTH_03,DONOR_0585,Yes,Midline,42,C95,Unknown,far
-SYNTH_03,DONOR_0586,Unknown,,51,I84,,care
-SYNTH_03,DONOR_0587,Yes,"Unilateral, Side not specified",43,C04,Yes,Hormone therapy
-SYNTH_03,DONOR_0588,No,,29,I63,No,magazine
-SYNTH_03,DONOR_0589,Unknown,,25,I49,,role
-SYNTH_03,DONOR_0590,Yes,Midline,48,D05,No,message
-SYNTH_03,DONOR_0591,Yes,Not applicable,12,D05,Unknown,million
-SYNTH_03,DONOR_0592,Yes,Midline,23,C26,Yes,Chemotherapy
-SYNTH_03,DONOR_0593,Yes,Not applicable,50,,,know
-SYNTH_03,DONOR_0594,Yes,Unknown,49,,,pull
-SYNTH_03,DONOR_0595,Yes,,30,C12,Unknown,country
-SYNTH_03,DONOR_0596,Yes,Left,23,D39,Unknown,economy
-SYNTH_03,DONOR_0597,Unknown,,31,I94,No,hope
-SYNTH_03,DONOR_0598,Yes,,48,I89,Yes,set
-SYNTH_03,DONOR_0599,Yes,Unknown,50,C85,Yes,Chemotherapy
-SYNTH_03,DONOR_0600,Yes,,12,I71,No,article
-SYNTH_04,DONOR_0651,Yes,,50,,,finally
-SYNTH_04,DONOR_0652,Yes,Midline,20,C37,Yes,Immunotherapy
-SYNTH_04,DONOR_0653,Yes,Unknown,24,C32,Unknown,far
-SYNTH_04,DONOR_0654,Yes,Not applicable,33,D46,Yes,Radiation
-SYNTH_04,DONOR_0655,Yes,Unknown,23,C22,No,size
-SYNTH_04,DONOR_0656,Yes,Unknown,31,,Yes,Chemotherapy
-SYNTH_04,DONOR_0657,Yes,,15,I46,Unknown,call
-SYNTH_04,DONOR_0658,Yes,,31,D72,,possible
-SYNTH_04,DONOR_0659,Yes,Unknown,13,D45,Unknown,today
-SYNTH_04,DONOR_0660,Unknown,,46,I95,No,however
-SYNTH_04,DONOR_0661,No,,49,I00,Yes,issue
-SYNTH_04,DONOR_0662,No,,33,D57,Yes,their
-SYNTH_04,DONOR_0663,,,22,I68,,family
-SYNTH_04,DONOR_0664,Unknown,,12,I38,,recently
-SYNTH_04,DONOR_0665,,,43,D60,Unknown,page
-SYNTH_04,DONOR_0666,Yes,Not applicable,46,C33,Unknown,dinner
-SYNTH_04,DONOR_0667,Yes,Midline,10,C73,,job
-SYNTH_04,DONOR_0668,Yes,"Unilateral, Side not specified",40,C55,Unknown,book
-SYNTH_04,DONOR_0669,Yes,,33,C14,Yes,Radiation
-SYNTH_04,DONOR_0670,Yes,Right,30,C90,No,spring
-SYNTH_04,DONOR_0671,Unknown,,35,I58,Yes,toward
-SYNTH_04,DONOR_0672,Yes,,24,I07,Yes,choice
-SYNTH_04,DONOR_0673,Yes,,29,D51,Yes,change
-SYNTH_04,DONOR_0674,Yes,Left,17,,,inside
-SYNTH_04,DONOR_0675,Unknown,,44,I98,Unknown,loss
-SYNTH_04,DONOR_0676,,,20,I95,,artist
-SYNTH_04,DONOR_0677,Unknown,,41,I41,Unknown,any
-SYNTH_04,DONOR_0678,Yes,,41,C18,Unknown,hold
-SYNTH_04,DONOR_0679,Yes,"Unilateral, Side not specified",35,C61,,article
-SYNTH_04,DONOR_0680,Yes,Right,22,C85,Unknown,nothing
-SYNTH_04,DONOR_0681,Yes,,22,I91,No,least
-SYNTH_04,DONOR_0682,Yes,,34,C38,Unknown,tough
-SYNTH_04,DONOR_0683,No,,47,D55,No,population
-SYNTH_04,DONOR_0684,Yes,Unknown,40,D03,No,Mrs
-SYNTH_04,DONOR_0685,,,15,D79,Yes,bed
-SYNTH_04,DONOR_0686,Yes,Right,48,C55,,watch
-SYNTH_04,DONOR_0687,Yes,Midline,35,D42,Unknown,day
-SYNTH_04,DONOR_0688,Yes,Left,27,D37,Unknown,responsibility
-SYNTH_04,DONOR_0689,Yes,Not applicable,12,D47,No,about
-SYNTH_04,DONOR_0690,Unknown,,23,D50,,contain
-SYNTH_04,DONOR_0691,Yes,"Unilateral, Side not specified",22,C70,,get
-SYNTH_04,DONOR_0692,Yes,,21,C29,Yes,Hormone therapy
-SYNTH_04,DONOR_0693,,,14,D81,No,doctor
-SYNTH_04,DONOR_0694,Yes,Midline,40,C31,,check
-SYNTH_04,DONOR_0695,Yes,,15,C58,No,compare
-SYNTH_04,DONOR_0696,Yes,Left,51,,Yes,Immunotherapy
-SYNTH_04,DONOR_0697,Yes,,23,C19,No,face
-SYNTH_04,DONOR_0698,Yes,,19,I70,Unknown,what
-SYNTH_04,DONOR_0699,,,44,D87,No,put
-SYNTH_04,DONOR_0700,Yes,,57,C54,Yes,Chemotherapy
-SYNTH_04,DONOR_0701,Yes,,40,C55,No,race
-SYNTH_04,DONOR_0702,Yes,Unknown,31,,Unknown,senior
-SYNTH_04,DONOR_0703,Yes,,24,C64,Yes,Hormone therapy
-SYNTH_04,DONOR_0704,Unknown,,12,I38,Unknown,lose
-SYNTH_04,DONOR_0705,Unknown,,26,I89,Unknown,skin
-SYNTH_04,DONOR_0706,Yes,Bilateral,35,C35,Unknown,trial
-SYNTH_04,DONOR_0707,Yes,Left,31,,Unknown,worker
-SYNTH_04,DONOR_0708,No,,31,D56,Yes,much
-SYNTH_04,DONOR_0709,,,30,I69,,race
-SYNTH_04,DONOR_0710,Yes,Midline,28,,No,new
-SYNTH_04,DONOR_0711,,,73,D50,No,base
-SYNTH_04,DONOR_0712,Yes,Bilateral,50,C78,No,say
-SYNTH_04,DONOR_0713,Yes,,49,C02,,which
-SYNTH_04,DONOR_0714,Yes,Unknown,38,C69,,stage
-SYNTH_04,DONOR_0715,Yes,"Unilateral, Side not specified",62,D42,Unknown,south
-SYNTH_04,DONOR_0716,Yes,Not applicable,14,C57,No,base
-SYNTH_04,DONOR_0717,No,,12,D81,Unknown,number
-SYNTH_04,DONOR_0718,Yes,Left,32,D01,No,west
-SYNTH_04,DONOR_0719,Yes,,38,D86,No,structure
-SYNTH_04,DONOR_0720,Yes,"Unilateral, Side not specified",36,C59,No,major
-SYNTH_04,DONOR_0721,,,11,D59,,between
-SYNTH_04,DONOR_0722,Yes,Right,16,,,us
-SYNTH_04,DONOR_0723,Yes,Left,47,C94,Unknown,age
-SYNTH_04,DONOR_0724,Yes,"Unilateral, Side not specified",29,,Yes,Radiation
-SYNTH_04,DONOR_0725,Yes,,51,C32,Yes,Hormone therapy
-SYNTH_04,DONOR_0726,,,45,I07,No,strategy
-SYNTH_04,DONOR_0727,Yes,Unknown,65,C40,Unknown,author
-SYNTH_04,DONOR_0728,Yes,Not applicable,25,C77,,summer
-SYNTH_04,DONOR_0729,Yes,Bilateral,36,C28,,fear
-SYNTH_04,DONOR_0730,Yes,Not applicable,35,,,lose
-SYNTH_04,DONOR_0731,Yes,Right,21,,,enough
-SYNTH_04,DONOR_0732,Yes,Left,34,D39,No,stuff
-SYNTH_04,DONOR_0733,Yes,Midline,30,C62,,happy
-SYNTH_04,DONOR_0734,Yes,Unknown,23,C43,Unknown,your
-SYNTH_04,DONOR_0735,Unknown,,27,I05,Unknown,sound
-SYNTH_04,DONOR_0736,Yes,,38,I17,,and
-SYNTH_04,DONOR_0737,Yes,Right,22,,Unknown,modern
-SYNTH_04,DONOR_0738,Yes,Left,33,,Unknown,walk
-SYNTH_04,DONOR_0739,Yes,Not applicable,54,,Unknown,go
-SYNTH_04,DONOR_0740,Yes,,58,D44,,line
-SYNTH_04,DONOR_0741,Yes,,25,I61,Unknown,compare
-SYNTH_04,DONOR_0742,Yes,Left,56,C80,Unknown,majority
-SYNTH_04,DONOR_0743,Yes,Right,32,D38,Yes,Radiation
-SYNTH_04,DONOR_0744,No,,36,D65,Unknown,speak
-SYNTH_04,DONOR_0745,No,,29,D68,No,free
-SYNTH_04,DONOR_0746,Yes,Right,20,C67,Yes,Immunotherapy
-SYNTH_04,DONOR_0747,Yes,,21,I03,Yes,trip
-SYNTH_04,DONOR_0748,Yes,Right,21,,,product
-SYNTH_04,DONOR_0749,Yes,Unknown,20,C50,Unknown,method
-SYNTH_04,DONOR_0750,Yes,,15,C73,No,think
-SYNTH_04,DONOR_0751,Yes,,20,C05,No,list
-SYNTH_04,DONOR_0752,Yes,,41,C34,Unknown,soon
-SYNTH_04,DONOR_0753,,,17,I13,Yes,including
-SYNTH_04,DONOR_0754,No,,15,I90,No,father
-SYNTH_04,DONOR_0755,Yes,Right,52,C55,Unknown,share
-SYNTH_04,DONOR_0756,,,37,I08,Yes,style
-SYNTH_04,DONOR_0757,Yes,,46,C89,Yes,Hormone therapy
-SYNTH_04,DONOR_0758,Yes,Unknown,19,,Unknown,education
-SYNTH_04,DONOR_0759,,,45,D50,,rather
-SYNTH_04,DONOR_0760,,,27,I88,No,chance
-SYNTH_04,DONOR_0761,Unknown,,34,I44,No,name
-SYNTH_04,DONOR_0762,Yes,Midline,51,C88,Yes,Hormone therapy
-SYNTH_04,DONOR_0763,Yes,Not applicable,23,D46,Yes,Chemotherapy
-SYNTH_04,DONOR_0764,Yes,,16,,Yes,Hormone therapy
-SYNTH_04,DONOR_0765,Yes,,38,,No,send
-SYNTH_04,DONOR_0766,Yes,,46,C72,,pick
-SYNTH_04,DONOR_0767,Yes,Left,23,C58,,magazine
-SYNTH_04,DONOR_0768,,,34,D66,Unknown,sea
-SYNTH_04,DONOR_0769,Yes,Bilateral,25,C30,Yes,Chemotherapy
-SYNTH_04,DONOR_0770,,,53,I12,No,wear
-SYNTH_04,DONOR_0771,Yes,,30,C05,Unknown,but
-SYNTH_04,DONOR_0772,Yes,Unknown,37,C50,No,operation
-SYNTH_04,DONOR_0773,No,,23,I43,Yes,continue
-SYNTH_04,DONOR_0774,Yes,"Unilateral, Side not specified",18,,,but
-SYNTH_04,DONOR_0775,Yes,,28,,Yes,Chemotherapy
-SYNTH_04,DONOR_0776,Yes,,20,C70,Yes,Immunotherapy
-SYNTH_04,DONOR_0777,Yes,,26,I21,Yes,give
-SYNTH_04,DONOR_0778,,,53,I59,No,cultural
-SYNTH_04,DONOR_0779,Yes,Midline,23,C39,Unknown,floor
-SYNTH_04,DONOR_0780,,,58,I84,,why
-SYNTH_04,DONOR_0781,,,12,I25,Unknown,him
-SYNTH_04,DONOR_0782,No,,49,D83,Yes,face
-SYNTH_04,DONOR_0783,Unknown,,17,D82,No,life
-SYNTH_04,DONOR_0784,Yes,Not applicable,18,C57,Yes,Immunotherapy
-SYNTH_04,DONOR_0785,Yes,Bilateral,48,C19,,available
-SYNTH_04,DONOR_0786,Yes,,12,I93,Unknown,cut
-SYNTH_04,DONOR_0787,Yes,,27,C35,Unknown,TV
-SYNTH_04,DONOR_0788,Yes,Not applicable,28,C41,Yes,Hormone therapy
-SYNTH_04,DONOR_0789,Yes,,25,D47,Unknown,first
-SYNTH_04,DONOR_0790,Yes,Bilateral,52,C16,No,enough
-SYNTH_04,DONOR_0791,Yes,Bilateral,23,C61,Unknown,husband
-SYNTH_04,DONOR_0792,,,29,I69,Yes,woman
-SYNTH_04,DONOR_0793,Yes,Bilateral,47,,Unknown,business
-SYNTH_04,DONOR_0794,Yes,Right,43,,No,him
-SYNTH_04,DONOR_0795,Yes,Unknown,30,C24,Yes,Immunotherapy
-SYNTH_04,DONOR_0796,No,,20,I18,Yes,business
-SYNTH_04,DONOR_0797,Yes,,37,I21,,present
-SYNTH_04,DONOR_0798,Yes,Not applicable,19,,,house
-SYNTH_04,DONOR_0799,Yes,,30,D79,Unknown,talk
-SYNTH_04,DONOR_0800,Yes,Right,49,C54,,travel
+program_id,submitter_donor_id,prior_malignancy,laterality_of_prior_malignancy,age_at_comorbidity_diagnosis,age_at_comorbidity_diagnosis_not_available,comorbidity_type_code,comorbidity_treatment_status,comorbidity_treatment
+SYNTH_01,DONOR_0051,No,,29,False,I93,,hit
+SYNTH_01,DONOR_0052,Yes,,66,False,I39,Yes,surface
+SYNTH_01,DONOR_0053,Yes,,25,False,,Yes,Hormone therapy
+SYNTH_01,DONOR_0054,Yes,Not available,26,False,,Not available,support
+SYNTH_01,DONOR_0055,Yes,Not available,24,False,,No,though
+SYNTH_01,DONOR_0056,Yes,"Unilateral, Side not specified",68,False,C30,No,degree
+SYNTH_01,DONOR_0057,Yes,,61,False,D61,No,hour
+SYNTH_01,DONOR_0058,Yes,Bilateral,43,False,C53,No,old
+SYNTH_01,DONOR_0059,No,,28,False,I51,,mouth
+SYNTH_01,DONOR_0060,Not available,,11,False,D56,Not available,save
+SYNTH_01,DONOR_0061,Yes,,27,False,I51,,he
+SYNTH_01,DONOR_0062,Yes,Not applicable,35,False,,,why
+SYNTH_01,DONOR_0063,Yes,Midline,29,True,D44,No,bit
+SYNTH_01,DONOR_0064,Yes,"Unilateral, Side not specified",17,False,C92,,just
+SYNTH_01,DONOR_0065,No,,36,False,I11,,fear
+SYNTH_01,DONOR_0066,Yes,Midline,20,False,,No,general
+SYNTH_01,DONOR_0067,Yes,,37,False,,Not available,find
+SYNTH_01,DONOR_0068,Not available,,35,False,D66,,firm
+SYNTH_01,DONOR_0069,Yes,Right,21,False,C17,Not available,race
+SYNTH_01,DONOR_0070,,,17,False,I42,Yes,interesting
+SYNTH_01,DONOR_0071,,,14,False,I42,Not available,month
+SYNTH_01,DONOR_0072,Yes,Right,56,False,C31,Not available,eat
+SYNTH_01,DONOR_0073,Yes,,35,False,C33,,now
+SYNTH_01,DONOR_0074,Yes,Left,10,False,D47,Not available,little
+SYNTH_01,DONOR_0075,No,,12,False,I38,,stand
+SYNTH_01,DONOR_0076,Yes,Bilateral,58,False,,Not available,upon
+SYNTH_01,DONOR_0077,Yes,"Unilateral, Side not specified",22,False,C67,Not available,fear
+SYNTH_01,DONOR_0078,No,,47,False,I37,Yes,finish
+SYNTH_01,DONOR_0079,No,,44,False,I32,Not available,wear
+SYNTH_01,DONOR_0080,Yes,,12,False,D76,Not available,administration
+SYNTH_01,DONOR_0081,Not available,,73,False,I78,No,join
+SYNTH_01,DONOR_0082,,,30,False,D62,Yes,game
+SYNTH_01,DONOR_0083,No,,46,False,I93,Not available,station
+SYNTH_01,DONOR_0084,Yes,,35,False,I18,,movie
+SYNTH_01,DONOR_0085,Yes,Not available,32,False,,Yes,Hormone therapy
+SYNTH_01,DONOR_0086,Yes,"Unilateral, Side not specified",17,False,C76,No,across
+SYNTH_01,DONOR_0087,Yes,"Unilateral, Side not specified",38,False,,,rise
+SYNTH_01,DONOR_0088,Yes,Left,51,False,C56,Yes,Hormone therapy
+SYNTH_01,DONOR_0089,No,,36,False,I52,Not available,draw
+SYNTH_01,DONOR_0090,No,,36,False,D68,Not available,floor
+SYNTH_01,DONOR_0091,No,,45,False,D83,Yes,ten
+SYNTH_01,DONOR_0092,No,,54,False,I32,Not available,discover
+SYNTH_01,DONOR_0093,Yes,Left,35,False,D08,Not available,simply
+SYNTH_01,DONOR_0094,Yes,,30,False,I39,No,teach
+SYNTH_01,DONOR_0095,,,54,False,D50,,reach
+SYNTH_01,DONOR_0096,Yes,Bilateral,32,False,D39,Not available,sort
+SYNTH_01,DONOR_0097,Yes,,31,False,I44,Not available,yes
+SYNTH_01,DONOR_0098,Yes,,36,False,I28,No,open
+SYNTH_01,DONOR_0099,Yes,Midline,24,False,,,daughter
+SYNTH_01,DONOR_0100,Yes,,13,False,C48,No,trial
+SYNTH_01,DONOR_0101,No,,16,False,D71,,international
+SYNTH_01,DONOR_0102,Not available,,16,False,I52,No,either
+SYNTH_01,DONOR_0103,Yes,Left,30,True,D44,Not available,red
+SYNTH_01,DONOR_0104,Yes,"Unilateral, Side not specified",72,False,C00,No,front
+SYNTH_01,DONOR_0105,Yes,Not available,17,False,D41,Yes,Radiation
+SYNTH_01,DONOR_0106,Yes,Midline,18,False,,Yes,Radiation
+SYNTH_01,DONOR_0107,Yes,Bilateral,34,False,D37,Not available,whole
+SYNTH_01,DONOR_0108,No,,18,False,I71,Not available,she
+SYNTH_01,DONOR_0109,Yes,,46,False,D37,No,easy
+SYNTH_01,DONOR_0110,Yes,Not available,65,False,C12,No,reality
+SYNTH_01,DONOR_0111,,,43,False,I89,,meet
+SYNTH_01,DONOR_0112,,,10,False,I47,Not available,current
+SYNTH_01,DONOR_0113,,,10,False,D86,Yes,environment
+SYNTH_01,DONOR_0114,Yes,Bilateral,27,False,,Yes,Chemotherapy
+SYNTH_01,DONOR_0115,Not available,,10,False,I18,No,church
+SYNTH_01,DONOR_0116,Yes,Bilateral,23,False,C11,No,business
+SYNTH_01,DONOR_0117,,,14,False,I06,No,once
+SYNTH_01,DONOR_0118,No,,43,False,I58,,outside
+SYNTH_01,DONOR_0119,Yes,Bilateral,12,False,D40,Not available,coach
+SYNTH_01,DONOR_0120,Yes,,33,True,C62,,continue
+SYNTH_01,DONOR_0121,Yes,,37,False,D64,,bring
+SYNTH_01,DONOR_0122,,,56,False,I51,Not available,because
+SYNTH_01,DONOR_0123,Yes,Not applicable,19,False,C94,No,rest
+SYNTH_01,DONOR_0124,Yes,Left,22,False,C74,,task
+SYNTH_01,DONOR_0125,Yes,Midline,44,True,D01,Yes,Chemotherapy
+SYNTH_01,DONOR_0126,Yes,,27,False,,,student
+SYNTH_01,DONOR_0127,Yes,Not available,65,False,C91,No,stand
+SYNTH_01,DONOR_0128,Yes,,41,False,D84,No,once
+SYNTH_01,DONOR_0129,Yes,"Unilateral, Side not specified",31,False,,Yes,Hormone therapy
+SYNTH_01,DONOR_0130,,,25,False,I76,Yes,explain
+SYNTH_01,DONOR_0131,Yes,,22,False,,No,read
+SYNTH_01,DONOR_0132,Yes,,71,True,I86,Not available,heart
+SYNTH_01,DONOR_0133,Not available,,15,False,I07,No,thousand
+SYNTH_01,DONOR_0134,Yes,,26,False,D37,Yes,Chemotherapy
+SYNTH_01,DONOR_0135,No,,36,False,D79,Yes,high
+SYNTH_01,DONOR_0136,Yes,Left,21,False,C46,No,heavy
+SYNTH_01,DONOR_0137,Yes,,28,False,D58,No,community
+SYNTH_01,DONOR_0138,No,,22,False,I50,No,picture
+SYNTH_01,DONOR_0139,Yes,Not available,20,False,C65,,enter
+SYNTH_01,DONOR_0140,,,72,True,I56,,soldier
+SYNTH_01,DONOR_0141,No,,70,True,I11,Yes,exist
+SYNTH_01,DONOR_0142,,,29,False,I83,,rest
+SYNTH_01,DONOR_0143,Yes,Right,30,False,C07,No,near
+SYNTH_01,DONOR_0144,Yes,,13,False,D82,,behind
+SYNTH_01,DONOR_0145,Yes,,45,False,C35,No,treat
+SYNTH_01,DONOR_0146,No,,11,False,I37,Yes,send
+SYNTH_01,DONOR_0147,Not available,,30,False,D81,,former
+SYNTH_01,DONOR_0148,,,28,False,I72,Not available,party
+SYNTH_01,DONOR_0149,Yes,"Unilateral, Side not specified",35,False,C31,No,radio
+SYNTH_01,DONOR_0150,,,59,True,I25,No,training
+SYNTH_01,DONOR_0151,Not available,,35,False,I94,Yes,reflect
+SYNTH_01,DONOR_0152,Yes,,52,False,C80,Not available,body
+SYNTH_01,DONOR_0153,,,29,False,I00,Not available,become
+SYNTH_01,DONOR_0154,,,39,False,I21,Not available,fear
+SYNTH_01,DONOR_0155,Yes,,24,False,I40,Not available,where
+SYNTH_01,DONOR_0156,Yes,Bilateral,22,False,C23,,and
+SYNTH_01,DONOR_0157,Yes,,30,False,,,around
+SYNTH_01,DONOR_0158,Yes,,42,False,I09,Not available,front
+SYNTH_01,DONOR_0159,Yes,Bilateral,21,False,D07,,run
+SYNTH_01,DONOR_0160,Yes,Not available,31,False,D03,No,authority
+SYNTH_01,DONOR_0161,Yes,Not available,24,False,C15,Yes,Chemotherapy
+SYNTH_01,DONOR_0162,Yes,Right,23,False,C40,Not available,box
+SYNTH_01,DONOR_0163,Yes,"Unilateral, Side not specified",71,True,,Yes,Radiation
+SYNTH_01,DONOR_0164,Yes,"Unilateral, Side not specified",51,False,C35,Yes,Radiation
+SYNTH_01,DONOR_0165,Yes,,28,False,D38,,painting
+SYNTH_01,DONOR_0166,No,,31,False,D76,,special
+SYNTH_01,DONOR_0167,Yes,Midline,41,False,,No,goal
+SYNTH_01,DONOR_0168,Yes,Left,39,False,C27,No,start
+SYNTH_01,DONOR_0169,Yes,"Unilateral, Side not specified",39,False,C41,Yes,Chemotherapy
+SYNTH_01,DONOR_0170,Yes,Not available,31,False,C49,No,every
+SYNTH_01,DONOR_0171,Yes,Not applicable,10,False,,,employee
+SYNTH_01,DONOR_0172,Yes,Bilateral,63,False,C80,No,everyone
+SYNTH_01,DONOR_0173,No,,39,False,I45,No,rise
+SYNTH_01,DONOR_0174,Not available,,14,False,I93,Yes,write
+SYNTH_01,DONOR_0175,Yes,Not applicable,38,False,,Not available,six
+SYNTH_01,DONOR_0176,Yes,Bilateral,27,False,,No,former
+SYNTH_01,DONOR_0177,Yes,Left,19,False,D38,,debate
+SYNTH_01,DONOR_0178,Yes,,41,False,C16,No,training
+SYNTH_01,DONOR_0179,,,10,False,I11,Not available,its
+SYNTH_01,DONOR_0180,Yes,Not applicable,28,False,,,official
+SYNTH_01,DONOR_0181,No,,11,False,I88,Not available,wrong
+SYNTH_01,DONOR_0182,Not available,,15,False,I87,,employee
+SYNTH_01,DONOR_0183,,,36,False,I23,No,attorney
+SYNTH_01,DONOR_0184,Not available,,16,False,I10,No,both
+SYNTH_01,DONOR_0185,Yes,Midline,74,True,,No,purpose
+SYNTH_01,DONOR_0186,Not available,,37,False,I23,Yes,air
+SYNTH_01,DONOR_0187,Not available,,20,False,I18,,state
+SYNTH_01,DONOR_0188,,,31,False,I25,No,individual
+SYNTH_01,DONOR_0189,Yes,Right,26,True,C20,Yes,Immunotherapy
+SYNTH_01,DONOR_0190,Yes,,46,True,C92,No,present
+SYNTH_01,DONOR_0191,Yes,Midline,28,False,C07,Not available,team
+SYNTH_01,DONOR_0192,Yes,Left,26,True,C63,Yes,Radiation
+SYNTH_01,DONOR_0193,Yes,,74,True,D70,No,firm
+SYNTH_01,DONOR_0194,,,47,False,D53,,front
+SYNTH_01,DONOR_0195,Yes,Not available,74,True,C44,,yourself
+SYNTH_01,DONOR_0196,Yes,Left,56,True,C88,,author
+SYNTH_01,DONOR_0197,Yes,Left,23,False,,Not available,line
+SYNTH_01,DONOR_0198,Yes,Left,27,False,C54,Yes,Chemotherapy
+SYNTH_01,DONOR_0199,Yes,,21,True,D83,No,bring
+SYNTH_01,DONOR_0200,Yes,,58,True,I56,Yes,drive
+SYNTH_02,DONOR_0251,No,,34,True,I35,No,another
+SYNTH_02,DONOR_0252,Yes,Not available,22,False,D43,Yes,Immunotherapy
+SYNTH_02,DONOR_0253,Yes,Left,19,False,D03,Not available,play
+SYNTH_02,DONOR_0254,Yes,Not applicable,30,False,D04,Yes,Radiation
+SYNTH_02,DONOR_0255,,,43,False,I18,,benefit
+SYNTH_02,DONOR_0256,Yes,"Unilateral, Side not specified",21,False,C10,Yes,Radiation
+SYNTH_02,DONOR_0257,Not available,,12,False,I76,No,necessary
+SYNTH_02,DONOR_0258,Yes,Midline,59,False,,,six
+SYNTH_02,DONOR_0259,Yes,"Unilateral, Side not specified",35,False,C01,Yes,Immunotherapy
+SYNTH_02,DONOR_0260,Yes,Bilateral,53,False,C87,Not available,how
+SYNTH_02,DONOR_0261,Yes,,39,False,C56,No,with
+SYNTH_02,DONOR_0262,,,30,False,D51,No,night
+SYNTH_02,DONOR_0263,Not available,,34,False,I01,Yes,business
+SYNTH_02,DONOR_0264,Yes,,54,False,C67,No,citizen
+SYNTH_02,DONOR_0265,,,40,False,I57,Not available,arrive
+SYNTH_02,DONOR_0266,Not available,,17,False,I83,Not available,writer
+SYNTH_02,DONOR_0267,Yes,,27,True,,Yes,Chemotherapy
+SYNTH_02,DONOR_0268,,,19,False,D82,Yes,onto
+SYNTH_02,DONOR_0269,Yes,Midline,42,False,,Not available,without
+SYNTH_02,DONOR_0270,,,80,True,I18,,future
+SYNTH_02,DONOR_0271,Yes,Left,39,False,,,establish
+SYNTH_02,DONOR_0272,Yes,Bilateral,45,False,D41,Yes,Immunotherapy
+SYNTH_02,DONOR_0273,Yes,Right,44,False,,,avoid
+SYNTH_02,DONOR_0274,Yes,,32,False,D71,Not available,likely
+SYNTH_02,DONOR_0275,Yes,"Unilateral, Side not specified",29,False,C73,No,discussion
+SYNTH_02,DONOR_0276,No,,72,True,I15,No,smile
+SYNTH_02,DONOR_0277,Not available,,31,False,I33,No,second
+SYNTH_02,DONOR_0278,,,29,False,I64,Yes,fact
+SYNTH_02,DONOR_0279,No,,11,False,I72,,do
+SYNTH_02,DONOR_0280,No,,22,False,D81,No,without
+SYNTH_02,DONOR_0281,,,30,True,I93,Yes,meet
+SYNTH_02,DONOR_0282,Not available,,14,False,D78,Not available,middle
+SYNTH_02,DONOR_0283,Yes,Not available,24,False,C31,No,production
+SYNTH_02,DONOR_0284,Yes,Not available,15,False,,Yes,Immunotherapy
+SYNTH_02,DONOR_0285,Yes,Midline,30,False,D41,Not available,forget
+SYNTH_02,DONOR_0286,Yes,Bilateral,36,False,C27,,old
+SYNTH_02,DONOR_0287,Yes,,28,False,I74,Not available,price
+SYNTH_02,DONOR_0288,,,38,False,I77,Yes,perhaps
+SYNTH_02,DONOR_0289,No,,51,False,I08,No,institution
+SYNTH_02,DONOR_0290,Yes,Not available,71,False,C49,No,sort
+SYNTH_02,DONOR_0291,Yes,Bilateral,26,False,,Yes,Chemotherapy
+SYNTH_02,DONOR_0292,Yes,Right,73,False,C38,No,whole
+SYNTH_02,DONOR_0293,Yes,Right,34,False,,,art
+SYNTH_02,DONOR_0294,No,,44,False,I50,No,executive
+SYNTH_02,DONOR_0295,Yes,"Unilateral, Side not specified",37,False,C63,,pressure
+SYNTH_02,DONOR_0296,No,,12,False,D63,Not available,boy
+SYNTH_02,DONOR_0297,Yes,Right,53,False,C75,,decide
+SYNTH_02,DONOR_0298,Yes,Right,45,False,C52,,middle
+SYNTH_02,DONOR_0299,No,,55,False,I02,Yes,upon
+SYNTH_02,DONOR_0300,Yes,Bilateral,16,False,C40,,and
+SYNTH_02,DONOR_0301,Yes,Left,44,False,,Not available,thing
+SYNTH_02,DONOR_0302,Yes,Bilateral,52,False,C77,,hair
+SYNTH_02,DONOR_0303,Yes,Not applicable,47,False,C88,Not available,report
+SYNTH_02,DONOR_0304,Yes,,55,False,C48,Not available,treat
+SYNTH_02,DONOR_0305,Yes,Left,12,False,C38,Yes,Chemotherapy
+SYNTH_02,DONOR_0306,,,27,False,I88,Not available,available
+SYNTH_02,DONOR_0307,Yes,Right,40,False,C65,No,when
+SYNTH_02,DONOR_0308,Yes,Not available,42,False,C19,Yes,Hormone therapy
+SYNTH_02,DONOR_0309,Yes,,35,False,I14,,indeed
+SYNTH_02,DONOR_0310,No,,28,False,I17,Not available,indicate
+SYNTH_02,DONOR_0311,Yes,Not applicable,56,True,,,something
+SYNTH_02,DONOR_0312,Yes,Midline,46,False,,Not available,religious
+SYNTH_02,DONOR_0313,Yes,Bilateral,11,False,C53,No,machine
+SYNTH_02,DONOR_0314,Yes,,32,True,D44,Not available,would
+SYNTH_02,DONOR_0315,,,35,False,D60,,wind
+SYNTH_02,DONOR_0316,Yes,Bilateral,33,False,,,seat
+SYNTH_02,DONOR_0317,Yes,Bilateral,12,False,,,specific
+SYNTH_02,DONOR_0318,Yes,Midline,60,False,D06,,himself
+SYNTH_02,DONOR_0319,Yes,,27,False,D66,Yes,fly
+SYNTH_02,DONOR_0320,,,34,False,I39,No,organization
+SYNTH_02,DONOR_0321,Yes,Midline,63,False,C08,,impact
+SYNTH_02,DONOR_0322,Yes,Not applicable,38,False,C12,Yes,Hormone therapy
+SYNTH_02,DONOR_0323,Yes,Left,48,False,C54,Yes,Radiation
+SYNTH_02,DONOR_0324,Yes,,76,False,I34,No,prepare
+SYNTH_02,DONOR_0325,Yes,Bilateral,28,False,,No,light
+SYNTH_02,DONOR_0326,Yes,Not available,35,False,,Yes,Chemotherapy
+SYNTH_02,DONOR_0327,Not available,,10,False,I59,No,pressure
+SYNTH_02,DONOR_0328,No,,20,False,D54,No,instead
+SYNTH_02,DONOR_0329,Yes,"Unilateral, Side not specified",35,False,D45,,involve
+SYNTH_02,DONOR_0330,Yes,,33,False,D77,No,majority
+SYNTH_02,DONOR_0331,Not available,,24,False,D80,,or
+SYNTH_02,DONOR_0332,Yes,"Unilateral, Side not specified",27,False,C65,Yes,Immunotherapy
+SYNTH_02,DONOR_0333,Yes,,14,False,I77,Yes,author
+SYNTH_02,DONOR_0334,No,,68,True,I97,,animal
+SYNTH_02,DONOR_0335,,,23,False,I19,Not available,himself
+SYNTH_02,DONOR_0336,Not available,,59,True,I07,Not available,capital
+SYNTH_02,DONOR_0337,,,29,False,D68,Yes,institution
+SYNTH_02,DONOR_0338,No,,30,False,I55,No,hospital
+SYNTH_02,DONOR_0339,Yes,,50,True,C68,Not available,leader
+SYNTH_02,DONOR_0340,Not available,,27,False,I45,,phone
+SYNTH_02,DONOR_0341,Not available,,12,False,I31,Yes,mention
+SYNTH_02,DONOR_0342,Yes,,18,False,D53,Yes,once
+SYNTH_02,DONOR_0343,Yes,"Unilateral, Side not specified",10,False,,No,recognize
+SYNTH_02,DONOR_0344,Yes,Bilateral,45,False,C48,,thus
+SYNTH_02,DONOR_0345,Yes,Not applicable,34,False,D47,,pretty
+SYNTH_02,DONOR_0346,,,45,False,I21,No,star
+SYNTH_02,DONOR_0347,Yes,,45,False,C72,,there
+SYNTH_02,DONOR_0348,Yes,Not available,48,True,D43,,international
+SYNTH_02,DONOR_0349,No,,45,False,I72,,kind
+SYNTH_02,DONOR_0350,Yes,"Unilateral, Side not specified",19,False,C55,Not available,job
+SYNTH_02,DONOR_0351,Yes,"Unilateral, Side not specified",15,False,C36,No,great
+SYNTH_02,DONOR_0352,Yes,Not available,12,False,,,fine
+SYNTH_02,DONOR_0353,No,,36,False,I02,No,leader
+SYNTH_02,DONOR_0354,Yes,,36,False,D78,,task
+SYNTH_02,DONOR_0355,Yes,Right,23,False,C90,,despite
+SYNTH_02,DONOR_0356,,,38,False,I44,Not available,explain
+SYNTH_02,DONOR_0357,Yes,Bilateral,44,True,C85,Yes,Chemotherapy
+SYNTH_02,DONOR_0358,Yes,"Unilateral, Side not specified",55,False,C54,Not available,son
+SYNTH_02,DONOR_0359,Yes,,17,False,D01,Not available,three
+SYNTH_02,DONOR_0360,Yes,Left,36,False,,Not available,region
+SYNTH_02,DONOR_0361,Yes,Not available,45,False,D41,,article
+SYNTH_02,DONOR_0362,Yes,,55,False,,No,program
+SYNTH_02,DONOR_0363,Yes,Right,11,False,D41,Not available,right
+SYNTH_02,DONOR_0364,Yes,,44,False,I55,Not available,if
+SYNTH_02,DONOR_0365,Yes,Not applicable,36,False,D42,,hospital
+SYNTH_02,DONOR_0366,,,14,False,I79,Yes,add
+SYNTH_02,DONOR_0367,Yes,,23,False,I22,No,couple
+SYNTH_02,DONOR_0368,Yes,,32,False,,,born
+SYNTH_02,DONOR_0369,Yes,Midline,23,False,,No,threat
+SYNTH_02,DONOR_0370,Yes,"Unilateral, Side not specified",30,False,,No,treatment
+SYNTH_02,DONOR_0371,No,,35,False,D74,Not available,until
+SYNTH_02,DONOR_0372,No,,42,False,I48,,fall
+SYNTH_02,DONOR_0373,Yes,"Unilateral, Side not specified",21,False,C01,,paper
+SYNTH_02,DONOR_0374,,,62,True,I48,Not available,blue
+SYNTH_02,DONOR_0375,Yes,Bilateral,27,False,C69,Not available,production
+SYNTH_02,DONOR_0376,Yes,,65,False,,No,lay
+SYNTH_02,DONOR_0377,Yes,Not applicable,38,True,D47,,including
+SYNTH_02,DONOR_0378,No,,24,False,D75,,voice
+SYNTH_02,DONOR_0379,Yes,,46,False,,Yes,Chemotherapy
+SYNTH_02,DONOR_0380,Yes,,33,False,I50,No,rate
+SYNTH_02,DONOR_0381,Yes,Not applicable,33,False,C39,No,suffer
+SYNTH_02,DONOR_0382,No,,44,False,I38,No,forward
+SYNTH_02,DONOR_0383,No,,59,True,D81,No,impact
+SYNTH_02,DONOR_0384,Yes,,23,False,I83,Not available,stock
+SYNTH_02,DONOR_0385,Yes,,13,False,I54,Not available,be
+SYNTH_02,DONOR_0386,Not available,,22,False,I26,Yes,degree
+SYNTH_02,DONOR_0387,Yes,Not available,30,False,,Not available,teach
+SYNTH_02,DONOR_0388,Not available,,56,True,I76,Yes,beautiful
+SYNTH_02,DONOR_0389,Yes,,39,False,I75,,year
+SYNTH_02,DONOR_0390,Yes,Not available,41,False,C72,Yes,Immunotherapy
+SYNTH_02,DONOR_0391,Not available,,44,False,I12,Not available,during
+SYNTH_02,DONOR_0392,Yes,Bilateral,24,False,C83,No,spend
+SYNTH_02,DONOR_0393,Yes,,39,False,I57,,field
+SYNTH_02,DONOR_0394,No,,77,True,D83,,country
+SYNTH_02,DONOR_0395,Not available,,36,False,D79,No,middle
+SYNTH_02,DONOR_0396,No,,19,False,D75,,hour
+SYNTH_02,DONOR_0397,,,36,False,D84,No,until
+SYNTH_02,DONOR_0398,No,,55,False,I06,No,language
+SYNTH_02,DONOR_0399,Yes,Not applicable,58,False,,,clear
+SYNTH_02,DONOR_0400,Yes,Not applicable,10,False,C46,No,war
+SYNTH_03,DONOR_0451,Yes,Bilateral,34,False,,Yes,Radiation
+SYNTH_03,DONOR_0452,Yes,,34,False,I04,Not available,case
+SYNTH_03,DONOR_0453,,,14,False,I19,,side
+SYNTH_03,DONOR_0454,Yes,,34,False,I49,Not available,base
+SYNTH_03,DONOR_0455,Yes,Left,32,False,C24,Not available,doctor
+SYNTH_03,DONOR_0456,Not available,,32,False,I09,Yes,this
+SYNTH_03,DONOR_0457,Yes,Midline,18,False,D40,Yes,Hormone therapy
+SYNTH_03,DONOR_0458,Yes,,30,False,,No,eye
+SYNTH_03,DONOR_0459,Yes,,34,False,C83,Yes,Chemotherapy
+SYNTH_03,DONOR_0460,Yes,Not applicable,13,False,C80,No,range
+SYNTH_03,DONOR_0461,No,,22,False,I31,Not available,hour
+SYNTH_03,DONOR_0462,Not available,,36,False,I86,Not available,team
+SYNTH_03,DONOR_0463,Yes,Not available,29,False,,,pretty
+SYNTH_03,DONOR_0464,Yes,Left,48,False,D41,Yes,Chemotherapy
+SYNTH_03,DONOR_0465,Yes,Not applicable,52,False,,Yes,Immunotherapy
+SYNTH_03,DONOR_0466,Yes,Midline,26,False,D46,,themselves
+SYNTH_03,DONOR_0467,Yes,Left,25,False,C57,Not available,right
+SYNTH_03,DONOR_0468,Yes,Not applicable,35,False,D41,,business
+SYNTH_03,DONOR_0469,Yes,Not applicable,54,False,C73,,head
+SYNTH_03,DONOR_0470,Yes,Bilateral,31,False,C91,Not available,suffer
+SYNTH_03,DONOR_0471,Yes,Right,20,False,,,character
+SYNTH_03,DONOR_0472,Not available,,17,False,I46,Not available,close
+SYNTH_03,DONOR_0473,Yes,,33,False,C09,Yes,Chemotherapy
+SYNTH_03,DONOR_0474,,,43,False,I52,Yes,situation
+SYNTH_03,DONOR_0475,Yes,"Unilateral, Side not specified",31,False,D00,,dog
+SYNTH_03,DONOR_0476,No,,34,False,I78,Yes,six
+SYNTH_03,DONOR_0477,Yes,Midline,47,False,C75,Yes,Chemotherapy
+SYNTH_03,DONOR_0478,Yes,Not available,51,False,,Yes,Chemotherapy
+SYNTH_03,DONOR_0479,Yes,Midline,25,False,,Yes,Radiation
+SYNTH_03,DONOR_0480,Yes,,16,False,D58,Yes,world
+SYNTH_03,DONOR_0481,Yes,Right,67,True,C44,Yes,Chemotherapy
+SYNTH_03,DONOR_0482,No,,71,False,I10,Yes,everyone
+SYNTH_03,DONOR_0483,Yes,Midline,29,False,,Yes,Immunotherapy
+SYNTH_03,DONOR_0484,Yes,,33,False,D07,No,yeah
+SYNTH_03,DONOR_0485,Not available,,66,False,I43,Yes,bag
+SYNTH_03,DONOR_0486,Yes,,11,False,D53,No,home
+SYNTH_03,DONOR_0487,No,,26,False,D74,Not available,which
+SYNTH_03,DONOR_0488,Yes,,53,True,C33,No,special
+SYNTH_03,DONOR_0489,Yes,Bilateral,25,False,C92,No,research
+SYNTH_03,DONOR_0490,Yes,"Unilateral, Side not specified",38,False,C51,Not available,pass
+SYNTH_03,DONOR_0491,Yes,Midline,10,False,C71,Not available,then
+SYNTH_03,DONOR_0492,Yes,Not applicable,51,False,,,either
+SYNTH_03,DONOR_0493,Yes,Left,37,False,C45,Not available,everything
+SYNTH_03,DONOR_0494,,,36,False,D85,Yes,design
+SYNTH_03,DONOR_0495,No,,32,False,D67,Yes,thank
+SYNTH_03,DONOR_0496,Yes,"Unilateral, Side not specified",33,False,C46,Not available,candidate
+SYNTH_03,DONOR_0497,,,45,False,I42,,expect
+SYNTH_03,DONOR_0498,Yes,Left,57,True,D47,Not available,modern
+SYNTH_03,DONOR_0499,Not available,,16,False,I86,No,most
+SYNTH_03,DONOR_0500,No,,51,False,I35,,whatever
+SYNTH_03,DONOR_0501,Not available,,16,False,I27,No,husband
+SYNTH_03,DONOR_0502,Yes,Bilateral,30,False,C49,,physical
+SYNTH_03,DONOR_0503,Yes,Midline,76,False,C18,Not available,off
+SYNTH_03,DONOR_0504,No,,45,True,I59,No,expert
+SYNTH_03,DONOR_0505,Yes,,22,False,D50,,measure
+SYNTH_03,DONOR_0506,No,,31,False,I30,Yes,as
+SYNTH_03,DONOR_0507,Not available,,14,False,I16,Yes,significant
+SYNTH_03,DONOR_0508,Yes,Not applicable,21,True,C19,No,foreign
+SYNTH_03,DONOR_0509,,,29,False,I02,Yes,commercial
+SYNTH_03,DONOR_0510,Yes,Left,70,True,C31,Not available,air
+SYNTH_03,DONOR_0511,No,,77,False,D87,,onto
+SYNTH_03,DONOR_0512,,,12,False,D85,No,culture
+SYNTH_03,DONOR_0513,,,43,False,I96,No,hear
+SYNTH_03,DONOR_0514,Not available,,36,False,D51,Yes,executive
+SYNTH_03,DONOR_0515,Yes,Left,23,False,C48,No,industry
+SYNTH_03,DONOR_0516,Yes,,28,False,I02,No,behavior
+SYNTH_03,DONOR_0517,Yes,Not available,65,False,C25,,between
+SYNTH_03,DONOR_0518,Yes,Bilateral,20,False,C07,No,how
+SYNTH_03,DONOR_0519,Not available,,39,False,I89,Not available,stand
+SYNTH_03,DONOR_0520,Not available,,44,False,D87,Yes,enough
+SYNTH_03,DONOR_0521,Yes,,78,False,I15,No,foot
+SYNTH_03,DONOR_0522,Yes,Not applicable,11,False,C41,Not available,item
+SYNTH_03,DONOR_0523,No,,38,False,D58,Not available,appear
+SYNTH_03,DONOR_0524,Yes,Left,40,True,,Yes,Chemotherapy
+SYNTH_03,DONOR_0525,Yes,Midline,14,False,C24,Not available,under
+SYNTH_03,DONOR_0526,,,27,False,I24,Yes,answer
+SYNTH_03,DONOR_0527,Yes,Not available,17,False,C77,Yes,Radiation
+SYNTH_03,DONOR_0528,Yes,,27,False,,No,Republican
+SYNTH_03,DONOR_0529,Yes,Midline,54,False,C00,,put
+SYNTH_03,DONOR_0530,Yes,Left,30,False,C79,No,college
+SYNTH_03,DONOR_0531,,,63,True,D54,Yes,politics
+SYNTH_03,DONOR_0532,Yes,Bilateral,36,False,C95,Not available,feel
+SYNTH_03,DONOR_0533,Yes,Midline,59,True,D42,No,together
+SYNTH_03,DONOR_0534,Yes,,54,False,D37,Not available,participant
+SYNTH_03,DONOR_0535,Yes,Not available,27,False,C78,Yes,Radiation
+SYNTH_03,DONOR_0536,Yes,Midline,43,True,C21,,game
+SYNTH_03,DONOR_0537,Yes,,36,False,I60,No,stock
+SYNTH_03,DONOR_0538,Not available,,25,False,D58,,technology
+SYNTH_03,DONOR_0539,No,,50,False,I24,No,situation
+SYNTH_03,DONOR_0540,No,,24,False,D87,Yes,improve
+SYNTH_03,DONOR_0541,Not available,,27,False,I69,No,night
+SYNTH_03,DONOR_0542,Yes,,47,False,,Not available,check
+SYNTH_03,DONOR_0543,Yes,,18,False,I55,,investment
+SYNTH_03,DONOR_0544,Yes,Left,46,False,,No,join
+SYNTH_03,DONOR_0545,Yes,Bilateral,32,False,,Not available,group
+SYNTH_03,DONOR_0546,Yes,Midline,67,True,C87,Not available,own
+SYNTH_03,DONOR_0547,Yes,Bilateral,35,False,D03,,read
+SYNTH_03,DONOR_0548,Not available,,39,False,D54,,part
+SYNTH_03,DONOR_0549,Yes,,23,False,D87,,around
+SYNTH_03,DONOR_0550,Yes,"Unilateral, Side not specified",44,False,D43,Not available,push
+SYNTH_03,DONOR_0551,Yes,Not available,76,False,C92,,send
+SYNTH_03,DONOR_0552,No,,58,True,I55,No,vote
+SYNTH_03,DONOR_0553,Yes,Left,26,False,C95,Not available,pattern
+SYNTH_03,DONOR_0554,,,32,False,D86,Yes,while
+SYNTH_03,DONOR_0555,Yes,,42,False,D42,,realize
+SYNTH_03,DONOR_0556,Yes,Right,58,False,C24,No,either
+SYNTH_03,DONOR_0557,Yes,Right,13,False,D38,Yes,Hormone therapy
+SYNTH_03,DONOR_0558,Yes,Midline,62,True,D40,,deep
+SYNTH_03,DONOR_0559,Not available,,40,False,I58,,production
+SYNTH_03,DONOR_0560,Yes,,10,False,I19,Not available,might
+SYNTH_03,DONOR_0561,Yes,"Unilateral, Side not specified",10,False,C52,No,officer
+SYNTH_03,DONOR_0562,No,,37,False,I31,,not
+SYNTH_03,DONOR_0563,,,65,False,I69,Not available,lose
+SYNTH_03,DONOR_0564,Not available,,20,False,I66,No,church
+SYNTH_03,DONOR_0565,Yes,Midline,25,False,C70,Not available,cost
+SYNTH_03,DONOR_0566,,,63,True,D67,Not available,adult
+SYNTH_03,DONOR_0567,Yes,,53,True,I14,No,itself
+SYNTH_03,DONOR_0568,No,,35,False,I37,,from
+SYNTH_03,DONOR_0569,No,,38,False,I59,Yes,move
+SYNTH_03,DONOR_0570,Yes,Midline,73,True,C37,,everyone
+SYNTH_03,DONOR_0571,Yes,Not applicable,12,False,C35,,situation
+SYNTH_03,DONOR_0572,Yes,,14,False,C38,Not available,magazine
+SYNTH_03,DONOR_0573,Yes,,14,False,I23,,reach
+SYNTH_03,DONOR_0574,Yes,Not applicable,26,False,C58,,care
+SYNTH_03,DONOR_0575,Not available,,50,False,D78,Yes,trade
+SYNTH_03,DONOR_0576,Yes,,43,False,C53,Not available,his
+SYNTH_03,DONOR_0577,Yes,Midline,15,False,,,always
+SYNTH_03,DONOR_0578,Yes,"Unilateral, Side not specified",14,False,C22,Not available,drop
+SYNTH_03,DONOR_0579,No,,54,False,I07,,pass
+SYNTH_03,DONOR_0580,Not available,,20,False,I73,Not available,board
+SYNTH_03,DONOR_0581,Yes,Not available,63,False,C51,Yes,Immunotherapy
+SYNTH_03,DONOR_0582,Not available,,38,False,I89,,contain
+SYNTH_03,DONOR_0583,Yes,,39,False,D84,No,standard
+SYNTH_03,DONOR_0584,Yes,,12,False,I04,,southern
+SYNTH_03,DONOR_0585,Not available,,18,False,I57,Not available,board
+SYNTH_03,DONOR_0586,Not available,,14,False,I08,No,cause
+SYNTH_03,DONOR_0587,,,34,False,I70,No,of
+SYNTH_03,DONOR_0588,Yes,,42,False,I23,No,administration
+SYNTH_03,DONOR_0589,,,64,True,I23,No,unit
+SYNTH_03,DONOR_0590,Yes,,42,False,,No,international
+SYNTH_03,DONOR_0591,Yes,Not available,31,False,C04,,lose
+SYNTH_03,DONOR_0592,No,,31,False,I83,,level
+SYNTH_03,DONOR_0593,Yes,,33,False,D51,,operation
+SYNTH_03,DONOR_0594,Yes,"Unilateral, Side not specified",27,False,C60,No,my
+SYNTH_03,DONOR_0595,No,,28,False,I71,Yes,interview
+SYNTH_03,DONOR_0596,Yes,Bilateral,30,False,C39,Not available,child
+SYNTH_03,DONOR_0597,,,27,False,D76,Yes,exactly
+SYNTH_03,DONOR_0598,Yes,Midline,55,False,C94,Yes,Chemotherapy
+SYNTH_03,DONOR_0599,,,42,True,I44,Not available,receive
+SYNTH_03,DONOR_0600,Yes,Not applicable,12,False,,No,rate
+SYNTH_04,DONOR_0651,Yes,Bilateral,14,False,C65,,himself
+SYNTH_04,DONOR_0652,Yes,Right,39,False,C80,Not available,kitchen
+SYNTH_04,DONOR_0653,No,,67,True,D62,Yes,state
+SYNTH_04,DONOR_0654,Yes,Not available,39,False,,No,agency
+SYNTH_04,DONOR_0655,Yes,Not applicable,54,False,C30,No,agent
+SYNTH_04,DONOR_0656,,,67,False,I74,,hold
+SYNTH_04,DONOR_0657,Yes,Right,13,False,,Yes,Immunotherapy
+SYNTH_04,DONOR_0658,No,,68,False,D85,Not available,public
+SYNTH_04,DONOR_0659,Yes,Right,11,False,C83,,receive
+SYNTH_04,DONOR_0660,Yes,Right,53,False,,Yes,Hormone therapy
+SYNTH_04,DONOR_0661,Not available,,28,True,I19,,attorney
+SYNTH_04,DONOR_0662,Yes,Not applicable,26,False,C84,No,radio
+SYNTH_04,DONOR_0663,Yes,"Unilateral, Side not specified",70,False,C44,,reveal
+SYNTH_04,DONOR_0664,Yes,Not available,22,False,D39,,enjoy
+SYNTH_04,DONOR_0665,Yes,,70,False,I59,,Mrs
+SYNTH_04,DONOR_0666,No,,37,False,I13,Yes,protect
+SYNTH_04,DONOR_0667,Not available,,23,False,I33,,summer
+SYNTH_04,DONOR_0668,Yes,Right,38,False,,No,any
+SYNTH_04,DONOR_0669,Yes,Right,24,False,C39,Yes,Immunotherapy
+SYNTH_04,DONOR_0670,Yes,"Unilateral, Side not specified",21,False,C95,Yes,Radiation
+SYNTH_04,DONOR_0671,No,,63,False,D50,,wait
+SYNTH_04,DONOR_0672,Yes,Not available,28,False,D46,Not available,power
+SYNTH_04,DONOR_0673,Yes,"Unilateral, Side not specified",55,False,C39,No,maybe
+SYNTH_04,DONOR_0674,,,34,False,D82,,support
+SYNTH_04,DONOR_0675,Yes,Not available,65,True,,Not available,movement
+SYNTH_04,DONOR_0676,Yes,"Unilateral, Side not specified",13,False,,Not available,law
+SYNTH_04,DONOR_0677,,,41,False,I64,,attack
+SYNTH_04,DONOR_0678,No,,61,True,I00,,issue
+SYNTH_04,DONOR_0679,Yes,"Unilateral, Side not specified",30,False,C95,Yes,Hormone therapy
+SYNTH_04,DONOR_0680,No,,24,False,I49,No,its
+SYNTH_04,DONOR_0681,Yes,,24,False,,Not available,national
+SYNTH_04,DONOR_0682,Yes,Not available,38,False,C86,,long
+SYNTH_04,DONOR_0683,Yes,Not available,22,False,D42,No,data
+SYNTH_04,DONOR_0684,Yes,Not available,25,False,,Not available,sit
+SYNTH_04,DONOR_0685,Yes,Left,20,False,C39,,data
+SYNTH_04,DONOR_0686,Yes,"Unilateral, Side not specified",34,False,C14,Not available,expect
+SYNTH_04,DONOR_0687,Not available,,80,False,I35,Yes,dinner
+SYNTH_04,DONOR_0688,Yes,Not applicable,39,False,C42,Yes,Hormone therapy
+SYNTH_04,DONOR_0689,No,,18,False,I70,Yes,economic
+SYNTH_04,DONOR_0690,No,,54,True,D80,,turn
+SYNTH_04,DONOR_0691,,,32,False,D87,No,data
+SYNTH_04,DONOR_0692,Yes,,22,False,D78,No,free
+SYNTH_04,DONOR_0693,Yes,Bilateral,70,False,,Yes,Chemotherapy
+SYNTH_04,DONOR_0694,Yes,Left,13,False,,No,majority
+SYNTH_04,DONOR_0695,Yes,Midline,13,False,,Yes,Hormone therapy
+SYNTH_04,DONOR_0696,Yes,Midline,44,False,,,growth
+SYNTH_04,DONOR_0697,,,50,False,I91,No,even
+SYNTH_04,DONOR_0698,Not available,,11,False,I27,Yes,cold
+SYNTH_04,DONOR_0699,,,59,False,I00,Yes,body
+SYNTH_04,DONOR_0700,Yes,,27,False,I56,Yes,market
+SYNTH_04,DONOR_0701,Yes,Not available,16,False,D03,Yes,Hormone therapy
+SYNTH_04,DONOR_0702,Yes,Not available,10,False,C27,No,thought
+SYNTH_04,DONOR_0703,Yes,,28,True,C05,Yes,Chemotherapy
+SYNTH_04,DONOR_0704,Yes,Right,10,False,C33,,than
+SYNTH_04,DONOR_0705,Yes,Right,70,False,D44,,represent
+SYNTH_04,DONOR_0706,Yes,,29,True,,Not available,soon
+SYNTH_04,DONOR_0707,Not available,,41,False,I82,Yes,rate
+SYNTH_04,DONOR_0708,Yes,Not available,11,False,,Not available,friend
+SYNTH_04,DONOR_0709,,,13,False,I22,Yes,money
+SYNTH_04,DONOR_0710,No,,39,False,I16,Yes,week
+SYNTH_04,DONOR_0711,Yes,Not available,42,False,,Not available,rate
+SYNTH_04,DONOR_0712,Not available,,30,False,I84,No,authority
+SYNTH_04,DONOR_0713,No,,28,False,I34,No,both
+SYNTH_04,DONOR_0714,Yes,Right,24,False,C71,,father
+SYNTH_04,DONOR_0715,Yes,Not available,31,True,C92,Yes,Immunotherapy
+SYNTH_04,DONOR_0716,Yes,Not applicable,40,True,C80,Not available,glass
+SYNTH_04,DONOR_0717,,,75,True,D57,Not available,relate
+SYNTH_04,DONOR_0718,Yes,,14,False,I39,Not available,decade
+SYNTH_04,DONOR_0719,No,,19,False,I94,,turn
+SYNTH_04,DONOR_0720,Yes,,51,False,I68,,matter
+SYNTH_04,DONOR_0721,Yes,Not available,29,False,C29,No,base
+SYNTH_04,DONOR_0722,,,25,False,I18,Not available,onto
+SYNTH_04,DONOR_0723,Yes,,51,False,C54,No,black
+SYNTH_04,DONOR_0724,Not available,,42,False,I78,Not available,move
+SYNTH_04,DONOR_0725,,,22,False,I51,,heavy
+SYNTH_04,DONOR_0726,Yes,Not available,35,False,,,whole
+SYNTH_04,DONOR_0727,Yes,"Unilateral, Side not specified",11,False,D45,No,responsibility
+SYNTH_04,DONOR_0728,Yes,Not applicable,39,False,D01,Yes,Hormone therapy
+SYNTH_04,DONOR_0729,Yes,,42,True,C56,,political
+SYNTH_04,DONOR_0730,,,73,False,I90,Yes,through
+SYNTH_04,DONOR_0731,,,38,False,I67,Yes,threat
+SYNTH_04,DONOR_0732,Yes,Bilateral,32,False,C83,No,eight
+SYNTH_04,DONOR_0733,Yes,Not available,31,False,,,stage
+SYNTH_04,DONOR_0734,,,17,False,D69,,toward
+SYNTH_04,DONOR_0735,Yes,,38,False,I80,Not available,not
+SYNTH_04,DONOR_0736,Yes,Right,27,True,,Yes,Chemotherapy
+SYNTH_04,DONOR_0737,No,,15,False,D79,Yes,identify
+SYNTH_04,DONOR_0738,Yes,Bilateral,24,False,C82,No,part
+SYNTH_04,DONOR_0739,Yes,"Unilateral, Side not specified",36,False,C22,No,development
+SYNTH_04,DONOR_0740,Yes,Midline,38,False,C54,Not available,myself
+SYNTH_04,DONOR_0741,Yes,Bilateral,46,False,C94,No,bed
+SYNTH_04,DONOR_0742,No,,29,False,I60,Yes,society
+SYNTH_04,DONOR_0743,No,,30,False,I77,Not available,human
+SYNTH_04,DONOR_0744,Yes,,25,True,I43,Not available,media
+SYNTH_04,DONOR_0745,Yes,,37,False,I55,Yes,marriage
+SYNTH_04,DONOR_0746,Yes,Left,61,False,,Yes,Chemotherapy
+SYNTH_04,DONOR_0747,Yes,Bilateral,30,False,C56,Not available,prepare
+SYNTH_04,DONOR_0748,Yes,,32,False,I62,,tonight
+SYNTH_04,DONOR_0749,Yes,Not available,37,False,C15,,skin
+SYNTH_04,DONOR_0750,,,46,False,I32,Not available,less
+SYNTH_04,DONOR_0751,Yes,Bilateral,56,False,,No,cell
+SYNTH_04,DONOR_0752,Yes,,32,False,C57,Not available,certainly
+SYNTH_04,DONOR_0753,No,,41,False,D61,Not available,contain
+SYNTH_04,DONOR_0754,Yes,,22,False,,Not available,believe
+SYNTH_04,DONOR_0755,Yes,,26,False,C28,Yes,Immunotherapy
+SYNTH_04,DONOR_0756,Yes,Bilateral,68,True,C76,Not available,hundred
+SYNTH_04,DONOR_0757,Yes,"Unilateral, Side not specified",44,True,,Not available,network
+SYNTH_04,DONOR_0758,Yes,Bilateral,22,False,C25,No,contain
+SYNTH_04,DONOR_0759,Yes,"Unilateral, Side not specified",37,True,,Yes,Chemotherapy
+SYNTH_04,DONOR_0760,Yes,Right,28,False,C06,,of
+SYNTH_04,DONOR_0761,,,41,True,I44,,control
+SYNTH_04,DONOR_0762,Yes,Not applicable,62,True,C62,,a
+SYNTH_04,DONOR_0763,Yes,Not applicable,19,False,C23,Not available,identify
+SYNTH_04,DONOR_0764,No,,62,True,I87,,improve
+SYNTH_04,DONOR_0765,Not available,,78,False,I63,No,arrive
+SYNTH_04,DONOR_0766,Yes,Not available,10,False,C92,Yes,Immunotherapy
+SYNTH_04,DONOR_0767,Not available,,47,False,I66,Yes,another
+SYNTH_04,DONOR_0768,Yes,,66,True,C49,Not available,tonight
+SYNTH_04,DONOR_0769,Yes,Right,36,False,,Not available,anything
+SYNTH_04,DONOR_0770,Yes,,27,False,I82,,instead
+SYNTH_04,DONOR_0771,Yes,Not available,28,False,,Not available,back
+SYNTH_04,DONOR_0772,,,40,False,D76,Yes,administration
+SYNTH_04,DONOR_0773,,,13,False,I16,Not available,society
+SYNTH_04,DONOR_0774,Yes,Left,46,False,C28,Yes,Immunotherapy
+SYNTH_04,DONOR_0775,Yes,Right,22,False,,No,wish
+SYNTH_04,DONOR_0776,Not available,,54,False,I01,No,suffer
+SYNTH_04,DONOR_0777,,,38,False,D70,Not available,at
+SYNTH_04,DONOR_0778,,,22,True,I22,No,husband
+SYNTH_04,DONOR_0779,Yes,,23,False,,No,same
+SYNTH_04,DONOR_0780,No,,30,False,I20,,project
+SYNTH_04,DONOR_0781,Yes,"Unilateral, Side not specified",27,True,C19,,two
+SYNTH_04,DONOR_0782,,,36,False,I19,Not available,late
+SYNTH_04,DONOR_0783,Yes,Left,52,True,D40,Yes,Hormone therapy
+SYNTH_04,DONOR_0784,Not available,,15,False,I44,Not available,police
+SYNTH_04,DONOR_0785,Yes,,44,False,D40,No,plant
+SYNTH_04,DONOR_0786,Yes,Bilateral,31,False,C84,No,political
+SYNTH_04,DONOR_0787,Yes,,47,False,I46,No,strong
+SYNTH_04,DONOR_0788,Yes,,58,True,,,federal
+SYNTH_04,DONOR_0789,Not available,,76,False,I52,No,blood
+SYNTH_04,DONOR_0790,Yes,,26,True,I31,,expert
+SYNTH_04,DONOR_0791,Yes,Not applicable,33,False,,Yes,Immunotherapy
+SYNTH_04,DONOR_0792,,,74,True,I45,,myself
+SYNTH_04,DONOR_0793,Yes,Bilateral,30,False,,No,today
+SYNTH_04,DONOR_0794,Yes,Right,42,False,C06,No,save
+SYNTH_04,DONOR_0795,Yes,Bilateral,51,True,,No,generation
+SYNTH_04,DONOR_0796,Yes,Left,43,False,C31,No,hotel
+SYNTH_04,DONOR_0797,Yes,,72,False,I63,Not available,evidence
+SYNTH_04,DONOR_0798,No,,36,False,I97,Not available,move
+SYNTH_04,DONOR_0799,Yes,,78,False,D43,,remain
+SYNTH_04,DONOR_0800,Yes,Right,27,False,,No,reduce

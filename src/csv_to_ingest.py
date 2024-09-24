@@ -195,7 +195,7 @@ def main():
         manifest_path = f"{repo_dir}/{size}_dataset_csv/"
         sample_result = subsample_csv(donors_per_program=args.donors_per_program,
                                       number_of_programs=args.number_of_programs,
-                                      prefix=args.prefix, size = size)
+                                      prefix=args.prefix, size=size)
         dataset_path = Path(sample_result[0])
         with open(f"{repo_dir}/{size}_dataset_csv/genomic.json") as f:
             genomic_json = json.load(f)

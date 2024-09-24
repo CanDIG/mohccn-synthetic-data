@@ -1,1001 +1,1001 @@
-program_id,submitter_donor_id,tobacco_smoking_status,tobacco_type,pack_years_smoked
-SYNTH_01,DONOR_0127,Not applicable,,
-SYNTH_01,DONOR_0128,Current smoker,Snuff|Roll-ups,54.0
-SYNTH_01,DONOR_0129,,,
-SYNTH_01,DONOR_0130,Current smoker,Chewing Tobacco|Waterpipe,58.0
-SYNTH_01,DONOR_0131,Current reformed smoker for <= 15 years,Snuff|Waterpipe,35.0
-SYNTH_01,DONOR_0132,Not applicable,,
-SYNTH_01,DONOR_0133,Current reformed smoker for > 15 years,Cigarettes,57.0
-SYNTH_01,DONOR_0134,Current reformed smoker for <= 15 years,Waterpipe,29.0
-SYNTH_01,DONOR_0135,"Current reformed smoker, duration not specified",Snuff|Roll-ups|Cigarettes,
-SYNTH_01,DONOR_0136,"Current reformed smoker, duration not specified",Roll-ups|Cigar,
-SYNTH_01,DONOR_0137,Not applicable,,
-SYNTH_01,DONOR_0138,Lifelong non-smoker (<100 cigarettes smoked in lifetime),,
-SYNTH_01,DONOR_0139,,,
-SYNTH_01,DONOR_0140,"Current reformed smoker, duration not specified",Pipe|Cigarettes|Roll-ups,
-SYNTH_01,DONOR_0141,Current smoker,Chewing Tobacco,13.0
-SYNTH_01,DONOR_0142,Lifelong non-smoker (<100 cigarettes smoked in lifetime),,
-SYNTH_01,DONOR_0143,Lifelong non-smoker (<100 cigarettes smoked in lifetime),,
-SYNTH_01,DONOR_0144,Lifelong non-smoker (<100 cigarettes smoked in lifetime),,
-SYNTH_01,DONOR_0145,Current reformed smoker for > 15 years,Cigarettes,38.0
-SYNTH_01,DONOR_0146,Smoking history not documented,,
-SYNTH_01,DONOR_0147,Current reformed smoker for <= 15 years,Cigar|Roll-ups|Waterpipe,27.0
-SYNTH_01,DONOR_0148,Not applicable,,
-SYNTH_01,DONOR_0149,Current reformed smoker for > 15 years,Roll-ups,10.0
-SYNTH_01,DONOR_0150,Lifelong non-smoker (<100 cigarettes smoked in lifetime),,
-SYNTH_01,DONOR_0151,"Current reformed smoker, duration not specified",Cigarettes|Chewing Tobacco,
-SYNTH_01,DONOR_0152,Current smoker,Cigar|Roll-ups,50.0
-SYNTH_01,DONOR_0153,Lifelong non-smoker (<100 cigarettes smoked in lifetime),,
-SYNTH_01,DONOR_0154,Current reformed smoker for <= 15 years,Waterpipe,17.0
-SYNTH_01,DONOR_0155,Current reformed smoker for > 15 years,Chewing Tobacco|Roll-ups,43.0
-SYNTH_01,DONOR_0156,Current reformed smoker for > 15 years,Pipe|Electronic cigarettes,57.0
-SYNTH_01,DONOR_0157,Current reformed smoker for <= 15 years,Waterpipe,7.0
-SYNTH_01,DONOR_0158,Lifelong non-smoker (<100 cigarettes smoked in lifetime),,
-SYNTH_01,DONOR_0159,Not applicable,,
-SYNTH_01,DONOR_0160,Lifelong non-smoker (<100 cigarettes smoked in lifetime),,
-SYNTH_01,DONOR_0161,Lifelong non-smoker (<100 cigarettes smoked in lifetime),,
-SYNTH_01,DONOR_0162,Lifelong non-smoker (<100 cigarettes smoked in lifetime),,
-SYNTH_01,DONOR_0163,Lifelong non-smoker (<100 cigarettes smoked in lifetime),,
-SYNTH_01,DONOR_0164,Lifelong non-smoker (<100 cigarettes smoked in lifetime),,
-SYNTH_01,DONOR_0165,Not applicable,,
-SYNTH_01,DONOR_0166,,,
-SYNTH_01,DONOR_0167,Smoking history not documented,,
-SYNTH_01,DONOR_0168,Current reformed smoker for > 15 years,Pipe|Electronic cigarettes,14.0
-SYNTH_01,DONOR_0169,Not applicable,,
-SYNTH_01,DONOR_0170,Current reformed smoker for > 15 years,Roll-ups,32.0
-SYNTH_01,DONOR_0171,,,
-SYNTH_01,DONOR_0172,Current reformed smoker for <= 15 years,Cigar|Chewing Tobacco,28.0
-SYNTH_01,DONOR_0173,Current reformed smoker for > 15 years,Waterpipe|Pipe|Snuff,66.0
-SYNTH_01,DONOR_0174,"Current reformed smoker, duration not specified",Cigarettes|Chewing Tobacco,
-SYNTH_01,DONOR_0175,Not applicable,,
-SYNTH_01,DONOR_0176,Lifelong non-smoker (<100 cigarettes smoked in lifetime),,
-SYNTH_01,DONOR_0177,Not applicable,,
-SYNTH_01,DONOR_0178,Current reformed smoker for > 15 years,Unknown,49.0
-SYNTH_01,DONOR_0179,Not applicable,,
-SYNTH_01,DONOR_0180,Current reformed smoker for <= 15 years,Cigarettes,35.0
-SYNTH_01,DONOR_0181,Smoking history not documented,,
-SYNTH_01,DONOR_0182,Current smoker,Waterpipe,50.0
-SYNTH_01,DONOR_0183,Not applicable,,
-SYNTH_01,DONOR_0184,Current reformed smoker for > 15 years,Roll-ups|Electronic cigarettes|Chewing Tobacco,21.0
-SYNTH_01,DONOR_0185,Current smoker,Pipe|Cigarettes,5.0
-SYNTH_01,DONOR_0186,,,
-SYNTH_01,DONOR_0187,Smoking history not documented,,
-SYNTH_01,DONOR_0188,"Current reformed smoker, duration not specified",Cigarettes|Electronic cigarettes,
-SYNTH_01,DONOR_0189,Current reformed smoker for > 15 years,Waterpipe|Cigar,46.0
-SYNTH_01,DONOR_0190,"Current reformed smoker, duration not specified",Chewing Tobacco,
-SYNTH_01,DONOR_0191,Current reformed smoker for <= 15 years,Roll-ups,59.0
-SYNTH_01,DONOR_0192,Current reformed smoker for <= 15 years,Roll-ups,68.0
-SYNTH_01,DONOR_0193,"Current reformed smoker, duration not specified",Cigar|Chewing Tobacco,
-SYNTH_01,DONOR_0194,Current smoker,Chewing Tobacco,69.0
-SYNTH_01,DONOR_0195,"Current reformed smoker, duration not specified",Waterpipe,
-SYNTH_01,DONOR_0196,,,
-SYNTH_01,DONOR_0197,Lifelong non-smoker (<100 cigarettes smoked in lifetime),,
-SYNTH_01,DONOR_0198,Current reformed smoker for > 15 years,Chewing Tobacco|Roll-ups,60.0
-SYNTH_01,DONOR_0199,Not applicable,,
-SYNTH_01,DONOR_0200,Current smoker,Cigarettes|Waterpipe,57.0
-SYNTH_01,DONOR_0201,Current reformed smoker for > 15 years,Waterpipe,41.0
-SYNTH_01,DONOR_0202,Current reformed smoker for <= 15 years,Snuff|Chewing Tobacco,13.0
-SYNTH_01,DONOR_0203,Current smoker,Snuff|Pipe,47.0
-SYNTH_01,DONOR_0204,Current reformed smoker for <= 15 years,Cigar|Chewing Tobacco|Pipe,28.0
-SYNTH_01,DONOR_0205,"Current reformed smoker, duration not specified",Pipe|Snuff,
-SYNTH_01,DONOR_0206,Smoking history not documented,,
-SYNTH_01,DONOR_0207,Current reformed smoker for > 15 years,Pipe|Cigarettes,8.0
-SYNTH_01,DONOR_0208,Not applicable,,
-SYNTH_01,DONOR_0209,Current reformed smoker for > 15 years,Cigar|Waterpipe|Electronic cigarettes,34.0
-SYNTH_01,DONOR_0210,"Current reformed smoker, duration not specified",Waterpipe|Cigar,
-SYNTH_01,DONOR_0211,Lifelong non-smoker (<100 cigarettes smoked in lifetime),,
-SYNTH_01,DONOR_0212,Smoking history not documented,,
-SYNTH_01,DONOR_0213,Smoking history not documented,,
-SYNTH_01,DONOR_0214,"Current reformed smoker, duration not specified",Cigar|Cigarettes,
-SYNTH_01,DONOR_0215,,,
-SYNTH_01,DONOR_0216,Current reformed smoker for <= 15 years,Pipe|Snuff,14.0
-SYNTH_01,DONOR_0217,Lifelong non-smoker (<100 cigarettes smoked in lifetime),,
-SYNTH_01,DONOR_0218,Current reformed smoker for > 15 years,Pipe,11.0
-SYNTH_01,DONOR_0219,Lifelong non-smoker (<100 cigarettes smoked in lifetime),,
-SYNTH_01,DONOR_0220,"Current reformed smoker, duration not specified",Roll-ups|Pipe|Cigar,
-SYNTH_01,DONOR_0221,Smoking history not documented,,
-SYNTH_01,DONOR_0222,"Current reformed smoker, duration not specified",Cigarettes|Chewing Tobacco,
-SYNTH_01,DONOR_0223,,,
-SYNTH_01,DONOR_0224,Smoking history not documented,,
-SYNTH_01,DONOR_0225,Lifelong non-smoker (<100 cigarettes smoked in lifetime),,
-SYNTH_01,DONOR_0226,Not applicable,,
-SYNTH_01,DONOR_0227,Not applicable,,
-SYNTH_01,DONOR_0228,Smoking history not documented,,
-SYNTH_01,DONOR_0229,Smoking history not documented,,
-SYNTH_01,DONOR_0230,Current reformed smoker for > 15 years,Pipe|Chewing Tobacco,61.0
-SYNTH_01,DONOR_0231,"Current reformed smoker, duration not specified",Chewing Tobacco,
-SYNTH_01,DONOR_0232,Smoking history not documented,,
-SYNTH_01,DONOR_0233,Smoking history not documented,,
-SYNTH_01,DONOR_0234,Not applicable,,
-SYNTH_01,DONOR_0235,Current reformed smoker for > 15 years,Cigarettes,16.0
-SYNTH_01,DONOR_0236,,,
-SYNTH_01,DONOR_0237,Not applicable,,
-SYNTH_01,DONOR_0238,Smoking history not documented,,
-SYNTH_01,DONOR_0239,Lifelong non-smoker (<100 cigarettes smoked in lifetime),,
-SYNTH_01,DONOR_0240,Lifelong non-smoker (<100 cigarettes smoked in lifetime),,
-SYNTH_01,DONOR_0241,Current reformed smoker for > 15 years,Electronic cigarettes|Snuff|Cigarettes,16.0
-SYNTH_01,DONOR_0242,Not applicable,,
-SYNTH_01,DONOR_0243,,,
-SYNTH_01,DONOR_0244,Current smoker,Unknown,36.0
-SYNTH_01,DONOR_0245,,,
-SYNTH_01,DONOR_0246,Smoking history not documented,,
-SYNTH_01,DONOR_0247,Not applicable,,
-SYNTH_01,DONOR_0248,"Current reformed smoker, duration not specified",Roll-ups,
-SYNTH_01,DONOR_0249,Not applicable,,
-SYNTH_01,DONOR_0250,Current reformed smoker for <= 15 years,Cigarettes|Cigar,23.0
-SYNTH_01,DONOR_0251,Smoking history not documented,,
-SYNTH_01,DONOR_0252,"Current reformed smoker, duration not specified",Waterpipe,
-SYNTH_01,DONOR_0253,,,
-SYNTH_01,DONOR_0254,,,
-SYNTH_01,DONOR_0255,Not applicable,,
-SYNTH_01,DONOR_0256,"Current reformed smoker, duration not specified",Cigar,
-SYNTH_01,DONOR_0257,Not applicable,,
-SYNTH_01,DONOR_0258,,,
-SYNTH_01,DONOR_0259,Smoking history not documented,,
-SYNTH_01,DONOR_0260,Current reformed smoker for <= 15 years,Cigar,54.0
-SYNTH_01,DONOR_0261,Current reformed smoker for > 15 years,Pipe,52.0
-SYNTH_01,DONOR_0262,Current reformed smoker for <= 15 years,Waterpipe|Roll-ups|Cigar,63.0
-SYNTH_01,DONOR_0263,Current smoker,Cigarettes,8.0
-SYNTH_01,DONOR_0264,Current reformed smoker for > 15 years,Electronic cigarettes,27.0
-SYNTH_01,DONOR_0265,Current reformed smoker for <= 15 years,Chewing Tobacco|Cigarettes,58.0
-SYNTH_01,DONOR_0266,Not applicable,,
-SYNTH_01,DONOR_0267,,,
-SYNTH_01,DONOR_0268,"Current reformed smoker, duration not specified",Chewing Tobacco|Roll-ups,
-SYNTH_01,DONOR_0269,Not applicable,,
-SYNTH_01,DONOR_0270,Smoking history not documented,,
-SYNTH_01,DONOR_0271,Smoking history not documented,,
-SYNTH_01,DONOR_0272,Current reformed smoker for <= 15 years,Cigarettes|Waterpipe,39.0
-SYNTH_01,DONOR_0273,Current smoker,Pipe|Snuff,14.0
-SYNTH_01,DONOR_0274,Current reformed smoker for <= 15 years,Roll-ups|Chewing Tobacco,37.0
-SYNTH_01,DONOR_0275,Current reformed smoker for <= 15 years,Pipe|Roll-ups|Electronic cigarettes,69.0
-SYNTH_01,DONOR_0276,Current smoker,Waterpipe,47.0
-SYNTH_01,DONOR_0277,Current reformed smoker for <= 15 years,Cigarettes,35.0
-SYNTH_01,DONOR_0278,Not applicable,,
-SYNTH_01,DONOR_0279,,,
-SYNTH_01,DONOR_0280,Smoking history not documented,,
-SYNTH_01,DONOR_0281,Not applicable,,
-SYNTH_01,DONOR_0282,Lifelong non-smoker (<100 cigarettes smoked in lifetime),,
-SYNTH_01,DONOR_0283,,,
-SYNTH_01,DONOR_0284,Lifelong non-smoker (<100 cigarettes smoked in lifetime),,
-SYNTH_01,DONOR_0285,Lifelong non-smoker (<100 cigarettes smoked in lifetime),,
-SYNTH_01,DONOR_0286,Current smoker,Pipe|Roll-ups,57.0
-SYNTH_01,DONOR_0287,Current smoker,Roll-ups|Snuff|Pipe,58.0
-SYNTH_01,DONOR_0288,Current smoker,Electronic cigarettes,11.0
-SYNTH_01,DONOR_0289,Smoking history not documented,,
-SYNTH_01,DONOR_0290,Current reformed smoker for <= 15 years,Electronic cigarettes,37.0
-SYNTH_01,DONOR_0291,Smoking history not documented,,
-SYNTH_01,DONOR_0292,Current reformed smoker for <= 15 years,Cigarettes,28.0
-SYNTH_01,DONOR_0293,Smoking history not documented,,
-SYNTH_01,DONOR_0294,Lifelong non-smoker (<100 cigarettes smoked in lifetime),,
-SYNTH_01,DONOR_0295,Lifelong non-smoker (<100 cigarettes smoked in lifetime),,
-SYNTH_01,DONOR_0296,Current reformed smoker for > 15 years,Cigarettes|Roll-ups,7.0
-SYNTH_01,DONOR_0297,Current reformed smoker for > 15 years,Snuff|Electronic cigarettes,48.0
-SYNTH_01,DONOR_0298,Smoking history not documented,,
-SYNTH_01,DONOR_0299,"Current reformed smoker, duration not specified",Cigar,
-SYNTH_01,DONOR_0300,Lifelong non-smoker (<100 cigarettes smoked in lifetime),,
-SYNTH_01,DONOR_0301,Smoking history not documented,,
-SYNTH_01,DONOR_0302,,,
-SYNTH_01,DONOR_0303,,,
-SYNTH_01,DONOR_0304,Current reformed smoker for > 15 years,Roll-ups|Waterpipe,47.0
-SYNTH_01,DONOR_0305,"Current reformed smoker, duration not specified",Waterpipe|Pipe|Snuff,
-SYNTH_01,DONOR_0306,Current reformed smoker for <= 15 years,Roll-ups,13.0
-SYNTH_01,DONOR_0307,Current smoker,Pipe|Cigar|Cigarettes,11.0
-SYNTH_01,DONOR_0308,Lifelong non-smoker (<100 cigarettes smoked in lifetime),,
-SYNTH_01,DONOR_0309,Not applicable,,
-SYNTH_01,DONOR_0310,Current reformed smoker for > 15 years,Cigarettes|Waterpipe,18.0
-SYNTH_01,DONOR_0311,Current reformed smoker for <= 15 years,Snuff,44.0
-SYNTH_01,DONOR_0312,Lifelong non-smoker (<100 cigarettes smoked in lifetime),,
-SYNTH_01,DONOR_0313,Current reformed smoker for > 15 years,Snuff,59.0
-SYNTH_01,DONOR_0314,,,
-SYNTH_01,DONOR_0315,Current reformed smoker for <= 15 years,Pipe|Roll-ups,46.0
-SYNTH_01,DONOR_0316,Lifelong non-smoker (<100 cigarettes smoked in lifetime),,
-SYNTH_01,DONOR_0317,Lifelong non-smoker (<100 cigarettes smoked in lifetime),,
-SYNTH_01,DONOR_0318,Current smoker,Snuff,12.0
-SYNTH_01,DONOR_0319,Current smoker,Chewing Tobacco,24.0
-SYNTH_01,DONOR_0320,Current reformed smoker for > 15 years,Pipe|Cigarettes,25.0
-SYNTH_01,DONOR_0321,Current reformed smoker for > 15 years,Cigar|Chewing Tobacco,61.0
-SYNTH_01,DONOR_0322,Current reformed smoker for <= 15 years,Cigar,51.0
-SYNTH_01,DONOR_0323,Not applicable,,
-SYNTH_01,DONOR_0324,,,
-SYNTH_01,DONOR_0325,Current reformed smoker for <= 15 years,Pipe,18.0
-SYNTH_01,DONOR_0326,Lifelong non-smoker (<100 cigarettes smoked in lifetime),,
-SYNTH_01,DONOR_0327,,,
-SYNTH_01,DONOR_0328,,,
-SYNTH_01,DONOR_0329,Current reformed smoker for <= 15 years,Cigar,33.0
-SYNTH_01,DONOR_0330,,,
-SYNTH_01,DONOR_0331,,,
-SYNTH_01,DONOR_0332,Current reformed smoker for <= 15 years,Roll-ups,52.0
-SYNTH_01,DONOR_0333,Current reformed smoker for <= 15 years,Cigar|Electronic cigarettes|Snuff,6.0
-SYNTH_01,DONOR_0334,Smoking history not documented,,
-SYNTH_01,DONOR_0335,"Current reformed smoker, duration not specified",Snuff|Cigar,
-SYNTH_01,DONOR_0336,Lifelong non-smoker (<100 cigarettes smoked in lifetime),,
-SYNTH_01,DONOR_0337,"Current reformed smoker, duration not specified",Cigar|Waterpipe,
-SYNTH_01,DONOR_0338,"Current reformed smoker, duration not specified",Cigar|Waterpipe,
-SYNTH_01,DONOR_0339,Current reformed smoker for <= 15 years,Cigarettes,67.0
-SYNTH_01,DONOR_0340,Current smoker,Electronic cigarettes|Roll-ups,43.0
-SYNTH_01,DONOR_0341,,,
-SYNTH_01,DONOR_0342,,,
-SYNTH_01,DONOR_0343,"Current reformed smoker, duration not specified",Unknown,
-SYNTH_01,DONOR_0344,Not applicable,,
-SYNTH_01,DONOR_0345,Current reformed smoker for <= 15 years,Electronic cigarettes|Snuff,50.0
-SYNTH_01,DONOR_0346,Current smoker,Snuff|Cigar,48.0
-SYNTH_01,DONOR_0347,Not applicable,,
-SYNTH_01,DONOR_0348,"Current reformed smoker, duration not specified",Waterpipe|Chewing Tobacco,
-SYNTH_01,DONOR_0349,Current smoker,Cigar,56.0
-SYNTH_01,DONOR_0350,Lifelong non-smoker (<100 cigarettes smoked in lifetime),,
-SYNTH_01,DONOR_0351,Current smoker,Electronic cigarettes|Cigar|Chewing Tobacco,53.0
-SYNTH_01,DONOR_0352,Lifelong non-smoker (<100 cigarettes smoked in lifetime),,
-SYNTH_01,DONOR_0353,Smoking history not documented,,
-SYNTH_01,DONOR_0354,Lifelong non-smoker (<100 cigarettes smoked in lifetime),,
-SYNTH_01,DONOR_0355,Current reformed smoker for <= 15 years,Pipe|Cigar,52.0
-SYNTH_01,DONOR_0356,Current reformed smoker for <= 15 years,Electronic cigarettes|Cigarettes|Roll-ups,8.0
-SYNTH_01,DONOR_0357,"Current reformed smoker, duration not specified",Cigarettes,
-SYNTH_01,DONOR_0358,,,
-SYNTH_01,DONOR_0359,Lifelong non-smoker (<100 cigarettes smoked in lifetime),,
-SYNTH_01,DONOR_0360,,,
-SYNTH_01,DONOR_0361,Not applicable,,
-SYNTH_01,DONOR_0362,Lifelong non-smoker (<100 cigarettes smoked in lifetime),,
-SYNTH_01,DONOR_0363,,,
-SYNTH_01,DONOR_0364,,,
-SYNTH_01,DONOR_0365,Current reformed smoker for <= 15 years,Cigar|Roll-ups|Waterpipe,40.0
-SYNTH_01,DONOR_0366,,,
-SYNTH_01,DONOR_0367,,,
-SYNTH_01,DONOR_0368,Not applicable,,
-SYNTH_01,DONOR_0369,,,
-SYNTH_01,DONOR_0370,"Current reformed smoker, duration not specified",Pipe,
-SYNTH_01,DONOR_0371,Current smoker,Roll-ups,33.0
-SYNTH_01,DONOR_0372,Smoking history not documented,,
-SYNTH_01,DONOR_0373,"Current reformed smoker, duration not specified",Electronic cigarettes|Roll-ups|Waterpipe,
-SYNTH_01,DONOR_0374,,,
-SYNTH_01,DONOR_0375,Not applicable,,
-SYNTH_01,DONOR_0376,Not applicable,,
-SYNTH_02,DONOR_0627,Not applicable,,
-SYNTH_02,DONOR_0628,"Current reformed smoker, duration not specified",Electronic cigarettes|Pipe|Snuff,
-SYNTH_02,DONOR_0629,,,
-SYNTH_02,DONOR_0630,"Current reformed smoker, duration not specified",Cigarettes|Waterpipe|Snuff,
-SYNTH_02,DONOR_0631,Not applicable,,
-SYNTH_02,DONOR_0632,Lifelong non-smoker (<100 cigarettes smoked in lifetime),,
-SYNTH_02,DONOR_0633,Smoking history not documented,,
-SYNTH_02,DONOR_0634,Current smoker,Cigar|Cigarettes|Roll-ups,69.0
-SYNTH_02,DONOR_0635,Not applicable,,
-SYNTH_02,DONOR_0636,Not applicable,,
-SYNTH_02,DONOR_0637,,,
-SYNTH_02,DONOR_0638,,,
-SYNTH_02,DONOR_0639,Current smoker,Cigar|Cigarettes,50.0
-SYNTH_02,DONOR_0640,"Current reformed smoker, duration not specified",Roll-ups,
-SYNTH_02,DONOR_0641,Current reformed smoker for <= 15 years,Cigarettes|Chewing Tobacco,11.0
-SYNTH_02,DONOR_0642,Current reformed smoker for > 15 years,Chewing Tobacco,10.0
-SYNTH_02,DONOR_0643,,,
-SYNTH_02,DONOR_0644,"Current reformed smoker, duration not specified",Cigar,
-SYNTH_02,DONOR_0645,"Current reformed smoker, duration not specified",Pipe|Snuff|Cigarettes,
-SYNTH_02,DONOR_0646,,,
-SYNTH_02,DONOR_0647,,,
-SYNTH_02,DONOR_0648,Not applicable,,
-SYNTH_02,DONOR_0649,"Current reformed smoker, duration not specified",Cigar,
-SYNTH_02,DONOR_0650,,,
-SYNTH_02,DONOR_0651,,,
-SYNTH_02,DONOR_0652,Current smoker,Cigar|Snuff|Electronic cigarettes,49.0
-SYNTH_02,DONOR_0653,,,
-SYNTH_02,DONOR_0654,,,
-SYNTH_02,DONOR_0655,Current reformed smoker for > 15 years,Pipe|Chewing Tobacco,70.0
-SYNTH_02,DONOR_0656,"Current reformed smoker, duration not specified",Pipe|Electronic cigarettes,
-SYNTH_02,DONOR_0657,Current reformed smoker for <= 15 years,Cigar|Roll-ups|Chewing Tobacco,26.0
-SYNTH_02,DONOR_0658,Smoking history not documented,,
-SYNTH_02,DONOR_0659,,,
-SYNTH_02,DONOR_0660,"Current reformed smoker, duration not specified",Pipe,
-SYNTH_02,DONOR_0661,"Current reformed smoker, duration not specified",Cigar,
-SYNTH_02,DONOR_0662,Current smoker,Chewing Tobacco|Roll-ups,70.0
-SYNTH_02,DONOR_0663,Smoking history not documented,,
-SYNTH_02,DONOR_0664,,,
-SYNTH_02,DONOR_0665,,,
-SYNTH_02,DONOR_0666,Lifelong non-smoker (<100 cigarettes smoked in lifetime),,
-SYNTH_02,DONOR_0667,Lifelong non-smoker (<100 cigarettes smoked in lifetime),,
-SYNTH_02,DONOR_0668,Current reformed smoker for <= 15 years,Cigar|Waterpipe|Roll-ups,69.0
-SYNTH_02,DONOR_0669,Current smoker,Cigar|Roll-ups,61.0
-SYNTH_02,DONOR_0670,Smoking history not documented,,
-SYNTH_02,DONOR_0671,Current reformed smoker for > 15 years,Cigar,21.0
-SYNTH_02,DONOR_0672,Current smoker,Pipe|Snuff,70.0
-SYNTH_02,DONOR_0673,"Current reformed smoker, duration not specified",Pipe|Waterpipe,
-SYNTH_02,DONOR_0674,Current reformed smoker for > 15 years,Chewing Tobacco|Cigar,47.0
-SYNTH_02,DONOR_0675,Not applicable,,
-SYNTH_02,DONOR_0676,Current smoker,Chewing Tobacco|Snuff,6.0
-SYNTH_02,DONOR_0677,"Current reformed smoker, duration not specified",Snuff,
-SYNTH_02,DONOR_0678,Smoking history not documented,,
-SYNTH_02,DONOR_0679,Current reformed smoker for > 15 years,Electronic cigarettes,34.0
-SYNTH_02,DONOR_0680,"Current reformed smoker, duration not specified",Electronic cigarettes|Pipe,
-SYNTH_02,DONOR_0681,Current reformed smoker for > 15 years,Electronic cigarettes|Waterpipe,41.0
-SYNTH_02,DONOR_0682,Lifelong non-smoker (<100 cigarettes smoked in lifetime),,
-SYNTH_02,DONOR_0683,Lifelong non-smoker (<100 cigarettes smoked in lifetime),,
-SYNTH_02,DONOR_0684,Smoking history not documented,,
-SYNTH_02,DONOR_0685,Current smoker,Cigar|Electronic cigarettes,13.0
-SYNTH_02,DONOR_0686,Smoking history not documented,,
-SYNTH_02,DONOR_0687,Current reformed smoker for > 15 years,Cigarettes,45.0
-SYNTH_02,DONOR_0688,Not applicable,,
-SYNTH_02,DONOR_0689,Lifelong non-smoker (<100 cigarettes smoked in lifetime),,
-SYNTH_02,DONOR_0690,Current reformed smoker for > 15 years,Cigar|Chewing Tobacco,14.0
-SYNTH_02,DONOR_0691,Not applicable,,
-SYNTH_02,DONOR_0692,Current reformed smoker for <= 15 years,Waterpipe|Pipe,12.0
-SYNTH_02,DONOR_0693,Current reformed smoker for > 15 years,Waterpipe,32.0
-SYNTH_02,DONOR_0694,Not applicable,,
-SYNTH_02,DONOR_0695,Current reformed smoker for <= 15 years,Electronic cigarettes|Waterpipe|Cigar,19.0
-SYNTH_02,DONOR_0696,Smoking history not documented,,
-SYNTH_02,DONOR_0697,Smoking history not documented,,
-SYNTH_02,DONOR_0698,Smoking history not documented,,
-SYNTH_02,DONOR_0699,Lifelong non-smoker (<100 cigarettes smoked in lifetime),,
-SYNTH_02,DONOR_0700,"Current reformed smoker, duration not specified",Cigarettes,
-SYNTH_02,DONOR_0701,,,
-SYNTH_02,DONOR_0702,"Current reformed smoker, duration not specified",Roll-ups|Cigarettes,
-SYNTH_02,DONOR_0703,Smoking history not documented,,
-SYNTH_02,DONOR_0704,"Current reformed smoker, duration not specified",Chewing Tobacco|Waterpipe|Cigarettes,
-SYNTH_02,DONOR_0705,Lifelong non-smoker (<100 cigarettes smoked in lifetime),,
-SYNTH_02,DONOR_0706,Current smoker,Pipe|Roll-ups,21.0
-SYNTH_02,DONOR_0707,Current smoker,Waterpipe,9.0
-SYNTH_02,DONOR_0708,Not applicable,,
-SYNTH_02,DONOR_0709,"Current reformed smoker, duration not specified",Chewing Tobacco|Cigarettes,
-SYNTH_02,DONOR_0710,Current smoker,Cigar|Waterpipe,56.0
-SYNTH_02,DONOR_0711,Current reformed smoker for > 15 years,Chewing Tobacco|Pipe|Cigarettes,46.0
-SYNTH_02,DONOR_0712,Current reformed smoker for > 15 years,Cigar|Chewing Tobacco|Snuff,54.0
-SYNTH_02,DONOR_0713,Not applicable,,
-SYNTH_02,DONOR_0714,"Current reformed smoker, duration not specified",Waterpipe,
-SYNTH_02,DONOR_0715,Current reformed smoker for > 15 years,Chewing Tobacco|Waterpipe|Cigarettes,43.0
-SYNTH_02,DONOR_0716,Not applicable,,
-SYNTH_02,DONOR_0717,Smoking history not documented,,
-SYNTH_02,DONOR_0718,Lifelong non-smoker (<100 cigarettes smoked in lifetime),,
-SYNTH_02,DONOR_0719,Not applicable,,
-SYNTH_02,DONOR_0720,Smoking history not documented,,
-SYNTH_02,DONOR_0721,,,
-SYNTH_02,DONOR_0722,Current reformed smoker for <= 15 years,Electronic cigarettes,40.0
-SYNTH_02,DONOR_0723,,,
-SYNTH_02,DONOR_0724,Current reformed smoker for <= 15 years,Roll-ups|Electronic cigarettes,29.0
-SYNTH_02,DONOR_0725,Not applicable,,
-SYNTH_02,DONOR_0726,Smoking history not documented,,
-SYNTH_02,DONOR_0727,Lifelong non-smoker (<100 cigarettes smoked in lifetime),,
-SYNTH_02,DONOR_0728,Lifelong non-smoker (<100 cigarettes smoked in lifetime),,
-SYNTH_02,DONOR_0729,Smoking history not documented,,
-SYNTH_02,DONOR_0730,Not applicable,,
-SYNTH_02,DONOR_0731,Not applicable,,
-SYNTH_02,DONOR_0732,"Current reformed smoker, duration not specified",Roll-ups|Waterpipe,
-SYNTH_02,DONOR_0733,,,
-SYNTH_02,DONOR_0734,Not applicable,,
-SYNTH_02,DONOR_0735,Smoking history not documented,,
-SYNTH_02,DONOR_0736,Not applicable,,
-SYNTH_02,DONOR_0737,"Current reformed smoker, duration not specified",Roll-ups|Electronic cigarettes|Cigar,
-SYNTH_02,DONOR_0738,Current reformed smoker for <= 15 years,Chewing Tobacco,48.0
-SYNTH_02,DONOR_0739,Smoking history not documented,,
-SYNTH_02,DONOR_0740,"Current reformed smoker, duration not specified",Waterpipe,
-SYNTH_02,DONOR_0741,"Current reformed smoker, duration not specified",Electronic cigarettes,
-SYNTH_02,DONOR_0742,,,
-SYNTH_02,DONOR_0743,Current smoker,Chewing Tobacco|Snuff,69.0
-SYNTH_02,DONOR_0744,Current smoker,Pipe,5.0
-SYNTH_02,DONOR_0745,Smoking history not documented,,
-SYNTH_02,DONOR_0746,Smoking history not documented,,
-SYNTH_02,DONOR_0747,Lifelong non-smoker (<100 cigarettes smoked in lifetime),,
-SYNTH_02,DONOR_0748,Smoking history not documented,,
-SYNTH_02,DONOR_0749,Smoking history not documented,,
-SYNTH_02,DONOR_0750,Lifelong non-smoker (<100 cigarettes smoked in lifetime),,
-SYNTH_02,DONOR_0751,Current reformed smoker for <= 15 years,Chewing Tobacco|Waterpipe,68.0
-SYNTH_02,DONOR_0752,Current reformed smoker for > 15 years,Chewing Tobacco|Cigarettes,41.0
-SYNTH_02,DONOR_0753,"Current reformed smoker, duration not specified",Electronic cigarettes|Cigar,
-SYNTH_02,DONOR_0754,Not applicable,,
-SYNTH_02,DONOR_0755,Current reformed smoker for <= 15 years,Chewing Tobacco,47.0
-SYNTH_02,DONOR_0756,Current reformed smoker for <= 15 years,Snuff|Cigarettes|Pipe,62.0
-SYNTH_02,DONOR_0757,Current smoker,Roll-ups,9.0
-SYNTH_02,DONOR_0758,Current reformed smoker for > 15 years,Cigarettes|Cigar|Roll-ups,11.0
-SYNTH_02,DONOR_0759,Current smoker,Pipe,23.0
-SYNTH_02,DONOR_0760,Current reformed smoker for > 15 years,Electronic cigarettes,12.0
-SYNTH_02,DONOR_0761,Current smoker,Cigar|Roll-ups|Electronic cigarettes,33.0
-SYNTH_02,DONOR_0762,,,
-SYNTH_02,DONOR_0763,Not applicable,,
-SYNTH_02,DONOR_0764,Current smoker,Cigarettes|Chewing Tobacco,56.0
-SYNTH_02,DONOR_0765,Current smoker,Snuff|Chewing Tobacco,43.0
-SYNTH_02,DONOR_0766,Current reformed smoker for <= 15 years,Electronic cigarettes,47.0
-SYNTH_02,DONOR_0767,Not applicable,,
-SYNTH_02,DONOR_0768,Smoking history not documented,,
-SYNTH_02,DONOR_0769,Current smoker,Pipe,6.0
-SYNTH_02,DONOR_0770,Current reformed smoker for <= 15 years,Cigarettes,35.0
-SYNTH_02,DONOR_0771,Current reformed smoker for > 15 years,Electronic cigarettes,62.0
-SYNTH_02,DONOR_0772,Current smoker,Waterpipe,10.0
-SYNTH_02,DONOR_0773,Not applicable,,
-SYNTH_02,DONOR_0774,Lifelong non-smoker (<100 cigarettes smoked in lifetime),,
-SYNTH_02,DONOR_0775,Current smoker,Cigarettes|Pipe,28.0
-SYNTH_02,DONOR_0776,Not applicable,,
-SYNTH_02,DONOR_0777,Not applicable,,
-SYNTH_02,DONOR_0778,,,
-SYNTH_02,DONOR_0779,Not applicable,,
-SYNTH_02,DONOR_0780,Lifelong non-smoker (<100 cigarettes smoked in lifetime),,
-SYNTH_02,DONOR_0781,"Current reformed smoker, duration not specified",Pipe|Chewing Tobacco|Cigar,
-SYNTH_02,DONOR_0782,Smoking history not documented,,
-SYNTH_02,DONOR_0783,Current reformed smoker for <= 15 years,Pipe,46.0
-SYNTH_02,DONOR_0784,Current reformed smoker for > 15 years,Electronic cigarettes|Cigar|Pipe,52.0
-SYNTH_02,DONOR_0785,Not applicable,,
-SYNTH_02,DONOR_0786,Not applicable,,
-SYNTH_02,DONOR_0787,"Current reformed smoker, duration not specified",Electronic cigarettes|Pipe,
-SYNTH_02,DONOR_0788,Lifelong non-smoker (<100 cigarettes smoked in lifetime),,
-SYNTH_02,DONOR_0789,Current reformed smoker for <= 15 years,Chewing Tobacco|Electronic cigarettes,44.0
-SYNTH_02,DONOR_0790,Smoking history not documented,,
-SYNTH_02,DONOR_0791,Not applicable,,
-SYNTH_02,DONOR_0792,,,
-SYNTH_02,DONOR_0793,Lifelong non-smoker (<100 cigarettes smoked in lifetime),,
-SYNTH_02,DONOR_0794,,,
-SYNTH_02,DONOR_0795,Smoking history not documented,,
-SYNTH_02,DONOR_0796,Current reformed smoker for <= 15 years,Electronic cigarettes,62.0
-SYNTH_02,DONOR_0797,Current smoker,Roll-ups,17.0
-SYNTH_02,DONOR_0798,,,
-SYNTH_02,DONOR_0799,Lifelong non-smoker (<100 cigarettes smoked in lifetime),,
-SYNTH_02,DONOR_0800,Smoking history not documented,,
-SYNTH_02,DONOR_0801,Smoking history not documented,,
-SYNTH_02,DONOR_0802,,,
-SYNTH_02,DONOR_0803,Smoking history not documented,,
-SYNTH_02,DONOR_0804,Not applicable,,
-SYNTH_02,DONOR_0805,Not applicable,,
-SYNTH_02,DONOR_0806,Current reformed smoker for <= 15 years,Unknown,7.0
-SYNTH_02,DONOR_0807,"Current reformed smoker, duration not specified",Chewing Tobacco|Pipe,
-SYNTH_02,DONOR_0808,Lifelong non-smoker (<100 cigarettes smoked in lifetime),,
-SYNTH_02,DONOR_0809,Not applicable,,
-SYNTH_02,DONOR_0810,Smoking history not documented,,
-SYNTH_02,DONOR_0811,Current reformed smoker for <= 15 years,Snuff|Roll-ups|Pipe,54.0
-SYNTH_02,DONOR_0812,Current reformed smoker for > 15 years,Roll-ups|Chewing Tobacco,30.0
-SYNTH_02,DONOR_0813,"Current reformed smoker, duration not specified",Snuff,
-SYNTH_02,DONOR_0814,Current smoker,Cigarettes,31.0
-SYNTH_02,DONOR_0815,,,
-SYNTH_02,DONOR_0816,"Current reformed smoker, duration not specified",Waterpipe|Roll-ups,
-SYNTH_02,DONOR_0817,Smoking history not documented,,
-SYNTH_02,DONOR_0818,,,
-SYNTH_02,DONOR_0819,Current smoker,Cigar,42.0
-SYNTH_02,DONOR_0820,,,
-SYNTH_02,DONOR_0821,Current reformed smoker for <= 15 years,Snuff|Cigar,44.0
-SYNTH_02,DONOR_0822,Lifelong non-smoker (<100 cigarettes smoked in lifetime),,
-SYNTH_02,DONOR_0823,Current reformed smoker for <= 15 years,Cigarettes|Electronic cigarettes,43.0
-SYNTH_02,DONOR_0824,"Current reformed smoker, duration not specified",Waterpipe,
-SYNTH_02,DONOR_0825,Current reformed smoker for > 15 years,Chewing Tobacco|Waterpipe,30.0
-SYNTH_02,DONOR_0826,Lifelong non-smoker (<100 cigarettes smoked in lifetime),,
-SYNTH_02,DONOR_0827,Current smoker,Chewing Tobacco|Pipe,65.0
-SYNTH_02,DONOR_0828,"Current reformed smoker, duration not specified",Pipe,
-SYNTH_02,DONOR_0829,"Current reformed smoker, duration not specified",Electronic cigarettes,
-SYNTH_02,DONOR_0830,Current reformed smoker for > 15 years,Chewing Tobacco|Cigarettes|Pipe,33.0
-SYNTH_02,DONOR_0831,Lifelong non-smoker (<100 cigarettes smoked in lifetime),,
-SYNTH_02,DONOR_0832,Lifelong non-smoker (<100 cigarettes smoked in lifetime),,
-SYNTH_02,DONOR_0833,Current reformed smoker for > 15 years,Waterpipe,62.0
-SYNTH_02,DONOR_0834,Not applicable,,
-SYNTH_02,DONOR_0835,Current reformed smoker for > 15 years,Electronic cigarettes|Snuff,52.0
-SYNTH_02,DONOR_0836,"Current reformed smoker, duration not specified",Waterpipe|Electronic cigarettes,
-SYNTH_02,DONOR_0837,Current smoker,Snuff|Roll-ups,60.0
-SYNTH_02,DONOR_0838,Lifelong non-smoker (<100 cigarettes smoked in lifetime),,
-SYNTH_02,DONOR_0839,Current reformed smoker for <= 15 years,Cigar|Roll-ups|Electronic cigarettes,23.0
-SYNTH_02,DONOR_0840,Current reformed smoker for <= 15 years,Unknown,14.0
-SYNTH_02,DONOR_0841,Current reformed smoker for > 15 years,Unknown,56.0
-SYNTH_02,DONOR_0842,,,
-SYNTH_02,DONOR_0843,Lifelong non-smoker (<100 cigarettes smoked in lifetime),,
-SYNTH_02,DONOR_0844,Lifelong non-smoker (<100 cigarettes smoked in lifetime),,
-SYNTH_02,DONOR_0845,,,
-SYNTH_02,DONOR_0846,Not applicable,,
-SYNTH_02,DONOR_0847,Current smoker,Snuff,42.0
-SYNTH_02,DONOR_0848,"Current reformed smoker, duration not specified",Cigar|Snuff|Waterpipe,
-SYNTH_02,DONOR_0849,Smoking history not documented,,
-SYNTH_02,DONOR_0850,Current reformed smoker for > 15 years,Cigarettes|Snuff,10.0
-SYNTH_02,DONOR_0851,Smoking history not documented,,
-SYNTH_02,DONOR_0852,Current smoker,Waterpipe,5.0
-SYNTH_02,DONOR_0853,Current reformed smoker for > 15 years,Cigar,10.0
-SYNTH_02,DONOR_0854,Current reformed smoker for <= 15 years,Pipe,40.0
-SYNTH_02,DONOR_0855,Not applicable,,
-SYNTH_02,DONOR_0856,Smoking history not documented,,
-SYNTH_02,DONOR_0857,Current reformed smoker for > 15 years,Cigar,57.0
-SYNTH_02,DONOR_0858,Not applicable,,
-SYNTH_02,DONOR_0859,Current reformed smoker for <= 15 years,Snuff|Cigar|Chewing Tobacco,57.0
-SYNTH_02,DONOR_0860,,,
-SYNTH_02,DONOR_0861,Not applicable,,
-SYNTH_02,DONOR_0862,Lifelong non-smoker (<100 cigarettes smoked in lifetime),,
-SYNTH_02,DONOR_0863,Lifelong non-smoker (<100 cigarettes smoked in lifetime),,
-SYNTH_02,DONOR_0864,"Current reformed smoker, duration not specified",Chewing Tobacco,
-SYNTH_02,DONOR_0865,Not applicable,,
-SYNTH_02,DONOR_0866,Current smoker,Cigar|Pipe,69.0
-SYNTH_02,DONOR_0867,Lifelong non-smoker (<100 cigarettes smoked in lifetime),,
-SYNTH_02,DONOR_0868,Current reformed smoker for <= 15 years,Cigar|Roll-ups,44.0
-SYNTH_02,DONOR_0869,Current reformed smoker for <= 15 years,Electronic cigarettes,19.0
-SYNTH_02,DONOR_0870,Not applicable,,
-SYNTH_02,DONOR_0871,"Current reformed smoker, duration not specified",Roll-ups,
-SYNTH_02,DONOR_0872,,,
-SYNTH_02,DONOR_0873,Current reformed smoker for <= 15 years,Snuff|Roll-ups,15.0
-SYNTH_02,DONOR_0874,Current reformed smoker for <= 15 years,Roll-ups|Cigarettes,65.0
-SYNTH_02,DONOR_0875,Lifelong non-smoker (<100 cigarettes smoked in lifetime),,
-SYNTH_02,DONOR_0876,Lifelong non-smoker (<100 cigarettes smoked in lifetime),,
-SYNTH_03,DONOR_1127,,,
-SYNTH_03,DONOR_1128,"Current reformed smoker, duration not specified",Cigarettes|Pipe,
-SYNTH_03,DONOR_1129,Lifelong non-smoker (<100 cigarettes smoked in lifetime),,
-SYNTH_03,DONOR_1130,Current reformed smoker for <= 15 years,Roll-ups|Waterpipe,32.0
-SYNTH_03,DONOR_1131,Current reformed smoker for <= 15 years,Cigarettes,22.0
-SYNTH_03,DONOR_1132,Lifelong non-smoker (<100 cigarettes smoked in lifetime),,
-SYNTH_03,DONOR_1133,Not applicable,,
-SYNTH_03,DONOR_1134,Current reformed smoker for > 15 years,Waterpipe|Pipe,51.0
-SYNTH_03,DONOR_1135,,,
-SYNTH_03,DONOR_1136,,,
-SYNTH_03,DONOR_1137,"Current reformed smoker, duration not specified",Electronic cigarettes|Snuff,
-SYNTH_03,DONOR_1138,Current reformed smoker for > 15 years,Roll-ups,46.0
-SYNTH_03,DONOR_1139,Current reformed smoker for <= 15 years,Electronic cigarettes|Roll-ups,37.0
-SYNTH_03,DONOR_1140,Current reformed smoker for > 15 years,Chewing Tobacco|Roll-ups,66.0
-SYNTH_03,DONOR_1141,,,
-SYNTH_03,DONOR_1142,Current smoker,Cigar,41.0
-SYNTH_03,DONOR_1143,,,
-SYNTH_03,DONOR_1144,,,
-SYNTH_03,DONOR_1145,"Current reformed smoker, duration not specified",Snuff,
-SYNTH_03,DONOR_1146,Current reformed smoker for > 15 years,Waterpipe|Snuff|Roll-ups,8.0
-SYNTH_03,DONOR_1147,,,
-SYNTH_03,DONOR_1148,Smoking history not documented,,
-SYNTH_03,DONOR_1149,Not applicable,,
-SYNTH_03,DONOR_1150,Current reformed smoker for > 15 years,Pipe,23.0
-SYNTH_03,DONOR_1151,Smoking history not documented,,
-SYNTH_03,DONOR_1152,"Current reformed smoker, duration not specified",Pipe|Snuff|Electronic cigarettes,
-SYNTH_03,DONOR_1153,,,
-SYNTH_03,DONOR_1154,Current reformed smoker for <= 15 years,Cigarettes|Electronic cigarettes,13.0
-SYNTH_03,DONOR_1155,Lifelong non-smoker (<100 cigarettes smoked in lifetime),,
-SYNTH_03,DONOR_1156,,,
-SYNTH_03,DONOR_1157,Current reformed smoker for <= 15 years,Cigar|Snuff,16.0
-SYNTH_03,DONOR_1158,,,
-SYNTH_03,DONOR_1159,Lifelong non-smoker (<100 cigarettes smoked in lifetime),,
-SYNTH_03,DONOR_1160,Lifelong non-smoker (<100 cigarettes smoked in lifetime),,
-SYNTH_03,DONOR_1161,Not applicable,,
-SYNTH_03,DONOR_1162,Current reformed smoker for > 15 years,Electronic cigarettes|Roll-ups|Cigarettes,64.0
-SYNTH_03,DONOR_1163,"Current reformed smoker, duration not specified",Chewing Tobacco,
-SYNTH_03,DONOR_1164,Current reformed smoker for <= 15 years,Electronic cigarettes|Cigarettes|Roll-ups,54.0
-SYNTH_03,DONOR_1165,,,
-SYNTH_03,DONOR_1166,Current reformed smoker for > 15 years,Snuff|Chewing Tobacco,43.0
-SYNTH_03,DONOR_1167,Current smoker,Cigar,49.0
-SYNTH_03,DONOR_1168,Not applicable,,
-SYNTH_03,DONOR_1169,Not applicable,,
-SYNTH_03,DONOR_1170,Lifelong non-smoker (<100 cigarettes smoked in lifetime),,
-SYNTH_03,DONOR_1171,Current reformed smoker for > 15 years,Chewing Tobacco,68.0
-SYNTH_03,DONOR_1172,,,
-SYNTH_03,DONOR_1173,Not applicable,,
-SYNTH_03,DONOR_1174,Lifelong non-smoker (<100 cigarettes smoked in lifetime),,
-SYNTH_03,DONOR_1175,Smoking history not documented,,
-SYNTH_03,DONOR_1176,Not applicable,,
-SYNTH_03,DONOR_1177,Current smoker,Electronic cigarettes|Roll-ups,49.0
-SYNTH_03,DONOR_1178,,,
-SYNTH_03,DONOR_1179,Smoking history not documented,,
-SYNTH_03,DONOR_1180,"Current reformed smoker, duration not specified",Roll-ups|Cigarettes|Pipe,
-SYNTH_03,DONOR_1181,Lifelong non-smoker (<100 cigarettes smoked in lifetime),,
-SYNTH_03,DONOR_1182,Lifelong non-smoker (<100 cigarettes smoked in lifetime),,
-SYNTH_03,DONOR_1183,Not applicable,,
-SYNTH_03,DONOR_1184,Current reformed smoker for > 15 years,Roll-ups,27.0
-SYNTH_03,DONOR_1185,Not applicable,,
-SYNTH_03,DONOR_1186,"Current reformed smoker, duration not specified",Electronic cigarettes|Snuff,
-SYNTH_03,DONOR_1187,Lifelong non-smoker (<100 cigarettes smoked in lifetime),,
-SYNTH_03,DONOR_1188,Not applicable,,
-SYNTH_03,DONOR_1189,Not applicable,,
-SYNTH_03,DONOR_1190,Current smoker,Unknown,40.0
-SYNTH_03,DONOR_1191,Lifelong non-smoker (<100 cigarettes smoked in lifetime),,
-SYNTH_03,DONOR_1192,Smoking history not documented,,
-SYNTH_03,DONOR_1193,Lifelong non-smoker (<100 cigarettes smoked in lifetime),,
-SYNTH_03,DONOR_1194,Lifelong non-smoker (<100 cigarettes smoked in lifetime),,
-SYNTH_03,DONOR_1195,Not applicable,,
-SYNTH_03,DONOR_1196,Not applicable,,
-SYNTH_03,DONOR_1197,,,
-SYNTH_03,DONOR_1198,Current reformed smoker for <= 15 years,Cigarettes|Waterpipe|Snuff,38.0
-SYNTH_03,DONOR_1199,Current reformed smoker for <= 15 years,Electronic cigarettes|Snuff|Chewing Tobacco,52.0
-SYNTH_03,DONOR_1200,"Current reformed smoker, duration not specified",Roll-ups,
-SYNTH_03,DONOR_1201,Lifelong non-smoker (<100 cigarettes smoked in lifetime),,
-SYNTH_03,DONOR_1202,Current reformed smoker for > 15 years,Pipe|Chewing Tobacco,27.0
-SYNTH_03,DONOR_1203,,,
-SYNTH_03,DONOR_1204,Smoking history not documented,,
-SYNTH_03,DONOR_1205,Lifelong non-smoker (<100 cigarettes smoked in lifetime),,
-SYNTH_03,DONOR_1206,Current smoker,Chewing Tobacco|Pipe|Waterpipe,29.0
-SYNTH_03,DONOR_1207,Current reformed smoker for > 15 years,Pipe,52.0
-SYNTH_03,DONOR_1208,Current reformed smoker for <= 15 years,Snuff|Chewing Tobacco,36.0
-SYNTH_03,DONOR_1209,Current smoker,Snuff,21.0
-SYNTH_03,DONOR_1210,Lifelong non-smoker (<100 cigarettes smoked in lifetime),,
-SYNTH_03,DONOR_1211,Not applicable,,
-SYNTH_03,DONOR_1212,Current reformed smoker for <= 15 years,Electronic cigarettes|Pipe,70.0
-SYNTH_03,DONOR_1213,Current reformed smoker for > 15 years,Cigar|Electronic cigarettes|Pipe,51.0
-SYNTH_03,DONOR_1214,Current smoker,Waterpipe,5.0
-SYNTH_03,DONOR_1215,Lifelong non-smoker (<100 cigarettes smoked in lifetime),,
-SYNTH_03,DONOR_1216,Current smoker,Roll-ups|Snuff,53.0
-SYNTH_03,DONOR_1217,Not applicable,,
-SYNTH_03,DONOR_1218,Lifelong non-smoker (<100 cigarettes smoked in lifetime),,
-SYNTH_03,DONOR_1219,Current smoker,Cigar,12.0
-SYNTH_03,DONOR_1220,,,
-SYNTH_03,DONOR_1221,Lifelong non-smoker (<100 cigarettes smoked in lifetime),,
-SYNTH_03,DONOR_1222,Lifelong non-smoker (<100 cigarettes smoked in lifetime),,
-SYNTH_03,DONOR_1223,Current reformed smoker for <= 15 years,Cigarettes,20.0
-SYNTH_03,DONOR_1224,Current reformed smoker for > 15 years,Unknown,44.0
-SYNTH_03,DONOR_1225,Current reformed smoker for <= 15 years,Electronic cigarettes|Pipe,59.0
-SYNTH_03,DONOR_1226,,,
-SYNTH_03,DONOR_1227,,,
-SYNTH_03,DONOR_1228,Current smoker,Roll-ups|Waterpipe|Snuff,70.0
-SYNTH_03,DONOR_1229,Current reformed smoker for > 15 years,Unknown,48.0
-SYNTH_03,DONOR_1230,Current reformed smoker for <= 15 years,Unknown,34.0
-SYNTH_03,DONOR_1231,Current smoker,Waterpipe|Roll-ups,37.0
-SYNTH_03,DONOR_1232,Lifelong non-smoker (<100 cigarettes smoked in lifetime),,
-SYNTH_03,DONOR_1233,Current smoker,Snuff,30.0
-SYNTH_03,DONOR_1234,Current smoker,Electronic cigarettes|Waterpipe,21.0
-SYNTH_03,DONOR_1235,,,
-SYNTH_03,DONOR_1236,Lifelong non-smoker (<100 cigarettes smoked in lifetime),,
-SYNTH_03,DONOR_1237,Smoking history not documented,,
-SYNTH_03,DONOR_1238,Not applicable,,
-SYNTH_03,DONOR_1239,Not applicable,,
-SYNTH_03,DONOR_1240,"Current reformed smoker, duration not specified",Electronic cigarettes|Chewing Tobacco|Cigar,
-SYNTH_03,DONOR_1241,Current reformed smoker for <= 15 years,Waterpipe|Chewing Tobacco,10.0
-SYNTH_03,DONOR_1242,"Current reformed smoker, duration not specified",Chewing Tobacco,
-SYNTH_03,DONOR_1243,,,
-SYNTH_03,DONOR_1244,Not applicable,,
-SYNTH_03,DONOR_1245,"Current reformed smoker, duration not specified",Cigar,
-SYNTH_03,DONOR_1246,"Current reformed smoker, duration not specified",Roll-ups|Electronic cigarettes,
-SYNTH_03,DONOR_1247,Current reformed smoker for <= 15 years,Cigar|Snuff|Electronic cigarettes,47.0
-SYNTH_03,DONOR_1248,Lifelong non-smoker (<100 cigarettes smoked in lifetime),,
-SYNTH_03,DONOR_1249,"Current reformed smoker, duration not specified",Cigarettes|Roll-ups,
-SYNTH_03,DONOR_1250,Current smoker,Snuff,55.0
-SYNTH_03,DONOR_1251,Current reformed smoker for > 15 years,Roll-ups|Electronic cigarettes,45.0
-SYNTH_03,DONOR_1252,Current reformed smoker for > 15 years,Chewing Tobacco,52.0
-SYNTH_03,DONOR_1253,Current reformed smoker for > 15 years,Pipe,58.0
-SYNTH_03,DONOR_1254,Not applicable,,
-SYNTH_03,DONOR_1255,,,
-SYNTH_03,DONOR_1256,Current reformed smoker for <= 15 years,Cigar|Pipe,61.0
-SYNTH_03,DONOR_1257,Not applicable,,
-SYNTH_03,DONOR_1258,Lifelong non-smoker (<100 cigarettes smoked in lifetime),,
-SYNTH_03,DONOR_1259,Smoking history not documented,,
-SYNTH_03,DONOR_1260,Not applicable,,
-SYNTH_03,DONOR_1261,,,
-SYNTH_03,DONOR_1262,Current reformed smoker for > 15 years,Roll-ups|Snuff|Cigar,14.0
-SYNTH_03,DONOR_1263,Current smoker,Waterpipe,24.0
-SYNTH_03,DONOR_1264,Smoking history not documented,,
-SYNTH_03,DONOR_1265,Current reformed smoker for > 15 years,Waterpipe|Roll-ups,11.0
-SYNTH_03,DONOR_1266,Current reformed smoker for <= 15 years,Electronic cigarettes,50.0
-SYNTH_03,DONOR_1267,,,
-SYNTH_03,DONOR_1268,,,
-SYNTH_03,DONOR_1269,Smoking history not documented,,
-SYNTH_03,DONOR_1270,Current reformed smoker for <= 15 years,Electronic cigarettes|Roll-ups,50.0
-SYNTH_03,DONOR_1271,Smoking history not documented,,
-SYNTH_03,DONOR_1272,"Current reformed smoker, duration not specified",Snuff,
-SYNTH_03,DONOR_1273,Current reformed smoker for <= 15 years,Pipe|Electronic cigarettes,56.0
-SYNTH_03,DONOR_1274,Not applicable,,
-SYNTH_03,DONOR_1275,Lifelong non-smoker (<100 cigarettes smoked in lifetime),,
-SYNTH_03,DONOR_1276,Current reformed smoker for > 15 years,Electronic cigarettes|Pipe|Cigarettes,15.0
-SYNTH_03,DONOR_1277,Current reformed smoker for <= 15 years,Roll-ups|Cigarettes,52.0
-SYNTH_03,DONOR_1278,"Current reformed smoker, duration not specified",Chewing Tobacco|Roll-ups|Cigarettes,
-SYNTH_03,DONOR_1279,Current reformed smoker for <= 15 years,Chewing Tobacco,8.0
-SYNTH_03,DONOR_1280,Smoking history not documented,,
-SYNTH_03,DONOR_1281,"Current reformed smoker, duration not specified",Pipe,
-SYNTH_03,DONOR_1282,Not applicable,,
-SYNTH_03,DONOR_1283,Lifelong non-smoker (<100 cigarettes smoked in lifetime),,
-SYNTH_03,DONOR_1284,Not applicable,,
-SYNTH_03,DONOR_1285,Current reformed smoker for > 15 years,Snuff|Chewing Tobacco,24.0
-SYNTH_03,DONOR_1286,Lifelong non-smoker (<100 cigarettes smoked in lifetime),,
-SYNTH_03,DONOR_1287,"Current reformed smoker, duration not specified",Cigarettes|Electronic cigarettes,
-SYNTH_03,DONOR_1288,Current reformed smoker for > 15 years,Chewing Tobacco|Roll-ups,60.0
-SYNTH_03,DONOR_1289,Current reformed smoker for > 15 years,Snuff|Cigarettes,56.0
-SYNTH_03,DONOR_1290,Current smoker,Electronic cigarettes,59.0
-SYNTH_03,DONOR_1291,Current reformed smoker for <= 15 years,Chewing Tobacco|Cigar|Pipe,42.0
-SYNTH_03,DONOR_1292,Not applicable,,
-SYNTH_03,DONOR_1293,Current reformed smoker for <= 15 years,Roll-ups|Chewing Tobacco,30.0
-SYNTH_03,DONOR_1294,Current reformed smoker for > 15 years,Pipe|Chewing Tobacco|Cigarettes,44.0
-SYNTH_03,DONOR_1295,,,
-SYNTH_03,DONOR_1296,Current reformed smoker for <= 15 years,Unknown,50.0
-SYNTH_03,DONOR_1297,Not applicable,,
-SYNTH_03,DONOR_1298,Current smoker,Chewing Tobacco,18.0
-SYNTH_03,DONOR_1299,,,
-SYNTH_03,DONOR_1300,Current reformed smoker for > 15 years,Unknown,5.0
-SYNTH_03,DONOR_1301,Smoking history not documented,,
-SYNTH_03,DONOR_1302,Lifelong non-smoker (<100 cigarettes smoked in lifetime),,
-SYNTH_03,DONOR_1303,"Current reformed smoker, duration not specified",Cigarettes|Cigar,
-SYNTH_03,DONOR_1304,Current reformed smoker for <= 15 years,Cigar|Chewing Tobacco|Pipe,9.0
-SYNTH_03,DONOR_1305,Not applicable,,
-SYNTH_03,DONOR_1306,Current reformed smoker for > 15 years,Pipe|Cigar|Waterpipe,23.0
-SYNTH_03,DONOR_1307,"Current reformed smoker, duration not specified",Unknown,
-SYNTH_03,DONOR_1308,Not applicable,,
-SYNTH_03,DONOR_1309,,,
-SYNTH_03,DONOR_1310,,,
-SYNTH_03,DONOR_1311,"Current reformed smoker, duration not specified",Pipe|Cigar,
-SYNTH_03,DONOR_1312,Lifelong non-smoker (<100 cigarettes smoked in lifetime),,
-SYNTH_03,DONOR_1313,"Current reformed smoker, duration not specified",Electronic cigarettes,
-SYNTH_03,DONOR_1314,Current smoker,Roll-ups,21.0
-SYNTH_03,DONOR_1315,Lifelong non-smoker (<100 cigarettes smoked in lifetime),,
-SYNTH_03,DONOR_1316,Current reformed smoker for <= 15 years,Snuff,32.0
-SYNTH_03,DONOR_1317,Lifelong non-smoker (<100 cigarettes smoked in lifetime),,
-SYNTH_03,DONOR_1318,Smoking history not documented,,
-SYNTH_03,DONOR_1319,Lifelong non-smoker (<100 cigarettes smoked in lifetime),,
-SYNTH_03,DONOR_1320,Current reformed smoker for <= 15 years,Waterpipe|Pipe|Roll-ups,61.0
-SYNTH_03,DONOR_1321,Current reformed smoker for <= 15 years,Chewing Tobacco|Cigarettes,7.0
-SYNTH_03,DONOR_1322,Not applicable,,
-SYNTH_03,DONOR_1323,Current smoker,Snuff,67.0
-SYNTH_03,DONOR_1324,Not applicable,,
-SYNTH_03,DONOR_1325,Lifelong non-smoker (<100 cigarettes smoked in lifetime),,
-SYNTH_03,DONOR_1326,,,
-SYNTH_03,DONOR_1327,Smoking history not documented,,
-SYNTH_03,DONOR_1328,Not applicable,,
-SYNTH_03,DONOR_1329,Smoking history not documented,,
-SYNTH_03,DONOR_1330,"Current reformed smoker, duration not specified",Chewing Tobacco|Snuff,
-SYNTH_03,DONOR_1331,Current reformed smoker for <= 15 years,Chewing Tobacco|Cigar,51.0
-SYNTH_03,DONOR_1332,"Current reformed smoker, duration not specified",Electronic cigarettes|Cigarettes,
-SYNTH_03,DONOR_1333,,,
-SYNTH_03,DONOR_1334,"Current reformed smoker, duration not specified",Chewing Tobacco|Electronic cigarettes,
-SYNTH_03,DONOR_1335,Current reformed smoker for <= 15 years,Pipe|Electronic cigarettes|Cigarettes,15.0
-SYNTH_03,DONOR_1336,Smoking history not documented,,
-SYNTH_03,DONOR_1337,Smoking history not documented,,
-SYNTH_03,DONOR_1338,,,
-SYNTH_03,DONOR_1339,Current reformed smoker for <= 15 years,Pipe,36.0
-SYNTH_03,DONOR_1340,"Current reformed smoker, duration not specified",Chewing Tobacco|Waterpipe,
-SYNTH_03,DONOR_1341,Current reformed smoker for <= 15 years,Snuff|Pipe|Chewing Tobacco,55.0
-SYNTH_03,DONOR_1342,Not applicable,,
-SYNTH_03,DONOR_1343,,,
-SYNTH_03,DONOR_1344,Current smoker,Roll-ups|Cigar,39.0
-SYNTH_03,DONOR_1345,,,
-SYNTH_03,DONOR_1346,Current reformed smoker for <= 15 years,Chewing Tobacco,67.0
-SYNTH_03,DONOR_1347,Current reformed smoker for > 15 years,Cigar,33.0
-SYNTH_03,DONOR_1348,Not applicable,,
-SYNTH_03,DONOR_1349,Current reformed smoker for > 15 years,Electronic cigarettes,30.0
-SYNTH_03,DONOR_1350,,,
-SYNTH_03,DONOR_1351,Current smoker,Chewing Tobacco,28.0
-SYNTH_03,DONOR_1352,Current reformed smoker for > 15 years,Waterpipe|Cigarettes,61.0
-SYNTH_03,DONOR_1353,,,
-SYNTH_03,DONOR_1354,"Current reformed smoker, duration not specified",Electronic cigarettes|Chewing Tobacco,
-SYNTH_03,DONOR_1355,,,
-SYNTH_03,DONOR_1356,Current smoker,Cigar|Snuff|Roll-ups,50.0
-SYNTH_03,DONOR_1357,"Current reformed smoker, duration not specified",Electronic cigarettes|Waterpipe|Chewing Tobacco,
-SYNTH_03,DONOR_1358,Current reformed smoker for > 15 years,Roll-ups|Electronic cigarettes|Pipe,16.0
-SYNTH_03,DONOR_1359,Current reformed smoker for > 15 years,Cigarettes,69.0
-SYNTH_03,DONOR_1360,Current smoker,Chewing Tobacco,41.0
-SYNTH_03,DONOR_1361,Smoking history not documented,,
-SYNTH_03,DONOR_1362,Lifelong non-smoker (<100 cigarettes smoked in lifetime),,
-SYNTH_03,DONOR_1363,Current smoker,Waterpipe,53.0
-SYNTH_03,DONOR_1364,,,
-SYNTH_03,DONOR_1365,Lifelong non-smoker (<100 cigarettes smoked in lifetime),,
-SYNTH_03,DONOR_1366,Current reformed smoker for <= 15 years,Cigarettes,57.0
-SYNTH_03,DONOR_1367,Current smoker,Chewing Tobacco|Roll-ups|Cigar,35.0
-SYNTH_03,DONOR_1368,Current reformed smoker for <= 15 years,Roll-ups,67.0
-SYNTH_03,DONOR_1369,Current smoker,Unknown,30.0
-SYNTH_03,DONOR_1370,Current smoker,Snuff|Cigarettes,31.0
-SYNTH_03,DONOR_1371,Not applicable,,
-SYNTH_03,DONOR_1372,Current smoker,Cigarettes|Snuff|Roll-ups,32.0
-SYNTH_03,DONOR_1373,"Current reformed smoker, duration not specified",Waterpipe|Chewing Tobacco,
-SYNTH_03,DONOR_1374,"Current reformed smoker, duration not specified",Cigarettes|Electronic cigarettes|Cigar,
-SYNTH_03,DONOR_1375,,,
-SYNTH_03,DONOR_1376,Not applicable,,
-SYNTH_04,DONOR_1627,Current reformed smoker for > 15 years,Waterpipe|Pipe,27.0
-SYNTH_04,DONOR_1628,"Current reformed smoker, duration not specified",Electronic cigarettes|Roll-ups,
-SYNTH_04,DONOR_1629,Lifelong non-smoker (<100 cigarettes smoked in lifetime),,
-SYNTH_04,DONOR_1630,"Current reformed smoker, duration not specified",Snuff|Pipe,
-SYNTH_04,DONOR_1631,"Current reformed smoker, duration not specified",Unknown,
-SYNTH_04,DONOR_1632,Current reformed smoker for > 15 years,Chewing Tobacco|Roll-ups|Cigar,21.0
-SYNTH_04,DONOR_1633,Current smoker,Chewing Tobacco,37.0
-SYNTH_04,DONOR_1634,"Current reformed smoker, duration not specified",Waterpipe,
-SYNTH_04,DONOR_1635,Smoking history not documented,,
-SYNTH_04,DONOR_1636,Current reformed smoker for > 15 years,Cigar,17.0
-SYNTH_04,DONOR_1637,Smoking history not documented,,
-SYNTH_04,DONOR_1638,,,
-SYNTH_04,DONOR_1639,,,
-SYNTH_04,DONOR_1640,,,
-SYNTH_04,DONOR_1641,,,
-SYNTH_04,DONOR_1642,Lifelong non-smoker (<100 cigarettes smoked in lifetime),,
-SYNTH_04,DONOR_1643,Current reformed smoker for > 15 years,Pipe|Chewing Tobacco,49.0
-SYNTH_04,DONOR_1644,Not applicable,,
-SYNTH_04,DONOR_1645,Current reformed smoker for > 15 years,Waterpipe|Electronic cigarettes,68.0
-SYNTH_04,DONOR_1646,Current smoker,Snuff,11.0
-SYNTH_04,DONOR_1647,Lifelong non-smoker (<100 cigarettes smoked in lifetime),,
-SYNTH_04,DONOR_1648,Current smoker,Chewing Tobacco|Snuff|Pipe,65.0
-SYNTH_04,DONOR_1649,Current smoker,Electronic cigarettes|Snuff,46.0
-SYNTH_04,DONOR_1650,Current smoker,Cigarettes,63.0
-SYNTH_04,DONOR_1651,Current reformed smoker for <= 15 years,Cigar,30.0
-SYNTH_04,DONOR_1652,Current reformed smoker for <= 15 years,Chewing Tobacco|Pipe|Cigarettes,36.0
-SYNTH_04,DONOR_1653,Lifelong non-smoker (<100 cigarettes smoked in lifetime),,
-SYNTH_04,DONOR_1654,,,
-SYNTH_04,DONOR_1655,"Current reformed smoker, duration not specified",Waterpipe,
-SYNTH_04,DONOR_1656,Current smoker,Cigar|Chewing Tobacco,30.0
-SYNTH_04,DONOR_1657,Lifelong non-smoker (<100 cigarettes smoked in lifetime),,
-SYNTH_04,DONOR_1658,Smoking history not documented,,
-SYNTH_04,DONOR_1659,Lifelong non-smoker (<100 cigarettes smoked in lifetime),,
-SYNTH_04,DONOR_1660,Lifelong non-smoker (<100 cigarettes smoked in lifetime),,
-SYNTH_04,DONOR_1661,Current reformed smoker for <= 15 years,Roll-ups|Cigarettes,50.0
-SYNTH_04,DONOR_1662,,,
-SYNTH_04,DONOR_1663,Not applicable,,
-SYNTH_04,DONOR_1664,Lifelong non-smoker (<100 cigarettes smoked in lifetime),,
-SYNTH_04,DONOR_1665,Smoking history not documented,,
-SYNTH_04,DONOR_1666,Current reformed smoker for > 15 years,Cigar|Waterpipe|Cigarettes,61.0
-SYNTH_04,DONOR_1667,,,
-SYNTH_04,DONOR_1668,,,
-SYNTH_04,DONOR_1669,Lifelong non-smoker (<100 cigarettes smoked in lifetime),,
-SYNTH_04,DONOR_1670,Current reformed smoker for <= 15 years,Cigar,50.0
-SYNTH_04,DONOR_1671,"Current reformed smoker, duration not specified",Chewing Tobacco,
-SYNTH_04,DONOR_1672,Lifelong non-smoker (<100 cigarettes smoked in lifetime),,
-SYNTH_04,DONOR_1673,Current smoker,Cigarettes,70.0
-SYNTH_04,DONOR_1674,Lifelong non-smoker (<100 cigarettes smoked in lifetime),,
-SYNTH_04,DONOR_1675,Current smoker,Cigarettes|Roll-ups,28.0
-SYNTH_04,DONOR_1676,"Current reformed smoker, duration not specified",Pipe|Cigarettes,
-SYNTH_04,DONOR_1677,"Current reformed smoker, duration not specified",Cigar,
-SYNTH_04,DONOR_1678,Lifelong non-smoker (<100 cigarettes smoked in lifetime),,
-SYNTH_04,DONOR_1679,Lifelong non-smoker (<100 cigarettes smoked in lifetime),,
-SYNTH_04,DONOR_1680,Lifelong non-smoker (<100 cigarettes smoked in lifetime),,
-SYNTH_04,DONOR_1681,Current smoker,Roll-ups,55.0
-SYNTH_04,DONOR_1682,,,
-SYNTH_04,DONOR_1683,Lifelong non-smoker (<100 cigarettes smoked in lifetime),,
-SYNTH_04,DONOR_1684,Current reformed smoker for <= 15 years,Snuff,47.0
-SYNTH_04,DONOR_1685,"Current reformed smoker, duration not specified",Pipe|Snuff,
-SYNTH_04,DONOR_1686,Current reformed smoker for <= 15 years,Electronic cigarettes|Cigarettes,23.0
-SYNTH_04,DONOR_1687,,,
-SYNTH_04,DONOR_1688,,,
-SYNTH_04,DONOR_1689,Not applicable,,
-SYNTH_04,DONOR_1690,Current reformed smoker for <= 15 years,Chewing Tobacco|Cigarettes|Pipe,32.0
-SYNTH_04,DONOR_1691,Lifelong non-smoker (<100 cigarettes smoked in lifetime),,
-SYNTH_04,DONOR_1692,Lifelong non-smoker (<100 cigarettes smoked in lifetime),,
-SYNTH_04,DONOR_1693,"Current reformed smoker, duration not specified",Chewing Tobacco|Waterpipe,
-SYNTH_04,DONOR_1694,Lifelong non-smoker (<100 cigarettes smoked in lifetime),,
-SYNTH_04,DONOR_1695,Current smoker,Snuff|Roll-ups,51.0
-SYNTH_04,DONOR_1696,Current smoker,Cigar|Snuff|Electronic cigarettes,26.0
-SYNTH_04,DONOR_1697,"Current reformed smoker, duration not specified",Roll-ups,
-SYNTH_04,DONOR_1698,"Current reformed smoker, duration not specified",Chewing Tobacco|Cigarettes|Electronic cigarettes,
-SYNTH_04,DONOR_1699,Lifelong non-smoker (<100 cigarettes smoked in lifetime),,
-SYNTH_04,DONOR_1700,,,
-SYNTH_04,DONOR_1701,Smoking history not documented,,
-SYNTH_04,DONOR_1702,"Current reformed smoker, duration not specified",Electronic cigarettes|Waterpipe|Snuff,
-SYNTH_04,DONOR_1703,Not applicable,,
-SYNTH_04,DONOR_1704,Current reformed smoker for > 15 years,Cigar,37.0
-SYNTH_04,DONOR_1705,,,
-SYNTH_04,DONOR_1706,Not applicable,,
-SYNTH_04,DONOR_1707,Smoking history not documented,,
-SYNTH_04,DONOR_1708,Smoking history not documented,,
-SYNTH_04,DONOR_1709,Lifelong non-smoker (<100 cigarettes smoked in lifetime),,
-SYNTH_04,DONOR_1710,Current smoker,Cigar|Roll-ups|Cigarettes,7.0
-SYNTH_04,DONOR_1711,Current reformed smoker for > 15 years,Cigar|Pipe|Waterpipe,34.0
-SYNTH_04,DONOR_1712,Smoking history not documented,,
-SYNTH_04,DONOR_1713,"Current reformed smoker, duration not specified",Snuff,
-SYNTH_04,DONOR_1714,Current reformed smoker for > 15 years,Snuff,30.0
-SYNTH_04,DONOR_1715,Lifelong non-smoker (<100 cigarettes smoked in lifetime),,
-SYNTH_04,DONOR_1716,"Current reformed smoker, duration not specified",Waterpipe,
-SYNTH_04,DONOR_1717,,,
-SYNTH_04,DONOR_1718,Lifelong non-smoker (<100 cigarettes smoked in lifetime),,
-SYNTH_04,DONOR_1719,Current smoker,Chewing Tobacco,41.0
-SYNTH_04,DONOR_1720,"Current reformed smoker, duration not specified",Snuff|Chewing Tobacco,
-SYNTH_04,DONOR_1721,Current reformed smoker for <= 15 years,Chewing Tobacco|Pipe|Roll-ups,35.0
-SYNTH_04,DONOR_1722,Not applicable,,
-SYNTH_04,DONOR_1723,Current smoker,Chewing Tobacco|Cigar|Snuff,8.0
-SYNTH_04,DONOR_1724,"Current reformed smoker, duration not specified",Pipe,
-SYNTH_04,DONOR_1725,,,
-SYNTH_04,DONOR_1726,Smoking history not documented,,
-SYNTH_04,DONOR_1727,Current smoker,Unknown,20.0
-SYNTH_04,DONOR_1728,Not applicable,,
-SYNTH_04,DONOR_1729,Smoking history not documented,,
-SYNTH_04,DONOR_1730,"Current reformed smoker, duration not specified",Cigarettes|Roll-ups|Snuff,
-SYNTH_04,DONOR_1731,Current smoker,Electronic cigarettes,36.0
-SYNTH_04,DONOR_1732,"Current reformed smoker, duration not specified",Pipe|Cigarettes|Cigar,
-SYNTH_04,DONOR_1733,,,
-SYNTH_04,DONOR_1734,Current reformed smoker for <= 15 years,Cigarettes|Snuff,64.0
-SYNTH_04,DONOR_1735,Smoking history not documented,,
-SYNTH_04,DONOR_1736,Current smoker,Snuff|Electronic cigarettes,25.0
-SYNTH_04,DONOR_1737,Smoking history not documented,,
-SYNTH_04,DONOR_1738,Lifelong non-smoker (<100 cigarettes smoked in lifetime),,
-SYNTH_04,DONOR_1739,Lifelong non-smoker (<100 cigarettes smoked in lifetime),,
-SYNTH_04,DONOR_1740,Smoking history not documented,,
-SYNTH_04,DONOR_1741,"Current reformed smoker, duration not specified",Electronic cigarettes,
-SYNTH_04,DONOR_1742,Current reformed smoker for > 15 years,Waterpipe|Pipe,43.0
-SYNTH_04,DONOR_1743,"Current reformed smoker, duration not specified",Chewing Tobacco|Electronic cigarettes|Cigar,
-SYNTH_04,DONOR_1744,Lifelong non-smoker (<100 cigarettes smoked in lifetime),,
-SYNTH_04,DONOR_1745,,,
-SYNTH_04,DONOR_1746,Current reformed smoker for <= 15 years,Cigar|Cigarettes,36.0
-SYNTH_04,DONOR_1747,Current smoker,Cigar,48.0
-SYNTH_04,DONOR_1748,Smoking history not documented,,
-SYNTH_04,DONOR_1749,Current reformed smoker for <= 15 years,Cigarettes|Electronic cigarettes,24.0
-SYNTH_04,DONOR_1750,Current reformed smoker for > 15 years,Pipe|Electronic cigarettes,41.0
-SYNTH_04,DONOR_1751,"Current reformed smoker, duration not specified",Chewing Tobacco,
-SYNTH_04,DONOR_1752,"Current reformed smoker, duration not specified",Cigarettes,
-SYNTH_04,DONOR_1753,,,
-SYNTH_04,DONOR_1754,Current smoker,Snuff|Pipe,45.0
-SYNTH_04,DONOR_1755,Not applicable,,
-SYNTH_04,DONOR_1756,,,
-SYNTH_04,DONOR_1757,Current smoker,Chewing Tobacco|Cigarettes,29.0
-SYNTH_04,DONOR_1758,Smoking history not documented,,
-SYNTH_04,DONOR_1759,"Current reformed smoker, duration not specified",Roll-ups,
-SYNTH_04,DONOR_1760,,,
-SYNTH_04,DONOR_1761,"Current reformed smoker, duration not specified",Chewing Tobacco|Pipe,
-SYNTH_04,DONOR_1762,Current reformed smoker for <= 15 years,Roll-ups|Electronic cigarettes,67.0
-SYNTH_04,DONOR_1763,Smoking history not documented,,
-SYNTH_04,DONOR_1764,Not applicable,,
-SYNTH_04,DONOR_1765,"Current reformed smoker, duration not specified",Pipe,
-SYNTH_04,DONOR_1766,Not applicable,,
-SYNTH_04,DONOR_1767,Lifelong non-smoker (<100 cigarettes smoked in lifetime),,
-SYNTH_04,DONOR_1768,Lifelong non-smoker (<100 cigarettes smoked in lifetime),,
-SYNTH_04,DONOR_1769,,,
-SYNTH_04,DONOR_1770,Lifelong non-smoker (<100 cigarettes smoked in lifetime),,
-SYNTH_04,DONOR_1771,Smoking history not documented,,
-SYNTH_04,DONOR_1772,Current reformed smoker for <= 15 years,Chewing Tobacco,7.0
-SYNTH_04,DONOR_1773,"Current reformed smoker, duration not specified",Snuff|Waterpipe|Chewing Tobacco,
-SYNTH_04,DONOR_1774,Not applicable,,
-SYNTH_04,DONOR_1775,Current reformed smoker for > 15 years,Cigar|Roll-ups|Cigarettes,31.0
-SYNTH_04,DONOR_1776,Lifelong non-smoker (<100 cigarettes smoked in lifetime),,
-SYNTH_04,DONOR_1777,Not applicable,,
-SYNTH_04,DONOR_1778,"Current reformed smoker, duration not specified",Chewing Tobacco,
-SYNTH_04,DONOR_1779,Not applicable,,
-SYNTH_04,DONOR_1780,Not applicable,,
-SYNTH_04,DONOR_1781,Current reformed smoker for <= 15 years,Chewing Tobacco|Cigar|Pipe,21.0
-SYNTH_04,DONOR_1782,Not applicable,,
-SYNTH_04,DONOR_1783,Current reformed smoker for > 15 years,Snuff|Waterpipe,9.0
-SYNTH_04,DONOR_1784,Current smoker,Waterpipe,58.0
-SYNTH_04,DONOR_1785,Current smoker,Chewing Tobacco,62.0
-SYNTH_04,DONOR_1786,Not applicable,,
-SYNTH_04,DONOR_1787,"Current reformed smoker, duration not specified",Roll-ups,
-SYNTH_04,DONOR_1788,,,
-SYNTH_04,DONOR_1789,"Current reformed smoker, duration not specified",Pipe|Cigar,
-SYNTH_04,DONOR_1790,Not applicable,,
-SYNTH_04,DONOR_1791,Current smoker,Chewing Tobacco,9.0
-SYNTH_04,DONOR_1792,Current reformed smoker for <= 15 years,Unknown,67.0
-SYNTH_04,DONOR_1793,,,
-SYNTH_04,DONOR_1794,Smoking history not documented,,
-SYNTH_04,DONOR_1795,,,
-SYNTH_04,DONOR_1796,Not applicable,,
-SYNTH_04,DONOR_1797,Lifelong non-smoker (<100 cigarettes smoked in lifetime),,
-SYNTH_04,DONOR_1798,Lifelong non-smoker (<100 cigarettes smoked in lifetime),,
-SYNTH_04,DONOR_1799,,,
-SYNTH_04,DONOR_1800,Current reformed smoker for <= 15 years,Cigar,29.0
-SYNTH_04,DONOR_1801,Current reformed smoker for > 15 years,Cigarettes,10.0
-SYNTH_04,DONOR_1802,Current smoker,Cigarettes,32.0
-SYNTH_04,DONOR_1803,Smoking history not documented,,
-SYNTH_04,DONOR_1804,Current reformed smoker for <= 15 years,Snuff,42.0
-SYNTH_04,DONOR_1805,Current smoker,Pipe,42.0
-SYNTH_04,DONOR_1806,Current smoker,Chewing Tobacco,63.0
-SYNTH_04,DONOR_1807,,,
-SYNTH_04,DONOR_1808,Current reformed smoker for > 15 years,Snuff|Roll-ups,68.0
-SYNTH_04,DONOR_1809,Not applicable,,
-SYNTH_04,DONOR_1810,Smoking history not documented,,
-SYNTH_04,DONOR_1811,,,
-SYNTH_04,DONOR_1812,Current smoker,Waterpipe|Electronic cigarettes,33.0
-SYNTH_04,DONOR_1813,Lifelong non-smoker (<100 cigarettes smoked in lifetime),,
-SYNTH_04,DONOR_1814,Not applicable,,
-SYNTH_04,DONOR_1815,,,
-SYNTH_04,DONOR_1816,Smoking history not documented,,
-SYNTH_04,DONOR_1817,Smoking history not documented,,
-SYNTH_04,DONOR_1818,Current reformed smoker for > 15 years,Unknown,10.0
-SYNTH_04,DONOR_1819,"Current reformed smoker, duration not specified",Chewing Tobacco,
-SYNTH_04,DONOR_1820,"Current reformed smoker, duration not specified",Snuff|Cigarettes|Cigar,
-SYNTH_04,DONOR_1821,Lifelong non-smoker (<100 cigarettes smoked in lifetime),,
-SYNTH_04,DONOR_1822,Current smoker,Waterpipe,20.0
-SYNTH_04,DONOR_1823,Lifelong non-smoker (<100 cigarettes smoked in lifetime),,
-SYNTH_04,DONOR_1824,Current reformed smoker for <= 15 years,Pipe|Roll-ups,46.0
-SYNTH_04,DONOR_1825,Not applicable,,
-SYNTH_04,DONOR_1826,,,
-SYNTH_04,DONOR_1827,"Current reformed smoker, duration not specified",Chewing Tobacco|Cigarettes,
-SYNTH_04,DONOR_1828,Current smoker,Pipe,67.0
-SYNTH_04,DONOR_1829,Smoking history not documented,,
-SYNTH_04,DONOR_1830,Lifelong non-smoker (<100 cigarettes smoked in lifetime),,
-SYNTH_04,DONOR_1831,Not applicable,,
-SYNTH_04,DONOR_1832,Smoking history not documented,,
-SYNTH_04,DONOR_1833,Current smoker,Cigar,23.0
-SYNTH_04,DONOR_1834,Current reformed smoker for <= 15 years,Chewing Tobacco|Cigarettes|Waterpipe,69.0
-SYNTH_04,DONOR_1835,Current reformed smoker for > 15 years,Cigarettes|Snuff|Roll-ups,62.0
-SYNTH_04,DONOR_1836,"Current reformed smoker, duration not specified",Unknown,
-SYNTH_04,DONOR_1837,Current reformed smoker for > 15 years,Cigar,45.0
-SYNTH_04,DONOR_1838,Current smoker,Roll-ups|Electronic cigarettes,67.0
-SYNTH_04,DONOR_1839,Smoking history not documented,,
-SYNTH_04,DONOR_1840,"Current reformed smoker, duration not specified",Chewing Tobacco,
-SYNTH_04,DONOR_1841,Smoking history not documented,,
-SYNTH_04,DONOR_1842,Smoking history not documented,,
-SYNTH_04,DONOR_1843,Lifelong non-smoker (<100 cigarettes smoked in lifetime),,
-SYNTH_04,DONOR_1844,Current smoker,Waterpipe,36.0
-SYNTH_04,DONOR_1845,Current reformed smoker for > 15 years,Cigarettes|Snuff|Roll-ups,38.0
-SYNTH_04,DONOR_1846,Lifelong non-smoker (<100 cigarettes smoked in lifetime),,
-SYNTH_04,DONOR_1847,,,
-SYNTH_04,DONOR_1848,Lifelong non-smoker (<100 cigarettes smoked in lifetime),,
-SYNTH_04,DONOR_1849,Current smoker,Roll-ups,21.0
-SYNTH_04,DONOR_1850,Current reformed smoker for > 15 years,Cigarettes|Pipe,63.0
-SYNTH_04,DONOR_1851,,,
-SYNTH_04,DONOR_1852,,,
-SYNTH_04,DONOR_1853,Current reformed smoker for > 15 years,Snuff|Cigarettes|Roll-ups,59.0
-SYNTH_04,DONOR_1854,"Current reformed smoker, duration not specified",Roll-ups|Cigarettes|Cigar,
-SYNTH_04,DONOR_1855,Current reformed smoker for <= 15 years,Pipe|Chewing Tobacco,18.0
-SYNTH_04,DONOR_1856,Smoking history not documented,,
-SYNTH_04,DONOR_1857,,,
-SYNTH_04,DONOR_1858,,,
-SYNTH_04,DONOR_1859,Current smoker,Cigarettes|Waterpipe|Roll-ups,64.0
-SYNTH_04,DONOR_1860,Current reformed smoker for > 15 years,Electronic cigarettes|Cigarettes|Waterpipe,63.0
-SYNTH_04,DONOR_1861,Current smoker,Pipe,8.0
-SYNTH_04,DONOR_1862,Current reformed smoker for <= 15 years,Snuff,51.0
-SYNTH_04,DONOR_1863,Current reformed smoker for > 15 years,Waterpipe|Cigarettes,38.0
-SYNTH_04,DONOR_1864,Lifelong non-smoker (<100 cigarettes smoked in lifetime),,
-SYNTH_04,DONOR_1865,Current reformed smoker for <= 15 years,Pipe|Cigarettes,12.0
-SYNTH_04,DONOR_1866,Not applicable,,
-SYNTH_04,DONOR_1867,Current smoker,Roll-ups|Chewing Tobacco,39.0
-SYNTH_04,DONOR_1868,Not applicable,,
-SYNTH_04,DONOR_1869,Current reformed smoker for <= 15 years,Pipe|Snuff|Cigarettes,29.0
-SYNTH_04,DONOR_1870,Current reformed smoker for > 15 years,Snuff|Chewing Tobacco,68.0
-SYNTH_04,DONOR_1871,Smoking history not documented,,
-SYNTH_04,DONOR_1872,Lifelong non-smoker (<100 cigarettes smoked in lifetime),,
-SYNTH_04,DONOR_1873,Not applicable,,
-SYNTH_04,DONOR_1874,,,
-SYNTH_04,DONOR_1875,Smoking history not documented,,
-SYNTH_04,DONOR_1876,Current smoker,Pipe,55.0
+program_id,submitter_donor_id,tobacco_smoking_status,tobacco_type,pack_years_smoked,pack_years_smoked_not_available
+SYNTH_01,DONOR_0127,"Current reformed smoker, duration not specified",Not available,,False
+SYNTH_01,DONOR_0128,,,,False
+SYNTH_01,DONOR_0129,,,,False
+SYNTH_01,DONOR_0130,"Current reformed smoker, duration not specified",Electronic cigarettes,,False
+SYNTH_01,DONOR_0131,Lifelong non-smoker (<100 cigarettes smoked in lifetime),,,False
+SYNTH_01,DONOR_0132,Current smoker,Snuff|Chewing Tobacco|Cigarettes,,True
+SYNTH_01,DONOR_0133,Not applicable,,,False
+SYNTH_01,DONOR_0134,,,,False
+SYNTH_01,DONOR_0135,Current smoker,Waterpipe|Roll-ups|Cigar,,True
+SYNTH_01,DONOR_0136,Current smoker,Cigar|Chewing Tobacco|Not available,57.0,False
+SYNTH_01,DONOR_0137,Not applicable,,,False
+SYNTH_01,DONOR_0138,Not applicable,,,False
+SYNTH_01,DONOR_0139,,,,False
+SYNTH_01,DONOR_0140,Current reformed smoker for <= 15 years,Cigar,,True
+SYNTH_01,DONOR_0141,Current smoker,Not available|Cigar|Cigarettes,,True
+SYNTH_01,DONOR_0142,Current reformed smoker for > 15 years,Chewing Tobacco,63.0,False
+SYNTH_01,DONOR_0143,"Current reformed smoker, duration not specified",Pipe,,False
+SYNTH_01,DONOR_0144,,,,False
+SYNTH_01,DONOR_0145,"Current reformed smoker, duration not specified",Cigarettes,,False
+SYNTH_01,DONOR_0146,Lifelong non-smoker (<100 cigarettes smoked in lifetime),,,False
+SYNTH_01,DONOR_0147,Not applicable,,,False
+SYNTH_01,DONOR_0148,Not applicable,,,False
+SYNTH_01,DONOR_0149,Not available,,,False
+SYNTH_01,DONOR_0150,Lifelong non-smoker (<100 cigarettes smoked in lifetime),,,False
+SYNTH_01,DONOR_0151,Current smoker,Cigar,,True
+SYNTH_01,DONOR_0152,Not available,,,False
+SYNTH_01,DONOR_0153,,,,False
+SYNTH_01,DONOR_0154,Lifelong non-smoker (<100 cigarettes smoked in lifetime),,,False
+SYNTH_01,DONOR_0155,Lifelong non-smoker (<100 cigarettes smoked in lifetime),,,False
+SYNTH_01,DONOR_0156,Current reformed smoker for > 15 years,Pipe|Electronic cigarettes,22.0,False
+SYNTH_01,DONOR_0157,Not available,,,False
+SYNTH_01,DONOR_0158,Current reformed smoker for > 15 years,Snuff|Chewing Tobacco|Waterpipe,37.0,False
+SYNTH_01,DONOR_0159,Not applicable,,,False
+SYNTH_01,DONOR_0160,Not available,,,False
+SYNTH_01,DONOR_0161,,,,False
+SYNTH_01,DONOR_0162,Not applicable,,,False
+SYNTH_01,DONOR_0163,Lifelong non-smoker (<100 cigarettes smoked in lifetime),,,False
+SYNTH_01,DONOR_0164,Lifelong non-smoker (<100 cigarettes smoked in lifetime),,,False
+SYNTH_01,DONOR_0165,Lifelong non-smoker (<100 cigarettes smoked in lifetime),,,False
+SYNTH_01,DONOR_0166,,,,False
+SYNTH_01,DONOR_0167,Not applicable,,,False
+SYNTH_01,DONOR_0168,"Current reformed smoker, duration not specified",Chewing Tobacco|Cigar|Snuff,,False
+SYNTH_01,DONOR_0169,Current smoker,Electronic cigarettes,30.0,False
+SYNTH_01,DONOR_0170,,,,False
+SYNTH_01,DONOR_0171,Not applicable,,,False
+SYNTH_01,DONOR_0172,Not available,,,False
+SYNTH_01,DONOR_0173,Not applicable,,,False
+SYNTH_01,DONOR_0174,Current smoker,Pipe,29.0,False
+SYNTH_01,DONOR_0175,Current reformed smoker for > 15 years,Chewing Tobacco,35.0,False
+SYNTH_01,DONOR_0176,Lifelong non-smoker (<100 cigarettes smoked in lifetime),,,False
+SYNTH_01,DONOR_0177,,,,False
+SYNTH_01,DONOR_0178,"Current reformed smoker, duration not specified",Roll-ups|Waterpipe|Chewing Tobacco,,False
+SYNTH_01,DONOR_0179,"Current reformed smoker, duration not specified",Not available|Snuff|Roll-ups,,False
+SYNTH_01,DONOR_0180,Lifelong non-smoker (<100 cigarettes smoked in lifetime),,,False
+SYNTH_01,DONOR_0181,Current reformed smoker for <= 15 years,Pipe|Snuff,,True
+SYNTH_01,DONOR_0182,"Current reformed smoker, duration not specified",Electronic cigarettes,,False
+SYNTH_01,DONOR_0183,Lifelong non-smoker (<100 cigarettes smoked in lifetime),,,False
+SYNTH_01,DONOR_0184,,,,False
+SYNTH_01,DONOR_0185,Lifelong non-smoker (<100 cigarettes smoked in lifetime),,,False
+SYNTH_01,DONOR_0186,,,,False
+SYNTH_01,DONOR_0187,Lifelong non-smoker (<100 cigarettes smoked in lifetime),,,False
+SYNTH_01,DONOR_0188,Not applicable,,,False
+SYNTH_01,DONOR_0189,Current reformed smoker for > 15 years,Waterpipe|Roll-ups,,True
+SYNTH_01,DONOR_0190,"Current reformed smoker, duration not specified",Waterpipe|Roll-ups,,False
+SYNTH_01,DONOR_0191,Lifelong non-smoker (<100 cigarettes smoked in lifetime),,,False
+SYNTH_01,DONOR_0192,Current reformed smoker for <= 15 years,Not available,38.0,False
+SYNTH_01,DONOR_0193,Lifelong non-smoker (<100 cigarettes smoked in lifetime),,,False
+SYNTH_01,DONOR_0194,,,,False
+SYNTH_01,DONOR_0195,,,,False
+SYNTH_01,DONOR_0196,Current reformed smoker for <= 15 years,Electronic cigarettes|Cigar,,True
+SYNTH_01,DONOR_0197,"Current reformed smoker, duration not specified",Pipe|Snuff|Cigarettes,,False
+SYNTH_01,DONOR_0198,Current reformed smoker for > 15 years,Roll-ups|Cigarettes,30.0,False
+SYNTH_01,DONOR_0199,Current reformed smoker for <= 15 years,Cigarettes,,True
+SYNTH_01,DONOR_0200,Current reformed smoker for <= 15 years,Snuff|Not available|Roll-ups,39.0,False
+SYNTH_01,DONOR_0201,Not applicable,,,False
+SYNTH_01,DONOR_0202,Not applicable,,,False
+SYNTH_01,DONOR_0203,,,,False
+SYNTH_01,DONOR_0204,"Current reformed smoker, duration not specified",Chewing Tobacco|Cigar,,False
+SYNTH_01,DONOR_0205,Not applicable,,,False
+SYNTH_01,DONOR_0206,Not available,,,False
+SYNTH_01,DONOR_0207,Current smoker,Cigar|Pipe,16.0,False
+SYNTH_01,DONOR_0208,Not applicable,,,False
+SYNTH_01,DONOR_0209,Current smoker,Cigar,19.0,False
+SYNTH_01,DONOR_0210,,,,False
+SYNTH_01,DONOR_0211,"Current reformed smoker, duration not specified",Cigarettes,,False
+SYNTH_01,DONOR_0212,Not applicable,,,False
+SYNTH_01,DONOR_0213,Lifelong non-smoker (<100 cigarettes smoked in lifetime),,,False
+SYNTH_01,DONOR_0214,,,,False
+SYNTH_01,DONOR_0215,Current smoker,Not available|Snuff|Chewing Tobacco,31.0,False
+SYNTH_01,DONOR_0216,Not applicable,,,False
+SYNTH_01,DONOR_0217,Current reformed smoker for > 15 years,Waterpipe|Pipe|Cigar,,True
+SYNTH_01,DONOR_0218,"Current reformed smoker, duration not specified",Cigar|Electronic cigarettes|Pipe,,False
+SYNTH_01,DONOR_0219,"Current reformed smoker, duration not specified",Cigarettes|Roll-ups|Not available,,False
+SYNTH_01,DONOR_0220,Lifelong non-smoker (<100 cigarettes smoked in lifetime),,,False
+SYNTH_01,DONOR_0221,Not applicable,,,False
+SYNTH_01,DONOR_0222,Current reformed smoker for > 15 years,Not available,,True
+SYNTH_01,DONOR_0223,"Current reformed smoker, duration not specified",Not available,,False
+SYNTH_01,DONOR_0224,Not available,,,False
+SYNTH_01,DONOR_0225,Current reformed smoker for <= 15 years,Pipe,43.0,False
+SYNTH_01,DONOR_0226,Current smoker,Cigar,,True
+SYNTH_01,DONOR_0227,"Current reformed smoker, duration not specified",Cigarettes|Not available,,False
+SYNTH_01,DONOR_0228,Lifelong non-smoker (<100 cigarettes smoked in lifetime),,,False
+SYNTH_01,DONOR_0229,Lifelong non-smoker (<100 cigarettes smoked in lifetime),,,False
+SYNTH_01,DONOR_0230,Not applicable,,,False
+SYNTH_01,DONOR_0231,Not applicable,,,False
+SYNTH_01,DONOR_0232,Not available,,,False
+SYNTH_01,DONOR_0233,"Current reformed smoker, duration not specified",Pipe|Electronic cigarettes,,False
+SYNTH_01,DONOR_0234,Not available,,,False
+SYNTH_01,DONOR_0235,"Current reformed smoker, duration not specified",Snuff|Waterpipe|Pipe,,False
+SYNTH_01,DONOR_0236,,,,False
+SYNTH_01,DONOR_0237,Current reformed smoker for <= 15 years,Roll-ups,11.0,False
+SYNTH_01,DONOR_0238,Not applicable,,,False
+SYNTH_01,DONOR_0239,,,,False
+SYNTH_01,DONOR_0240,Current reformed smoker for > 15 years,Electronic cigarettes|Snuff,,True
+SYNTH_01,DONOR_0241,,,,False
+SYNTH_01,DONOR_0242,Lifelong non-smoker (<100 cigarettes smoked in lifetime),,,False
+SYNTH_01,DONOR_0243,Current reformed smoker for > 15 years,Roll-ups|Cigar,,True
+SYNTH_01,DONOR_0244,,,,False
+SYNTH_01,DONOR_0245,,,,False
+SYNTH_01,DONOR_0246,Not applicable,,,False
+SYNTH_01,DONOR_0247,"Current reformed smoker, duration not specified",Cigarettes|Electronic cigarettes,,False
+SYNTH_01,DONOR_0248,"Current reformed smoker, duration not specified",Cigarettes|Chewing Tobacco,,False
+SYNTH_01,DONOR_0249,"Current reformed smoker, duration not specified",Waterpipe,,False
+SYNTH_01,DONOR_0250,Lifelong non-smoker (<100 cigarettes smoked in lifetime),,,False
+SYNTH_01,DONOR_0251,Current reformed smoker for > 15 years,Cigar|Waterpipe|Not available,67.0,False
+SYNTH_01,DONOR_0252,"Current reformed smoker, duration not specified",Roll-ups|Snuff,,False
+SYNTH_01,DONOR_0253,"Current reformed smoker, duration not specified",Waterpipe|Snuff,,False
+SYNTH_01,DONOR_0254,Not available,,,False
+SYNTH_01,DONOR_0255,Lifelong non-smoker (<100 cigarettes smoked in lifetime),,,False
+SYNTH_01,DONOR_0256,Lifelong non-smoker (<100 cigarettes smoked in lifetime),,,False
+SYNTH_01,DONOR_0257,Current smoker,Snuff,62.0,False
+SYNTH_01,DONOR_0258,"Current reformed smoker, duration not specified",Waterpipe|Not available|Roll-ups,,False
+SYNTH_01,DONOR_0259,Not applicable,,,False
+SYNTH_01,DONOR_0260,"Current reformed smoker, duration not specified",Roll-ups,,False
+SYNTH_01,DONOR_0261,Lifelong non-smoker (<100 cigarettes smoked in lifetime),,,False
+SYNTH_01,DONOR_0262,Not applicable,,,False
+SYNTH_01,DONOR_0263,"Current reformed smoker, duration not specified",Not available|Electronic cigarettes|Cigar,,False
+SYNTH_01,DONOR_0264,"Current reformed smoker, duration not specified",Not available,,False
+SYNTH_01,DONOR_0265,Not applicable,,,False
+SYNTH_01,DONOR_0266,Current smoker,Chewing Tobacco|Not available,,True
+SYNTH_01,DONOR_0267,Not available,,,False
+SYNTH_01,DONOR_0268,Current smoker,Roll-ups|Not available|Electronic cigarettes,29.0,False
+SYNTH_01,DONOR_0269,,,,False
+SYNTH_01,DONOR_0270,Current reformed smoker for <= 15 years,Pipe,,True
+SYNTH_01,DONOR_0271,Current reformed smoker for <= 15 years,Cigar|Roll-ups|Waterpipe,63.0,False
+SYNTH_01,DONOR_0272,,,,False
+SYNTH_01,DONOR_0273,Current smoker,Chewing Tobacco|Electronic cigarettes|Waterpipe,68.0,False
+SYNTH_01,DONOR_0274,"Current reformed smoker, duration not specified",Snuff|Roll-ups|Pipe,,False
+SYNTH_01,DONOR_0275,Current smoker,Pipe|Electronic cigarettes,39.0,False
+SYNTH_01,DONOR_0276,Not applicable,,,False
+SYNTH_01,DONOR_0277,Current reformed smoker for > 15 years,Cigarettes|Chewing Tobacco,,True
+SYNTH_01,DONOR_0278,Not applicable,,,False
+SYNTH_01,DONOR_0279,,,,False
+SYNTH_01,DONOR_0280,Not applicable,,,False
+SYNTH_01,DONOR_0281,Current reformed smoker for > 15 years,Cigar,,True
+SYNTH_01,DONOR_0282,Current reformed smoker for <= 15 years,Snuff|Cigar|Roll-ups,40.0,False
+SYNTH_01,DONOR_0283,Lifelong non-smoker (<100 cigarettes smoked in lifetime),,,False
+SYNTH_01,DONOR_0284,Current reformed smoker for <= 15 years,Electronic cigarettes,48.0,False
+SYNTH_01,DONOR_0285,Current reformed smoker for > 15 years,Waterpipe|Roll-ups|Not available,49.0,False
+SYNTH_01,DONOR_0286,"Current reformed smoker, duration not specified",Cigar|Snuff,,False
+SYNTH_01,DONOR_0287,Current reformed smoker for > 15 years,Electronic cigarettes|Pipe|Not available,,True
+SYNTH_01,DONOR_0288,Lifelong non-smoker (<100 cigarettes smoked in lifetime),,,False
+SYNTH_01,DONOR_0289,Not available,,,False
+SYNTH_01,DONOR_0290,Not applicable,,,False
+SYNTH_01,DONOR_0291,Current smoker,Electronic cigarettes|Pipe|Cigar,67.0,False
+SYNTH_01,DONOR_0292,"Current reformed smoker, duration not specified",Electronic cigarettes|Chewing Tobacco,,False
+SYNTH_01,DONOR_0293,Lifelong non-smoker (<100 cigarettes smoked in lifetime),,,False
+SYNTH_01,DONOR_0294,,,,False
+SYNTH_01,DONOR_0295,Not available,,,False
+SYNTH_01,DONOR_0296,Current smoker,Chewing Tobacco,13.0,False
+SYNTH_01,DONOR_0297,Current smoker,Waterpipe|Electronic cigarettes,,True
+SYNTH_01,DONOR_0298,"Current reformed smoker, duration not specified",Not available|Waterpipe,,False
+SYNTH_01,DONOR_0299,Lifelong non-smoker (<100 cigarettes smoked in lifetime),,,False
+SYNTH_01,DONOR_0300,,,,False
+SYNTH_01,DONOR_0301,Lifelong non-smoker (<100 cigarettes smoked in lifetime),,,False
+SYNTH_01,DONOR_0302,Lifelong non-smoker (<100 cigarettes smoked in lifetime),,,False
+SYNTH_01,DONOR_0303,Current reformed smoker for <= 15 years,Snuff|Cigar|Pipe,59.0,False
+SYNTH_01,DONOR_0304,Current smoker,Pipe,29.0,False
+SYNTH_01,DONOR_0305,Lifelong non-smoker (<100 cigarettes smoked in lifetime),,,False
+SYNTH_01,DONOR_0306,Current reformed smoker for <= 15 years,Cigar|Cigarettes,11.0,False
+SYNTH_01,DONOR_0307,Current reformed smoker for > 15 years,Not available,41.0,False
+SYNTH_01,DONOR_0308,,,,False
+SYNTH_01,DONOR_0309,Current reformed smoker for <= 15 years,Waterpipe,,True
+SYNTH_01,DONOR_0310,Current reformed smoker for <= 15 years,Not available,46.0,False
+SYNTH_01,DONOR_0311,"Current reformed smoker, duration not specified",Electronic cigarettes|Cigarettes|Roll-ups,,False
+SYNTH_01,DONOR_0312,Current smoker,Cigarettes|Pipe|Roll-ups,,True
+SYNTH_01,DONOR_0313,Current reformed smoker for <= 15 years,Not available|Snuff|Roll-ups,41.0,False
+SYNTH_01,DONOR_0314,,,,False
+SYNTH_01,DONOR_0315,Lifelong non-smoker (<100 cigarettes smoked in lifetime),,,False
+SYNTH_01,DONOR_0316,Lifelong non-smoker (<100 cigarettes smoked in lifetime),,,False
+SYNTH_01,DONOR_0317,Current smoker,Roll-ups,8.0,False
+SYNTH_01,DONOR_0318,,,,False
+SYNTH_01,DONOR_0319,Current reformed smoker for <= 15 years,Not available|Waterpipe|Snuff,11.0,False
+SYNTH_01,DONOR_0320,"Current reformed smoker, duration not specified",Roll-ups|Cigarettes,,False
+SYNTH_01,DONOR_0321,Current smoker,Roll-ups|Cigar|Waterpipe,,True
+SYNTH_01,DONOR_0322,,,,False
+SYNTH_01,DONOR_0323,Current reformed smoker for > 15 years,Not available|Cigarettes,,True
+SYNTH_01,DONOR_0324,Current smoker,Not available,62.0,False
+SYNTH_01,DONOR_0325,Not applicable,,,False
+SYNTH_01,DONOR_0326,Current smoker,Cigar|Electronic cigarettes|Waterpipe,,True
+SYNTH_01,DONOR_0327,"Current reformed smoker, duration not specified",Roll-ups|Cigarettes|Waterpipe,,False
+SYNTH_01,DONOR_0328,Current reformed smoker for > 15 years,Cigarettes|Pipe,63.0,False
+SYNTH_01,DONOR_0329,Lifelong non-smoker (<100 cigarettes smoked in lifetime),,,False
+SYNTH_01,DONOR_0330,,,,False
+SYNTH_01,DONOR_0331,Not available,,,False
+SYNTH_01,DONOR_0332,,,,False
+SYNTH_01,DONOR_0333,Not available,,,False
+SYNTH_01,DONOR_0334,Lifelong non-smoker (<100 cigarettes smoked in lifetime),,,False
+SYNTH_01,DONOR_0335,,,,False
+SYNTH_01,DONOR_0336,,,,False
+SYNTH_01,DONOR_0337,,,,False
+SYNTH_01,DONOR_0338,Current smoker,Pipe|Waterpipe|Cigar,,True
+SYNTH_01,DONOR_0339,"Current reformed smoker, duration not specified",Waterpipe|Cigar|Snuff,,False
+SYNTH_01,DONOR_0340,Not applicable,,,False
+SYNTH_01,DONOR_0341,Current reformed smoker for <= 15 years,Roll-ups|Not available,40.0,False
+SYNTH_01,DONOR_0342,Lifelong non-smoker (<100 cigarettes smoked in lifetime),,,False
+SYNTH_01,DONOR_0343,Current smoker,Snuff|Chewing Tobacco,54.0,False
+SYNTH_01,DONOR_0344,"Current reformed smoker, duration not specified",Chewing Tobacco|Cigarettes|Pipe,,False
+SYNTH_01,DONOR_0345,,,,False
+SYNTH_01,DONOR_0346,Current smoker,Snuff|Electronic cigarettes,42.0,False
+SYNTH_01,DONOR_0347,"Current reformed smoker, duration not specified",Pipe|Chewing Tobacco|Not available,,False
+SYNTH_01,DONOR_0348,Current reformed smoker for <= 15 years,Cigar,6.0,False
+SYNTH_01,DONOR_0349,Not applicable,,,False
+SYNTH_01,DONOR_0350,,,,False
+SYNTH_01,DONOR_0351,Not applicable,,,False
+SYNTH_01,DONOR_0352,Current smoker,Waterpipe,58.0,False
+SYNTH_01,DONOR_0353,Not available,,,False
+SYNTH_01,DONOR_0354,Lifelong non-smoker (<100 cigarettes smoked in lifetime),,,False
+SYNTH_01,DONOR_0355,"Current reformed smoker, duration not specified",Electronic cigarettes,,False
+SYNTH_01,DONOR_0356,"Current reformed smoker, duration not specified",Cigar|Electronic cigarettes,,False
+SYNTH_01,DONOR_0357,Not applicable,,,False
+SYNTH_01,DONOR_0358,"Current reformed smoker, duration not specified",Waterpipe,,False
+SYNTH_01,DONOR_0359,,,,False
+SYNTH_01,DONOR_0360,,,,False
+SYNTH_01,DONOR_0361,Lifelong non-smoker (<100 cigarettes smoked in lifetime),,,False
+SYNTH_01,DONOR_0362,Current reformed smoker for <= 15 years,Pipe,9.0,False
+SYNTH_01,DONOR_0363,Not available,,,False
+SYNTH_01,DONOR_0364,,,,False
+SYNTH_01,DONOR_0365,Not available,,,False
+SYNTH_01,DONOR_0366,Not applicable,,,False
+SYNTH_01,DONOR_0367,"Current reformed smoker, duration not specified",Roll-ups|Chewing Tobacco,,False
+SYNTH_01,DONOR_0368,Lifelong non-smoker (<100 cigarettes smoked in lifetime),,,False
+SYNTH_01,DONOR_0369,Lifelong non-smoker (<100 cigarettes smoked in lifetime),,,False
+SYNTH_01,DONOR_0370,"Current reformed smoker, duration not specified",Chewing Tobacco|Not available|Roll-ups,,False
+SYNTH_01,DONOR_0371,Not applicable,,,False
+SYNTH_01,DONOR_0372,Lifelong non-smoker (<100 cigarettes smoked in lifetime),,,False
+SYNTH_01,DONOR_0373,"Current reformed smoker, duration not specified",Snuff|Pipe|Cigar,,False
+SYNTH_01,DONOR_0374,Current smoker,Cigar|Pipe|Waterpipe,15.0,False
+SYNTH_01,DONOR_0375,Not available,,,False
+SYNTH_01,DONOR_0376,Current reformed smoker for > 15 years,Waterpipe|Pipe,,True
+SYNTH_02,DONOR_0627,Lifelong non-smoker (<100 cigarettes smoked in lifetime),,,False
+SYNTH_02,DONOR_0628,"Current reformed smoker, duration not specified",Waterpipe|Cigar|Roll-ups,,False
+SYNTH_02,DONOR_0629,Not applicable,,,False
+SYNTH_02,DONOR_0630,Not available,,,False
+SYNTH_02,DONOR_0631,Current reformed smoker for > 15 years,Chewing Tobacco,,True
+SYNTH_02,DONOR_0632,Not applicable,,,False
+SYNTH_02,DONOR_0633,Lifelong non-smoker (<100 cigarettes smoked in lifetime),,,False
+SYNTH_02,DONOR_0634,Not available,,,False
+SYNTH_02,DONOR_0635,,,,False
+SYNTH_02,DONOR_0636,"Current reformed smoker, duration not specified",Chewing Tobacco|Roll-ups|Electronic cigarettes,,False
+SYNTH_02,DONOR_0637,"Current reformed smoker, duration not specified",Pipe|Waterpipe|Chewing Tobacco,,False
+SYNTH_02,DONOR_0638,Current smoker,Chewing Tobacco,,True
+SYNTH_02,DONOR_0639,,,,False
+SYNTH_02,DONOR_0640,Current reformed smoker for <= 15 years,Roll-ups,,True
+SYNTH_02,DONOR_0641,Not available,,,False
+SYNTH_02,DONOR_0642,Not applicable,,,False
+SYNTH_02,DONOR_0643,Current reformed smoker for > 15 years,Waterpipe|Roll-ups,,True
+SYNTH_02,DONOR_0644,Lifelong non-smoker (<100 cigarettes smoked in lifetime),,,False
+SYNTH_02,DONOR_0645,Current smoker,Chewing Tobacco|Cigar,53.0,False
+SYNTH_02,DONOR_0646,Current smoker,Cigar|Roll-ups,25.0,False
+SYNTH_02,DONOR_0647,,,,False
+SYNTH_02,DONOR_0648,Lifelong non-smoker (<100 cigarettes smoked in lifetime),,,False
+SYNTH_02,DONOR_0649,"Current reformed smoker, duration not specified",Snuff|Waterpipe,,False
+SYNTH_02,DONOR_0650,Not applicable,,,False
+SYNTH_02,DONOR_0651,Not applicable,,,False
+SYNTH_02,DONOR_0652,Current reformed smoker for <= 15 years,Waterpipe|Not available,,True
+SYNTH_02,DONOR_0653,Lifelong non-smoker (<100 cigarettes smoked in lifetime),,,False
+SYNTH_02,DONOR_0654,"Current reformed smoker, duration not specified",Pipe|Roll-ups,,False
+SYNTH_02,DONOR_0655,Not available,,,False
+SYNTH_02,DONOR_0656,Current reformed smoker for > 15 years,Not available,38.0,False
+SYNTH_02,DONOR_0657,Not applicable,,,False
+SYNTH_02,DONOR_0658,Not available,,,False
+SYNTH_02,DONOR_0659,Current smoker,Chewing Tobacco|Electronic cigarettes,69.0,False
+SYNTH_02,DONOR_0660,Not available,,,False
+SYNTH_02,DONOR_0661,Current reformed smoker for > 15 years,Chewing Tobacco|Waterpipe,12.0,False
+SYNTH_02,DONOR_0662,Lifelong non-smoker (<100 cigarettes smoked in lifetime),,,False
+SYNTH_02,DONOR_0663,Not available,,,False
+SYNTH_02,DONOR_0664,Not available,,,False
+SYNTH_02,DONOR_0665,Current smoker,Electronic cigarettes,28.0,False
+SYNTH_02,DONOR_0666,"Current reformed smoker, duration not specified",Cigar|Pipe,,False
+SYNTH_02,DONOR_0667,,,,False
+SYNTH_02,DONOR_0668,Lifelong non-smoker (<100 cigarettes smoked in lifetime),,,False
+SYNTH_02,DONOR_0669,Current reformed smoker for > 15 years,Cigarettes|Chewing Tobacco|Waterpipe,,True
+SYNTH_02,DONOR_0670,Lifelong non-smoker (<100 cigarettes smoked in lifetime),,,False
+SYNTH_02,DONOR_0671,,,,False
+SYNTH_02,DONOR_0672,Lifelong non-smoker (<100 cigarettes smoked in lifetime),,,False
+SYNTH_02,DONOR_0673,Current reformed smoker for > 15 years,Snuff|Electronic cigarettes|Pipe,,True
+SYNTH_02,DONOR_0674,Current smoker,Roll-ups,,True
+SYNTH_02,DONOR_0675,"Current reformed smoker, duration not specified",Electronic cigarettes|Cigar|Not available,,False
+SYNTH_02,DONOR_0676,Lifelong non-smoker (<100 cigarettes smoked in lifetime),,,False
+SYNTH_02,DONOR_0677,Current reformed smoker for > 15 years,Cigarettes|Chewing Tobacco,7.0,False
+SYNTH_02,DONOR_0678,Current smoker,Pipe,,True
+SYNTH_02,DONOR_0679,Current reformed smoker for <= 15 years,Pipe|Electronic cigarettes,,True
+SYNTH_02,DONOR_0680,Lifelong non-smoker (<100 cigarettes smoked in lifetime),,,False
+SYNTH_02,DONOR_0681,Current reformed smoker for <= 15 years,Cigar|Chewing Tobacco,17.0,False
+SYNTH_02,DONOR_0682,,,,False
+SYNTH_02,DONOR_0683,Not available,,,False
+SYNTH_02,DONOR_0684,Not applicable,,,False
+SYNTH_02,DONOR_0685,Current reformed smoker for > 15 years,Pipe|Electronic cigarettes,34.0,False
+SYNTH_02,DONOR_0686,Current reformed smoker for <= 15 years,Cigar,,True
+SYNTH_02,DONOR_0687,,,,False
+SYNTH_02,DONOR_0688,Not applicable,,,False
+SYNTH_02,DONOR_0689,"Current reformed smoker, duration not specified",Electronic cigarettes|Chewing Tobacco,,False
+SYNTH_02,DONOR_0690,Lifelong non-smoker (<100 cigarettes smoked in lifetime),,,False
+SYNTH_02,DONOR_0691,Not available,,,False
+SYNTH_02,DONOR_0692,,,,False
+SYNTH_02,DONOR_0693,Current reformed smoker for > 15 years,Chewing Tobacco|Cigar,,True
+SYNTH_02,DONOR_0694,Not available,,,False
+SYNTH_02,DONOR_0695,,,,False
+SYNTH_02,DONOR_0696,Not applicable,,,False
+SYNTH_02,DONOR_0697,"Current reformed smoker, duration not specified",Roll-ups,,False
+SYNTH_02,DONOR_0698,Current reformed smoker for <= 15 years,Waterpipe|Chewing Tobacco,,True
+SYNTH_02,DONOR_0699,,,,False
+SYNTH_02,DONOR_0700,"Current reformed smoker, duration not specified",Electronic cigarettes|Pipe|Cigarettes,,False
+SYNTH_02,DONOR_0701,,,,False
+SYNTH_02,DONOR_0702,Lifelong non-smoker (<100 cigarettes smoked in lifetime),,,False
+SYNTH_02,DONOR_0703,Current reformed smoker for > 15 years,Waterpipe|Not available,31.0,False
+SYNTH_02,DONOR_0704,Lifelong non-smoker (<100 cigarettes smoked in lifetime),,,False
+SYNTH_02,DONOR_0705,,,,False
+SYNTH_02,DONOR_0706,Not applicable,,,False
+SYNTH_02,DONOR_0707,Current reformed smoker for > 15 years,Snuff|Waterpipe,,True
+SYNTH_02,DONOR_0708,Current reformed smoker for <= 15 years,Cigar,28.0,False
+SYNTH_02,DONOR_0709,,,,False
+SYNTH_02,DONOR_0710,Not available,,,False
+SYNTH_02,DONOR_0711,,,,False
+SYNTH_02,DONOR_0712,Current smoker,Snuff,,True
+SYNTH_02,DONOR_0713,,,,False
+SYNTH_02,DONOR_0714,Current reformed smoker for > 15 years,Chewing Tobacco,,True
+SYNTH_02,DONOR_0715,Current reformed smoker for <= 15 years,Chewing Tobacco|Not available|Electronic cigarettes,,True
+SYNTH_02,DONOR_0716,Current smoker,Not available|Waterpipe|Cigarettes,,True
+SYNTH_02,DONOR_0717,Not available,,,False
+SYNTH_02,DONOR_0718,Current reformed smoker for > 15 years,Cigarettes|Electronic cigarettes|Pipe,65.0,False
+SYNTH_02,DONOR_0719,Not applicable,,,False
+SYNTH_02,DONOR_0720,Not available,,,False
+SYNTH_02,DONOR_0721,Not applicable,,,False
+SYNTH_02,DONOR_0722,,,,False
+SYNTH_02,DONOR_0723,Not applicable,,,False
+SYNTH_02,DONOR_0724,Current reformed smoker for > 15 years,Snuff|Chewing Tobacco,,True
+SYNTH_02,DONOR_0725,Not applicable,,,False
+SYNTH_02,DONOR_0726,"Current reformed smoker, duration not specified",Waterpipe,,False
+SYNTH_02,DONOR_0727,"Current reformed smoker, duration not specified",Cigarettes,,False
+SYNTH_02,DONOR_0728,,,,False
+SYNTH_02,DONOR_0729,Not available,,,False
+SYNTH_02,DONOR_0730,Not applicable,,,False
+SYNTH_02,DONOR_0731,Current reformed smoker for > 15 years,Chewing Tobacco,,True
+SYNTH_02,DONOR_0732,Not applicable,,,False
+SYNTH_02,DONOR_0733,Lifelong non-smoker (<100 cigarettes smoked in lifetime),,,False
+SYNTH_02,DONOR_0734,Not available,,,False
+SYNTH_02,DONOR_0735,Not applicable,,,False
+SYNTH_02,DONOR_0736,,,,False
+SYNTH_02,DONOR_0737,Current reformed smoker for <= 15 years,Pipe,,True
+SYNTH_02,DONOR_0738,Current reformed smoker for > 15 years,Chewing Tobacco|Pipe|Electronic cigarettes,40.0,False
+SYNTH_02,DONOR_0739,Current reformed smoker for <= 15 years,Electronic cigarettes,43.0,False
+SYNTH_02,DONOR_0740,Current reformed smoker for > 15 years,Snuff|Cigarettes|Chewing Tobacco,,True
+SYNTH_02,DONOR_0741,Current reformed smoker for <= 15 years,Cigar,,True
+SYNTH_02,DONOR_0742,Lifelong non-smoker (<100 cigarettes smoked in lifetime),,,False
+SYNTH_02,DONOR_0743,Lifelong non-smoker (<100 cigarettes smoked in lifetime),,,False
+SYNTH_02,DONOR_0744,Current reformed smoker for > 15 years,Electronic cigarettes,,True
+SYNTH_02,DONOR_0745,Current reformed smoker for > 15 years,Snuff|Cigar,,True
+SYNTH_02,DONOR_0746,Current smoker,Cigar|Electronic cigarettes|Chewing Tobacco,45.0,False
+SYNTH_02,DONOR_0747,Current reformed smoker for <= 15 years,Cigarettes|Roll-ups,,True
+SYNTH_02,DONOR_0748,,,,False
+SYNTH_02,DONOR_0749,Current reformed smoker for > 15 years,Waterpipe|Cigar,67.0,False
+SYNTH_02,DONOR_0750,Not available,,,False
+SYNTH_02,DONOR_0751,,,,False
+SYNTH_02,DONOR_0752,Lifelong non-smoker (<100 cigarettes smoked in lifetime),,,False
+SYNTH_02,DONOR_0753,Not available,,,False
+SYNTH_02,DONOR_0754,Current reformed smoker for <= 15 years,Electronic cigarettes|Pipe|Waterpipe,,True
+SYNTH_02,DONOR_0755,Current reformed smoker for > 15 years,Snuff,,True
+SYNTH_02,DONOR_0756,"Current reformed smoker, duration not specified",Chewing Tobacco,,False
+SYNTH_02,DONOR_0757,Lifelong non-smoker (<100 cigarettes smoked in lifetime),,,False
+SYNTH_02,DONOR_0758,Lifelong non-smoker (<100 cigarettes smoked in lifetime),,,False
+SYNTH_02,DONOR_0759,Not applicable,,,False
+SYNTH_02,DONOR_0760,,,,False
+SYNTH_02,DONOR_0761,"Current reformed smoker, duration not specified",Pipe,,False
+SYNTH_02,DONOR_0762,Current reformed smoker for > 15 years,Cigar,,True
+SYNTH_02,DONOR_0763,Not available,,,False
+SYNTH_02,DONOR_0764,Current smoker,Electronic cigarettes|Snuff,,True
+SYNTH_02,DONOR_0765,Not applicable,,,False
+SYNTH_02,DONOR_0766,,,,False
+SYNTH_02,DONOR_0767,Current reformed smoker for > 15 years,Cigar|Waterpipe,35.0,False
+SYNTH_02,DONOR_0768,Current reformed smoker for > 15 years,Chewing Tobacco|Roll-ups|Cigarettes,11.0,False
+SYNTH_02,DONOR_0769,Current smoker,Chewing Tobacco|Snuff,6.0,False
+SYNTH_02,DONOR_0770,Lifelong non-smoker (<100 cigarettes smoked in lifetime),,,False
+SYNTH_02,DONOR_0771,Current reformed smoker for <= 15 years,Not available|Waterpipe,,True
+SYNTH_02,DONOR_0772,Current reformed smoker for > 15 years,Cigar|Snuff,17.0,False
+SYNTH_02,DONOR_0773,Not available,,,False
+SYNTH_02,DONOR_0774,Not applicable,,,False
+SYNTH_02,DONOR_0775,Not applicable,,,False
+SYNTH_02,DONOR_0776,"Current reformed smoker, duration not specified",Cigarettes|Chewing Tobacco|Snuff,,False
+SYNTH_02,DONOR_0777,Current reformed smoker for <= 15 years,Chewing Tobacco,,True
+SYNTH_02,DONOR_0778,"Current reformed smoker, duration not specified",Chewing Tobacco|Snuff|Cigar,,False
+SYNTH_02,DONOR_0779,Lifelong non-smoker (<100 cigarettes smoked in lifetime),,,False
+SYNTH_02,DONOR_0780,Current reformed smoker for <= 15 years,Cigarettes|Cigar,,True
+SYNTH_02,DONOR_0781,Lifelong non-smoker (<100 cigarettes smoked in lifetime),,,False
+SYNTH_02,DONOR_0782,,,,False
+SYNTH_02,DONOR_0783,Current reformed smoker for <= 15 years,Chewing Tobacco|Cigarettes|Electronic cigarettes,,True
+SYNTH_02,DONOR_0784,Not available,,,False
+SYNTH_02,DONOR_0785,Current reformed smoker for <= 15 years,Waterpipe,51.0,False
+SYNTH_02,DONOR_0786,Not applicable,,,False
+SYNTH_02,DONOR_0787,Current smoker,Waterpipe|Cigarettes|Not available,,True
+SYNTH_02,DONOR_0788,Lifelong non-smoker (<100 cigarettes smoked in lifetime),,,False
+SYNTH_02,DONOR_0789,,,,False
+SYNTH_02,DONOR_0790,Not applicable,,,False
+SYNTH_02,DONOR_0791,Current reformed smoker for <= 15 years,Cigar,22.0,False
+SYNTH_02,DONOR_0792,Current reformed smoker for > 15 years,Pipe|Waterpipe,51.0,False
+SYNTH_02,DONOR_0793,"Current reformed smoker, duration not specified",Chewing Tobacco|Electronic cigarettes|Snuff,,False
+SYNTH_02,DONOR_0794,Current smoker,Pipe|Chewing Tobacco|Cigar,,True
+SYNTH_02,DONOR_0795,Current reformed smoker for <= 15 years,Cigarettes|Waterpipe,31.0,False
+SYNTH_02,DONOR_0796,Current smoker,Cigarettes|Snuff,38.0,False
+SYNTH_02,DONOR_0797,Current reformed smoker for > 15 years,Waterpipe|Chewing Tobacco|Pipe,19.0,False
+SYNTH_02,DONOR_0798,Lifelong non-smoker (<100 cigarettes smoked in lifetime),,,False
+SYNTH_02,DONOR_0799,Lifelong non-smoker (<100 cigarettes smoked in lifetime),,,False
+SYNTH_02,DONOR_0800,"Current reformed smoker, duration not specified",Cigar|Pipe|Electronic cigarettes,,False
+SYNTH_02,DONOR_0801,"Current reformed smoker, duration not specified",Snuff|Roll-ups|Waterpipe,,False
+SYNTH_02,DONOR_0802,Current smoker,Waterpipe,,True
+SYNTH_02,DONOR_0803,,,,False
+SYNTH_02,DONOR_0804,Lifelong non-smoker (<100 cigarettes smoked in lifetime),,,False
+SYNTH_02,DONOR_0805,"Current reformed smoker, duration not specified",Electronic cigarettes,,False
+SYNTH_02,DONOR_0806,Not available,,,False
+SYNTH_02,DONOR_0807,Current reformed smoker for > 15 years,Electronic cigarettes,,True
+SYNTH_02,DONOR_0808,Not available,,,False
+SYNTH_02,DONOR_0809,Not available,,,False
+SYNTH_02,DONOR_0810,Current smoker,Cigar|Not available,,True
+SYNTH_02,DONOR_0811,Not applicable,,,False
+SYNTH_02,DONOR_0812,Current smoker,Electronic cigarettes|Not available|Chewing Tobacco,,True
+SYNTH_02,DONOR_0813,Current reformed smoker for <= 15 years,Not available|Cigarettes|Pipe,12.0,False
+SYNTH_02,DONOR_0814,Current reformed smoker for <= 15 years,Waterpipe|Electronic cigarettes|Chewing Tobacco,45.0,False
+SYNTH_02,DONOR_0815,Current reformed smoker for > 15 years,Electronic cigarettes|Snuff,,True
+SYNTH_02,DONOR_0816,Current reformed smoker for <= 15 years,Cigarettes|Cigar,36.0,False
+SYNTH_02,DONOR_0817,Current reformed smoker for > 15 years,Snuff|Waterpipe|Chewing Tobacco,,True
+SYNTH_02,DONOR_0818,Not applicable,,,False
+SYNTH_02,DONOR_0819,Not applicable,,,False
+SYNTH_02,DONOR_0820,Lifelong non-smoker (<100 cigarettes smoked in lifetime),,,False
+SYNTH_02,DONOR_0821,Not applicable,,,False
+SYNTH_02,DONOR_0822,Current reformed smoker for <= 15 years,Electronic cigarettes|Chewing Tobacco,40.0,False
+SYNTH_02,DONOR_0823,Current reformed smoker for > 15 years,Cigar|Cigarettes,,True
+SYNTH_02,DONOR_0824,Lifelong non-smoker (<100 cigarettes smoked in lifetime),,,False
+SYNTH_02,DONOR_0825,,,,False
+SYNTH_02,DONOR_0826,Not available,,,False
+SYNTH_02,DONOR_0827,"Current reformed smoker, duration not specified",Roll-ups|Not available,,False
+SYNTH_02,DONOR_0828,"Current reformed smoker, duration not specified",Cigarettes,,False
+SYNTH_02,DONOR_0829,Current smoker,Pipe,21.0,False
+SYNTH_02,DONOR_0830,Not available,,,False
+SYNTH_02,DONOR_0831,Lifelong non-smoker (<100 cigarettes smoked in lifetime),,,False
+SYNTH_02,DONOR_0832,Lifelong non-smoker (<100 cigarettes smoked in lifetime),,,False
+SYNTH_02,DONOR_0833,Current reformed smoker for > 15 years,Pipe,,True
+SYNTH_02,DONOR_0834,"Current reformed smoker, duration not specified",Snuff|Cigar|Cigarettes,,False
+SYNTH_02,DONOR_0835,Not available,,,False
+SYNTH_02,DONOR_0836,Not available,,,False
+SYNTH_02,DONOR_0837,Not available,,,False
+SYNTH_02,DONOR_0838,Current smoker,Electronic cigarettes|Pipe,41.0,False
+SYNTH_02,DONOR_0839,Not available,,,False
+SYNTH_02,DONOR_0840,Not available,,,False
+SYNTH_02,DONOR_0841,Current reformed smoker for > 15 years,Chewing Tobacco,36.0,False
+SYNTH_02,DONOR_0842,Not available,,,False
+SYNTH_02,DONOR_0843,Not applicable,,,False
+SYNTH_02,DONOR_0844,Current reformed smoker for > 15 years,Electronic cigarettes,,True
+SYNTH_02,DONOR_0845,Current smoker,Cigarettes|Pipe,,True
+SYNTH_02,DONOR_0846,Not available,,,False
+SYNTH_02,DONOR_0847,,,,False
+SYNTH_02,DONOR_0848,Lifelong non-smoker (<100 cigarettes smoked in lifetime),,,False
+SYNTH_02,DONOR_0849,Not applicable,,,False
+SYNTH_02,DONOR_0850,Current reformed smoker for <= 15 years,Cigar|Snuff,,True
+SYNTH_02,DONOR_0851,Not available,,,False
+SYNTH_02,DONOR_0852,Not applicable,,,False
+SYNTH_02,DONOR_0853,,,,False
+SYNTH_02,DONOR_0854,"Current reformed smoker, duration not specified",Pipe,,False
+SYNTH_02,DONOR_0855,Current smoker,Not available|Snuff|Chewing Tobacco,21.0,False
+SYNTH_02,DONOR_0856,,,,False
+SYNTH_02,DONOR_0857,Lifelong non-smoker (<100 cigarettes smoked in lifetime),,,False
+SYNTH_02,DONOR_0858,Not available,,,False
+SYNTH_02,DONOR_0859,,,,False
+SYNTH_02,DONOR_0860,"Current reformed smoker, duration not specified",Chewing Tobacco|Electronic cigarettes,,False
+SYNTH_02,DONOR_0861,Not available,,,False
+SYNTH_02,DONOR_0862,Current reformed smoker for <= 15 years,Snuff|Roll-ups|Cigarettes,,True
+SYNTH_02,DONOR_0863,Not available,,,False
+SYNTH_02,DONOR_0864,Current reformed smoker for <= 15 years,Roll-ups|Cigarettes|Electronic cigarettes,,True
+SYNTH_02,DONOR_0865,Not available,,,False
+SYNTH_02,DONOR_0866,Not available,,,False
+SYNTH_02,DONOR_0867,Not applicable,,,False
+SYNTH_02,DONOR_0868,Current reformed smoker for > 15 years,Electronic cigarettes,45.0,False
+SYNTH_02,DONOR_0869,Current reformed smoker for > 15 years,Roll-ups,26.0,False
+SYNTH_02,DONOR_0870,Lifelong non-smoker (<100 cigarettes smoked in lifetime),,,False
+SYNTH_02,DONOR_0871,Not applicable,,,False
+SYNTH_02,DONOR_0872,"Current reformed smoker, duration not specified",Snuff|Not available,,False
+SYNTH_02,DONOR_0873,Current reformed smoker for > 15 years,Waterpipe|Cigarettes|Chewing Tobacco,,True
+SYNTH_02,DONOR_0874,Lifelong non-smoker (<100 cigarettes smoked in lifetime),,,False
+SYNTH_02,DONOR_0875,Not applicable,,,False
+SYNTH_02,DONOR_0876,,,,False
+SYNTH_03,DONOR_1127,Not applicable,,,False
+SYNTH_03,DONOR_1128,Current reformed smoker for > 15 years,Snuff|Roll-ups|Not available,,True
+SYNTH_03,DONOR_1129,Current reformed smoker for <= 15 years,Cigarettes|Not available,38.0,False
+SYNTH_03,DONOR_1130,Lifelong non-smoker (<100 cigarettes smoked in lifetime),,,False
+SYNTH_03,DONOR_1131,,,,False
+SYNTH_03,DONOR_1132,Current smoker,Cigarettes,,True
+SYNTH_03,DONOR_1133,,,,False
+SYNTH_03,DONOR_1134,Not applicable,,,False
+SYNTH_03,DONOR_1135,"Current reformed smoker, duration not specified",Waterpipe|Pipe,,False
+SYNTH_03,DONOR_1136,Not applicable,,,False
+SYNTH_03,DONOR_1137,Not applicable,,,False
+SYNTH_03,DONOR_1138,,,,False
+SYNTH_03,DONOR_1139,Not available,,,False
+SYNTH_03,DONOR_1140,Current reformed smoker for <= 15 years,Waterpipe|Chewing Tobacco|Cigarettes,66.0,False
+SYNTH_03,DONOR_1141,Not available,,,False
+SYNTH_03,DONOR_1142,Current smoker,Waterpipe,,True
+SYNTH_03,DONOR_1143,Not applicable,,,False
+SYNTH_03,DONOR_1144,Lifelong non-smoker (<100 cigarettes smoked in lifetime),,,False
+SYNTH_03,DONOR_1145,Current reformed smoker for <= 15 years,Pipe|Not available,18.0,False
+SYNTH_03,DONOR_1146,Current reformed smoker for > 15 years,Cigar|Cigarettes,45.0,False
+SYNTH_03,DONOR_1147,"Current reformed smoker, duration not specified",Snuff,,False
+SYNTH_03,DONOR_1148,Current smoker,Cigar,32.0,False
+SYNTH_03,DONOR_1149,,,,False
+SYNTH_03,DONOR_1150,Not applicable,,,False
+SYNTH_03,DONOR_1151,Lifelong non-smoker (<100 cigarettes smoked in lifetime),,,False
+SYNTH_03,DONOR_1152,Current reformed smoker for <= 15 years,Snuff,30.0,False
+SYNTH_03,DONOR_1153,Current smoker,Snuff|Chewing Tobacco,37.0,False
+SYNTH_03,DONOR_1154,Current smoker,Snuff|Cigar,53.0,False
+SYNTH_03,DONOR_1155,"Current reformed smoker, duration not specified",Roll-ups|Not available|Cigarettes,,False
+SYNTH_03,DONOR_1156,Not applicable,,,False
+SYNTH_03,DONOR_1157,,,,False
+SYNTH_03,DONOR_1158,Not available,,,False
+SYNTH_03,DONOR_1159,Current smoker,Pipe|Cigar,41.0,False
+SYNTH_03,DONOR_1160,Current reformed smoker for > 15 years,Waterpipe,,True
+SYNTH_03,DONOR_1161,Not applicable,,,False
+SYNTH_03,DONOR_1162,Current smoker,Not available|Roll-ups,53.0,False
+SYNTH_03,DONOR_1163,Not available,,,False
+SYNTH_03,DONOR_1164,Not applicable,,,False
+SYNTH_03,DONOR_1165,Not available,,,False
+SYNTH_03,DONOR_1166,,,,False
+SYNTH_03,DONOR_1167,Current reformed smoker for <= 15 years,Cigarettes|Snuff|Not available,27.0,False
+SYNTH_03,DONOR_1168,Current smoker,Chewing Tobacco,16.0,False
+SYNTH_03,DONOR_1169,Not available,,,False
+SYNTH_03,DONOR_1170,Not available,,,False
+SYNTH_03,DONOR_1171,Current smoker,Not available|Snuff|Chewing Tobacco,,True
+SYNTH_03,DONOR_1172,Current reformed smoker for > 15 years,Cigarettes|Waterpipe|Chewing Tobacco,55.0,False
+SYNTH_03,DONOR_1173,Current smoker,Snuff,48.0,False
+SYNTH_03,DONOR_1174,,,,False
+SYNTH_03,DONOR_1175,Current reformed smoker for <= 15 years,Electronic cigarettes|Pipe|Cigarettes,34.0,False
+SYNTH_03,DONOR_1176,Not available,,,False
+SYNTH_03,DONOR_1177,,,,False
+SYNTH_03,DONOR_1178,Current reformed smoker for <= 15 years,Chewing Tobacco|Waterpipe|Roll-ups,10.0,False
+SYNTH_03,DONOR_1179,Current reformed smoker for > 15 years,Electronic cigarettes,,True
+SYNTH_03,DONOR_1180,Current reformed smoker for <= 15 years,Cigarettes|Chewing Tobacco|Roll-ups,,True
+SYNTH_03,DONOR_1181,Lifelong non-smoker (<100 cigarettes smoked in lifetime),,,False
+SYNTH_03,DONOR_1182,Current reformed smoker for <= 15 years,Waterpipe|Cigar,,True
+SYNTH_03,DONOR_1183,Not applicable,,,False
+SYNTH_03,DONOR_1184,,,,False
+SYNTH_03,DONOR_1185,"Current reformed smoker, duration not specified",Electronic cigarettes,,False
+SYNTH_03,DONOR_1186,Current reformed smoker for > 15 years,Cigar|Pipe|Not available,,True
+SYNTH_03,DONOR_1187,Current reformed smoker for <= 15 years,Snuff,,True
+SYNTH_03,DONOR_1188,Current reformed smoker for <= 15 years,Electronic cigarettes|Waterpipe,,True
+SYNTH_03,DONOR_1189,Not available,,,False
+SYNTH_03,DONOR_1190,Lifelong non-smoker (<100 cigarettes smoked in lifetime),,,False
+SYNTH_03,DONOR_1191,Current smoker,Cigar,,True
+SYNTH_03,DONOR_1192,Current reformed smoker for <= 15 years,Roll-ups|Cigar|Electronic cigarettes,28.0,False
+SYNTH_03,DONOR_1193,Current smoker,Not available|Snuff|Chewing Tobacco,,True
+SYNTH_03,DONOR_1194,Lifelong non-smoker (<100 cigarettes smoked in lifetime),,,False
+SYNTH_03,DONOR_1195,Current smoker,Waterpipe|Electronic cigarettes,,True
+SYNTH_03,DONOR_1196,,,,False
+SYNTH_03,DONOR_1197,Not available,,,False
+SYNTH_03,DONOR_1198,Lifelong non-smoker (<100 cigarettes smoked in lifetime),,,False
+SYNTH_03,DONOR_1199,Current smoker,Not available|Cigarettes|Electronic cigarettes,,True
+SYNTH_03,DONOR_1200,Current reformed smoker for <= 15 years,Electronic cigarettes|Snuff|Pipe,,True
+SYNTH_03,DONOR_1201,Not applicable,,,False
+SYNTH_03,DONOR_1202,"Current reformed smoker, duration not specified",Waterpipe,,False
+SYNTH_03,DONOR_1203,Current reformed smoker for > 15 years,Cigar|Waterpipe,18.0,False
+SYNTH_03,DONOR_1204,"Current reformed smoker, duration not specified",Cigar,,False
+SYNTH_03,DONOR_1205,Lifelong non-smoker (<100 cigarettes smoked in lifetime),,,False
+SYNTH_03,DONOR_1206,"Current reformed smoker, duration not specified",Chewing Tobacco|Cigar,,False
+SYNTH_03,DONOR_1207,Current smoker,Chewing Tobacco,18.0,False
+SYNTH_03,DONOR_1208,Current smoker,Cigar|Electronic cigarettes,45.0,False
+SYNTH_03,DONOR_1209,,,,False
+SYNTH_03,DONOR_1210,Not applicable,,,False
+SYNTH_03,DONOR_1211,,,,False
+SYNTH_03,DONOR_1212,Not applicable,,,False
+SYNTH_03,DONOR_1213,Lifelong non-smoker (<100 cigarettes smoked in lifetime),,,False
+SYNTH_03,DONOR_1214,,,,False
+SYNTH_03,DONOR_1215,Current reformed smoker for > 15 years,Pipe|Not available,22.0,False
+SYNTH_03,DONOR_1216,Current reformed smoker for <= 15 years,Not available|Cigarettes,,True
+SYNTH_03,DONOR_1217,Lifelong non-smoker (<100 cigarettes smoked in lifetime),,,False
+SYNTH_03,DONOR_1218,,,,False
+SYNTH_03,DONOR_1219,Current reformed smoker for <= 15 years,Pipe|Cigarettes,20.0,False
+SYNTH_03,DONOR_1220,Lifelong non-smoker (<100 cigarettes smoked in lifetime),,,False
+SYNTH_03,DONOR_1221,Current reformed smoker for <= 15 years,Electronic cigarettes|Chewing Tobacco,,True
+SYNTH_03,DONOR_1222,Current reformed smoker for > 15 years,Chewing Tobacco,36.0,False
+SYNTH_03,DONOR_1223,Current smoker,Cigar|Pipe|Not available,,True
+SYNTH_03,DONOR_1224,"Current reformed smoker, duration not specified",Pipe|Cigar|Waterpipe,,False
+SYNTH_03,DONOR_1225,Current reformed smoker for > 15 years,Pipe,32.0,False
+SYNTH_03,DONOR_1226,"Current reformed smoker, duration not specified",Snuff|Electronic cigarettes|Cigar,,False
+SYNTH_03,DONOR_1227,Current reformed smoker for <= 15 years,Waterpipe|Chewing Tobacco,48.0,False
+SYNTH_03,DONOR_1228,Lifelong non-smoker (<100 cigarettes smoked in lifetime),,,False
+SYNTH_03,DONOR_1229,Current reformed smoker for > 15 years,Chewing Tobacco|Roll-ups,,True
+SYNTH_03,DONOR_1230,"Current reformed smoker, duration not specified",Cigarettes,,False
+SYNTH_03,DONOR_1231,Not applicable,,,False
+SYNTH_03,DONOR_1232,Not applicable,,,False
+SYNTH_03,DONOR_1233,Not available,,,False
+SYNTH_03,DONOR_1234,Current smoker,Cigar,35.0,False
+SYNTH_03,DONOR_1235,Current reformed smoker for <= 15 years,Pipe|Not available|Snuff,,True
+SYNTH_03,DONOR_1236,Current reformed smoker for > 15 years,Waterpipe|Not available|Electronic cigarettes,27.0,False
+SYNTH_03,DONOR_1237,Not available,,,False
+SYNTH_03,DONOR_1238,Not available,,,False
+SYNTH_03,DONOR_1239,Not applicable,,,False
+SYNTH_03,DONOR_1240,"Current reformed smoker, duration not specified",Pipe,,False
+SYNTH_03,DONOR_1241,Not applicable,,,False
+SYNTH_03,DONOR_1242,,,,False
+SYNTH_03,DONOR_1243,Current reformed smoker for > 15 years,Waterpipe|Cigarettes,,True
+SYNTH_03,DONOR_1244,Not available,,,False
+SYNTH_03,DONOR_1245,Not available,,,False
+SYNTH_03,DONOR_1246,Lifelong non-smoker (<100 cigarettes smoked in lifetime),,,False
+SYNTH_03,DONOR_1247,Not applicable,,,False
+SYNTH_03,DONOR_1248,,,,False
+SYNTH_03,DONOR_1249,,,,False
+SYNTH_03,DONOR_1250,"Current reformed smoker, duration not specified",Cigarettes,,False
+SYNTH_03,DONOR_1251,Not applicable,,,False
+SYNTH_03,DONOR_1252,Not applicable,,,False
+SYNTH_03,DONOR_1253,"Current reformed smoker, duration not specified",Chewing Tobacco,,False
+SYNTH_03,DONOR_1254,Current reformed smoker for <= 15 years,Snuff|Chewing Tobacco|Cigar,,True
+SYNTH_03,DONOR_1255,Current reformed smoker for > 15 years,Chewing Tobacco|Snuff|Roll-ups,17.0,False
+SYNTH_03,DONOR_1256,,,,False
+SYNTH_03,DONOR_1257,Current reformed smoker for <= 15 years,Cigar|Not available|Chewing Tobacco,,True
+SYNTH_03,DONOR_1258,Not applicable,,,False
+SYNTH_03,DONOR_1259,Not applicable,,,False
+SYNTH_03,DONOR_1260,Not available,,,False
+SYNTH_03,DONOR_1261,Current reformed smoker for > 15 years,Snuff|Cigarettes,,True
+SYNTH_03,DONOR_1262,,,,False
+SYNTH_03,DONOR_1263,Current reformed smoker for > 15 years,Waterpipe|Not available,59.0,False
+SYNTH_03,DONOR_1264,Current smoker,Electronic cigarettes,40.0,False
+SYNTH_03,DONOR_1265,Lifelong non-smoker (<100 cigarettes smoked in lifetime),,,False
+SYNTH_03,DONOR_1266,Lifelong non-smoker (<100 cigarettes smoked in lifetime),,,False
+SYNTH_03,DONOR_1267,Current reformed smoker for <= 15 years,Chewing Tobacco|Waterpipe|Pipe,63.0,False
+SYNTH_03,DONOR_1268,Current reformed smoker for > 15 years,Chewing Tobacco|Electronic cigarettes|Not available,,True
+SYNTH_03,DONOR_1269,Current reformed smoker for > 15 years,Cigarettes|Not available|Snuff,16.0,False
+SYNTH_03,DONOR_1270,Not available,,,False
+SYNTH_03,DONOR_1271,"Current reformed smoker, duration not specified",Cigar|Not available|Roll-ups,,False
+SYNTH_03,DONOR_1272,Current reformed smoker for <= 15 years,Chewing Tobacco|Roll-ups,,True
+SYNTH_03,DONOR_1273,Current reformed smoker for <= 15 years,Pipe|Cigar|Waterpipe,31.0,False
+SYNTH_03,DONOR_1274,Current smoker,Waterpipe,,True
+SYNTH_03,DONOR_1275,"Current reformed smoker, duration not specified",Waterpipe,,False
+SYNTH_03,DONOR_1276,"Current reformed smoker, duration not specified",Chewing Tobacco|Electronic cigarettes,,False
+SYNTH_03,DONOR_1277,,,,False
+SYNTH_03,DONOR_1278,"Current reformed smoker, duration not specified",Cigar|Snuff,,False
+SYNTH_03,DONOR_1279,,,,False
+SYNTH_03,DONOR_1280,Lifelong non-smoker (<100 cigarettes smoked in lifetime),,,False
+SYNTH_03,DONOR_1281,Current smoker,Chewing Tobacco,,True
+SYNTH_03,DONOR_1282,Current reformed smoker for <= 15 years,Waterpipe,18.0,False
+SYNTH_03,DONOR_1283,Current reformed smoker for > 15 years,Chewing Tobacco|Snuff|Cigar,10.0,False
+SYNTH_03,DONOR_1284,Not applicable,,,False
+SYNTH_03,DONOR_1285,Not available,,,False
+SYNTH_03,DONOR_1286,Current smoker,Waterpipe|Roll-ups,,True
+SYNTH_03,DONOR_1287,,,,False
+SYNTH_03,DONOR_1288,Lifelong non-smoker (<100 cigarettes smoked in lifetime),,,False
+SYNTH_03,DONOR_1289,"Current reformed smoker, duration not specified",Waterpipe|Snuff|Chewing Tobacco,,False
+SYNTH_03,DONOR_1290,"Current reformed smoker, duration not specified",Pipe|Snuff|Waterpipe,,False
+SYNTH_03,DONOR_1291,Not applicable,,,False
+SYNTH_03,DONOR_1292,,,,False
+SYNTH_03,DONOR_1293,,,,False
+SYNTH_03,DONOR_1294,Lifelong non-smoker (<100 cigarettes smoked in lifetime),,,False
+SYNTH_03,DONOR_1295,Not applicable,,,False
+SYNTH_03,DONOR_1296,Not applicable,,,False
+SYNTH_03,DONOR_1297,Current reformed smoker for <= 15 years,Electronic cigarettes,,True
+SYNTH_03,DONOR_1298,Current reformed smoker for <= 15 years,Cigar|Pipe|Electronic cigarettes,,True
+SYNTH_03,DONOR_1299,Current reformed smoker for > 15 years,Not available|Electronic cigarettes|Pipe,,True
+SYNTH_03,DONOR_1300,Lifelong non-smoker (<100 cigarettes smoked in lifetime),,,False
+SYNTH_03,DONOR_1301,Current reformed smoker for <= 15 years,Electronic cigarettes|Waterpipe|Roll-ups,45.0,False
+SYNTH_03,DONOR_1302,,,,False
+SYNTH_03,DONOR_1303,Lifelong non-smoker (<100 cigarettes smoked in lifetime),,,False
+SYNTH_03,DONOR_1304,Lifelong non-smoker (<100 cigarettes smoked in lifetime),,,False
+SYNTH_03,DONOR_1305,Not available,,,False
+SYNTH_03,DONOR_1306,Current smoker,Waterpipe|Cigarettes,,True
+SYNTH_03,DONOR_1307,Current reformed smoker for > 15 years,Pipe,55.0,False
+SYNTH_03,DONOR_1308,,,,False
+SYNTH_03,DONOR_1309,Current reformed smoker for <= 15 years,Cigar|Pipe|Electronic cigarettes,67.0,False
+SYNTH_03,DONOR_1310,Current reformed smoker for <= 15 years,Not available,38.0,False
+SYNTH_03,DONOR_1311,Not available,,,False
+SYNTH_03,DONOR_1312,Lifelong non-smoker (<100 cigarettes smoked in lifetime),,,False
+SYNTH_03,DONOR_1313,Not applicable,,,False
+SYNTH_03,DONOR_1314,"Current reformed smoker, duration not specified",Cigar|Electronic cigarettes|Not available,,False
+SYNTH_03,DONOR_1315,"Current reformed smoker, duration not specified",Pipe|Waterpipe|Electronic cigarettes,,False
+SYNTH_03,DONOR_1316,Lifelong non-smoker (<100 cigarettes smoked in lifetime),,,False
+SYNTH_03,DONOR_1317,"Current reformed smoker, duration not specified",Not available,,False
+SYNTH_03,DONOR_1318,"Current reformed smoker, duration not specified",Snuff|Electronic cigarettes|Roll-ups,,False
+SYNTH_03,DONOR_1319,Not available,,,False
+SYNTH_03,DONOR_1320,Current reformed smoker for <= 15 years,Cigarettes|Waterpipe|Electronic cigarettes,27.0,False
+SYNTH_03,DONOR_1321,Not applicable,,,False
+SYNTH_03,DONOR_1322,Current reformed smoker for <= 15 years,Cigar|Electronic cigarettes|Roll-ups,,True
+SYNTH_03,DONOR_1323,"Current reformed smoker, duration not specified",Not available,,False
+SYNTH_03,DONOR_1324,Current smoker,Electronic cigarettes,,True
+SYNTH_03,DONOR_1325,Current reformed smoker for > 15 years,Not available|Chewing Tobacco|Cigarettes,,True
+SYNTH_03,DONOR_1326,Not applicable,,,False
+SYNTH_03,DONOR_1327,Lifelong non-smoker (<100 cigarettes smoked in lifetime),,,False
+SYNTH_03,DONOR_1328,Current smoker,Snuff|Cigarettes,39.0,False
+SYNTH_03,DONOR_1329,Current reformed smoker for > 15 years,Waterpipe|Cigarettes,,True
+SYNTH_03,DONOR_1330,Current reformed smoker for > 15 years,Not available,12.0,False
+SYNTH_03,DONOR_1331,Not available,,,False
+SYNTH_03,DONOR_1332,"Current reformed smoker, duration not specified",Electronic cigarettes,,False
+SYNTH_03,DONOR_1333,Current reformed smoker for <= 15 years,Cigarettes|Pipe|Chewing Tobacco,23.0,False
+SYNTH_03,DONOR_1334,Lifelong non-smoker (<100 cigarettes smoked in lifetime),,,False
+SYNTH_03,DONOR_1335,Current reformed smoker for <= 15 years,Cigarettes|Chewing Tobacco|Cigar,,True
+SYNTH_03,DONOR_1336,Lifelong non-smoker (<100 cigarettes smoked in lifetime),,,False
+SYNTH_03,DONOR_1337,Current reformed smoker for <= 15 years,Cigarettes|Not available,55.0,False
+SYNTH_03,DONOR_1338,,,,False
+SYNTH_03,DONOR_1339,,,,False
+SYNTH_03,DONOR_1340,Current smoker,Cigar|Waterpipe|Cigarettes,36.0,False
+SYNTH_03,DONOR_1341,Not available,,,False
+SYNTH_03,DONOR_1342,Not available,,,False
+SYNTH_03,DONOR_1343,Current reformed smoker for > 15 years,Pipe,,True
+SYNTH_03,DONOR_1344,"Current reformed smoker, duration not specified",Electronic cigarettes|Cigarettes,,False
+SYNTH_03,DONOR_1345,Lifelong non-smoker (<100 cigarettes smoked in lifetime),,,False
+SYNTH_03,DONOR_1346,Current smoker,Chewing Tobacco|Cigar,,True
+SYNTH_03,DONOR_1347,Not available,,,False
+SYNTH_03,DONOR_1348,,,,False
+SYNTH_03,DONOR_1349,Current reformed smoker for > 15 years,Pipe,,True
+SYNTH_03,DONOR_1350,Not applicable,,,False
+SYNTH_03,DONOR_1351,Current reformed smoker for <= 15 years,Cigarettes|Chewing Tobacco,26.0,False
+SYNTH_03,DONOR_1352,Not applicable,,,False
+SYNTH_03,DONOR_1353,Current smoker,Snuff|Chewing Tobacco,53.0,False
+SYNTH_03,DONOR_1354,Current reformed smoker for > 15 years,Roll-ups,,True
+SYNTH_03,DONOR_1355,Current smoker,Electronic cigarettes|Cigarettes|Waterpipe,12.0,False
+SYNTH_03,DONOR_1356,Not applicable,,,False
+SYNTH_03,DONOR_1357,Current reformed smoker for > 15 years,Electronic cigarettes,47.0,False
+SYNTH_03,DONOR_1358,Current reformed smoker for > 15 years,Cigar|Pipe,25.0,False
+SYNTH_03,DONOR_1359,,,,False
+SYNTH_03,DONOR_1360,"Current reformed smoker, duration not specified",Waterpipe|Roll-ups|Cigarettes,,False
+SYNTH_03,DONOR_1361,"Current reformed smoker, duration not specified",Pipe|Waterpipe|Not available,,False
+SYNTH_03,DONOR_1362,Not available,,,False
+SYNTH_03,DONOR_1363,"Current reformed smoker, duration not specified",Waterpipe|Chewing Tobacco,,False
+SYNTH_03,DONOR_1364,Lifelong non-smoker (<100 cigarettes smoked in lifetime),,,False
+SYNTH_03,DONOR_1365,,,,False
+SYNTH_03,DONOR_1366,Current reformed smoker for > 15 years,Not available|Waterpipe,,True
+SYNTH_03,DONOR_1367,Lifelong non-smoker (<100 cigarettes smoked in lifetime),,,False
+SYNTH_03,DONOR_1368,Current smoker,Cigarettes|Waterpipe,29.0,False
+SYNTH_03,DONOR_1369,Not applicable,,,False
+SYNTH_03,DONOR_1370,Lifelong non-smoker (<100 cigarettes smoked in lifetime),,,False
+SYNTH_03,DONOR_1371,,,,False
+SYNTH_03,DONOR_1372,Current reformed smoker for > 15 years,Not available|Roll-ups,,True
+SYNTH_03,DONOR_1373,"Current reformed smoker, duration not specified",Roll-ups|Not available,,False
+SYNTH_03,DONOR_1374,Not available,,,False
+SYNTH_03,DONOR_1375,Lifelong non-smoker (<100 cigarettes smoked in lifetime),,,False
+SYNTH_03,DONOR_1376,Lifelong non-smoker (<100 cigarettes smoked in lifetime),,,False
+SYNTH_04,DONOR_1627,Current reformed smoker for > 15 years,Cigarettes,,True
+SYNTH_04,DONOR_1628,Current reformed smoker for > 15 years,Electronic cigarettes,,True
+SYNTH_04,DONOR_1629,,,,False
+SYNTH_04,DONOR_1630,Lifelong non-smoker (<100 cigarettes smoked in lifetime),,,False
+SYNTH_04,DONOR_1631,,,,False
+SYNTH_04,DONOR_1632,,,,False
+SYNTH_04,DONOR_1633,Lifelong non-smoker (<100 cigarettes smoked in lifetime),,,False
+SYNTH_04,DONOR_1634,Current reformed smoker for <= 15 years,Waterpipe|Electronic cigarettes|Not available,46.0,False
+SYNTH_04,DONOR_1635,Not applicable,,,False
+SYNTH_04,DONOR_1636,Not applicable,,,False
+SYNTH_04,DONOR_1637,Lifelong non-smoker (<100 cigarettes smoked in lifetime),,,False
+SYNTH_04,DONOR_1638,Not available,,,False
+SYNTH_04,DONOR_1639,Lifelong non-smoker (<100 cigarettes smoked in lifetime),,,False
+SYNTH_04,DONOR_1640,Not available,,,False
+SYNTH_04,DONOR_1641,Current smoker,Cigar,65.0,False
+SYNTH_04,DONOR_1642,,,,False
+SYNTH_04,DONOR_1643,Current reformed smoker for <= 15 years,Not available,,True
+SYNTH_04,DONOR_1644,Lifelong non-smoker (<100 cigarettes smoked in lifetime),,,False
+SYNTH_04,DONOR_1645,Current smoker,Cigar,41.0,False
+SYNTH_04,DONOR_1646,Current smoker,Electronic cigarettes|Cigarettes,,True
+SYNTH_04,DONOR_1647,Current smoker,Roll-ups|Cigarettes|Chewing Tobacco,65.0,False
+SYNTH_04,DONOR_1648,"Current reformed smoker, duration not specified",Cigar|Chewing Tobacco,,False
+SYNTH_04,DONOR_1649,Not available,,,False
+SYNTH_04,DONOR_1650,Current smoker,Snuff|Waterpipe,11.0,False
+SYNTH_04,DONOR_1651,"Current reformed smoker, duration not specified",Pipe|Roll-ups|Cigarettes,,False
+SYNTH_04,DONOR_1652,Current reformed smoker for <= 15 years,Chewing Tobacco|Not available,70.0,False
+SYNTH_04,DONOR_1653,,,,False
+SYNTH_04,DONOR_1654,Current smoker,Pipe|Cigar,,True
+SYNTH_04,DONOR_1655,Not available,,,False
+SYNTH_04,DONOR_1656,Current reformed smoker for <= 15 years,Snuff|Chewing Tobacco|Cigarettes,27.0,False
+SYNTH_04,DONOR_1657,"Current reformed smoker, duration not specified",Chewing Tobacco,,False
+SYNTH_04,DONOR_1658,Current smoker,Snuff|Cigarettes,,True
+SYNTH_04,DONOR_1659,Lifelong non-smoker (<100 cigarettes smoked in lifetime),,,False
+SYNTH_04,DONOR_1660,Current reformed smoker for <= 15 years,Chewing Tobacco|Cigar,,True
+SYNTH_04,DONOR_1661,Current reformed smoker for > 15 years,Waterpipe|Chewing Tobacco,46.0,False
+SYNTH_04,DONOR_1662,Current reformed smoker for <= 15 years,Electronic cigarettes,,True
+SYNTH_04,DONOR_1663,,,,False
+SYNTH_04,DONOR_1664,,,,False
+SYNTH_04,DONOR_1665,Current reformed smoker for <= 15 years,Chewing Tobacco|Roll-ups,26.0,False
+SYNTH_04,DONOR_1666,Current reformed smoker for <= 15 years,Waterpipe,,True
+SYNTH_04,DONOR_1667,Not applicable,,,False
+SYNTH_04,DONOR_1668,,,,False
+SYNTH_04,DONOR_1669,Current reformed smoker for <= 15 years,Chewing Tobacco|Snuff,,True
+SYNTH_04,DONOR_1670,Not available,,,False
+SYNTH_04,DONOR_1671,Not applicable,,,False
+SYNTH_04,DONOR_1672,"Current reformed smoker, duration not specified",Chewing Tobacco|Not available,,False
+SYNTH_04,DONOR_1673,"Current reformed smoker, duration not specified",Pipe|Not available,,False
+SYNTH_04,DONOR_1674,,,,False
+SYNTH_04,DONOR_1675,Not available,,,False
+SYNTH_04,DONOR_1676,Not available,,,False
+SYNTH_04,DONOR_1677,Current reformed smoker for > 15 years,Cigarettes|Pipe|Chewing Tobacco,39.0,False
+SYNTH_04,DONOR_1678,,,,False
+SYNTH_04,DONOR_1679,Not applicable,,,False
+SYNTH_04,DONOR_1680,"Current reformed smoker, duration not specified",Chewing Tobacco|Cigar,,False
+SYNTH_04,DONOR_1681,Not applicable,,,False
+SYNTH_04,DONOR_1682,Not available,,,False
+SYNTH_04,DONOR_1683,Not available,,,False
+SYNTH_04,DONOR_1684,Not applicable,,,False
+SYNTH_04,DONOR_1685,Not applicable,,,False
+SYNTH_04,DONOR_1686,,,,False
+SYNTH_04,DONOR_1687,,,,False
+SYNTH_04,DONOR_1688,Current smoker,Waterpipe|Snuff,,True
+SYNTH_04,DONOR_1689,Current smoker,Cigarettes|Chewing Tobacco,34.0,False
+SYNTH_04,DONOR_1690,"Current reformed smoker, duration not specified",Pipe,,False
+SYNTH_04,DONOR_1691,Current reformed smoker for <= 15 years,Roll-ups|Electronic cigarettes,,True
+SYNTH_04,DONOR_1692,"Current reformed smoker, duration not specified",Pipe|Cigarettes|Electronic cigarettes,,False
+SYNTH_04,DONOR_1693,,,,False
+SYNTH_04,DONOR_1694,Current reformed smoker for > 15 years,Chewing Tobacco|Cigar,,True
+SYNTH_04,DONOR_1695,,,,False
+SYNTH_04,DONOR_1696,Not applicable,,,False
+SYNTH_04,DONOR_1697,Current smoker,Not available,61.0,False
+SYNTH_04,DONOR_1698,"Current reformed smoker, duration not specified",Roll-ups|Chewing Tobacco,,False
+SYNTH_04,DONOR_1699,Current reformed smoker for > 15 years,Not available,,True
+SYNTH_04,DONOR_1700,Current smoker,Waterpipe|Chewing Tobacco|Electronic cigarettes,45.0,False
+SYNTH_04,DONOR_1701,Current reformed smoker for <= 15 years,Waterpipe|Electronic cigarettes,10.0,False
+SYNTH_04,DONOR_1702,,,,False
+SYNTH_04,DONOR_1703,Not applicable,,,False
+SYNTH_04,DONOR_1704,,,,False
+SYNTH_04,DONOR_1705,Current reformed smoker for > 15 years,Chewing Tobacco|Not available,23.0,False
+SYNTH_04,DONOR_1706,,,,False
+SYNTH_04,DONOR_1707,,,,False
+SYNTH_04,DONOR_1708,Not applicable,,,False
+SYNTH_04,DONOR_1709,Current reformed smoker for <= 15 years,Cigar|Cigarettes,28.0,False
+SYNTH_04,DONOR_1710,Not applicable,,,False
+SYNTH_04,DONOR_1711,Current reformed smoker for > 15 years,Snuff|Chewing Tobacco|Pipe,,True
+SYNTH_04,DONOR_1712,,,,False
+SYNTH_04,DONOR_1713,Lifelong non-smoker (<100 cigarettes smoked in lifetime),,,False
+SYNTH_04,DONOR_1714,,,,False
+SYNTH_04,DONOR_1715,Current reformed smoker for <= 15 years,Not available|Pipe|Roll-ups,,True
+SYNTH_04,DONOR_1716,Current reformed smoker for <= 15 years,Pipe|Chewing Tobacco|Waterpipe,69.0,False
+SYNTH_04,DONOR_1717,Current smoker,Waterpipe,59.0,False
+SYNTH_04,DONOR_1718,Lifelong non-smoker (<100 cigarettes smoked in lifetime),,,False
+SYNTH_04,DONOR_1719,Current smoker,Not available|Snuff,,True
+SYNTH_04,DONOR_1720,Not applicable,,,False
+SYNTH_04,DONOR_1721,Lifelong non-smoker (<100 cigarettes smoked in lifetime),,,False
+SYNTH_04,DONOR_1722,Not applicable,,,False
+SYNTH_04,DONOR_1723,,,,False
+SYNTH_04,DONOR_1724,Current reformed smoker for <= 15 years,Pipe|Cigar,38.0,False
+SYNTH_04,DONOR_1725,,,,False
+SYNTH_04,DONOR_1726,Current reformed smoker for > 15 years,Cigar|Not available,,True
+SYNTH_04,DONOR_1727,Lifelong non-smoker (<100 cigarettes smoked in lifetime),,,False
+SYNTH_04,DONOR_1728,Not available,,,False
+SYNTH_04,DONOR_1729,,,,False
+SYNTH_04,DONOR_1730,Not available,,,False
+SYNTH_04,DONOR_1731,,,,False
+SYNTH_04,DONOR_1732,Lifelong non-smoker (<100 cigarettes smoked in lifetime),,,False
+SYNTH_04,DONOR_1733,Current reformed smoker for > 15 years,Roll-ups|Not available,,True
+SYNTH_04,DONOR_1734,,,,False
+SYNTH_04,DONOR_1735,Not available,,,False
+SYNTH_04,DONOR_1736,Not applicable,,,False
+SYNTH_04,DONOR_1737,Not available,,,False
+SYNTH_04,DONOR_1738,,,,False
+SYNTH_04,DONOR_1739,Lifelong non-smoker (<100 cigarettes smoked in lifetime),,,False
+SYNTH_04,DONOR_1740,Lifelong non-smoker (<100 cigarettes smoked in lifetime),,,False
+SYNTH_04,DONOR_1741,,,,False
+SYNTH_04,DONOR_1742,Lifelong non-smoker (<100 cigarettes smoked in lifetime),,,False
+SYNTH_04,DONOR_1743,Current reformed smoker for > 15 years,Chewing Tobacco,23.0,False
+SYNTH_04,DONOR_1744,,,,False
+SYNTH_04,DONOR_1745,Not applicable,,,False
+SYNTH_04,DONOR_1746,Not available,,,False
+SYNTH_04,DONOR_1747,Not available,,,False
+SYNTH_04,DONOR_1748,Lifelong non-smoker (<100 cigarettes smoked in lifetime),,,False
+SYNTH_04,DONOR_1749,Current reformed smoker for <= 15 years,Not available|Snuff|Electronic cigarettes,,True
+SYNTH_04,DONOR_1750,Not applicable,,,False
+SYNTH_04,DONOR_1751,,,,False
+SYNTH_04,DONOR_1752,"Current reformed smoker, duration not specified",Snuff|Cigar|Waterpipe,,False
+SYNTH_04,DONOR_1753,Not applicable,,,False
+SYNTH_04,DONOR_1754,"Current reformed smoker, duration not specified",Cigar,,False
+SYNTH_04,DONOR_1755,Not applicable,,,False
+SYNTH_04,DONOR_1756,Current reformed smoker for > 15 years,Not available|Pipe,,True
+SYNTH_04,DONOR_1757,Current reformed smoker for > 15 years,Chewing Tobacco|Snuff|Electronic cigarettes,11.0,False
+SYNTH_04,DONOR_1758,"Current reformed smoker, duration not specified",Pipe,,False
+SYNTH_04,DONOR_1759,Current smoker,Roll-ups|Pipe,,True
+SYNTH_04,DONOR_1760,Current reformed smoker for <= 15 years,Not available,,True
+SYNTH_04,DONOR_1761,Not available,,,False
+SYNTH_04,DONOR_1762,Not available,,,False
+SYNTH_04,DONOR_1763,Current reformed smoker for > 15 years,Waterpipe|Chewing Tobacco|Roll-ups,,True
+SYNTH_04,DONOR_1764,"Current reformed smoker, duration not specified",Snuff|Waterpipe|Not available,,False
+SYNTH_04,DONOR_1765,"Current reformed smoker, duration not specified",Cigarettes|Chewing Tobacco|Not available,,False
+SYNTH_04,DONOR_1766,Lifelong non-smoker (<100 cigarettes smoked in lifetime),,,False
+SYNTH_04,DONOR_1767,"Current reformed smoker, duration not specified",Waterpipe|Not available,,False
+SYNTH_04,DONOR_1768,Lifelong non-smoker (<100 cigarettes smoked in lifetime),,,False
+SYNTH_04,DONOR_1769,Lifelong non-smoker (<100 cigarettes smoked in lifetime),,,False
+SYNTH_04,DONOR_1770,Lifelong non-smoker (<100 cigarettes smoked in lifetime),,,False
+SYNTH_04,DONOR_1771,Not applicable,,,False
+SYNTH_04,DONOR_1772,Lifelong non-smoker (<100 cigarettes smoked in lifetime),,,False
+SYNTH_04,DONOR_1773,"Current reformed smoker, duration not specified",Waterpipe|Electronic cigarettes|Chewing Tobacco,,False
+SYNTH_04,DONOR_1774,Current reformed smoker for > 15 years,Electronic cigarettes|Snuff,,True
+SYNTH_04,DONOR_1775,Current reformed smoker for <= 15 years,Snuff|Cigar|Roll-ups,,True
+SYNTH_04,DONOR_1776,Not applicable,,,False
+SYNTH_04,DONOR_1777,Current reformed smoker for <= 15 years,Roll-ups|Not available,,True
+SYNTH_04,DONOR_1778,Current reformed smoker for <= 15 years,Chewing Tobacco|Cigar,38.0,False
+SYNTH_04,DONOR_1779,Current reformed smoker for > 15 years,Snuff,,True
+SYNTH_04,DONOR_1780,"Current reformed smoker, duration not specified",Chewing Tobacco|Snuff|Electronic cigarettes,,False
+SYNTH_04,DONOR_1781,Current reformed smoker for > 15 years,Waterpipe|Roll-ups,,True
+SYNTH_04,DONOR_1782,Current reformed smoker for <= 15 years,Roll-ups,,True
+SYNTH_04,DONOR_1783,Current smoker,Electronic cigarettes|Snuff|Cigar,69.0,False
+SYNTH_04,DONOR_1784,,,,False
+SYNTH_04,DONOR_1785,Current smoker,Waterpipe|Roll-ups,14.0,False
+SYNTH_04,DONOR_1786,"Current reformed smoker, duration not specified",Chewing Tobacco|Electronic cigarettes|Cigar,,False
+SYNTH_04,DONOR_1787,Current reformed smoker for <= 15 years,Cigar|Chewing Tobacco|Waterpipe,27.0,False
+SYNTH_04,DONOR_1788,Lifelong non-smoker (<100 cigarettes smoked in lifetime),,,False
+SYNTH_04,DONOR_1789,Current smoker,Pipe|Cigarettes,58.0,False
+SYNTH_04,DONOR_1790,Current reformed smoker for > 15 years,Not available|Snuff,36.0,False
+SYNTH_04,DONOR_1791,,,,False
+SYNTH_04,DONOR_1792,Not applicable,,,False
+SYNTH_04,DONOR_1793,Not available,,,False
+SYNTH_04,DONOR_1794,Current reformed smoker for > 15 years,Cigar|Pipe|Not available,8.0,False
+SYNTH_04,DONOR_1795,,,,False
+SYNTH_04,DONOR_1796,"Current reformed smoker, duration not specified",Roll-ups|Chewing Tobacco,,False
+SYNTH_04,DONOR_1797,Current reformed smoker for > 15 years,Electronic cigarettes|Waterpipe|Cigarettes,,True
+SYNTH_04,DONOR_1798,Not applicable,,,False
+SYNTH_04,DONOR_1799,Lifelong non-smoker (<100 cigarettes smoked in lifetime),,,False
+SYNTH_04,DONOR_1800,Lifelong non-smoker (<100 cigarettes smoked in lifetime),,,False
+SYNTH_04,DONOR_1801,"Current reformed smoker, duration not specified",Cigar,,False
+SYNTH_04,DONOR_1802,Current smoker,Pipe|Cigarettes,,True
+SYNTH_04,DONOR_1803,Current reformed smoker for > 15 years,Waterpipe|Chewing Tobacco|Pipe,,True
+SYNTH_04,DONOR_1804,"Current reformed smoker, duration not specified",Electronic cigarettes|Snuff,,False
+SYNTH_04,DONOR_1805,Not available,,,False
+SYNTH_04,DONOR_1806,Lifelong non-smoker (<100 cigarettes smoked in lifetime),,,False
+SYNTH_04,DONOR_1807,Not available,,,False
+SYNTH_04,DONOR_1808,Lifelong non-smoker (<100 cigarettes smoked in lifetime),,,False
+SYNTH_04,DONOR_1809,"Current reformed smoker, duration not specified",Snuff|Electronic cigarettes,,False
+SYNTH_04,DONOR_1810,Not available,,,False
+SYNTH_04,DONOR_1811,Current smoker,Not available|Cigarettes,6.0,False
+SYNTH_04,DONOR_1812,Current smoker,Cigarettes|Chewing Tobacco|Snuff,,True
+SYNTH_04,DONOR_1813,Not applicable,,,False
+SYNTH_04,DONOR_1814,Current reformed smoker for > 15 years,Cigar,,True
+SYNTH_04,DONOR_1815,"Current reformed smoker, duration not specified",Waterpipe,,False
+SYNTH_04,DONOR_1816,,,,False
+SYNTH_04,DONOR_1817,Not available,,,False
+SYNTH_04,DONOR_1818,Not available,,,False
+SYNTH_04,DONOR_1819,Current reformed smoker for <= 15 years,Not available|Waterpipe,,True
+SYNTH_04,DONOR_1820,Current reformed smoker for <= 15 years,Roll-ups|Cigarettes,27.0,False
+SYNTH_04,DONOR_1821,Not available,,,False
+SYNTH_04,DONOR_1822,Current smoker,Not available|Chewing Tobacco,,True
+SYNTH_04,DONOR_1823,Not applicable,,,False
+SYNTH_04,DONOR_1824,Not applicable,,,False
+SYNTH_04,DONOR_1825,Not available,,,False
+SYNTH_04,DONOR_1826,Current smoker,Cigarettes|Electronic cigarettes,68.0,False
+SYNTH_04,DONOR_1827,Not applicable,,,False
+SYNTH_04,DONOR_1828,Lifelong non-smoker (<100 cigarettes smoked in lifetime),,,False
+SYNTH_04,DONOR_1829,Lifelong non-smoker (<100 cigarettes smoked in lifetime),,,False
+SYNTH_04,DONOR_1830,Current smoker,Roll-ups|Pipe|Cigar,42.0,False
+SYNTH_04,DONOR_1831,Not available,,,False
+SYNTH_04,DONOR_1832,Current reformed smoker for <= 15 years,Cigarettes|Roll-ups,,True
+SYNTH_04,DONOR_1833,,,,False
+SYNTH_04,DONOR_1834,Not available,,,False
+SYNTH_04,DONOR_1835,"Current reformed smoker, duration not specified",Chewing Tobacco,,False
+SYNTH_04,DONOR_1836,"Current reformed smoker, duration not specified",Pipe|Not available|Electronic cigarettes,,False
+SYNTH_04,DONOR_1837,Not available,,,False
+SYNTH_04,DONOR_1838,Current reformed smoker for <= 15 years,Cigarettes,58.0,False
+SYNTH_04,DONOR_1839,Current smoker,Waterpipe|Cigarettes|Not available,25.0,False
+SYNTH_04,DONOR_1840,Current smoker,Pipe|Electronic cigarettes,27.0,False
+SYNTH_04,DONOR_1841,Not applicable,,,False
+SYNTH_04,DONOR_1842,Not applicable,,,False
+SYNTH_04,DONOR_1843,"Current reformed smoker, duration not specified",Cigar|Cigarettes|Snuff,,False
+SYNTH_04,DONOR_1844,Current reformed smoker for > 15 years,Chewing Tobacco,,True
+SYNTH_04,DONOR_1845,Not applicable,,,False
+SYNTH_04,DONOR_1846,Current reformed smoker for > 15 years,Electronic cigarettes|Not available|Roll-ups,,True
+SYNTH_04,DONOR_1847,Current reformed smoker for > 15 years,Electronic cigarettes,,True
+SYNTH_04,DONOR_1848,Not applicable,,,False
+SYNTH_04,DONOR_1849,Current smoker,Chewing Tobacco|Not available,66.0,False
+SYNTH_04,DONOR_1850,"Current reformed smoker, duration not specified",Snuff,,False
+SYNTH_04,DONOR_1851,,,,False
+SYNTH_04,DONOR_1852,"Current reformed smoker, duration not specified",Roll-ups|Not available|Pipe,,False
+SYNTH_04,DONOR_1853,Current reformed smoker for <= 15 years,Not available|Electronic cigarettes|Cigarettes,,True
+SYNTH_04,DONOR_1854,Lifelong non-smoker (<100 cigarettes smoked in lifetime),,,False
+SYNTH_04,DONOR_1855,Current smoker,Not available|Electronic cigarettes|Pipe,,True
+SYNTH_04,DONOR_1856,Current reformed smoker for > 15 years,Pipe|Not available|Snuff,,True
+SYNTH_04,DONOR_1857,,,,False
+SYNTH_04,DONOR_1858,Current reformed smoker for <= 15 years,Cigar|Pipe,,True
+SYNTH_04,DONOR_1859,Lifelong non-smoker (<100 cigarettes smoked in lifetime),,,False
+SYNTH_04,DONOR_1860,,,,False
+SYNTH_04,DONOR_1861,Current smoker,Roll-ups|Snuff|Electronic cigarettes,,True
+SYNTH_04,DONOR_1862,"Current reformed smoker, duration not specified",Snuff|Cigarettes,,False
+SYNTH_04,DONOR_1863,Current reformed smoker for > 15 years,Waterpipe|Chewing Tobacco,70.0,False
+SYNTH_04,DONOR_1864,"Current reformed smoker, duration not specified",Pipe|Snuff,,False
+SYNTH_04,DONOR_1865,Not applicable,,,False
+SYNTH_04,DONOR_1866,"Current reformed smoker, duration not specified",Cigar,,False
+SYNTH_04,DONOR_1867,Not available,,,False
+SYNTH_04,DONOR_1868,Lifelong non-smoker (<100 cigarettes smoked in lifetime),,,False
+SYNTH_04,DONOR_1869,Current reformed smoker for > 15 years,Roll-ups,38.0,False
+SYNTH_04,DONOR_1870,Current smoker,Roll-ups|Cigar,,True
+SYNTH_04,DONOR_1871,Current smoker,Pipe|Electronic cigarettes,,True
+SYNTH_04,DONOR_1872,,,,False
+SYNTH_04,DONOR_1873,"Current reformed smoker, duration not specified",Not available,,False
+SYNTH_04,DONOR_1874,Current reformed smoker for > 15 years,Roll-ups,17.0,False
+SYNTH_04,DONOR_1875,Current reformed smoker for > 15 years,Cigar|Snuff,64.0,False
+SYNTH_04,DONOR_1876,Lifelong non-smoker (<100 cigarettes smoked in lifetime),,,False
