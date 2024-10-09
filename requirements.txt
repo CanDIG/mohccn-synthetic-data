@@ -1,3 +1,4 @@
 # Add all the required packages for the code here
 pandas
 clinical_etl@git+https://github.com/CanDIG/clinical_ETL_code.git@v3.1.0
+requests
