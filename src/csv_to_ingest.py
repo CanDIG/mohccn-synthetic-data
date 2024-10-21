@@ -100,7 +100,6 @@ def add_prefix_json(prefix: str, object_json: list):
         file_set['program_id'] = f"{prefix}-{file_set['program_id']}"
         file_set['genomic_file_id'] = f"{prefix}-{file_set['genomic_file_id']}"
         for sample in file_set['samples']:
-            sample['genomic_file_sample_id'] = f"{prefix}-{sample['genomic_file_sample_id']}"
             sample['submitter_sample_id'] = f"{prefix}-{sample['submitter_sample_id']}"
     return object_json
 

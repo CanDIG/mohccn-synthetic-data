@@ -11,10 +11,10 @@ This repository includes three datasets (large, medium, small) in `.csv` format 
 
 - **Scripts:**
 [/src](/src)
-  - `json_to_csv.py`: Used to convert the original synthetic data in Katsu to CSV files.
+  - `json_to_csv.py`: Used to convert the synthetic data jsons from Katsu to CSV files.
   - `csv_to_ingest.py`: Script for running clinical_etl on a particular dataset to convert into ingestable jsons.
 
-## How to generate synthetic data using Mockaroo
+## How to generate synthetic data using Factory Boy
 
 See synthetic data folder in katsu: [katsu/chord_metadata_service/mohpackets/data](https://github.com/CanDIG/katsu/tree/develop/chord_metadata_service/mohpackets/data)
 
@@ -28,7 +28,11 @@ pip install -r requirements.txt
 
 Clone the katsu repo and note the path it is cloned to
 
-Run the `json_to_csv.py` script. Can be run with xs, s, m or l specified for extra-small, small, medium or large dataset conversion. By default, uses the small dataset.
+```bash
+git clone https://github.com/CanDIG/katsu.git
+```
+
+Run the `json_to_csv.py` script. Can be run with xs, s, m or l specified for extra-small, small, medium or large dataset conversion. By default, uses the small dataset. You need to also tell it where to find the katsu repo you just cloned
 
 ```commandline
 python src/json_to_csv.py --size m --input /path/to/katsu/chord_metadata_service/mohpackets/data
@@ -36,7 +40,7 @@ python src/json_to_csv.py --size m --input /path/to/katsu/chord_metadata_service
 
 The script takes the files in the given sized folder, in this case [`katsu/chord_metadata_service/mohpackets/data/medium_dataset/synthetic_data`](mockaroo_data/medium_dataset/synthetic_data) and converts the json files into csv files and stores them in [`medium_dataset_csv/raw_data`](medium_dataset_csv/raw_data). It converts and performs some minor value editing/replacement in order to ensure the data passes validation. 
 
-This should not need to be done unless the mockaroo data is regenerated at some point, such as to change the shape of the data or to incorporate a new data model change.
+This should not need to be done unless the synthetic data is regenerated at some point, such as to change the shape of the data or to incorporate a new data model change.
 
 ## How to convert csv files to ingestable clinical json files
 
@@ -52,7 +56,7 @@ Run the `csv_to_ingest.py` script to convert a particular sized dataset to an in
 python src/csv_to_ingest.py --size m
 ```
 
-Script uses the config files in the given folder to run `CSVConvert` from `clinical_ETL_code` and will output `raw_data_map.json` to the `medium_dataset_csv` folder. This file can be used for clinical data ingest.
+This script uses the config files in the given folder to run `CSVConvert` from `clinical_ETL_code` and will output `raw_data_map.json` to the `medium_dataset_csv` folder. This file can be used for clinical data ingest.
 
 ### Creating a custom dataset
 
