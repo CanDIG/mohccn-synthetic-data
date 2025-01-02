@@ -1,6 +1,6 @@
 program_id,submitter_donor_id,prior_malignancy,laterality_of_prior_malignancy,age_at_comorbidity_diagnosis,age_at_comorbidity_diagnosis_not_available,comorbidity_type_code,comorbidity_treatment_status,comorbidity_treatment
-SYNTH_01,DONOR_0004,Yes,Midline,46,True,,,despite
-SYNTH_01,DONOR_0005,,,32,True,D85,Yes,test
-SYNTH_02,DONOR_0009,Yes,Midline,24,False,C22,Yes,Hormone therapy
-SYNTH_02,DONOR_0010,Yes,Right,19,False,D42,Not available,author
-SYNTH_01,DONOR_ALL_0001,Yes,,50,False,C12,Yes,Radiation
+SYNTH_01,DONOR_0004,Yes,Right,46,True,C35,Yes,Hormone therapy
+SYNTH_01,DONOR_0005,No,,44,False,I16,Not available,exist
+SYNTH_02,DONOR_0009,Yes,,31,False,I77,Not available,receive
+SYNTH_02,DONOR_0010,Not available,,21,False,I92,Yes,camera
+SYNTH_01,DONOR_ALL_0001,No,,20,False,F00,Yes,Treated with Donepezil (Aricept).
