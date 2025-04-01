@@ -1,7 +1,7 @@
 [
     {
         "program_id": "SYNTH_01",
-        "genomic_file_id": "HG02102",
+        "analysis_id": "HG02102",
         "main": {
             "access_method": "file:////app/htsget_server/data/files/HG02102.vcf.gz",
             "name": "HG02102.vcf.gz"
@@ -17,14 +17,14 @@
         },
         "samples": [
             {
-                "genomic_file_sample_id": "HG02102",
+                "analysis_sample_id": "HG02102",
                 "submitter_sample_id": "SAMPLE_0001"
             }
         ]
     },
     {
         "program_id": "SYNTH_01",
-        "genomic_file_id": "NA02102",
+        "analysis_id": "NA02102",
         "main": {
             "access_method": "file:////app/htsget_server/data/files/NA02102.bam",
             "name": "NA02102.bam"
@@ -40,14 +40,14 @@
         },
         "samples": [
             {
-                "genomic_file_sample_id": "NA02102",
+                "analysis_sample_id": "NA02102",
                 "submitter_sample_id": "SAMPLE_0002"
             }
         ]
     },
     {
         "program_id": "SYNTH_01",
-        "genomic_file_id": "NA02102",
+        "analysis_id": "NA02102",
         "main": {
             "access_method": "file:////app/htsget_server/data/files/NA02102.chr1.cram",
             "name": "NA02102.chr1.cram"
@@ -63,14 +63,14 @@
         },
         "samples": [
             {
-                "genomic_file_sample_id": "NA02102",
+                "analysis_sample_id": "NA02102",
                 "submitter_sample_id": "SAMPLE_0003"
             }
         ]
     },
     {
         "program_id": "SYNTH_02",
-        "genomic_file_id": "HG02102",
+        "analysis_id": "HG02102",
         "main": {
             "access_method": "file:////app/htsget_server/data/files/HG02102.vcf.gz",
             "name": "HG02102.vcf.gz"
@@ -86,14 +86,14 @@
         },
         "samples": [
             {
-                "genomic_file_sample_id": "HG02102",
+                "analysis_sample_id": "HG02102",
                 "submitter_sample_id": "SAMPLE_1504"
             }
         ]
     },
     {
         "program_id": "SYNTH_02",
-        "genomic_file_id": "NA02102",
+        "analysis_id": "NA02102",
         "main": {
             "access_method": "file:////app/htsget_server/data/files/NA02102.bam",
             "name": "NA02102.bam"
@@ -109,14 +109,14 @@
         },
         "samples": [
             {
-                "genomic_file_sample_id": "NA02102",
+                "analysis_sample_id": "NA02102",
 				"submitter_sample_id": "SAMPLE_1505"
 			}
         ]
     },
     {
         "program_id": "SYNTH_02",
-        "genomic_file_id": "NA02102",
+        "analysis_id": "NA02102",
         "main": {
             "access_method": "file:////app/htsget_server/data/files/NA02102.chr1.cram",
             "name": "NA02102.chr1.cram"
@@ -132,14 +132,14 @@
         },
         "samples": [
             {
-                "genomic_file_sample_id": "NA02102",
+                "analysis_sample_id": "NA02102",
                 "submitter_sample_id": "SAMPLE_1506"
             }
         ]
     },
     {
         "program_id": "SYNTH_03",
-        "genomic_file_id": "HG02102",
+        "analysis_id": "HG02102",
         "main": {
             "access_method": "file:////app/htsget_server/data/files/HG02102.vcf.gz",
             "name": "HG02102.vcf.gz"
@@ -155,14 +155,14 @@
         },
         "samples": [
             {
-                "genomic_file_sample_id": "HG02102",
+                "analysis_sample_id": "HG02102",
                 "submitter_sample_id": "SAMPLE_3185"
             }
         ]
     },
     {
         "program_id": "SYNTH_03",
-        "genomic_file_id": "NA02102",
+        "analysis_id": "NA02102",
         "main": {
             "access_method": "file:////app/htsget_server/data/files/NA02102.bam",
             "name": "NA02102.bam"
@@ -178,14 +178,14 @@
         },
         "samples": [
             {
-                "genomic_file_sample_id": "NA02102",
+                "analysis_sample_id": "NA02102",
 				"submitter_sample_id": "SAMPLE_3186"
 			}
         ]
     },
     {
         "program_id": "SYNTH_03",
-        "genomic_file_id": "NA02102",
+        "analysis_id": "NA02102",
         "main": {
             "access_method": "file:////app/htsget_server/data/files/NA02102.chr1.cram",
             "name": "NA02102.chr1.cram"
@@ -201,14 +201,14 @@
         },
         "samples": [
             {
-                "genomic_file_sample_id": "NA02102",
+                "analysis_sample_id": "NA02102",
                 "submitter_sample_id": "SAMPLE_REGISTRATION_2187"
             }
         ]
     },
     {
         "program_id": "SYNTH_04",
-        "genomic_file_id": "HG02102",
+        "analysis_id": "HG02102",
         "main": {
             "access_method": "file:////app/htsget_server/data/files/HG02102.vcf.gz",
             "name": "HG02102.vcf.gz"
@@ -224,14 +224,14 @@
         },
         "samples": [
             {
-                "genomic_file_sample_id": "HG02102",
+                "analysis_sample_id": "HG02102",
                 "submitter_sample_id": "SAMPLE_REGISTRATION_3045"
             }
         ]
     },
     {
         "program_id": "SYNTH_04",
-        "genomic_file_id": "NA02102",
+        "analysis_id": "NA02102",
         "main": {
             "access_method": "file:////app/htsget_server/data/files/NA02102.bam",
             "name": "NA02102.bam"
@@ -247,14 +247,14 @@
         },
         "samples": [
             {
-                "genomic_file_sample_id": "NA02102",
+                "analysis_sample_id": "NA02102",
 				"submitter_sample_id": "SAMPLE_REGISTRATION_3046"
 			}
         ]
     },
     {
         "program_id": "SYNTH_04",
-        "genomic_file_id": "NA02102",
+        "analysis_id": "NA02102",
         "main": {
             "access_method": "file:////app/htsget_server/data/files/NA02102.chr1.cram",
             "name": "NA02102.chr1.cram"
@@ -270,14 +270,14 @@
         },
         "samples": [
             {
-                "genomic_file_sample_id": "NA02102",
+                "analysis_sample_id": "NA02102",
                 "submitter_sample_id": "SAMPLE_REGISTRATION_3047"
             }
         ]
     },
     {
         "program_id": "SYNTH_04",
-        "genomic_file_id": "HG02102",
+        "analysis_id": "HG02102",
         "main": {
             "access_method": "file:////app/htsget_server/data/files/HG02102.vcf.gz",
             "name": "HG02102.vcf.gz"
@@ -293,14 +293,14 @@
         },
         "samples": [
             {
-                "genomic_file_sample_id": "HG02102",
+                "analysis_sample_id": "HG02102",
                 "submitter_sample_id": "SAMPLE_REGISTRATION_4300"
             }
         ]
     },
     {
         "program_id": "SYNTH_04",
-        "genomic_file_id": "NA02102",
+        "analysis_id": "NA02102",
         "main": {
             "access_method": "file:////app/htsget_server/data/files/NA02102.bam",
             "name": "NA02102.bam"
@@ -316,14 +316,14 @@
         },
         "samples": [
             {
-                "genomic_file_sample_id": "NA02102",
+                "analysis_sample_id": "NA02102",
 				"submitter_sample_id": "SAMPLE_REGISTRATION_4301"
 			}
         ]
     },
     {
         "program_id": "SYNTH_04",
-        "genomic_file_id": "NA02102",
+        "analysis_id": "NA02102",
         "main": {
             "access_method": "file:////app/htsget_server/data/files/NA02102.chr1.cram",
             "name": "NA02102.chr1.cram"
@@ -339,14 +339,14 @@
         },
         "samples": [
             {
-                "genomic_file_sample_id": "NA02102",
+                "analysis_sample_id": "NA02102",
                 "submitter_sample_id": "SAMPLE_REGISTRATION_4302"
             }
         ]
     },
     {
         "program_id": "SYNTH_01",
-        "genomic_file_id": "HG02102",
+        "analysis_id": "HG02102",
         "main": {
             "access_method": "file:////app/htsget_server/data/files/HG02102.vcf.gz",
             "name": "HG02102.vcf.gz"
@@ -362,14 +362,14 @@
         },
         "samples": [
             {
-                "genomic_file_sample_id": "HG02102",
+                "analysis_sample_id": "HG02102",
                 "submitter_sample_id": "SAMPLE_REGISTRATION_5061"
             }
         ]
     },
     {
         "program_id": "SYNTH_01",
-        "genomic_file_id": "NA02102",
+        "analysis_id": "NA02102",
         "main": {
             "access_method": "file:////app/htsget_server/data/files/NA02102.bam",
             "name": "NA02102.bam"
@@ -385,14 +385,14 @@
         },
         "samples": [
             {
-                "genomic_file_sample_id": "NA02102",
+                "analysis_sample_id": "NA02102",
 				"submitter_sample_id": "SAMPLE_REGISTRATION_5062"
 			}
         ]
     },
     {
         "program_id": "SYNTH_01",
-        "genomic_file_id": "NA02102",
+        "analysis_id": "NA02102",
         "main": {
             "access_method": "file:////app/htsget_server/data/files/NA02102.chr1.cram",
             "name": "NA02102.chr1.cram"
@@ -408,14 +408,14 @@
         },
         "samples": [
             {
-                "genomic_file_sample_id": "NA02102",
+                "analysis_sample_id": "NA02102",
                 "submitter_sample_id": "SAMPLE_REGISTRATION_5063"
             }
         ]
     },
     {
         "program_id": "SYNTH_02",
-        "genomic_file_id": "HG02102",
+        "analysis_id": "HG02102",
         "main": {
             "access_method": "file:////app/htsget_server/data/files/HG02102.vcf.gz",
             "name": "HG02102.vcf.gz"
@@ -431,14 +431,14 @@
         },
         "samples": [
             {
-                "genomic_file_sample_id": "HG02102",
+                "analysis_sample_id": "HG02102",
                 "submitter_sample_id": "SAMPLE_REGISTRATION_6192"
             }
         ]
     },
     {
         "program_id": "SYNTH_02",
-        "genomic_file_id": "NA02102",
+        "analysis_id": "NA02102",
         "main": {
             "access_method": "file:////app/htsget_server/data/files/NA02102.bam",
             "name": "NA02102.bam"
@@ -454,14 +454,14 @@
         },
         "samples": [
             {
-                "genomic_file_sample_id": "NA02102",
+                "analysis_sample_id": "NA02102",
 				"submitter_sample_id": "SAMPLE_REGISTRATION_6193"
 			}
         ]
     },
     {
         "program_id": "SYNTH_02",
-        "genomic_file_id": "NA02102",
+        "analysis_id": "NA02102",
         "main": {
             "access_method": "file:////app/htsget_server/data/files/NA02102.chr1.cram",
             "name": "NA02102.chr1.cram"
@@ -477,14 +477,14 @@
         },
         "samples": [
             {
-                "genomic_file_sample_id": "NA02102",
+                "analysis_sample_id": "NA02102",
                 "submitter_sample_id": "SAMPLE_REGISTRATION_6194"
             }
         ]
     },
     {
         "program_id": "SYNTH_03",
-        "genomic_file_id": "HG02102",
+        "analysis_id": "HG02102",
         "main": {
             "access_method": "file:////app/htsget_server/data/files/HG02102.vcf.gz",
             "name": "HG02102.vcf.gz"
@@ -500,14 +500,14 @@
         },
         "samples": [
             {
-                "genomic_file_sample_id": "HG02102",
+                "analysis_sample_id": "HG02102",
                 "submitter_sample_id": "SAMPLE_REGISTRATION_7090"
             }
         ]
     },
     {
         "program_id": "SYNTH_03",
-        "genomic_file_id": "NA02102",
+        "analysis_id": "NA02102",
         "main": {
             "access_method": "file:////app/htsget_server/data/files/NA02102.bam",
             "name": "NA02102.bam"
@@ -523,14 +523,14 @@
         },
         "samples": [
             {
-                "genomic_file_sample_id": "NA02102",
+                "analysis_sample_id": "NA02102",
 				"submitter_sample_id": "SAMPLE_REGISTRATION_7091"
 			}
         ]
     },
     {
         "program_id": "SYNTH_03",
-        "genomic_file_id": "NA02102",
+        "analysis_id": "NA02102",
         "main": {
             "access_method": "file:////app/htsget_server/data/files/NA02102.chr1.cram",
             "name": "NA02102.chr1.cram"
@@ -546,14 +546,14 @@
         },
         "samples": [
             {
-                "genomic_file_sample_id": "NA02102",
+                "analysis_sample_id": "NA02102",
                 "submitter_sample_id": "SAMPLE_REGISTRATION_7092"
             }
         ]
     },
     {
         "program_id": "SYNTH_04",
-        "genomic_file_id": "HG02102",
+        "analysis_id": "HG02102",
         "main": {
             "access_method": "file:////app/htsget_server/data/files/HG02102.vcf.gz",
             "name": "HG02102.vcf.gz"
@@ -569,14 +569,14 @@
         },
         "samples": [
             {
-                "genomic_file_sample_id": "HG02102",
+                "analysis_sample_id": "HG02102",
                 "submitter_sample_id": "SAMPLE_REGISTRATION_8125"
             }
         ]
     },
     {
         "program_id": "SYNTH_04",
-        "genomic_file_id": "NA02102",
+        "analysis_id": "NA02102",
         "main": {
             "access_method": "file:////app/htsget_server/data/files/NA02102.bam",
             "name": "NA02102.bam"
@@ -592,14 +592,14 @@
         },
         "samples": [
             {
-                "genomic_file_sample_id": "NA02102",
+                "analysis_sample_id": "NA02102",
 				"submitter_sample_id": "SAMPLE_REGISTRATION_8126"
 			}
         ]
     },
     {
         "program_id": "SYNTH_04",
-        "genomic_file_id": "NA02102",
+        "analysis_id": "NA02102",
         "main": {
             "access_method": "file:////app/htsget_server/data/files/NA02102.chr1.cram",
             "name": "NA02102.chr1.cram"
@@ -615,14 +615,14 @@
         },
         "samples": [
             {
-                "genomic_file_sample_id": "NA02102",
+                "analysis_sample_id": "NA02102",
                 "submitter_sample_id": "SAMPLE_REGISTRATION_8127"
             }
         ]
     },
     {
         "program_id": "SYNTH_010",
-        "genomic_file_id": "HG02102",
+        "analysis_id": "HG02102",
         "main": {
             "access_method": "file:////app/htsget_server/data/files/HG02102.vcf.gz",
             "name": "HG02102.vcf.gz"
@@ -638,14 +638,14 @@
         },
         "samples": [
             {
-                "genomic_file_sample_id": "HG02102",
+                "analysis_sample_id": "HG02102",
                 "submitter_sample_id": "SAMPLE_REGISTRATION_9240"
             }
         ]
     },
     {
         "program_id": "SYNTH_010",
-        "genomic_file_id": "NA02102",
+        "analysis_id": "NA02102",
         "main": {
             "access_method": "file:////app/htsget_server/data/files/NA02102.bam",
             "name": "NA02102.bam"
@@ -661,14 +661,14 @@
         },
         "samples": [
             {
-                "genomic_file_sample_id": "NA02102",
+                "analysis_sample_id": "NA02102",
 				"submitter_sample_id": "SAMPLE_REGISTRATION_9241"
 			}
         ]
     },
     {
         "program_id": "SYNTH_010",
-        "genomic_file_id": "NA02102",
+        "analysis_id": "NA02102",
         "main": {
             "access_method": "file:////app/htsget_server/data/files/NA02102.chr1.cram",
             "name": "NA02102.chr1.cram"
@@ -684,7 +684,7 @@
         },
         "samples": [
             {
-                "genomic_file_sample_id": "NA02102",
+                "analysis_sample_id": "NA02102",
                 "submitter_sample_id": "SAMPLE_REGISTRATION_9242"
             }
         ]
