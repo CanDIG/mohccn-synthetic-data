@@ -96,11 +96,16 @@ def add_prefix_df(prefix: str, object_df: pd.DataFrame, file_name):
 
 
 def add_prefix_json(prefix: str, object_json: list):
-    for file_set in object_json:
+    for file_set in object_json["experiments"]:
+        file_set['program_id'] = f"{prefix}-{file_set['program_id']}"
+        file_set['experiment_id'] = f"{prefix}-{file_set['experiment_id']}"
+        file_set['submitter_sample_id'] = f"{prefix}-{file_set['submitter_sample_id']}"
+
+    for file_set in object_json["analyses"]:
         file_set['program_id'] = f"{prefix}-{file_set['program_id']}"
         file_set['analysis_id'] = f"{prefix}-{file_set['analysis_id']}"
         for sample in file_set['samples']:
-            sample['submitter_sample_id'] = f"{prefix}-{sample['submitter_sample_id']}"
+            sample['experiment_id'] = f"{prefix}-{sample['experiment_id']}"
     return object_json
 
 

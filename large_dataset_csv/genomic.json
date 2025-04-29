@@ -1,692 +1,246 @@
-[
-    {
-        "program_id": "SYNTH_01",
-        "analysis_id": "HG02102",
-        "main": {
-            "access_method": "file:////app/htsget_server/data/files/HG02102.vcf.gz",
-            "name": "HG02102.vcf.gz"
-        },
-        "index": {
-            "access_method": "file:////app/htsget_server/data/files/HG02102.vcf.gz.tbi",
-            "name": "HG02102.vcf.gz.tbi"
-        },
-        "metadata": {
-            "sequence_type": "wgs",
-            "data_type": "variant",
-            "reference": "hg38"
-        },
-        "samples": [
-            {
-                "analysis_sample_id": "HG02102",
-                "submitter_sample_id": "SAMPLE_0001"
+{
+    "experiments": [
+        {
+            "program_id": "SYNTH_01",
+            "experiment_id": "SEQ_0001",
+            "submitter_sample_id": "SAMPLE_0001",
+            "metadata": {
+                "library_strategy": "WGS"
             }
-        ]
-    },
-    {
-        "program_id": "SYNTH_01",
-        "analysis_id": "NA02102",
-        "main": {
-            "access_method": "file:////app/htsget_server/data/files/NA02102.bam",
-            "name": "NA02102.bam"
         },
-        "index": {
-            "access_method": "file:////app/htsget_server/data/files/NA02102.bam.bai",
-            "name": "NA02102.bam.bai"
-        },
-        "metadata": {
-            "sequence_type": "wgs",
-            "data_type": "read",
-            "reference": "hg38"
-        },
-        "samples": [
-            {
-                "analysis_sample_id": "NA02102",
-                "submitter_sample_id": "SAMPLE_0002"
+        {
+            "program_id": "SYNTH_01",
+            "experiment_id": "SEQ_0002",
+            "submitter_sample_id": "SAMPLE_0002",
+            "metadata": {
+                "library_strategy": "WGS"
             }
-        ]
-    },
-    {
-        "program_id": "SYNTH_01",
-        "analysis_id": "NA02102",
-        "main": {
-            "access_method": "file:////app/htsget_server/data/files/NA02102.chr1.cram",
-            "name": "NA02102.chr1.cram"
         },
-        "index": {
-            "access_method": "file:////app/htsget_server/data/files/NA02102.chr1.cram.crai",
-            "name": "NA02102.chr1.cram.crai"
-        },
-        "metadata": {
-            "sequence_type": "wgs",
-            "data_type": "read",
-            "reference": "hg38"
-        },
-        "samples": [
-            {
-                "analysis_sample_id": "NA02102",
-                "submitter_sample_id": "SAMPLE_0003"
+        {
+            "program_id": "SYNTH_01",
+            "experiment_id": "SEQ_0003",
+            "submitter_sample_id": "SAMPLE_0003",
+            "metadata": {
+                "library_strategy": "WGS"
             }
-        ]
-    },
-    {
-        "program_id": "SYNTH_02",
-        "analysis_id": "HG02102",
-        "main": {
-            "access_method": "file:////app/htsget_server/data/files/HG02102.vcf.gz",
-            "name": "HG02102.vcf.gz"
         },
-        "index": {
-            "access_method": "file:////app/htsget_server/data/files/HG02102.vcf.gz.tbi",
-            "name": "HG02102.vcf.gz.tbi"
-        },
-        "metadata": {
-            "sequence_type": "wgs",
-            "data_type": "variant",
-            "reference": "hg38"
-        },
-        "samples": [
-            {
-                "analysis_sample_id": "HG02102",
-                "submitter_sample_id": "SAMPLE_1504"
+        {
+            "program_id": "SYNTH_02",
+            "experiment_id": "SEQ_1504",
+            "submitter_sample_id": "SAMPLE_1504",
+            "metadata": {
+                "library_strategy": "WGS"
             }
-        ]
-    },
-    {
-        "program_id": "SYNTH_02",
-        "analysis_id": "NA02102",
-        "main": {
-            "access_method": "file:////app/htsget_server/data/files/NA02102.bam",
-            "name": "NA02102.bam"
         },
-        "index": {
-            "access_method": "file:////app/htsget_server/data/files/NA02102.bam.bai",
-            "name": "NA02102.bam.bai"
-        },
-        "metadata": {
-            "sequence_type": "wgs",
-            "data_type": "read",
-            "reference": "hg38"
-        },
-        "samples": [
-            {
-                "analysis_sample_id": "NA02102",
-				"submitter_sample_id": "SAMPLE_1505"
-			}
-        ]
-    },
-    {
-        "program_id": "SYNTH_02",
-        "analysis_id": "NA02102",
-        "main": {
-            "access_method": "file:////app/htsget_server/data/files/NA02102.chr1.cram",
-            "name": "NA02102.chr1.cram"
-        },
-        "index": {
-            "access_method": "file:////app/htsget_server/data/files/NA02102.chr1.cram.crai",
-            "name": "NA02102.chr1.cram.crai"
-        },
-        "metadata": {
-            "sequence_type": "wgs",
-            "data_type": "read",
-            "reference": "hg38"
-        },
-        "samples": [
-            {
-                "analysis_sample_id": "NA02102",
-                "submitter_sample_id": "SAMPLE_1506"
+        {
+            "program_id": "SYNTH_02",
+            "experiment_id": "SEQ_1505",
+            "submitter_sample_id": "SAMPLE_1505",
+            "metadata": {
+                "library_strategy": "WGS"
             }
-        ]
-    },
-    {
-        "program_id": "SYNTH_03",
-        "analysis_id": "HG02102",
-        "main": {
-            "access_method": "file:////app/htsget_server/data/files/HG02102.vcf.gz",
-            "name": "HG02102.vcf.gz"
         },
-        "index": {
-            "access_method": "file:////app/htsget_server/data/files/HG02102.vcf.gz.tbi",
-            "name": "HG02102.vcf.gz.tbi"
-        },
-        "metadata": {
-            "sequence_type": "wgs",
-            "data_type": "variant",
-            "reference": "hg38"
-        },
-        "samples": [
-            {
-                "analysis_sample_id": "HG02102",
-                "submitter_sample_id": "SAMPLE_3185"
+        {
+            "program_id": "SYNTH_02",
+            "experiment_id": "SEQ_1506",
+            "submitter_sample_id": "SAMPLE_1506",
+            "metadata": {
+                "library_strategy": "WGS"
             }
-        ]
-    },
-    {
-        "program_id": "SYNTH_03",
-        "analysis_id": "NA02102",
-        "main": {
-            "access_method": "file:////app/htsget_server/data/files/NA02102.bam",
-            "name": "NA02102.bam"
         },
-        "index": {
-            "access_method": "file:////app/htsget_server/data/files/NA02102.bam.bai",
-            "name": "NA02102.bam.bai"
-        },
-        "metadata": {
-            "sequence_type": "wgs",
-            "data_type": "read",
-            "reference": "hg38"
-        },
-        "samples": [
-            {
-                "analysis_sample_id": "NA02102",
-				"submitter_sample_id": "SAMPLE_3186"
-			}
-        ]
-    },
-    {
-        "program_id": "SYNTH_03",
-        "analysis_id": "NA02102",
-        "main": {
-            "access_method": "file:////app/htsget_server/data/files/NA02102.chr1.cram",
-            "name": "NA02102.chr1.cram"
-        },
-        "index": {
-            "access_method": "file:////app/htsget_server/data/files/NA02102.chr1.cram.crai",
-            "name": "NA02102.chr1.cram.crai"
-        },
-        "metadata": {
-            "sequence_type": "wgs",
-            "data_type": "read",
-            "reference": "hg38"
-        },
-        "samples": [
-            {
-                "analysis_sample_id": "NA02102",
-                "submitter_sample_id": "SAMPLE_REGISTRATION_2187"
+        {
+            "program_id": "SYNTH_03",
+            "experiment_id": "SEQ_3185",
+            "submitter_sample_id": "SAMPLE_3185",
+            "metadata": {
+                "library_strategy": "WGS"
             }
-        ]
-    },
-    {
-        "program_id": "SYNTH_04",
-        "analysis_id": "HG02102",
-        "main": {
-            "access_method": "file:////app/htsget_server/data/files/HG02102.vcf.gz",
-            "name": "HG02102.vcf.gz"
         },
-        "index": {
-            "access_method": "file:////app/htsget_server/data/files/HG02102.vcf.gz.tbi",
-            "name": "HG02102.vcf.gz.tbi"
-        },
-        "metadata": {
-            "sequence_type": "wgs",
-            "data_type": "variant",
-            "reference": "hg38"
-        },
-        "samples": [
-            {
-                "analysis_sample_id": "HG02102",
-                "submitter_sample_id": "SAMPLE_REGISTRATION_3045"
+        {
+            "program_id": "SYNTH_03",
+            "experiment_id": "SEQ_3186",
+            "submitter_sample_id": "SAMPLE_3186",
+            "metadata": {
+                "library_strategy": "WGS"
             }
-        ]
-    },
-    {
-        "program_id": "SYNTH_04",
-        "analysis_id": "NA02102",
-        "main": {
-            "access_method": "file:////app/htsget_server/data/files/NA02102.bam",
-            "name": "NA02102.bam"
+        }
+    ],
+    "analyses": [
+        {
+            "program_id": "SYNTH_01",
+            "analysis_id": "HG02102",
+            "main": {
+                "access_method": "file:////app/htsget_server/data/files/HG02102.vcf.gz",
+                "name": "HG02102.vcf.gz"
+            },
+            "index": {
+                "access_method": "file:////app/htsget_server/data/files/HG02102.vcf.gz.tbi",
+                "name": "HG02102.vcf.gz.tbi"
+            },
+            "metadata": {
+                "analysis_type": "sequence_variation",
+                "reference": "hg38"
+            },
+            "samples": [
+                {
+                    "analysis_sample_id": "HG02102",
+                    "experiment_id": "SEQ_0001"
+                }
+            ]
         },
-        "index": {
-            "access_method": "file:////app/htsget_server/data/files/NA02102.bam.bai",
-            "name": "NA02102.bam.bai"
+        {
+            "program_id": "SYNTH_01",
+            "analysis_id": "NA02102",
+            "main": {
+                "access_method": "file:////app/htsget_server/data/files/NA02102.bam",
+                "name": "NA02102.bam"
+            },
+            "index": {
+                "access_method": "file:////app/htsget_server/data/files/NA02102.bam.bai",
+                "name": "NA02102.bam.bai"
+            },
+            "metadata": {
+                "analysis_type": "reference_alignment",
+                "reference": "hg38"
+            },
+            "samples": [
+                {
+                    "analysis_sample_id": "NA02102",
+                    "experiment_id": "SEQ_0002"
+                }
+            ]
         },
-        "metadata": {
-            "sequence_type": "wgs",
-            "data_type": "read",
-            "reference": "hg38"
+        {
+            "program_id": "SYNTH_01",
+            "analysis_id": "NA02102",
+            "main": {
+                "access_method": "file:////app/htsget_server/data/files/NA02102.chr1.cram",
+                "name": "NA02102.chr1.cram"
+            },
+            "index": {
+                "access_method": "file:////app/htsget_server/data/files/NA02102.chr1.cram.crai",
+                "name": "NA02102.chr1.cram.crai"
+            },
+            "metadata": {
+                "analysis_type": "reference_alignment",
+                "reference": "hg38"
+            },
+            "samples": [
+                {
+                    "analysis_sample_id": "NA02102",
+                    "experiment_id": "SEQ_0003"
+                }
+            ]
         },
-        "samples": [
-            {
-                "analysis_sample_id": "NA02102",
-				"submitter_sample_id": "SAMPLE_REGISTRATION_3046"
-			}
-        ]
-    },
-    {
-        "program_id": "SYNTH_04",
-        "analysis_id": "NA02102",
-        "main": {
-            "access_method": "file:////app/htsget_server/data/files/NA02102.chr1.cram",
-            "name": "NA02102.chr1.cram"
+        {
+            "program_id": "SYNTH_02",
+            "analysis_id": "HG02102",
+            "main": {
+                "access_method": "file:////app/htsget_server/data/files/HG02102.vcf.gz",
+                "name": "HG02102.vcf.gz"
+            },
+            "index": {
+                "access_method": "file:////app/htsget_server/data/files/HG02102.vcf.gz.tbi",
+                "name": "HG02102.vcf.gz.tbi"
+            },
+            "metadata": {
+                "analysis_type": "sequence_variation",
+                "reference": "hg38"
+            },
+            "samples": [
+                {
+                    "analysis_sample_id": "HG02102",
+                    "experiment_id": "SEQ_1504"
+                }
+            ]
         },
-        "index": {
-            "access_method": "file:////app/htsget_server/data/files/NA02102.chr1.cram.crai",
-            "name": "NA02102.chr1.cram.crai"
+        {
+            "program_id": "SYNTH_02",
+            "analysis_id": "NA02102",
+            "main": {
+                "access_method": "file:////app/htsget_server/data/files/NA02102.bam",
+                "name": "NA02102.bam"
+            },
+            "index": {
+                "access_method": "file:////app/htsget_server/data/files/NA02102.bam.bai",
+                "name": "NA02102.bam.bai"
+            },
+            "metadata": {
+                "analysis_type": "reference_alignment",
+                "reference": "hg38"
+            },
+            "samples": [
+                {
+                    "analysis_sample_id": "NA02102",
+                    "experiment_id": "SEQ_1505"
+                }
+            ]
         },
-        "metadata": {
-            "sequence_type": "wgs",
-            "data_type": "read",
-            "reference": "hg38"
+        {
+            "program_id": "SYNTH_02",
+            "analysis_id": "NA02102",
+            "main": {
+                "access_method": "file:////app/htsget_server/data/files/NA02102.chr1.cram",
+                "name": "NA02102.chr1.cram"
+            },
+            "index": {
+                "access_method": "file:////app/htsget_server/data/files/NA02102.chr1.cram.crai",
+                "name": "NA02102.chr1.cram.crai"
+            },
+            "metadata": {
+                "analysis_type": "reference_alignment",
+                "reference": "hg38"
+            },
+            "samples": [
+                {
+                    "analysis_sample_id": "NA02102",
+                    "experiment_id": "SEQ_1506"
+                }
+            ]
         },
-        "samples": [
-            {
-                "analysis_sample_id": "NA02102",
-                "submitter_sample_id": "SAMPLE_REGISTRATION_3047"
-            }
-        ]
-    },
-    {
-        "program_id": "SYNTH_04",
-        "analysis_id": "HG02102",
-        "main": {
-            "access_method": "file:////app/htsget_server/data/files/HG02102.vcf.gz",
-            "name": "HG02102.vcf.gz"
+        {
+            "program_id": "SYNTH_03",
+            "analysis_id": "HG02102",
+            "main": {
+                "access_method": "file:////app/htsget_server/data/files/HG02102.vcf.gz",
+                "name": "HG02102.vcf.gz"
+            },
+            "index": {
+                "access_method": "file:////app/htsget_server/data/files/HG02102.vcf.gz.tbi",
+                "name": "HG02102.vcf.gz.tbi"
+            },
+            "metadata": {
+                "analysis_type": "sequence_variation",
+                "reference": "hg38"
+            },
+            "samples": [
+                {
+                    "analysis_sample_id": "HG02102",
+                    "experiment_id": "SEQ_3185"
+                }
+            ]
         },
-        "index": {
-            "access_method": "file:////app/htsget_server/data/files/HG02102.vcf.gz.tbi",
-            "name": "HG02102.vcf.gz.tbi"
-        },
-        "metadata": {
-            "sequence_type": "wgs",
-            "data_type": "variant",
-            "reference": "hg38"
-        },
-        "samples": [
-            {
-                "analysis_sample_id": "HG02102",
-                "submitter_sample_id": "SAMPLE_REGISTRATION_4300"
-            }
-        ]
-    },
-    {
-        "program_id": "SYNTH_04",
-        "analysis_id": "NA02102",
-        "main": {
-            "access_method": "file:////app/htsget_server/data/files/NA02102.bam",
-            "name": "NA02102.bam"
-        },
-        "index": {
-            "access_method": "file:////app/htsget_server/data/files/NA02102.bam.bai",
-            "name": "NA02102.bam.bai"
-        },
-        "metadata": {
-            "sequence_type": "wgs",
-            "data_type": "read",
-            "reference": "hg38"
-        },
-        "samples": [
-            {
-                "analysis_sample_id": "NA02102",
-				"submitter_sample_id": "SAMPLE_REGISTRATION_4301"
-			}
-        ]
-    },
-    {
-        "program_id": "SYNTH_04",
-        "analysis_id": "NA02102",
-        "main": {
-            "access_method": "file:////app/htsget_server/data/files/NA02102.chr1.cram",
-            "name": "NA02102.chr1.cram"
-        },
-        "index": {
-            "access_method": "file:////app/htsget_server/data/files/NA02102.chr1.cram.crai",
-            "name": "NA02102.chr1.cram.crai"
-        },
-        "metadata": {
-            "sequence_type": "wgs",
-            "data_type": "read",
-            "reference": "hg38"
-        },
-        "samples": [
-            {
-                "analysis_sample_id": "NA02102",
-                "submitter_sample_id": "SAMPLE_REGISTRATION_4302"
-            }
-        ]
-    },
-    {
-        "program_id": "SYNTH_01",
-        "analysis_id": "HG02102",
-        "main": {
-            "access_method": "file:////app/htsget_server/data/files/HG02102.vcf.gz",
-            "name": "HG02102.vcf.gz"
-        },
-        "index": {
-            "access_method": "file:////app/htsget_server/data/files/HG02102.vcf.gz.tbi",
-            "name": "HG02102.vcf.gz.tbi"
-        },
-        "metadata": {
-            "sequence_type": "wgs",
-            "data_type": "variant",
-            "reference": "hg38"
-        },
-        "samples": [
-            {
-                "analysis_sample_id": "HG02102",
-                "submitter_sample_id": "SAMPLE_REGISTRATION_5061"
-            }
-        ]
-    },
-    {
-        "program_id": "SYNTH_01",
-        "analysis_id": "NA02102",
-        "main": {
-            "access_method": "file:////app/htsget_server/data/files/NA02102.bam",
-            "name": "NA02102.bam"
-        },
-        "index": {
-            "access_method": "file:////app/htsget_server/data/files/NA02102.bam.bai",
-            "name": "NA02102.bam.bai"
-        },
-        "metadata": {
-            "sequence_type": "wgs",
-            "data_type": "read",
-            "reference": "hg38"
-        },
-        "samples": [
-            {
-                "analysis_sample_id": "NA02102",
-				"submitter_sample_id": "SAMPLE_REGISTRATION_5062"
-			}
-        ]
-    },
-    {
-        "program_id": "SYNTH_01",
-        "analysis_id": "NA02102",
-        "main": {
-            "access_method": "file:////app/htsget_server/data/files/NA02102.chr1.cram",
-            "name": "NA02102.chr1.cram"
-        },
-        "index": {
-            "access_method": "file:////app/htsget_server/data/files/NA02102.chr1.cram.crai",
-            "name": "NA02102.chr1.cram.crai"
-        },
-        "metadata": {
-            "sequence_type": "wgs",
-            "data_type": "read",
-            "reference": "hg38"
-        },
-        "samples": [
-            {
-                "analysis_sample_id": "NA02102",
-                "submitter_sample_id": "SAMPLE_REGISTRATION_5063"
-            }
-        ]
-    },
-    {
-        "program_id": "SYNTH_02",
-        "analysis_id": "HG02102",
-        "main": {
-            "access_method": "file:////app/htsget_server/data/files/HG02102.vcf.gz",
-            "name": "HG02102.vcf.gz"
-        },
-        "index": {
-            "access_method": "file:////app/htsget_server/data/files/HG02102.vcf.gz.tbi",
-            "name": "HG02102.vcf.gz.tbi"
-        },
-        "metadata": {
-            "sequence_type": "wgs",
-            "data_type": "variant",
-            "reference": "hg38"
-        },
-        "samples": [
-            {
-                "analysis_sample_id": "HG02102",
-                "submitter_sample_id": "SAMPLE_REGISTRATION_6192"
-            }
-        ]
-    },
-    {
-        "program_id": "SYNTH_02",
-        "analysis_id": "NA02102",
-        "main": {
-            "access_method": "file:////app/htsget_server/data/files/NA02102.bam",
-            "name": "NA02102.bam"
-        },
-        "index": {
-            "access_method": "file:////app/htsget_server/data/files/NA02102.bam.bai",
-            "name": "NA02102.bam.bai"
-        },
-        "metadata": {
-            "sequence_type": "wgs",
-            "data_type": "read",
-            "reference": "hg38"
-        },
-        "samples": [
-            {
-                "analysis_sample_id": "NA02102",
-				"submitter_sample_id": "SAMPLE_REGISTRATION_6193"
-			}
-        ]
-    },
-    {
-        "program_id": "SYNTH_02",
-        "analysis_id": "NA02102",
-        "main": {
-            "access_method": "file:////app/htsget_server/data/files/NA02102.chr1.cram",
-            "name": "NA02102.chr1.cram"
-        },
-        "index": {
-            "access_method": "file:////app/htsget_server/data/files/NA02102.chr1.cram.crai",
-            "name": "NA02102.chr1.cram.crai"
-        },
-        "metadata": {
-            "sequence_type": "wgs",
-            "data_type": "read",
-            "reference": "hg38"
-        },
-        "samples": [
-            {
-                "analysis_sample_id": "NA02102",
-                "submitter_sample_id": "SAMPLE_REGISTRATION_6194"
-            }
-        ]
-    },
-    {
-        "program_id": "SYNTH_03",
-        "analysis_id": "HG02102",
-        "main": {
-            "access_method": "file:////app/htsget_server/data/files/HG02102.vcf.gz",
-            "name": "HG02102.vcf.gz"
-        },
-        "index": {
-            "access_method": "file:////app/htsget_server/data/files/HG02102.vcf.gz.tbi",
-            "name": "HG02102.vcf.gz.tbi"
-        },
-        "metadata": {
-            "sequence_type": "wgs",
-            "data_type": "variant",
-            "reference": "hg38"
-        },
-        "samples": [
-            {
-                "analysis_sample_id": "HG02102",
-                "submitter_sample_id": "SAMPLE_REGISTRATION_7090"
-            }
-        ]
-    },
-    {
-        "program_id": "SYNTH_03",
-        "analysis_id": "NA02102",
-        "main": {
-            "access_method": "file:////app/htsget_server/data/files/NA02102.bam",
-            "name": "NA02102.bam"
-        },
-        "index": {
-            "access_method": "file:////app/htsget_server/data/files/NA02102.bam.bai",
-            "name": "NA02102.bam.bai"
-        },
-        "metadata": {
-            "sequence_type": "wgs",
-            "data_type": "read",
-            "reference": "hg38"
-        },
-        "samples": [
-            {
-                "analysis_sample_id": "NA02102",
-				"submitter_sample_id": "SAMPLE_REGISTRATION_7091"
-			}
-        ]
-    },
-    {
-        "program_id": "SYNTH_03",
-        "analysis_id": "NA02102",
-        "main": {
-            "access_method": "file:////app/htsget_server/data/files/NA02102.chr1.cram",
-            "name": "NA02102.chr1.cram"
-        },
-        "index": {
-            "access_method": "file:////app/htsget_server/data/files/NA02102.chr1.cram.crai",
-            "name": "NA02102.chr1.cram.crai"
-        },
-        "metadata": {
-            "sequence_type": "wgs",
-            "data_type": "read",
-            "reference": "hg38"
-        },
-        "samples": [
-            {
-                "analysis_sample_id": "NA02102",
-                "submitter_sample_id": "SAMPLE_REGISTRATION_7092"
-            }
-        ]
-    },
-    {
-        "program_id": "SYNTH_04",
-        "analysis_id": "HG02102",
-        "main": {
-            "access_method": "file:////app/htsget_server/data/files/HG02102.vcf.gz",
-            "name": "HG02102.vcf.gz"
-        },
-        "index": {
-            "access_method": "file:////app/htsget_server/data/files/HG02102.vcf.gz.tbi",
-            "name": "HG02102.vcf.gz.tbi"
-        },
-        "metadata": {
-            "sequence_type": "wgs",
-            "data_type": "variant",
-            "reference": "hg38"
-        },
-        "samples": [
-            {
-                "analysis_sample_id": "HG02102",
-                "submitter_sample_id": "SAMPLE_REGISTRATION_8125"
-            }
-        ]
-    },
-    {
-        "program_id": "SYNTH_04",
-        "analysis_id": "NA02102",
-        "main": {
-            "access_method": "file:////app/htsget_server/data/files/NA02102.bam",
-            "name": "NA02102.bam"
-        },
-        "index": {
-            "access_method": "file:////app/htsget_server/data/files/NA02102.bam.bai",
-            "name": "NA02102.bam.bai"
-        },
-        "metadata": {
-            "sequence_type": "wgs",
-            "data_type": "read",
-            "reference": "hg38"
-        },
-        "samples": [
-            {
-                "analysis_sample_id": "NA02102",
-				"submitter_sample_id": "SAMPLE_REGISTRATION_8126"
-			}
-        ]
-    },
-    {
-        "program_id": "SYNTH_04",
-        "analysis_id": "NA02102",
-        "main": {
-            "access_method": "file:////app/htsget_server/data/files/NA02102.chr1.cram",
-            "name": "NA02102.chr1.cram"
-        },
-        "index": {
-            "access_method": "file:////app/htsget_server/data/files/NA02102.chr1.cram.crai",
-            "name": "NA02102.chr1.cram.crai"
-        },
-        "metadata": {
-            "sequence_type": "wgs",
-            "data_type": "read",
-            "reference": "hg38"
-        },
-        "samples": [
-            {
-                "analysis_sample_id": "NA02102",
-                "submitter_sample_id": "SAMPLE_REGISTRATION_8127"
-            }
-        ]
-    },
-    {
-        "program_id": "SYNTH_010",
-        "analysis_id": "HG02102",
-        "main": {
-            "access_method": "file:////app/htsget_server/data/files/HG02102.vcf.gz",
-            "name": "HG02102.vcf.gz"
-        },
-        "index": {
-            "access_method": "file:////app/htsget_server/data/files/HG02102.vcf.gz.tbi",
-            "name": "HG02102.vcf.gz.tbi"
-        },
-        "metadata": {
-            "sequence_type": "wgs",
-            "data_type": "variant",
-            "reference": "hg38"
-        },
-        "samples": [
-            {
-                "analysis_sample_id": "HG02102",
-                "submitter_sample_id": "SAMPLE_REGISTRATION_9240"
-            }
-        ]
-    },
-    {
-        "program_id": "SYNTH_010",
-        "analysis_id": "NA02102",
-        "main": {
-            "access_method": "file:////app/htsget_server/data/files/NA02102.bam",
-            "name": "NA02102.bam"
-        },
-        "index": {
-            "access_method": "file:////app/htsget_server/data/files/NA02102.bam.bai",
-            "name": "NA02102.bam.bai"
-        },
-        "metadata": {
-            "sequence_type": "wgs",
-            "data_type": "read",
-            "reference": "hg38"
-        },
-        "samples": [
-            {
-                "analysis_sample_id": "NA02102",
-				"submitter_sample_id": "SAMPLE_REGISTRATION_9241"
-			}
-        ]
-    },
-    {
-        "program_id": "SYNTH_010",
-        "analysis_id": "NA02102",
-        "main": {
-            "access_method": "file:////app/htsget_server/data/files/NA02102.chr1.cram",
-            "name": "NA02102.chr1.cram"
-        },
-        "index": {
-            "access_method": "file:////app/htsget_server/data/files/NA02102.chr1.cram.crai",
-            "name": "NA02102.chr1.cram.crai"
-        },
-        "metadata": {
-            "sequence_type": "wgs",
-            "data_type": "read",
-            "reference": "hg38"
-        },
-        "samples": [
-            {
-                "analysis_sample_id": "NA02102",
-                "submitter_sample_id": "SAMPLE_REGISTRATION_9242"
-            }
-        ]
-    }
-]
+        {
+            "program_id": "SYNTH_03",
+            "analysis_id": "NA02102",
+            "main": {
+                "access_method": "file:////app/htsget_server/data/files/NA02102.bam",
+                "name": "NA02102.bam"
+            },
+            "index": {
+                "access_method": "file:////app/htsget_server/data/files/NA02102.bam.bai",
+                "name": "NA02102.bam.bai"
+            },
+            "metadata": {
+                "analysis_type": "reference_alignment",
+                "reference": "hg38"
+            },
+            "samples": [
+                {
+                    "analysis_sample_id": "NA02102",
+                    "experiment_id": "SEQ_3186"
+                }
+            ]
+        }
+    ]
+}
