@@ -110,11 +110,11 @@
             "program_id": "SYNTH_01",
             "analysis_id": "test",
             "main": {
-                "access_method": "file:////app/htsget_server/data/files/test.vcf.gz",
+                "access_method": "file:////data/test.vcf.gz",
                 "name": "test.vcf.gz"
             },
             "index": {
-                "access_method": "file:////app/htsget_server/data/files/test.vcf.gz.tbi",
+                "access_method": "file:////data/test.vcf.gz.tbi",
                 "name": "test.vcf.gz.tbi"
             },
             "metadata": {
@@ -136,11 +136,11 @@
             "program_id": "SYNTH_02",
             "analysis_id": "multisample_1",
             "main": {
-                "access_method": "file:////app/htsget_server/data/files/multisample_1.vcf.gz",
+                "access_method": "file:////data/multisample_1.vcf.gz",
                 "name": "multisample_1.vcf.gz"
             },
             "index": {
-                "access_method": "file:////app/htsget_server/data/files/multisample_1.vcf.gz.tbi",
+                "access_method": "file:////data/multisample_1.vcf.gz.tbi",
                 "name": "multisample_1.vcf.gz.tbi"
             },
             "metadata": {
@@ -162,11 +162,11 @@
             "program_id": "SYNTH_01",
             "analysis_id": "multisample_2",
             "main": {
-                "access_method": "file:////app/htsget_server/data/files/multisample_2.vcf.gz",
+                "access_method": "file:////data/multisample_2.vcf.gz",
                 "name": "multisample_2.vcf.gz"
             },
             "index": {
-                "access_method": "file:////app/htsget_server/data/files/multisample_2.vcf.gz.tbi",
+                "access_method": "file:////data/multisample_2.vcf.gz.tbi",
                 "name": "multisample_2.vcf.gz.tbi"
             },
             "metadata": {
@@ -188,11 +188,11 @@
             "program_id": "SYNTH_01",
             "analysis_id": "HG02102-all",
             "main": {
-                "access_method": "file:////app/htsget_server/data/files/HG02102.vcf.gz",
+                "access_method": "file:////data/HG02102.vcf.gz",
                 "name": "HG02102.vcf.gz"
             },
             "index": {
-                "access_method": "file:////app/htsget_server/data/files/HG02102.vcf.gz.tbi",
+                "access_method": "file:////data/HG02102.vcf.gz.tbi",
                 "name": "HG02102.vcf.gz.tbi"
             },
             "metadata": {
@@ -210,11 +210,11 @@
             "program_id": "SYNTH_01",
             "analysis_id": "NA02102-bam",
             "main": {
-                "access_method": "file:////app/htsget_server/data/files/NA02102.bam",
+                "access_method": "file:////data/NA02102.bam",
                 "name": "NA02102.bam"
             },
             "index": {
-                "access_method": "file:////app/htsget_server/data/files/NA02102.bam.bai",
+                "access_method": "file:////data/NA02102.bam.bai",
                 "name": "NA02102.bam.bai"
             },
             "metadata": {
@@ -232,11 +232,11 @@
             "program_id": "SYNTH_01",
             "analysis_id": "NA02102-cram",
             "main": {
-                "access_method": "file:////app/htsget_server/data/files/NA02102.chr1.cram",
+                "access_method": "file:////data/NA02102.chr1.cram",
                 "name": "NA02102.chr1.cram"
             },
             "index": {
-                "access_method": "file:////app/htsget_server/data/files/NA02102.chr1.cram.crai",
+                "access_method": "file:////data/NA02102.chr1.cram.crai",
                 "name": "NA02102.chr1.cram.crai"
             },
             "metadata": {
@@ -298,11 +298,11 @@
             "program_id": "SYNTH_02",
             "analysis_id": "NA18537-vcf",
             "main": {
-                "access_method": "file:////app/htsget_server/data/files/NA18537.vcf.gz",
+                "access_method": "file:////data/NA18537.vcf.gz",
                 "name": "NA18537.vcf.gz"
             },
             "index": {
-                "access_method": "file:////app/htsget_server/data/files/NA18537.vcf.gz.tbi",
+                "access_method": "file:////data/NA18537.vcf.gz.tbi",
                 "name": "NA18537.vcf.gz.tbi"
             },
             "metadata": {
@@ -320,7 +320,7 @@
             "program_id": "SYNTH_01",
             "analysis_id": "NA18537-counts",
             "main": {
-                "access_method": "file:////app/htsget_server/data/files/counts.tsv",
+                "access_method": "file:////data/counts.tsv",
                 "name": "counts.tsv"
             },
             "metadata": {
