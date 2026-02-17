@@ -65,14 +65,6 @@
             }
         },
         {
-            "program_id": "SYNTH_01",
-            "experiment_id": "SEQ_0004",
-            "submitter_sample_id": "SAMPLE_0004",
-            "metadata": {
-                "library_strategy": "WGS"
-            }
-        },
-        {
             "program_id": "SYNTH_02",
             "experiment_id": "SEQ_0072",
             "submitter_sample_id": "SAMPLE_0072",
