@@ -101,6 +101,11 @@ def add_prefix_json(prefix: str, object_json: list):
         file_set['experiment_id'] = f"{prefix}-{file_set['experiment_id']}"
         file_set['submitter_sample_id'] = f"{prefix}-{file_set['submitter_sample_id']}"
 
+    for file_set in object_json["runs"]:
+        file_set['program_id'] = f"{prefix}-{file_set['program_id']}"
+        file_set['experiment_id'] = f"{prefix}-{file_set['experiment_id']}"
+        file_set['run_id'] = f"{prefix}-{file_set['run_id']}"
+
     for file_set in object_json["analyses"]:
         file_set['program_id'] = f"{prefix}-{file_set['program_id']}"
         file_set['analysis_id'] = f"{prefix}-{file_set['analysis_id']}"
