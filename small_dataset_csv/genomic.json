@@ -97,6 +97,27 @@
             }
         }
     ],
+    "runs": [
+        {
+            "program_id": "SYNTH_02",
+            "run_id": "RUN_0001",
+            "experiment_id": "SEQ_0090",
+            "files": [
+                {
+                    "access_method": "file:////data/RUN_0001-1.fastq",
+                    "name": "RUN_0001-1.fastq"
+                },
+                {
+                    "access_method": "file:////data/RUN_0001-2.fastq",
+                    "name": "RUN_0001-2.fastq"
+                }
+            ],
+            "metadata": {
+                "run_date": "2023-03-21",
+                "filetype": "fastq"
+            }
+        }
+    ],
     "analyses": [
         {
             "program_id": "SYNTH_01",
